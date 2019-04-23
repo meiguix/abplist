@@ -1,0 +1,107 @@
+[Adblock Plus 2.0]
+! Version: 88888888
+! Title: EasyListVIP
+! Last modified: 2019-05-18
+!
+!QQ
+##.mod.m-yao13
+##.mod.m-todayhot
+##.qq-channel3col.cf
+##[bossexpo="bg_sjjd"]
+##.article-status
+##.om-bar
+##.hotvideo-bar
+##[src="//inews.gtimg.com/newsapp_match/0/7855523335/0"]
+!
+###leftSide
+###videoModBJ
+sports.qq.com##.qq_plan
+sports.qq.com###recommend
+##.qq_tuijian
+###api_hotvideo
+###deReportsList
+!
+news.qq.com###essence
+news.qq.com###qq_gameRec
+news.qq.com##.qq_recommend
+fj.qq.com###test
+fj.qq.com###recommend
+###qr_tips
+gameapp.qq.com###J_slider_contanier
+!Sina
+##.part-e
+##.part-g
+##.part-ip-1
+sina.com.cn##[style="z-index:1"]
+##.part-j
+##.part-n
+##.part-o
+##.part-r
+##.part-s
+sina.com.cn##.city-union
+##.video-slider
+news.sina.com.cn###recommendB
+news.sina.com.cn##.img-story
+news.sina.com.cn###video-miaopai
+news.sina.com.cn###hot-blog
+news.sina.com.cn##.new-media-lab
+news.sina.com.cn##.report-infor
+news.sina.com.cn###last_ad_wrap + *
+news.sina.com.cn###tab_related
+sports.sina.com.cn###tab_related
+###j_wrap_55a07552_9f6c_12b3_4f25_921db3cc5584
+###j_wrap_894980cb_ad47_ac8b_4b9e_a4f65e6b70fb
+###j_wrap_a0ff4cae_adf2_578f_4c55_bbefe76ea2b3
+sina.com.cn##.footer-wrap
+ent.sina.com.cn##.blk01
+ent.sina.com.cn##.blk03
+ent.sina.com.cn##.blk08
+ent.sina.com.cn###tab01_btn02
+##.daoliu-iframe
+finance.sina.com.cn###wx-tg-cont
+##.article-bottom-tg
+###most_read
+##.seo_data_list + *
+##.seo_data_list + * + *
+finance.sina.com.cn##.high-ad + *
+finance.sina.com.cn###tab_related
+tech.sina.com.cn##.blk1
+tech.sina.com.cn##.blk4
+tech.sina.com.cn##.blk5
+tech.sina.com.cn##.blk6
+tech.sina.com.cn##.blk8
+tech.sina.com.cn##.blk9
+tech.sina.com.cn###tab_related
+!
+sina.com.cn##.love-list
+##.share-layout
+##.discuss-form + * + *
+!Mydrivers
+news.mydrivers.com##.link
+news.mydrivers.com###i_lastnext
+news.mydrivers.com##.news_xg
+!ali213
+###nav_zhengban
+###nav_shouyou
+###nav_yeyou
+###nav_yule
+ali213.net##.ali-flink
+ali213.net###tjyd
+ali213.net##.n_xgbbs + *
+ali213.net###rmpl
+ali213.net##.web_news_right
+##.web_news_right + *
+##.zt_center_con_body_left_gametj_con_img
+##.t5c_r_xyxh
+ali213.net###g1
+!JDT
+###J_event
+##.mui-mbarp-qrcode
+!Baidu
+##.showlist_wap
+##.aside_region.zyq_mod_link.j_zyq_mod_link
+##.j_content.ui_bubble_content.ui_bubble_down
+###pagelet_frs-aside\/pagelet\/search_back
+###pagelet_frs-list\/pagelet\/thread_footer
+fanyi.baidu.com##.footer
+!------------ The End ------------!
