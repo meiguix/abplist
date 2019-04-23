@@ -1,0 +1,157 @@
+!#2345
+###J_search_bd > div:last-child
+###right > div:first-child
+##.act-search-tab
+##.chc-dzoem
+##.mod-txtred
+##.mzdh_bottom
+##div[id^="J_Topic"]
+!#58.com
+58.com###rightRetui
+58.com##.S_table_ding_box
+58.com##.topinfos
+58.com##.zhiding-border
+58.com#?#.ac_item:-abp-has(.jingpin)
+58.com#?#.business_main:-abp-has(> .business_desc > .left > .ding_icon)
+58.com#?#.zzinfo:-abp-has(.zhiding_icon)
+58.com#?#LI[sortid]:-abp-has(.icon-jingxuan)
+58.com#?#LI[sortid]:-abp-has(.icon-zhiding)
+58.com#?#LI[sortid]:-abp-has(.jinico)
+58.com#?#TR[logr]:-abp-has(> .t > .mt-p-tit > .jingpin)
+58.com#?#tr[sortid]:-abp-has(> .t > .ico.accurate)
+!#BaiduPromotion
+#?##content_left > [class]:-abp-has(span[data-tuiguang])
+#?##content_left > [style*="important"]
+#?#div[id$="_canvas"]
+#?#.c-container:-abp-has(.t > a[data-landurl])
+#?#div:not([id]) > style[id^="s-"] + style + div + div[id]
+#?#div:not([id]) > style[id^="s-"] + style + div[id]
+!
+###content_left > [class] > [id*="00"] > div
+###content_left > [class] > [id*="00"] > tbody
+###content_left > [class] > [id*="00"] > ul
+###content_left > [class] > a[href*="//e.baidu.com/?refer="]
+###content_left > [id*="00"]:not(.result):not(.result-op) > div
+###content_left > [id*="00"]:not(.result):not(.result-op) > tbody
+###content_left > [id*="00"]:not(.result):not(.result-op) > ul
+###content_left > div:not([id]) > div[id][data-rendered="true"]
+###content_left > div[class][style]:not([id])
+###content_left > div[id*="00"]:not(.result):not(.result-op) + div[class]:not(.result):not(.result-op)
+###content_left > style[id^="s-"] + div[id]:nth-child(2)
+###content_right > div > div[id^="m"]
+###content_right > table > tbody > tr > td > div:not(#con-ar):not([class])
+###content_right > table > tbody > tr > td > table
+###ecl-temai-category
+###ecl-temai-general
+###ecl-weigou-view-container
+###lm
+###op_wiseapp
+###results > div[class]:not(.result):not(.result-op):not(.sp-rslt-bar):not(.s-group-result)
+##.EC_newppim
+##.ec_bdtg
+##.ecl-car-powerful-container
+##.ecl-health-pagelist-wrapper
+##.ecl-health-poplist-wrapper
+##.ecl-loan-list-card
+##.ecl-tg-content
+##.ecl-wealth-list-card-container
+##.ecl-weigou-nav-buy
+##.op_tvplay_main
+##.opr-xmas-game-container
+##.opr-zhaopin-ad-ctn
+##.res_top_banner
+##.result-op[data-click*="\"rsv_srcid\":\"10090\""]
+##.result-op[tpl="right_chris_prize_list"]
+##.result-op[tpl="right_timeliness2"]
+##.tools > .shouji
+##.wa-zp-exact-new-border
+##.ylbx_game_desc
+##div:not([id]) > style[id^="s-"] + div[id]
+##div:not([id]) > style[id^="s-"] + style + div + div[id]
+##div:not([id]) > style[id^="s-"] + style + div[id]
+##div[class^="EC_pla_"]
+##div[class^="ecl"][class*="game"] > .c-border
+##div[class^="ecl-edu-"]
+##div[class^="ecr"][class*="game"]
+##div[data-click="\7b \"rsv_srcid\":49516\7d "]
+##div[id$="2"] ~ #\31 [data-click^="\7b \"rsv_bdr\":\"0\",\"p5\":"]
+##div[id$="_canvas"]
+##div[id^="ecl-pc-game-"]
+##div[srcid="13602"] > .c-border
+##div[tpl="app_normal"]
+##div[tpl="houses_new"] > .c-border
+##div[tpl^="ecl_health"] > .c-border
+##div[tpl^="job"] > .c-border
+##div[tpl^="qunar_hotel"] > .c-border
+##div[tpl^="right_qunar_hotel"]
+##div[tpl^="soft"] > .c-border
+##style[id^="s-"] + script + div[id]
+##style[id^="s-"] + script + script + div[id]
+!
+##[style="display:none"] + iframe[scrolling="no"][src*="//"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
+##div:not([id]):not([class]):not([style]) > div:not([id]):not([class]):not([style]) > iframe[scrolling="no"][src*="//"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]:not([src^="http://www.facebook.com/"])
+##div[style^="width: 100%;"][style$="display: block;"] iframe[scrolling="no"][src*="//"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
+##div[style^="width: 100%;"][style$="margin: 0px;"] iframe[scrolling="no"][src*="//"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
+##div[style^="width: 100%;"][style$="opacity: 100;"] iframe[scrolling="no"][src*="//"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
+##div[style^="width: 100%;"][style$="overflow: hidden;"] iframe[scrolling="no"][src*="//"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
+##div[style^="width: 100%;"][style$="visibility: visible;"] iframe[scrolling="no"][src*="//"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
+##div[style^="width: 100%;"][style$="z-index: inherit;"] iframe[scrolling="no"][src*="//"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
+!
+/cpro.$popup,third-party
+/link?c=$image
+/tps/noexpire/*
+~baidu.com##a[href*="/cpro."]
+~baidu.com##a[href*="/cpro/"]
+!
+###bd-hl-content
+###container > #pic_container
+###container > .item.title_normal
+###container > .item.title_top
+###container > .wrapper > .fl
+###container > a.block
+###container.container > a.item
+###cpro_container
+###img-txt-wrapper > #title_desc_div
+###wrapper > div[style="padding:3px;"] > #pic
+##.container > a.mid-wrapper
+##a[href*="/mobads.php?"]
+##div[id][style="width: 100%;"] > div > div > iframe[scrolling="no"][src^="http"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
+##div[id][style="width: 100%;"] > div > iframe[scrolling="no"][src^="http"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
+##div[id][style="width: 100%;"] > iframe[scrolling="no"][src^="http"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
+##div[style="width: 100%;"]:not([id]):not([class]) > iframe[scrolling="no"][src*="//"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
+##div[style^="width: 100%;"]:not([id]):not([class]) > iframe[scrolling="no"][src^="http"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
+!#Ifeng.com
+ifeng.com###golddigger_bottom
+ifeng.com###linkrat_bottom
+ifeng.com##.i_con + :not(.i_con):not([href="javascript:void(0);"])
+ifeng.com##.i_con[href*=".ifeng.com/go?"]
+ifeng.com##.newbagicon
+ifeng.com##[data-cl]
+ifeng.com##[id^="dl"]
+ifeng.com##[id^="mobile_gg"]
+ifeng.com##[iscl]
+ifeng.com##[style*="position"][style*="fixed"]:not([id])
+ifeng.com##a[href*=".deliver."][style*="block"]
+~g.ifeng.com,ifeng.com##a[href*="/g.ifeng."]
+ifeng.com,~imall.ifeng.com##a[href*="imall.ifeng."]
+ifeng.com#?#.i_con + div:-abp-has(span:-abp-contains(告))
+ifeng.com#?#.i_con:-abp-has(span:-abp-contains(告))
+ifeng.com#?#.slLis > li:-abp-has(span:-abp-contains(告))
+||aa1.ifeng.com^
+||ae4.ifeng.com^
+||as.g5s.ifeng.com^
+||bb2.ifeng.com^
+||cc3.ifeng.com^
+||dkg.ifeng.com^
+||ifeng.com^*?*cl=
+||ifengimg.com/*1751.js
+||ifengimg.com/6536a
+||ifengimg.com/9c86
+||ifengimg.com/c867
+||ifengimg.com/cfb80
+||ifengimg.com/d54c8
+||ifengimg.com/md86
+||ifengimg.com/sdk
+||ifengimg.com/sfs-6536a6d5.js
+||ifengimg.com^*/m/sources
+||ifengimg.com^*679.js
