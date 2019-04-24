@@ -3800,6 +3800,7 @@ ip.cn##div > img
 bitauto.com##div > ins[data-type="ad_play"]
 win0168.com##div.item
 toutiao.com##div[ad_name]
+game.ali213.net##div[align="center"]
 tw.stock.yahoo.com##div[align="center"][style="height:90px"]
 zongheng.com##div[alog-group="index_04_game"]
 anjuke.com##div[class$="-ad"]
