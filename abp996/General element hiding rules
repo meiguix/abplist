@@ -908,6 +908,7 @@
 ##div[style="width:728px; height:90px; margin:auto; "]
 ##div[style="width:728px; height:90px; margin:auto;padding-top:5px;"]
 ##div[style="width:728px; height:90px; margin:auto; padding-top:5px;"]
+##div[style="width:728px; height:90px; margin:auto; padding-top:10px;"]
 ##div.clearfix[style*="1000"]
 ##iframe[id^="sinaadtk_"]
 ##img[data-link][data-src*="/u/"]:not([data-link*="/i/"])
