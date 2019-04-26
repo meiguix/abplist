@@ -3,6 +3,7 @@
 ###AD_Background_Wall_Banner
 ###AdRight-Article-QQ
 ###J_Recommend
+###J_search_bd > div:last-child
 ###MsnDialog.ad
 ###MyMoveAd
 ###QQ_Full
@@ -239,6 +240,7 @@
 ###rightCouple + #leftFloat
 ###rightCouplet
 ###rightCouplet + #leftFloat
+###right > div:first-child
 ###right_couple
 ###right_couple + #left_float
 ###right_down_float_ad
@@ -313,6 +315,7 @@
 ~88liu.com,~briian.com##.a_pt
 ##.a_sxc
 ##.a_xsfl
+##.act-search-tab
 ##.AdTop-Article-QQ
 ##.AdBox-Article-QQ
 ##.ad-above-footer
@@ -433,6 +436,7 @@
 ##.chat-right-ad
 ##.chat-sysbroadcast-ad
 ##.chat-top-ad
+##.chc-dzoem
 ##.chunwan-wrapper
 ##.clearAd
 ##.client_ad_banner
@@ -622,10 +626,12 @@
 ##.mod-promo
 ##.mod-side + div[style="width:300px;height:257px;"]
 ##.mod_stridead
+##.mod-txtred
 ##.modal-backdrop
 ##.modal-sm
 ##.module-image[style*="width:1100px;"]
 ##.module-image[style*="width:1240px;"]
+##.mzdh_bottom
 ##.nav_ads
 ##.nav_link[href^="http"]:not([href*=".qq."])
 ##.new-feature-guide
@@ -904,6 +910,7 @@
 ##div[feedtype="ad"]
 ##div[id^="AD_"]
 ##div[id^="ad_thread"]
+##div[id^="J_Topic"]
 ##div[style*="WiDTH: 200px;"][style$="HeiGHT: 300px"]
 ##div[style*="width:960px; height:90px;"]
 ##div[style=" width:300px; height:250px; overflow:hidden"]
