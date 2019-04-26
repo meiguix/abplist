@@ -139,6 +139,7 @@
 ###j-ditu
 ###j_light_see_index
 ###j-media
+###j-new-ad
 ###j_star_bus_before
 ###j_ten_years
 ###j_worldcup_info_banner
@@ -316,6 +317,10 @@
 ~05wang.com##.a_pr
 ~88liu.com,~briian.com##.a_pt
 ##.a_sxc
+##.a_sxfl
+##.a_sxmu
+##.a_sxp
+##.a_sxpb
 ##.a_xsfl
 ##.act-search-tab
 ##.AdTop-Article-QQ
@@ -537,6 +542,7 @@
 ##.hao123-unionad-pic
 ##.head_middle > div[class]:first-child
 ##.heg > .div-list
+##.heg > .partner-list
 ##.hgame_mod_theme1
 ##.hgame_mod_theme2
 ##.his-sign-cont[data-dysign-adid]
@@ -893,6 +899,8 @@
 ##a[href="http://www.yabovip5.cc/"]
 ##a[href="https://7449k.com/"]
 ##a[href="https://t.cn/Rr4eSOx"]
+##a[href="http://teramont.svw-volkswagen.com/"]
+##a[href^="/dasp.php?a="]
 ##a[href^="http://172.247.157.176/"]
 ##a[href^="http://ad.moemoe."]
 ##a[href^="http://fa999.cn/"]
@@ -903,7 +911,6 @@
 ##a[href^="https://hi.potvpn.com/?from="]
 ##a[href^="http://market.1hai.cn/"]
 ##a[href^="http://www.10100000.com/"]
-##a[href="http://teramont.svw-volkswagen.com/"]
 ##body[class|="view"] > .ad-box
 ##body[onload*="u()"] > #x
 ##div#ad_id
