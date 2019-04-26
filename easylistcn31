@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201904251200
+! Version: 201904271200
 ! Title: EasyListCN
-! Last modified: 2019-04-25
+! Last modified: 2019-04-27
 ! Expires: 365 days
 !
 !-----------------------General advert filters-----------------------!
@@ -477,6 +477,10 @@ _xiuno_com_ad/
 |http://ad.
 |http://gg.$third-party,domain=~guagua.cn
 !------------------------General element hiding-------------------------!
+###rightRetui
+##.S_table_ding_box
+##.topinfos
+##.zhiding-border
 ###J_search_bd > div:last-child
 ###right > div:first-child
 ##.act-search-tab
