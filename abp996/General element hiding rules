@@ -105,6 +105,7 @@
 ###floatad-winpop
 ###focus-bar
 ###focus_jordon
+###focusslide
 ###footer-wrap
 ###fr_ad
 ###frs-list-game
@@ -398,6 +399,7 @@
 ##.appbanner
 ##.artad
 ##.article-sax
+##.asb
 ##.aside-bar
 ##.aside-pro-container
 ##.assort-ad
@@ -791,7 +793,9 @@
 ##.widget-qianhuiji
 ##.widget_ad_sidebar
 ##.widget_adbox
+##.widget_custom_html:nth-child(2)
 ~hrtsea.com##.widget_ui_ads
+##.widget_ui_textasb
 ##.worldcup_info_banner_dialog
 ##.wp.a_f
 ##.wp.a_h
