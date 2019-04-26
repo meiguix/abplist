@@ -477,6 +477,13 @@ _xiuno_com_ad/
 |http://ad.
 |http://gg.$third-party,domain=~guagua.cn
 !------------------------General element hiding-------------------------!
+###J_search_bd > div:last-child
+###right > div:first-child
+##.act-search-tab
+##.chc-dzoem
+##.mod-txtred
+##.mzdh_bottom
+##div[id^="J_Topic"]
 ###AD_Background_Wall_BG
 ###AD_Background_Wall_BG_Link
 ###AD_Background_Wall_Banner
