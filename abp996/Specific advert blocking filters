@@ -109,6 +109,7 @@ _yad_jsonp_
 |https:$script,domain=jb51.net
 |https:$script,stylesheet,third-party,xmlhttprequest,domain=btdb.to
 |https:$subdocument,domain=nodkey.xyz
+||*^sdtfrom=^$rewrite=abp-resource:blank-mp3,domain=qq.com
 ||*btbtt.*/imgs.js
 ||*btbtt.*/view/image/QT_
 ||000001.azureedge.net/script/common.js
@@ -3403,6 +3404,7 @@ _yad_jsonp_
 ||qdaily.com/mount_details/pc/
 ||qdjimo.com/html/js/
 ||qdosm.cn/images/*.gif
+||qq.com^*.ts?$rewrite=abp-resource:blank-js,xmlhttprequest,domain=qq.com
 ||qdross.com/vip/
 ||qhdlz.net/ssyyss/m.js
 ||qhf168.com/data/attachment/portal/
