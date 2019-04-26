@@ -480,6 +480,10 @@ _xiuno_com_ad/
 |http://ad.
 |http://gg.$third-party,domain=~guagua.cn
 !------------------------General element hiding-------------------------!
+###focusslide
+##.asb
+##.widget_custom_html:nth-child(2)
+##.widget_ui_textasb
 ###rightRetui
 ##.S_table_ding_box
 ##.topinfos
