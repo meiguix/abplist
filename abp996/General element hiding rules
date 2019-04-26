@@ -240,6 +240,7 @@
 ###rightCouple + #leftFloat
 ###rightCouplet
 ###rightCouplet + #leftFloat
+###rightRetui
 ###right > div:first-child
 ###right_couple
 ###right_couple + #left_float
@@ -683,6 +684,7 @@
 ##.room-ad-video-down
 ##.rv-js-root
 ##.s-news-special[data-url^="http://vip.baidu.com/"]
+##.S_table_ding_box
 ##.sam_iebrowser_banner
 ##.sample0
 ##.sample1
@@ -757,6 +759,7 @@
 ##.topBanner
 ##.topbanner
 ##.topBnaner
+##.topinfos
 ##.TopNav + table
 ##.topSponsor
 ##.tout
@@ -808,6 +811,7 @@
 ##.yd_ad5
 ##.yd_ad6
 ##.yw-gg-float
+##.zhiding-border
 ##.zhitou-wrap
 ##.zhixin-ads
 ##.zhixin-right
