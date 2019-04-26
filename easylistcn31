@@ -480,6 +480,13 @@ _xiuno_com_ad/
 |http://ad.
 |http://gg.$third-party,domain=~guagua.cn
 !------------------------General element hiding-------------------------!
+###j-new-ad
+##.a_sxfl
+##.a_sxmu
+##.a_sxp
+##.a_sxpb
+##.heg > .partner-list
+##a[href^="/dasp.php?a="]
 ###focusslide
 ##.asb
 ##.widget_custom_html:nth-child(2)
