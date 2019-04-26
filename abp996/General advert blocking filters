@@ -176,6 +176,7 @@
 /content.php?id=148&type=g|$xmlhttprequest
 /content/plugins/em_ad/*
 /corpTmall_ShopAd_
+/cpro.$popup,third-party
 /cpro/ui/*
 /cpv/i.php?z=
 /data/attachment/ad/*
@@ -302,6 +303,7 @@
 /lapi/sign/web/getinfo
 /lenovo/pc/all.js
 /lenovo/pc/top.js
+/link?c=$image
 /m_dilidili_main.js
 /main.js?v=*&sp=*&ty=
 /main/s?
@@ -393,6 +395,7 @@
 /tigtag_custom/*_banner
 /tigtag_custom/include/couplet.
 /tigtag_custom/include/popup.
+/tps/noexpire/*
 /tuiguang/*
 /u/_sponsor/*
 /uc123_no/*/index/js/activity.
