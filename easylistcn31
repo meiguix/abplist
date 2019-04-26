@@ -3912,6 +3912,8 @@ _yad_jsonp_
 |https:$script,domain=jb51.net
 |https:$script,stylesheet,third-party,xmlhttprequest,domain=btdb.to
 |https:$subdocument,domain=nodkey.xyz
+||*^sdtfrom=^$rewrite=abp-resource:blank-mp3,domain=qq.com
+||qq.com^*.ts?$rewrite=abp-resource:blank-js,xmlhttprequest,domain=qq.com
 ||*btbtt.*/imgs.js
 ||*btbtt.*/view/image/QT_
 ||000001.azureedge.net/script/common.js
