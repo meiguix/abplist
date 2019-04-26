@@ -1416,6 +1416,101 @@ _xiuno_com_ad/
 ##span[title="neteasefooter"]
 ##table[style="border:#7D8C8E solid 1px;height: 30px;text-align: center;"]
 ##table[style="border:#e8e8e8 1px solid;"] + div[style="margin-top:5px"] > table[style="width:100%;"][cellspacing="0"][cellpadding="1"][bordercolor="#22222"][border="1"]
+!#BaiduPromotion
+#?##content_left > [class]:-abp-has(span[data-tuiguang])
+#?##content_left > [style*="important"]
+#?#div[id$="_canvas"]
+#?#.c-container:-abp-has(.t > a[data-landurl])
+#?#div:not([id]) > style[id^="s-"] + style + div + div[id]
+#?#div:not([id]) > style[id^="s-"] + style + div[id]
+!
+###content_left > [class] > [id*="00"] > div
+###content_left > [class] > [id*="00"] > tbody
+###content_left > [class] > [id*="00"] > ul
+###content_left > [class] > a[href*="//e.baidu.com/?refer="]
+###content_left > [id*="00"]:not(.result):not(.result-op) > div
+###content_left > [id*="00"]:not(.result):not(.result-op) > tbody
+###content_left > [id*="00"]:not(.result):not(.result-op) > ul
+###content_left > div:not([id]) > div[id][data-rendered="true"]
+###content_left > div[class][style]:not([id])
+###content_left > div[id*="00"]:not(.result):not(.result-op) + div[class]:not(.result):not(.result-op)
+###content_left > style[id^="s-"] + div[id]:nth-child(2)
+###content_right > div > div[id^="m"]
+###content_right > table > tbody > tr > td > div:not(#con-ar):not([class])
+###content_right > table > tbody > tr > td > table
+###ecl-temai-category
+###ecl-temai-general
+###ecl-weigou-view-container
+baidu.com###lm
+###op_wiseapp
+###results > div[class]:not(.result):not(.result-op):not(.sp-rslt-bar):not(.s-group-result)
+##.EC_newppim
+##.ec_bdtg
+##.ecl-car-powerful-container
+##.ecl-health-pagelist-wrapper
+##.ecl-health-poplist-wrapper
+##.ecl-loan-list-card
+##.ecl-tg-content
+##.ecl-wealth-list-card-container
+##.ecl-weigou-nav-buy
+##.op_tvplay_main
+##.opr-xmas-game-container
+##.opr-zhaopin-ad-ctn
+##.res_top_banner
+##.result-op[data-click*="\"rsv_srcid\":\"10090\""]
+##.result-op[tpl="right_chris_prize_list"]
+##.result-op[tpl="right_timeliness2"]
+##.tools > .shouji
+##.wa-zp-exact-new-border
+##.ylbx_game_desc
+##div:not([id]) > style[id^="s-"] + div[id]
+##div:not([id]) > style[id^="s-"] + style + div + div[id]
+##div:not([id]) > style[id^="s-"] + style + div[id]
+##div[class^="EC_pla_"]
+##div[class^="ecl"][class*="game"] > .c-border
+##div[class^="ecl-edu-"]
+##div[class^="ecr"][class*="game"]
+##div[data-click="\7b \"rsv_srcid\":49516\7d "]
+##div[id$="2"] ~ #\31 [data-click^="\7b \"rsv_bdr\":\"0\",\"p5\":"]
+##div[id$="_canvas"]
+##div[id^="ecl-pc-game-"]
+##div[srcid="13602"] > .c-border
+##div[tpl="app_normal"]
+##div[tpl="houses_new"] > .c-border
+##div[tpl^="ecl_health"] > .c-border
+##div[tpl^="job"] > .c-border
+##div[tpl^="qunar_hotel"] > .c-border
+##div[tpl^="right_qunar_hotel"]
+##div[tpl^="soft"] > .c-border
+##style[id^="s-"] + script + div[id]
+##style[id^="s-"] + script + script + div[id]
+!
+##[style="display:none"] + iframe[scrolling="no"][src*="//"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
+##div:not([id]):not([class]):not([style]) > div:not([id]):not([class]):not([style]) > iframe[scrolling="no"][src*="//"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]:not([src^="http://www.facebook.com/"])
+##div[style^="width: 100%;"][style$="display: block;"] iframe[scrolling="no"][src*="//"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
+##div[style^="width: 100%;"][style$="margin: 0px;"] iframe[scrolling="no"][src*="//"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
+##div[style^="width: 100%;"][style$="opacity: 100;"] iframe[scrolling="no"][src*="//"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
+##div[style^="width: 100%;"][style$="overflow: hidden;"] iframe[scrolling="no"][src*="//"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
+##div[style^="width: 100%;"][style$="visibility: visible;"] iframe[scrolling="no"][src*="//"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
+##div[style^="width: 100%;"][style$="z-index: inherit;"] iframe[scrolling="no"][src*="//"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
+!#BaiduUnion
+###bd-hl-content
+###container > #pic_container
+###container > .item.title_normal
+###container > .item.title_top
+###container > .wrapper > .fl
+###container > a.block
+###container.container > a.item
+###cpro_container
+###img-txt-wrapper > #title_desc_div
+###wrapper > div[style="padding:3px;"] > #pic
+##.container > a.mid-wrapper
+##a[href*="/mobads.php?"]
+##div[id][style="width: 100%;"] > div > div > iframe[scrolling="no"][src^="http"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
+##div[id][style="width: 100%;"] > div > iframe[scrolling="no"][src^="http"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
+##div[id][style="width: 100%;"] > iframe[scrolling="no"][src^="http"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
+##div[style="width: 100%;"]:not([id]):not([class]) > iframe[scrolling="no"][src*="//"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
+##div[style^="width: 100%;"]:not([id]):not([class]) > iframe[scrolling="no"][src^="http"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
 .cc/s.php?id=$script,third-party
