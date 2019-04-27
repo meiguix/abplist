@@ -1316,6 +1316,7 @@ _yad_jsonp_
 ||cctv5.name/js/*foot.js
 ||cctv567.com/b/
 ||cdeledu.com/ADVC/$domain=~chinaacc.com|~ruidaedu.com
+||cdn.bcebos.com^
 ||cdn.dfile.cn/slot/
 ||cdn.galacg.me/img/*.gif
 ||cdn.galacg.me/img/*.jpg
@@ -2063,6 +2064,7 @@ _yad_jsonp_
 ||greenxf.com/js/majo.js
 ||greenxf.com/js/rjxz.js
 ||greenxiazai.com/d/js/v/
+||gss3.bdstatic.com^
 ||gt.duowan.com^
 ||gt.yy.com^
 ||gter.net/index.html?c=foot_js&type=footer.js
