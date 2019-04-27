@@ -1016,6 +1016,7 @@ baidu.com###lm
 ##div[tpl^="soft"] > .c-border
 ##style[id^="s-"] + script + div[id]
 ##style[id^="s-"] + script + script + div[id]
+##div[srcid="12274"]
 !
 ##[style="display:none"] + iframe[scrolling="no"][src*="//"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
 ##div:not([id]):not([class]):not([style]) > div:not([id]):not([class]):not([style]) > iframe[scrolling="no"][src*="//"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]:not([src^="http://www.facebook.com/"])
