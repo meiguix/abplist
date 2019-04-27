@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 201904271200
+! Version: 20190427120a
 ! Title: EasyListCN
 ! Last modified: 2019-04-27
 ! Expires: 365 days
@@ -1482,7 +1482,9 @@ baidu.com###lm
 ##div[class^="ecl-edu-"]
 ##div[class^="ecr"][class*="game"]
 ##div[data-click="\7b \"rsv_srcid\":49516\7d "]
-##div[id$="2"] ~ #\31 [data-click^="\7b \"rsv_bdr\":\"0\",\"p5\":"]
+##div[data-click="\7b \"rsv_bdr\":\"0\",\"p5\":1\7d "]
+||cdn.bcebos.com^
+||gss3.bdstatic.com^
 ##div[id$="_canvas"]
 ##div[id^="ecl-pc-game-"]
 ##div[srcid="13602"] > .c-border
