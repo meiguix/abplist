@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 20190428120a
+! Version: 201904281201
 ! Title: EasyListCN
 ! Last modified: 2019-04-28
 ! Expires: 365 days
@@ -12750,4 +12750,6 @@ zhihu.com#?#.TopstoryItem:-abp-has(.Popover > .TopstoryItem-advertButton)
 ||qhdbfjx.com^
 ||sohu999.com^
 ||withad.cn^
+!----------------------------Whitelist---------------------------!
+@@||bdstatic.com/static/common/widget/ui/admanager
 !-----------------------------The End----------------------------!
