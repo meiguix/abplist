@@ -770,6 +770,7 @@ corrierediragusa.it###rss
 monclick.it###scroll-top-container
 dottori.it###scroll_top
 vloungebeach.tv###scroll_up
+mobimart.it###scrollblock
 chiesi.com###scrolltab
 tuttoandroid.net###sh_local
 virgilio.it###shr_box
@@ -811,6 +812,7 @@ lastampa.it##.call-iscrizione
 calendario-365.it,cdt.ch,consumer.bz.it,dmail.it,epochtimes.it,maximitalia.it,mondoconv.it,paginesi.it,ridble.com,vinusta.com,vog.it##.cd-top
 primaonline.it##.col-nl
 lastampa.it##.conferma_reg_nl
+ilfarmacistaonline.it##.containerBannerBox
 tomshw.it##.content-autopromo
 bancamediolanum.it##.content-footer-scroll-up
 tomshw.it##.content-related

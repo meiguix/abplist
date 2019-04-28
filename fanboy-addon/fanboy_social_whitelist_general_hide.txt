@@ -75,6 +75,7 @@ disqus.com#@#.-facebook
 disqus.com#@#.-twitter
 instagram.com,pinterest.com#@#.FollowButton
 tomshardware.com#@#.SocialButton
+twitter.com#@#.Twitter-icon
 yachtingjournal.com#@#.addthis:not(body)
 onbeing.org#@#.addthis_32x32_style
 free18.net,onbeing.org#@#.addthis_default_style
@@ -195,6 +196,7 @@ google.at,google.be,google.ca,google.ch,google.co.id,google.co.il,google.co.in,g
 apertura.com,quotidiani.gelocal.it#@#.googleplus
 youtube.com#@#.gplus-icon
 vk.com#@#.group_share
+ulrichesch.de#@#.headersocial
 oneplus.net#@#.ico-facebook
 airbnb.cat,airbnb.com,airbnb.de,airbnb.it,aitnews.com,chess.com,comicbook.com,dailymotion.com,di.fm,eventim.de,fastcompany.com,gleam.io,imgur.com,login.alibaba.com,narew.info,oneplus.net,secretescapes.com,shared.com,songkick.com,squidoo.com,theoldreader.com,unieuro.it,yourstory.com#@#.icon-facebook
 lockerdome.com#@#.icon-facebook2
@@ -214,7 +216,8 @@ carsguide.com.au#@#.icon-social-facebook
 carsguide.com.au#@#.icon-social-linkedin
 flattr.com,gleam.io#@#.icon-soundcloud
 aitnews.com,comicbook.com,fastcompany.com,flattr.com,gleam.io,imgur.com,lockerdome.com,login.alibaba.com,squidoo.com#@#.icon-twitter
-yourstory.com#@#.icon-twitter-bird
+twitter.com,yourstory.com#@#.icon-twitter-bird
+cc.cc#@#.icon-twitter-sign
 flattr.com#@#.icon-vimeo
 flattr.com#@#.icon-youtube
 ndtv.com#@#.icon_gplus
@@ -227,6 +230,7 @@ sap.com#@#.j-social-actions
 sap.com#@#.j-social-button
 kickstarter.com,tradingview.com#@#.js-follow-user
 nbcnews.com,playosmo.com,trello.com,vimeo.com#@#.js-share
+twitter.com#@#.js-tweet-button
 alternativeto.net#@#.like-box
 facebook.com,forum.albiononline.com#@#.likeButton
 darudar.org,fimfiction.net,modworkshop.net#@#.like_button
@@ -256,7 +260,7 @@ pinterest.com#@#.pinterestComponentShare
 google.at,google.be,google.ca,google.ch,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.th,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.hk,google.com.mx,google.com.tr,google.com.ua,google.cz,google.dk,google.es,google.fi,google.fr,google.hu,google.it,google.nl,google.pl,google.ro,google.ru,google.se,google.sk#@#.plusone
 privatecore.com#@#.post-fb
 facebook.com#@#.post-fb-like
-truepundit.com#@#.post-share-container
+pokoleniesmart.pl,truepundit.com#@#.post-share-container
 imgur.com#@#.post-share-panel
 reddit.com#@#.post-sharing
 guildwars2.com#@#.post-social
@@ -276,6 +280,7 @@ bitly.com,framestr.com#@#.share-btn
 kcrw.com,vimeo.com#@#.share-button
 bandcamp.com,bleacherreport.com,distractify.com,naekranie.pl,thedodo.com#@#.share-buttons
 analyticsindiamag.com,awarenessact.com,bbcccnn.com.ua,cbronline.com,chatsports.com,comicbook.com,dogs-magazin.de,foodtank.com,gamerisle.org,gen-pop.com,gfycat.com,invisioncommunity.co.uk,lcms.org,livetheorganicdream.com,player.it,popsugar.co.uk,popsugar.com,popsugar.com.au,professorshouse.com,reefbuilders.com,sensationrock.net,stocksbeat.com,tripzilla.ph,zagranie.com#@#.share-container
+podbean.com#@#.share-content
 mediafire.com#@#.share-facebook
 bild.de#@#.share-fb
 alwaysdata.net#@#.share-group

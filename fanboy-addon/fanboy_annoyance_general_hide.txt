@@ -552,6 +552,7 @@
 ##.subscription-tout
 ! ---------- Newsletter/Signup Messages ----------
 ###EmailOptin
+###GlobalSlotHeaderNewsletter
 ###HPNewsletter
 ###Masthead-Newsletter
 ###MobileNewsLetterFormContainer
@@ -1120,6 +1121,7 @@
 ##.DFNewsletterSignup
 ##.DnnModule-eps-NewsletterOptInv2
 ##.HB-Takeover
+##.Homepage-newsletter
 ##.InArticleSignup
 ##.InlineNewsletter
 ##.MembershipCTAs__newsletters
@@ -1291,6 +1293,7 @@
 ##.component-newsletter-subscribe
 ##.connect_newsletter
 ##.cont-newsletter-header
+##.cont_popup_suscripicion_boletin_load
 ##.container-form-newsletter
 ##.content--newsletter
 ##.content-c__newsletter--box
@@ -1569,7 +1572,6 @@
 ##.modal--newsletter
 ##.modal-email-widget
 ##.modal-newsletter
-##.modal-signup
 ##.modal-suggest-newsletter
 ##.modal-suggest-newsletter-pro
 ##.modal-wide-newsletter
@@ -1586,6 +1588,7 @@
 ##.mom-newsletter
 ##.momizat-news_letter
 ##.mt-subscribe
+##.mvp-post-sub-wrap
 ##.n_subscribe_wdgt
 ##.nav-newsletter
 ##.nav-newsletter-subsribe-form
@@ -1741,6 +1744,7 @@
 ##.newsletter-subscription
 ##.newsletter-subscription-inline
 ##.newsletter-subscription-module
+##.newsletter-subscription-module-form-wrapper
 ##.newsletter-tease
 ##.newsletter-teaser
 ##.newsletter-textbox
@@ -1805,6 +1809,7 @@
 ##.newsletter_footer_container
 ##.newsletter_form
 ##.newsletter_holder
+##.newsletter_home
 ##.newsletter_info
 ##.newsletter_inline
 ##.newsletter_location
@@ -2104,7 +2109,9 @@
 ##.tcSubscribePanelTop
 ##.teaser-newsletter
 ##.teaser__shoulder-banner--newsletter
+##.tgc-newsletter-signup
 ##.tge-equator-newsletter
+##.tge-promo-persistent-banner
 ##.the-report-email-signup
 ##.thim-newlleter-homepage
 ##.tile_newsletterSubscription
@@ -2135,6 +2142,7 @@
 ##.vc_newsletter_button
 ##.voc-newsletter
 ##.vrt-newsletter
+##.w_newsletter-signup
 ##.wcpopupmodal-open
 ##.wcpopupmodal-wrapper-open
 ##.wdg-newsletter
@@ -2348,6 +2356,7 @@
 ###rss-subscribe
 ###rss-wrapper
 ###rssFeedIcon
+###rssIcon
 ###rssSocial
 ###rss_24
 ###rss_btm
@@ -2378,6 +2387,7 @@
 ##.b-icon__rss
 ##.bg-button-rss
 ##.bg-rss
+##.bk-socialicons-rss
 ##.btRSS
 ##.btnRSS
 ##.btnRss
@@ -2606,6 +2616,7 @@
 ###btn-back-top
 ###btn-go-top
 ###btn-scroll-up
+###btn_backtt
 ###btn_control_totop
 ###button-to-top
 ###button-totop
@@ -2644,6 +2655,7 @@
 ###infinite-footer-back-to-top-button
 ###int-btn-top
 ###jGoTop
+###jas-backtop
 ###jm-back-top
 ###js-back-to-top
 ###js-btnGoTop
@@ -2807,6 +2819,7 @@
 ##.btn-tw-backtotop
 ##.btn2top
 ##.btnBackTop
+##.btn_backtt
 ##.btn_gototop
 ##.button--scroll-top
 ##.button-back-top
@@ -3100,6 +3113,7 @@
 ##a[title="Torna su"]
 ##a[title="back_to_top"]
 ##a[title="torna su"]
+##a[title="الى الاعلى"]
 ##a[uk-totop]
 ##button[class^="footer_to_top_"]
 ##button[data-widgetclass="backToTopBtn"]
@@ -3108,6 +3122,7 @@
 ##div[analytics-category="Go to Top of Page"]
 ##div[aria-label="Scroll to top"]
 ##div[class^="BackToTop_"]
+##div[class^="backToTop_"]
 ##div[onclick^="scrollToTop"]
 ##div[title="Scroll Back to Top"]
 ##div[title="Scroll To Top"]

@@ -1688,6 +1688,7 @@
 ###cookie-wrapper
 ###cookie-zone
 ###cookie.align-center
+###cookie.cookies
 ###cookie1
 ###cookie2
 ###cookie29
@@ -1757,6 +1758,7 @@
 ###cookieBannerContent_new
 ###cookieBannerD
 ###cookieBannerDiv
+###cookieBannerGTV
 ###cookieBannerInfo
 ###cookieBannerOverlay
 ###cookieBannerWrap
@@ -1842,6 +1844,7 @@
 ###cookieCopy
 ###cookieCorner
 ###cookieCta
+###cookieDataProtection
 ###cookieDeclarationWrapper
 ###cookieDialog
 ###cookieDialogCtnr
@@ -2367,6 +2370,7 @@
 ###cookie_optin
 ###cookie_overlay
 ###cookie_panel
+###cookie_panel_2018
 ###cookie_permission
 ###cookie_permission_banner
 ###cookie_permissions_alert
@@ -4290,6 +4294,7 @@
 ###keksbar
 ###kekschecker
 ###keksdose
+###kekse.dialog
 ###keksivehje
 ###keksleiste
 ###kg-cookie-popup
@@ -5883,6 +5888,8 @@
 ##.agreeSocialTrackingBox
 ##.agreecookie
 ##.agreement-eu-cookies
+##.ai-m-cookie-layer
+##.ai-m-overlay-background
 ##.ajax_cookie_container
 ##.ajs-cookies
 ##.ajs-message.ajs-cookies
@@ -6658,6 +6665,7 @@
 ##.cookie-control-container
 ##.cookie-copy
 ##.cookie-cube
+##.cookie-curtain
 ##.cookie-demo
 ##.cookie-demo-on
 ##.cookie-desktop
@@ -6930,6 +6938,7 @@
 ##.cookie-prompter
 ##.cookie-question
 ##.cookie-region
+##.cookie-request-ctn
 ##.cookie-richtlinie
 ##.cookie-rodo
 ##.cookie-rodo--center
@@ -7054,6 +7063,7 @@
 ##.cookieBackgaround
 ##.cookieBackground
 ##.cookieBan
+##.cookieBandeau
 ##.cookieBanner:not(body)
 ##.cookieBannerContainer
 ##.cookieBannerDisclaimerWrap
@@ -8098,6 +8108,7 @@
 ##.e-tron-cookies-notice
 ##.eCookiesBanner
 ##.ePrivacyOuterWrapper
+##.ea-cookie-disclaimer
 ##.eav-cookielayer
 ##.ec-cookie-bar
 ##.ec-cookie-policy
@@ -8529,6 +8540,7 @@
 ##.hsp-cookies
 ##.huawei-cookie
 ##.hv_privacy_prompt
+##.hw-cookie-popup
 ##.hz-consents-banner
 ##.hz-visitor-consents
 ##.i-am-ok-with-cookies
@@ -8978,6 +8990,7 @@
 ##.module--cookie
 ##.module-alert-cookie
 ##.module-cookie
+##.module-cookie-banner
 ##.module-cookie-bar
 ##.module-cookie-info
 ##.module-cookie-layer
@@ -9149,6 +9162,9 @@
 ##.np_DialogConsent
 ##.npo_cc_regular
 ##.nq-c-rgpdBar
+##.nr-cookie-notification
+##.nr-cookie-notification-component
+##.nr-cookie-notification__wrapper
 ##.nrg-cookie-popup
 ##.ns-cookie-consent
 ##.ns-cookies-accept
@@ -10057,6 +10073,7 @@
 ##div[class*="-CookiesBar-"]
 ##div[class*="CookiesBanner_"]
 ##div[class*="CookiesFooter"]
+##div[class*="Warnings__cookieBar"]
 ##div[class*="_cookiesPolicy_"]
 ##div[class*="cookieBarContainer"]
 ##div[class^="CookieBanner-"]

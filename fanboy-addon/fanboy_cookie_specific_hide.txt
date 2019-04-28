@@ -11,6 +11,7 @@ tecnalia.com###NLC_textLayer
 yahoo.com###Overlay-1-Nagbar
 provantage.com###PP
 brookes.ac.uk###PopUp
+telkom.co.za###PrivacyNotice
 redbubble.com###RB_React_Component_CookieBanner_4
 channelregister.co.uk,theregister.co.uk###RegCCO
 valleyvet.com###ToU_float
@@ -103,6 +104,8 @@ shatter-box.com###elGuestTerms
 live.com,microsoft.com,office.com,skype.com,visualstudio.com,windows.com,xbox.com###epb
 complex.com###eucn
 tartybikes.co.uk###eureg
+eplan.at,eplan.ch,eplan.co.uk,eplan.de,eplan.es,eplan.hr###fancybox-overlay
+eplan.at,eplan.ch,eplan.co.uk,eplan.de,eplan.es,eplan.hr###fancybox-wrap
 backpackerguide.nz###fbGroupMini
 cricbuzz.com###feedback-bar
 toffeeweb.com###fixedFooter
@@ -166,6 +169,7 @@ eastlondonradio.org.uk###notification-area
 pacesuite.com###notification-cont
 youtube.com###notification-footer
 cnn.com###notification-legal
+asiatatler.com###notification-msg-container
 codeplay.com###notificationPopup
 tweakers.net###notifications > .announcement
 adverts.ie,boards.ie,dailyedge.ie,did.ie,the42.ie,thejournal.ie###notify-container
@@ -177,7 +181,7 @@ accenture.com###optanon-minimize-wrapper
 harvester.co.uk###optin-optout
 nbcnews.com###overaly_dy_message
 jukegames.com,n-mobile.net###overbox3
-allestoringen.be,allestoringen.nl,allestörungen.at,allestörungen.ch,allestörungen.de,aussieoutages.com,canadianoutages.com,downdetctor.cl,downdetector.ae,downdetector.co.nz,downdetector.co.uk,downdetector.co.za,downdetector.com,downdetector.com.ar,downdetector.com.br,downdetector.dk,downdetector.es,downdetector.fi,downdetector.fr,downdetector.hk,downdetector.ie,downdetector.in,downdetector.it,downdetector.jp,downdetector.mx,downdetector.no,downdetector.pl,downdetector.pt,downdetector.ru,downdetector.se,downdetector.sg,downdetector.web.tr###overlay.container
+allestoringen.be,allestoringen.nl,allestörungen.at,allestörungen.ch,allestörungen.de,aussieoutages.com,canadianoutages.com,downdetctor.cl,downdetector.ae,downdetector.ca,downdetector.co.nz,downdetector.co.uk,downdetector.co.za,downdetector.com,downdetector.com.ar,downdetector.com.br,downdetector.dk,downdetector.es,downdetector.fi,downdetector.fr,downdetector.hk,downdetector.ie,downdetector.in,downdetector.it,downdetector.jp,downdetector.mx,downdetector.no,downdetector.pl,downdetector.pt,downdetector.ru,downdetector.se,downdetector.sg,downdetector.web.tr###overlay.container
 belkin.com###pagebanner
 themilitarystore.co.uk###pixelpop
 amazon.com###pldn-deep-link
@@ -205,6 +209,7 @@ keil.com###privacymodule
 zoomin.tv###privacyoverlay
 rocketleague.com###privmessage
 elanco.com###ribbon
+mywot.com###root > div > div[direction="up"][style*="transform"]
 wrigleys.co.uk###rpcm
 tenuser.com###rsp
 people.cn###shengmingTip
@@ -304,6 +309,7 @@ elitedaily.com##.bp
 brainandlife.org##.breaking-container
 handy-games.com##.bugme
 rebirth-hannover.de,werum.com##.c-callout
+index.co##.c-consent-manager
 ii.co.uk##.c01194
 eyetvforum.com##.cAnnouncementPageTop
 infiniti-abudhabi.com,infiniti-alghassan.com,infiniti-azerbaijan.com,infiniti-bahrain.com,infiniti-dubai.com,infiniti-jordan.com,infiniti-kuwait.com,infiniti-lebanon.com,infiniti-oman.com,infiniti-qatar.com,infiniti-singapore.com,infiniti.co.uk,infiniti.com,infiniti.com.hk,infiniti.com.my,infiniticars.com.au##.c_128
@@ -436,7 +442,7 @@ wandermap.net##.messages
 mitele.es##.mitele-consent
 amazon.com##.mo-wp
 mirror.co.uk##.mod-cookiepolicy
-axminster.co.uk,daf.co.uk,daf.com,ferratum.co.uk,fiveguys.co.uk,kon-boot.com,lam.co.mz,medtronic.com,primaresearch.org##.modal-backdrop
+axminster.co.uk,daf.be,daf.co.uk,daf.com,daf.fr,daf.global,daf.nl,daf.ru,daf.se,daftrucks.de,daftrucks.dk,daftrucks.it,daftrucks.pl,daftrucks.sk,ferratum.co.uk,fiveguys.co.uk,kon-boot.com,lam.co.mz,medtronic.com,primaresearch.org##.modal-backdrop
 usnews.com##.modal-window
 motorsport.com##.ms-footer-messages
 motorsport.com##.ms-header-messages
@@ -625,6 +631,7 @@ stargreen.com##div[style^="color: rgb(238, 238, 238);"]
 survey-remover.com##div[style^="height: 25px; position: fixed;"]
 openpli.org##div[style^="height:20px;background-color:#FAFFDC;"]
 globaltuners.com,psychomedia.qc.ca,speedtestcustom.com,zerochan.net##div[style^="position: fixed; bottom"]
+podbean.com##div[style^="z-index: 999999; position: fixed;"]
 satispay.com##p[class^="cookie-banner"]
 bethesda.net##visor-alert
 ! mobile.twitter.com

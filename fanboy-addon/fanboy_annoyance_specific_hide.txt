@@ -1748,6 +1748,7 @@ thecontributor.com##.block-sb-popup
 crainsdetroit.com,pet360.com,wsadirectory.com##.blockOverlay
 patchtogether.com,pet360.com##.blockUI
 radaronline.com##.block_whole
+forever21.com##.blockclick
 wired.com##.blog-follow
 runt-of-the-web.com##.blog_comment
 runt-of-the-web.com##.blog_email
@@ -2466,6 +2467,7 @@ thedailybeast.com##.newsweekElsewhere
 bmwblog.com,entrepreneur.com,glamour.com,globes.co.il,grubstreet.com,gwinnettdailypost.com,porn5.com,radaronline.com##.next
 fixya.com##.next-arrow
 ethnews.com,pokerupdate.com,wn.com##.next-article
+thetablet.co.uk##.next-article-btn
 digitaltrends.com##.next-article-flyout
 conservativereview.com##.next-article-link
 runnersworld.com,womenshealthmag.com##.next-item
@@ -2630,6 +2632,7 @@ ddnews.gov.in##.pre_next
 pornhub.com##.premiumPromoBannerWrapper
 bmwblog.com,globes.co.il,grubstreet.com,gwinnettdailypost.com,porn5.com##.prev
 fixya.com##.prev-arrow
+thetablet.co.uk##.prev-article-btn
 runnersworld.com,womenshealthmag.com##.prev-item
 nymag.com,vulture.com##.prev-next
 people.com##.prev-next-arrow
@@ -3414,7 +3417,7 @@ newscientist.com###marketingtertiary
 gearbest.com###mask
 rapidtvnews.com###masthead
 bcheights.com,cargofacts.com,cnn.com,dailyhive.com,etv.co.za,evonomics.com,fn.com,gimmesomeoven.com,kveller.com,lawandcrime.com,longreads.com,mtlblog.com,narrative.ly,nation.co.ke,nesthq.com,psypost.org,reliefweb.int,runthetrap.com,thewirecutter.com###mc-embedded-subscribe-form
-99fm.com.na,activistmommy.com,androidauthority.com,apriorit.com,artafricamagazine.org,bcheights.com,bhekisisa.org,bitguru.co.uk,biznews.com,breakingisraelnews.com,breakingnews.ie,caribjournal.com,chinafile.com,churchmilitant.com,circuitdigest.com,cjr.org,cointelegraph.com,current.org,dailyfreepress.com,dailytimes.com.pk,dailytrust.com.ng,exstreamist.com,fusion.net,gaystarnews.com,ghafla.com,groovekorea.com,howlermagazine.com,indiaclimatedialogue.net,iphoneincanada.ca,jewishinsider.com,justrunlah.com,majorgeeks.com,maoritelevision.com,monetarywatch.com,nbc.na,newsthump.com,newtimes.co.rw,nextbigfuture.com,nodez.co,nyc.gov,premiumtimesng.com,propublica.org,providr.com,punchng.com,rawstory.com,registerguard.com,rnw.org,russia-insider.com,sciencealert.com,sciencebulletin.org,seattletimes.com,secretflying.com,spokesman.com,sporttechie.com,stellar.ie,swissinfo.ch,techjuice.pk,technobuffalo.com,thenewsflasher.com,thequint.com,thestar.com.my,theyeshivaworld.com,wayfm.com,worldreligionnews.com,wttw.com###mc_embed_signup
+99fm.com.na,activistmommy.com,androidauthority.com,apriorit.com,artafricamagazine.org,bcheights.com,bhekisisa.org,bitguru.co.uk,biznews.com,blog.cloudflare.com,breakingisraelnews.com,breakingnews.ie,caribjournal.com,chinafile.com,churchmilitant.com,circuitdigest.com,cjr.org,cointelegraph.com,current.org,dailyfreepress.com,dailytimes.com.pk,dailytrust.com.ng,exstreamist.com,fusion.net,gaystarnews.com,ghafla.com,groovekorea.com,howlermagazine.com,indiaclimatedialogue.net,iphoneincanada.ca,jewishinsider.com,justrunlah.com,majorgeeks.com,maoritelevision.com,monetarywatch.com,nbc.na,newsthump.com,newtimes.co.rw,nextbigfuture.com,nodez.co,nyc.gov,premiumtimesng.com,propublica.org,providr.com,punchng.com,rawstory.com,registerguard.com,rnw.org,russia-insider.com,sciencealert.com,sciencebulletin.org,seattletimes.com,secretflying.com,spokesman.com,sporttechie.com,stellar.ie,swissinfo.ch,techjuice.pk,technobuffalo.com,thenewsflasher.com,thequint.com,thestar.com.my,theyeshivaworld.com,wayfm.com,worldreligionnews.com,wttw.com###mc_embed_signup
 activistmommy.com###mc_embed_signup-footer
 moneyweb.co.za###mc_embed_signup1
 priceonomics.com###mc_embed_signup_nojs
@@ -3459,6 +3462,7 @@ worldreligionnews.com###post_footer_promo
 sperry.com,striderite.com###promotionalPopup
 egmnow.com###pt_dark_over
 blog.intercom.io###pty_pkg
+gearjunkie.com###pu-wrapper
 queerty.com###queerty-article-email-prompt
 upi.com###rc_emailer
 businessesforsale.com###reg-promo
@@ -3531,7 +3535,7 @@ propertywheel.co.za###text-37
 chicagoreporter.com,mauritiustimes.com###text-4
 hellenicshippingnews.com###text-40
 aranews.net,infrastructurene.ws,powerlineblog.com,propertywheel.co.za###text-6
-beverlyhillsmagazine.com###text-8
+beverlyhillsmagazine.com,pqube.co.uk###text-8
 beverlyhillsmagazine.com,theplaylist.net###text-9
 azcapitoltimes.com###text-html-widget-17
 thefiscaltimes.com###tft-subscription-inline-block
@@ -3583,6 +3587,7 @@ codeproject.com##.alert-bar
 ifc.com##.amcn_newsletter_widget_module
 mic.com##.app-header__subscribe
 latinopost.com##.art_letter
+ucanews.com##.artcl_201
 todayonline.com##.article-detail_subscription
 vocativ.com##.article-footer
 newstatesman.com##.article-footer-promotion
@@ -3605,6 +3610,7 @@ nocamels.com##.bl-block-signuptextpage
 theticketmiami.com##.block--second-street--ss-block-signup
 ibtimes.com##.block-ibtimes-newsletters
 americamagazine.org##.block-mailchimp-signup
+ncronline.org##.block-ncr-api-emailmarketing
 asiaone.com##.block-webform
 allevents.in##.bottom-right-subscribe
 businesstimes.com.sg##.bottom-wrap
@@ -3846,6 +3852,7 @@ india.com,sassymamahk.com##.news-letter
 americamagazine.org##.newsLetterLink
 drive.com.au##.newsSubscribe
 weta.org##.news_signup
+la-croix.com##.news_w_02
 newsbtc.com##.newsform
 dnaindia.com##.newsletTab
 9to5mac.com,aawsat.com,about.com,algemeiner.com,antlionaudio.com,apracticalwedding.com,arab24.com,arabnews.com,atimes.com,autoguide.com,autoweek.com,bostonmagazine.com,brooklynbased.com,cheapies.nz,clickhole.com,cnet.com,completesportsnigeria.com,complex.com,computerworld.com,consumerreports.org,csoonline.com,defensenews.com,designntrend.com,discoverymedia.com,egyptiangazette.net.eg,elpais.com,emirates247.com,engadget.com,epicurious.com,essentialbaby.com.au,essentialkids.com.au,euractiv.com,eventfinda.co.nz,fashionotes.com,fivethirtyeight.com,geek.com,gizchina.com,goodfood.com.au,goodnet.org,grantland.com,graziadaily.co.uk,greatbritishchefs.com,greenbot.com,guyism.com,haaretz.com,hdwallpapers.in,healthday.com,hellomagazine.com,higherperspectives.com,hightimes.com,hodinkee.com,hottopics.ht,huffingtonpost.com,indypendent.org,infoq.com,infoworld.com,investopedia.com,israeltoday.co.il,itechpost.com,itworld.com,javaworld.com,jewishjournal.com,jns.org,jstor.org,kpfa.org,life.com,lifehack.org,maplin.co.uk,maritimejobs.com,massivesci.com,maxim.com,muckrock.com,multichannel.com,muslimnews.co.uk,nationalinterest.org,ndtv.com,nerve.com,networkworld.com,newrepublic.com,newsdeeply.com,npr.org,nymag.com,out-law.com,paidcontent.org,pbs.org,peoplesworld.org,piriform.com,pomade.com,popdust.com,presstv.com,propublica.org,psfk.com,recombu.com,redsharknews.com,revealnews.org,rsf.org,rumorfix.com,screencrush.com,silicon.co.uk,singularityhub.com,slate.com,speedcafe.com,stylecaster.com,swingbyswing.com,talkandroid.com,techbeat.com,techly.com.au,techtimes.com,the-star.co.ke,thebaffler.com,thedailybeast.com,thedrinknation.com,theepochtimes.com,themeshreport.com,thenevadaindependent.com,thenextweb.com,theregister.co.nz,theregister.co.uk,thetruthaboutcars.com,topdocumentaryfilms.com,travelweekly.com,truthdig.com,tvquran.com,twice.com,twitchy.com,variety.com,vice.com,vulture.com,weeklystandard.com,wgnamerica.com,wikitribune.com,yahoo.com##.newsletter
@@ -4120,6 +4127,7 @@ churchpop.com##div[id^="popup-embedded-"]
 theblaze.com##div[id^="sWidget_-_Newsletter_"]
 usnews.com##div[id^="signup-"]
 humanresourcesonline.net##div[style="background-color:#ffd7bf; padding:8px; margin-bottom:10px;"]
+vindy.com##div[style="border-bottom: #cbcbcb dotted 1px; margin-bottom: 10px;"]
 upi.com##div[style="float: right; margin: 10px; width: 300px;"]
 upi.com##div[style="padding: 0 10px 10px 10px; border-bottom: 1px solid #cccccc;"]
 bollywoodshaadis.com##div[style^="margin:30px 0 35px"]
@@ -4138,6 +4146,7 @@ rudaw.net##.icSubscribe
 breitbart.com##.rs
 afp.com,africacheck.org,bdnews24.com,breitbart.com,chronicle.co.zw,cruisemapper.com,dailystar.co.uk,inneram.com,itu.int,mailchi.mp,marketing-interactive.com,ndtv.com,oki.com,themeditelegraph.com,thetruthaboutcars.com,tokiomarinehd.com,wnd.com##.rss
 africacheck.org,independent.com.mt,monthlyreview.org,telekom.com,thetruthaboutcars.com##.subscribe
+rt.com##.top-menu_feed
 majornelson.com##.widget_mn_speedbump_rss
 ! ---------- Push notifications ----------
 livejapan.com###ptcd_modal_dialog
@@ -4161,6 +4170,7 @@ theweek.co.uk###block-theweek-footer-theweek-footer-top-link
 blaauwbergbeachhotel.co.za###btTop
 yna.co.kr###btn-go-wrap
 xda-developers.com###btn-top
+lamborghini-tractors.com###floatArrowUp
 allrecipes.com###footer_top_button
 cryptobizmagazine.com,financialexpress.com,ideaandcreativity.com,ijn.com,nationwideradiojm.com,thepatriot.com.na,tv360nigeria.com###go-top
 thecommentator.com###go_to_top
@@ -4216,7 +4226,7 @@ zte.com.cn##.back_top
 humanresourcesonline.net,marketing-interactive.com##.backtop
 paradisehill.cc##.block-to-top
 europa.eu##.btn-back-top
-valeo.com##.btn-top
+familybroadcastingcorporation.com,valeo.com##.btn-top
 bravotube.net,rt.com##.btn-up
 onlyfans.com##.btn_up
 hamodia.com##.btp
@@ -4281,6 +4291,7 @@ ebookfriendly.com##.side-scroll
 timeout.com##.site-footer__top-link
 grundig.com##.site-footer__up
 bay.com.mt##.sm-up-container
+worldstream.nl##.sticky-content
 brecorder.com##.subhtop
 galicianfilmforum.gal,openid.net##.tc-btt-wrapper
 tudorwatch.com##.tdr-footer__block-c
@@ -4296,6 +4307,7 @@ katestube.com,link11.com,picardirebel.co.za##.up
 xhamster.com,xhamster.one##.up-arrow
 crimerussia.com##.up-btn
 epicgames.com##.up-button
+webuycars.co.za##.up-scroll
 vodafone-wifi.com##.uparrow
 racedepartment.com##.xbScrollButtons
 appleinsider.com,chinadialogue.net,cricbuzz.com,gaycitynews.nyc,israeltoday.co.il,nca.aero,repsol.com,tradetracker.com,xinhuanet.com##a[href="#top"]

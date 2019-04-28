@@ -209,7 +209,7 @@
 ||amazonaws.com/wafmedia6.com/
 ||amazonaws.com/widgets.youcompare.com.au/
 ||amazonaws.com/youpop/
-||amazonaws.com^$script,domain=300mbdownload.net|bittorrent.am|gelbooru.com|grantorrent.net|hdvid.life|hdvid.tv|hdvid.xyz|katcr.host|macupload.net|mp3goo.com|ndtv.com|onhax.me|onvid.club|onvid.fun|onvid.online|onvid.pw|onvid.xyz|rgmechanicsgames.com|streamplay.to|thevideobee.to|usersfiles.com|vidhd.club|vidhd.icu|vidhd.pw|vshare.eu
+||amazonaws.com^$script,subdocument,domain=300mbdownload.net|bittorrent.am|gelbooru.com|grantorrent.net|hdvid.life|hdvid.tv|hdvid.xyz|katcr.host|macupload.net|mp3goo.com|ndtv.com|onhax.me|onvid.club|onvid.fun|onvid.online|onvid.pw|onvid.xyz|rgmechanicsgames.com|streamplay.to|thevideobee.to|usersfiles.com|vidhd.club|vidhd.icu|vidhd.pw|vshare.eu
 ||amazonaws.com^$third-party,xmlhttprequest,domain=300mbdownload.net|300mbfilms.co|bdupload.info|bigfile.to|bittorrent.am|c123movies.com|ddlvalley.cool|file-upload.com|frendz4m.com|fullstuff.co|hdvid.life|hdvid.tv|hdvid.xyz|katcr.host|macupload.net|ocean0fgames.com|onhax.me|onvid.club|onvid.fun|onvid.online|onvid.pw|onvid.xyz|rgmechanicsgames.com|sadeempc.com|suprafiles.org|thevideobee.to|tinypaste.me|tsumino.com|tvlivenow.com|vidhd.club|vidhd.icu|vidhd.pw|vidlox.tv|vidshare.us|vshare.eu|watchers.to|wizhdsports.is|yourvideohost.com
 ||amazonaws.com^*/ads/$image,domain=washingtonmonthly.com
 ||amazonaws.com^*/direct/$domain=mycbseguide.com
@@ -624,6 +624,7 @@
 ||d2yhukq7vldf1u.cloudfront.net^
 ||d2z1smm3i01tnr.cloudfront.net^
 ||d31807xkria1x4.cloudfront.net^
+||d31vxm9ubutrmw.cloudfront.net^
 ||d32pxqbknuxsuy.cloudfront.net^
 ||d32r9jwgeu9dzx.cloudfront.net^
 ||d33f10u0pfpplc.cloudfront.net^
@@ -670,6 +671,7 @@
 ||d4ngwggzm3w7j.cloudfront.net^
 ||d5pb47xzjz3fc.cloudfront.net^
 ||d5pvnbpawsaav.cloudfront.net^
+||d63a3au5lqmtu.cloudfront.net^
 ||d6bdy3eto8fyu.cloudfront.net^
 ||d6sav80kktzcx.cloudfront.net^
 ||d8qy7md4cj3gz.cloudfront.net^

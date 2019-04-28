@@ -39,6 +39,7 @@ designdevostransports.fr#@#.gform_widget
 novojornal.co.ao#@#.newsletter-modal
 billabong.com,strikerconcepts.com,tactxflashlights.com,urbanedcsupply.com#@#.newsletter-popup
 outbrain.com#@#.outbrain
+pch24.pl#@#.popup-newsletter
 inverse.com#@#.promos-newsletter
 push.abs-cbn.com,schufa.de#@#.push-container
 underconsideration.com#@#.push-wrap
@@ -54,6 +55,7 @@ channelnewsasia.com,kitacon.org,polskikoszyk.pl,redislabs.com#@#.scroll-top
 channelnewsasia.com,indiatimes.com,letyshops.com,msn.com,southernliving.com,tele2.ru#@#.scroll-up
 hyperoptic.com,playtech.co.nz,porozmawiajmyoit.pl,scan.co.uk#@#.scroll_top
 theuptake.org#@#.scrolltop
+ap.www.namecheap.com#@#.scrolltotop
 github.com,kifi.com,okcupid.com,retailmenot.com#@#.signup-email
 dualshockers.com#@#.socialfooter
 blackboat.com#@#.sqs-announcement-bar

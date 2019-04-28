@@ -122,6 +122,7 @@
 -share-icons-
 -share-icons.
 -share-master/
+-share-save/
 -share-sprite-
 -share-sprite.
 -share-tools-
@@ -2104,6 +2105,7 @@
 /social-pin.
 /social-pinterest-
 /social-plugin/*
+/social-plugins.
 /social-popup/*
 /social-profiles-widget/*$~stylesheet
 /social-proof-
@@ -2441,6 +2443,8 @@
 /subscribe_facebook.
 /subscribe_twitter.
 /synved-social/*
+/tabs-social.
+/tabs/social/*
 /technorati-icon.
 /technorati.png|$domain=~technorati.com
 /technorati_16.
@@ -2707,8 +2711,8 @@
 /visual/social/*
 /vk_button.
 /vkontakte.png
+/vkontakte.svg
 /vkontakte2_icon.
-/warp/js/social.js
 /whatsapp-button.
 /whatsapp_button.
 /whatsapp_icon.
@@ -2716,6 +2720,7 @@
 /whtapp-mob.
 /whtapp-web.
 /widget/digg/*$~stylesheet
+/widget/share?
 /widget_add_this_
 /Widgets/*/Tweets?
 /widgets/sharing-
@@ -3001,6 +3006,7 @@ _socialmedias2.
 _socials_icons.
 _SocialSprite.
 _socialtoggle.
+_sosyal_bar.
 _sp_social/
 _sprite_social.
 _sprite_social_

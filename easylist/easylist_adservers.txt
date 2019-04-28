@@ -835,6 +835,7 @@
 ||adzs.nl^$third-party
 ||adzyou.com^$third-party
 ||ae1a1e258b8b016.com^$third-party
+||aepetor.pw^$third-party
 ||aerobins.com^$third-party
 ||af201768865.com^$third-party
 ||afcyhf.com^$third-party
@@ -2078,6 +2079,7 @@
 ||engineseeker.com^$third-party
 ||enlarget.com^$third-party
 ||enlnks.com^$third-party
+||enoughts.info^$third-party
 ||enterads.com^$third-party
 ||entrecard.com^$third-party
 ||entrecard.s3.amazonaws.com^$third-party
@@ -2201,6 +2203,7 @@
 ||filtermomosearch.com^$third-party
 ||fimserve.com^$third-party
 ||finalanypar.link^$third-party
+||financenews.pw^$third-party
 ||fincastavancessetti.info^$third-party
 ||find-abc.com^$third-party
 ||find-cheap-hotels.org^$third-party
@@ -2298,6 +2301,7 @@
 ||fungus.online^$third-party
 ||funklicks.com^$third-party
 ||funnel-me.com^$third-party
+||funtikapa.info^$third-party
 ||furginator.pw^$third-party
 ||fusionads.net^$third-party
 ||future-hawk-content.co.uk^$third-party
@@ -2945,6 +2949,7 @@
 ||lexinget.info^$third-party
 ||lfstmedia.com^$third-party
 ||lgse.com^$third-party
+||libertycdn.com^$third-party
 ||licantrum.com^$third-party
 ||lielmy.com^$third-party
 ||liftdna.com^$third-party
@@ -2953,6 +2958,7 @@
 ||lightad.co.kr^$third-party
 ||lightningcast.net^$~object-subrequest,third-party
 ||likecontrol.com^$third-party
+||linformanceder.info^$third-party
 ||linicom.co.il^$third-party
 ||linicom.co.uk^$third-party
 ||linkbuddies.com^$third-party
@@ -4289,6 +4295,7 @@
 ||shoofle.tv^$third-party
 ||shoogloonetwork.com^$third-party
 ||shopalyst.com^$third-party
+||shoppanda.co^$third-party
 ||shoppingads.com^$third-party
 ||shopzyapp.com^$third-party
 ||showyoursite.com^$third-party
@@ -4437,6 +4444,7 @@
 ||sprintrade.com^$third-party
 ||sprkl.io^$third-party
 ||sproose.com^$third-party
+||spyoff.com^$third-party
 ||sq2trk2.com^$third-party
 ||squartedo.info^$third-party
 ||squarterun.com^$third-party
@@ -6695,6 +6703,7 @@
 ||afeeknuueaztxt.com^$third-party
 ||afeuvqrsswz.com^$third-party
 ||afgbvhocfvpm.com^$third-party
+||afnrmofoljod.com^$third-party
 ||afxtcajgtzcugb.com^$third-party
 ||afzkqajwcbub.com^$third-party
 ||afzoyaquhjltdd.com^$third-party
@@ -6704,6 +6713,7 @@
 ||agrxsdujnh.com^$third-party
 ||ahuivddkvrrebo.com^$third-party
 ||ahuosyyqprt.com^$third-party
+||aibcqjlvxxd.com^$third-party
 ||aiiukvzjtsc.com^$third-party
 ||aikdakxoc.com^$third-party
 ||aitdwhmcvlm.com^$third-party
@@ -6737,6 +6747,7 @@
 ||apfmwcktbj.com^$third-party
 ||apiryrkxkhil.com^$third-party
 ||aplfkrppjsutf.com^$third-party
+||apscxogwydnkx.com^$third-party
 ||apsntakwzycu.com^$third-party
 ||aqfpqzxzk.com^$third-party
 ||aqotbmnzra.com^$third-party
@@ -6759,6 +6770,7 @@
 ||aszyzwbjs.com^$third-party
 ||atczxgxuxloqf.com^$third-party
 ||atrcoikdyagv.com^$third-party
+||audersmi.com^$third-party
 ||aultemeztokc.com^$third-party
 ||authmoumrl.com^$third-party
 ||auwqdpbyl.com^$third-party
@@ -6794,6 +6806,7 @@
 ||bardogjvsa.com^$third-party
 ||bavftcgoapga.com^$third-party
 ||bbillwowlfur.com^$third-party
+||bbnnjjom.com^$third-party
 ||bbxaumvpzqpunx.com^$third-party
 ||bcajjtbzmdrl.com^$third-party
 ||bcobmmozfan.com^$third-party
@@ -6813,6 +6826,7 @@
 ||bgfdrngowyy.com^$third-party
 ||bgibrhkn.com^$third-party
 ||bgiiubagsuvv.com^$third-party
+||bgmgyuzcfrujc.com^$third-party
 ||bgzyppwk.com^$third-party
 ||bhfuoayzqqv.com^$third-party
 ||bhmzjxrf.com^$third-party
@@ -6829,6 +6843,7 @@
 ||bksbcawzviwcw.com^$third-party
 ||bkuubwuarrkxk.com^$third-party
 ||bkvwnbkq.com^$third-party
+||blgrwhaww.com^$third-party
 ||blqgnbxva.com^$third-party
 ||blwfqlmhi.com^$third-party
 ||bmichkohfqtnvq.com^$third-party
@@ -6868,6 +6883,7 @@
 ||bwohgwrk.com^$third-party
 ||bwvigmkn.com^$third-party
 ||bxejeqyudkgum.com^$third-party
+||bxniyvvxufxyoy.com^$third-party
 ||bxvydxjqklq.com^$third-party
 ||bygigguvflpv.com^$third-party
 ||bysziktift.com^$third-party
@@ -6875,6 +6891,7 @@
 ||bzeitvxguf.com^$third-party
 ||bzkmfzoxqmau.com^$third-party
 ||bzotzfcbhomw.com^$third-party
+||bzrsybcg.com^$third-party
 ||caajevalistl.com^$third-party
 ||caaqyzbpsbtk.com^$third-party
 ||camrfajedgku.com^$third-party
@@ -7034,6 +7051,7 @@
 ||dmnangpsbpm.com^$third-party
 ||dmrqnwtyttd.com^$third-party
 ||dnftqfwycmfqrs.com^$third-party
+||dnpehliwdvjkp.com^$third-party
 ||dnzevkqpk.com^$third-party
 ||docqacvwhgbxv.com^$third-party
 ||dojmlztmbrvp.com^$third-party
@@ -7047,6 +7065,7 @@
 ||dqiokxyebdc.com^$third-party
 ||dqyczunj.com^$third-party
 ||drjctivspweild.com^$third-party
+||drpmtzjanjqjpj.com^$third-party
 ||drsemkuhpg.com^$third-party
 ||drwfixovzqdcs.com^$third-party
 ||dsemgngou.com^$third-party
@@ -7078,6 +7097,8 @@
 ||dymaffzxk.com^$third-party
 ||dypmzetaj.com^$third-party
 ||dywqwrtnhegyz.com^$third-party
+||dzacosgvnz.com^$third-party
+||dzaqzgjsot.com^$third-party
 ||dzkmbajm.com^$third-party
 ||dzqoubtxsaskdl.com^$third-party
 ||dzztjcbt.com^$third-party
@@ -7121,6 +7142,7 @@
 ||eloumbsyd.com^$third-party
 ||elvfmxguozafu.com^$third-party
 ||elwbhndbxfqk.com^$third-party
+||emxztiidh.com^$third-party
 ||emzxewhgjt.com^$third-party
 ||enokjulejktukh.com^$third-party
 ||entlydazhcmlgx.com^$third-party
@@ -7158,6 +7180,7 @@
 ||ewgnexykqnyoun.com^$third-party
 ||ewlnukukkca.com^$third-party
 ||ewopxadcn.com^$third-party
+||ewrdeqrktgcu.com^$third-party
 ||exbphrqpqukm.com^$third-party
 ||exkruwviyy.com^$third-party
 ||eyqletzkhybsef.com^$third-party
@@ -7190,6 +7213,7 @@
 ||fgnzizhe.com^$third-party
 ||fgsjjpjhdlfthp.com^$third-party
 ||fgsmmpazsuqak.com^$third-party
+||fgzxlngohtg.com^$third-party
 ||fhluqrhmqs.com^$third-party
 ||fhsohqtif.com^$third-party
 ||fhtlyoqzyjjof.com^$third-party
@@ -7238,6 +7262,7 @@
 ||fsdvydpldxrbu.com^$third-party
 ||fsiadjbirgobi.com^$third-party
 ||fsjvhkobubai.com^$third-party
+||fsmpxxdyv.com^$third-party
 ||fsnhesxsw.com^$third-party
 ||fsqknqvlngde.com^$third-party
 ||ftqgkcmbkptohh.com^$third-party
@@ -7313,6 +7338,7 @@
 ||glvjbogft.com^$third-party
 ||glvzlhrrdjlme.com^$third-party
 ||glzaaewyvdkae.com^$third-party
+||gmcyfkrtw.com^$third-party
 ||gmeomlvmqlmu.com^$third-party
 ||gmowaloqmhtd.com^$third-party
 ||gmqczpcyzjeen.com^$third-party
@@ -7347,6 +7373,7 @@
 ||gtkikiwa.com^$third-party
 ||gtorsoxdh.com^$third-party
 ||gudlhvxz.com^$third-party
+||gugemfslzh.com^$third-party
 ||guhpyglt.com^$third-party
 ||gumdeqjzclc.com^$third-party
 ||guoyhfjrpt.com^$third-party
@@ -7401,12 +7428,14 @@
 ||hgbxmqyqoplpif.com^$third-party
 ||hgdmzshm.com^$third-party
 ||hgowmgat.com^$third-party
+||hheeffxjz.com^$third-party
 ||hhffiibyamkvyu.com^$third-party
 ||hhleomgyiruth.com^$third-party
 ||hhlrnfmn.com^$third-party
 ||hhrxmgaepe.com^$third-party
 ||higishzxn.com^$third-party
 ||hiitwzyvkdyvxn.com^$third-party
+||hjbfpopj.com^$third-party
 ||hjgmasrve.com^$third-party
 ||hjihwmtsltqi.com^$third-party
 ||hjjdmohuzp.com^$third-party
@@ -7425,6 +7454,7 @@
 ||hmepgymo.com^$third-party
 ||hmgozryqbc.com^$third-party
 ||hmzwcomigpqia.com^$third-party
+||hnhsvlswqtoxgn.com^$third-party
 ||hnntopkvrsivwc.com^$third-party
 ||hnregzjxsafu.com^$third-party
 ||hnshjxowpldar.com^$third-party
@@ -7460,6 +7490,7 @@
 ||hsufwxpdtddlh.com^$third-party
 ||hsydzoapohcvbz.com^$third-party
 ||htegogwj.com^$third-party
+||htlvvqlcqvq.com^$third-party
 ||hugjupzdpvuzdr.com^$third-party
 ||huhrxmgiofzna.com^$third-party
 ||hvgytlbdnuqunp.com^$third-party
@@ -7589,6 +7620,7 @@
 ||izwzyhlm.com^$third-party
 ||jacmnkcusf.com^$third-party
 ||jaihowgr.com^$third-party
+||jajkgegza.com^$third-party
 ||jakzpcgrxgda.com^$third-party
 ||jbcadlpdfsxsfe.com^$third-party
 ||jbdddxgjn.com^$third-party
@@ -7629,6 +7661,7 @@
 ||jiyvkdfab.com^$third-party
 ||jjhnnzef.com^$third-party
 ||jjokvprdxwf.com^$third-party
+||jjptjphnkrqnc.com^$third-party
 ||jkamuwyswgk.com^$third-party
 ||jkawfxvh.com^$third-party
 ||jkciacmcnya.com^$third-party
@@ -7646,11 +7679,13 @@
 ||jnhjvkapqf.com^$third-party
 ||jnhmeywrl.com^$third-party
 ||jnjbdvchvk.com^$third-party
+||jnljkbkiaqcmb.com^$third-party
 ||jnnswtdifjgx.com^$third-party
 ||johonmtpyv.com^$third-party
 ||josxzdszqaivb.com^$third-party
 ||jotpybmcjvg.com^$third-party
 ||jozfwcmrxkwva.com^$third-party
+||jpabviwck.com^$third-party
 ||jpdauipgz.com^$third-party
 ||jpmpvhelfeg.com^$third-party
 ||jpmyudcnpgl.com^$third-party
@@ -7718,6 +7753,7 @@
 ||kgobpqziy.com^$third-party
 ||kgqlrcjlrx.com^$third-party
 ||kgxemdznctlmya.com^$third-party
+||khaicoojypokng.com^$third-party
 ||khdmabhykmj.com^$third-party
 ||khefhmgfwnnqgv.com^$third-party
 ||kieecarfftwf.com^$third-party
@@ -7748,6 +7784,7 @@
 ||kpchywhqcrkz.com^$third-party
 ||kpgjogkbwjpmz.com^$third-party
 ||kpoplhjnhlagy.com^$third-party
+||kpwjtpgvowifq.com^$third-party
 ||kqflgvrwqpzwue.com^$third-party
 ||kqohskoysgxx.com^$third-party
 ||krpdqnnb.com^$third-party
@@ -7824,6 +7861,7 @@
 ||lknxarjfidm.com^$third-party
 ||lkohqfilvpked.com^$third-party
 ||lkojwhiwcsum.com^$third-party
+||lkuirehx.com^$third-party
 ||lkzvhtetshbu.com^$third-party
 ||llgvjtkg.com^$third-party
 ||llhjbwcjnuii.com^$third-party
@@ -7833,6 +7871,7 @@
 ||llvidwpt.com^$third-party
 ||lmccawemcuqma.com^$third-party
 ||lmcoiiwpguaorp.com^$third-party
+||lmepqfsazb.com^$third-party
 ||lmevacaixeqy.com^$third-party
 ||lmjxrhph.com^$third-party
 ||lmlvzeeag.com^$third-party
@@ -7865,6 +7904,7 @@
 ||lusfrsxgxopm.com^$third-party
 ||lvcrcimfmfx.com^$third-party
 ||lvctzafuvn.com^$third-party
+||lvesmhsex.com^$third-party
 ||lvgliqkumatjv.com^$third-party
 ||lvldcxnq.com^$third-party
 ||lvmnxohz.com^$third-party
@@ -7953,7 +7993,9 @@
 ||mtdlcstsqt.com^$third-party
 ||mtnobdfcgylhuj.com^$third-party
 ||muasoctv.com^$third-party
+||muoiuxfj.com^$third-party
 ||musighkm.com^$third-party
+||muwjxxvovtb.com^$third-party
 ||muxtpvixahawy.com^$third-party
 ||mvotvznetuvfb.com^$third-party
 ||mvunstblutptj.com^$third-party
@@ -8029,6 +8071,7 @@
 ||nnvqabkpa.com^$third-party
 ||nofhtrsaz.com^$third-party
 ||noiaifyednjt.com^$third-party
+||nolpjfsu.com^$third-party
 ||novhyaxaioxaon.com^$third-party
 ||nowymmrxj.com^$third-party
 ||noxredxaijqdb.com^$third-party
@@ -8063,6 +8106,7 @@
 ||nwazehtl.com^$third-party
 ||nwsderzo.com^$third-party
 ||nwwuhiukrq.com^$third-party
+||nwxtppuoeycp.com^$third-party
 ||nwxwaxhfg.com^$third-party
 ||nxewruvxprbd.com^$third-party
 ||nxjlnchylgsw.com^$third-party
@@ -8084,6 +8128,7 @@
 ||obeeifroxtivh.com^$third-party
 ||obpzuctfozram.com^$third-party
 ||obwvmzdb.com^$third-party
+||ocejkjkopphj.com^$third-party
 ||oceuwezutqfcbx.com^$third-party
 ||ocfsmefzzarkmo.com^$third-party
 ||ocixtsnyxxvyaw.com^$third-party
@@ -8188,6 +8233,7 @@
 ||pifsistcwycouc.com^$third-party
 ||piifwkvdil.com^$third-party
 ||pimygjumeyrtxe.com^$third-party
+||pismvlkq.com^$third-party
 ||pitduougk.com^$third-party
 ||piuhqbchk.com^$third-party
 ||pjbifjjtir.com^$third-party
@@ -8220,6 +8266,7 @@
 ||pqkorfrurnn.com^$third-party
 ||pquuiokltzjpeg.com^$third-party
 ||prctxexizzpp.com^$third-party
+||prcymjchczmbjj.com^$third-party
 ||prgncwamr.com^$third-party
 ||prulogzjtyksnh.com^$third-party
 ||ps7894.com^$third-party
@@ -8346,6 +8393,7 @@
 ||qtgarolvaigptk.com^$third-party
 ||qtjxalkllc.com^$third-party
 ||qtsyxyakun.com^$third-party
+||qtuckpvttvikd.com^$third-party
 ||qtwadryxicx.com^$third-party
 ||qtxihhkvln.com^$third-party
 ||quazhzeih.com^$third-party
@@ -8370,7 +8418,9 @@
 ||qybzvfvqzpmxpu.com^$third-party
 ||qydylxmzlnqw.com^$third-party
 ||qyfunsvmtudozq.com^$third-party
+||qyifxakawscsyd.com^$third-party
 ||qyiiudex.com^$third-party
+||qyqbslpprlph.com^$third-party
 ||qyrzcsoaey.com^$third-party
 ||qytabshszekf.com^$third-party
 ||qytuwxcozbk.com^$third-party
@@ -8509,6 +8559,7 @@
 ||sgiueejx.com^$third-party
 ||sgrreqyxvigwuh.com^$third-party
 ||sgxaqysyilwkiu.com^$third-party
+||sgzlmagzrrk.com^$third-party
 ||shacupwelhehqc.com^$third-party
 ||shapzwwy.com^$third-party
 ||shasnvadkustw.com^$third-party
@@ -8519,6 +8570,7 @@
 ||shohabiymgjxdb.com^$third-party
 ||siaiscphvghttd.com^$third-party
 ||sicpkohkcmt.com^$third-party
+||sihciabzm.com^$third-party
 ||sinyfqrmiqgd.com^$third-party
 ||sisrgcvomn.com^$third-party
 ||sisyqzktimhrgo.com^$third-party
@@ -8535,6 +8587,7 @@
 ||smnkyzqzfxk.com^$third-party
 ||smpbzsjpk.com^$third-party
 ||smuucatbrc.com^$third-party
+||snrmqtnnlxdgdh.com^$third-party
 ||snsgsqyv.com^$third-party
 ||snxvrnhe.com^$third-party
 ||soehcsryxyd.com^$third-party
@@ -8542,6 +8595,7 @@
 ||sosbyncpkyw.com^$third-party
 ||spwssohsyqgq.com^$third-party
 ||sqnkkpba.com^$third-party
+||sqsdyfgyjdjbx.com^$third-party
 ||srgszwexkpehb.com^$third-party
 ||srhovuokux.com^$third-party
 ||ssdsylfzav.com^$third-party
@@ -8552,11 +8606,13 @@
 ||sudolljkjzxdfc.com^$third-party
 ||sueolwxxosqch.com^$third-party
 ||sukgtuksypr.com^$third-party
+||sumsmoxssy.com^$third-party
 ||svbsvbwci.com^$third-party
 ||svdmxetbyfyg.com^$third-party
 ||svfqoztfopv.com^$third-party
 ||svmtvfuok.com^$third-party
 ||svntdcuxobohs.com^$third-party
+||swcuxrfitmjfee.com^$third-party
 ||swezbddhwcz.com^$third-party
 ||swmwgptzlgsc.com^$third-party
 ||swpopynngk.com^$third-party
@@ -8649,6 +8705,7 @@
 ||ttegjzxzxyetf.com^$third-party
 ||ttgvmqdpomt.com^$third-party
 ||tthvomis.com^$third-party
+||ttomktasfnqlg.com^$third-party
 ||ttulyfbkatyzp.com^$third-party
 ||tufpmrcdc.com^$third-party
 ||tuggbdzprgudk.com^$third-party
@@ -8727,11 +8784,13 @@
 ||unikmmqybjy.com^$third-party
 ||unkrokwhwn.com^$third-party
 ||unmdrnuzgel.com^$third-party
+||unrzhgdly.com^$third-party
 ||unyhjoehc.com^$third-party
 ||uoapkzwkoqnk.com^$third-party
 ||uoccvsdh.com^$third-party
 ||uohpnvpynvsz.com^$third-party
 ||uoicsyuiof.com^$third-party
+||uoifloesog.com^$third-party
 ||uopayiycy.com^$third-party
 ||uppybbhxbblxa.com^$third-party
 ||uprbleorptdghy.com^$third-party
@@ -8760,11 +8819,13 @@
 ||uuzjerqlmxnosw.com^$third-party
 ||uvlyzxml.com^$third-party
 ||uvniygdwmoojfm.com^$third-party
+||uvomthuqsqx.com^$third-party
 ||uvppdseel.com^$third-party
 ||uvyfszshvgassp.com^$third-party
 ||uvzfodimtska.com^$third-party
 ||uwidtpjwh.com^$third-party
 ||uwkwhedvie.com^$third-party
+||uwxldrvqyk.com^$third-party
 ||uxkkltrrxlowzo.com^$third-party
 ||uxnssjly.com^$third-party
 ||uyeluxauiq.com^$third-party
@@ -8779,6 +8840,7 @@
 ||uzxzkkyzb.com^$third-party
 ||uzylpwfamhcb.com^$third-party
 ||vajiyqbb.com^$third-party
+||vapgfhsecbit.com^$third-party
 ||vasfxpribls.com^$third-party
 ||vaslssynz.com^$third-party
 ||vbdrzplqtgk.com^$third-party
@@ -8822,6 +8884,7 @@
 ||viwsqbbvfknp.com^$third-party
 ||vjcewkcjqu.com^$third-party
 ||vjgyxegvfrhthq.com^$third-party
+||vjltrbzrtqmkib.com^$third-party
 ||vjzcgotoy.com^$third-party
 ||vkhrnisuky.com^$third-party
 ||vkrgljxqn.com^$third-party
@@ -8896,6 +8959,8 @@
 ||wbfwyzatvqjbnf.com^$third-party
 ||wblkmmxi.com^$third-party
 ||wbshrysmjwfplk.com^$third-party
+||wbswxksctrvw.com^$third-party
+||wbthdphsb.com^$third-party
 ||wcobqyeqpckkzh.com^$third-party
 ||wcwzzauws.com^$third-party
 ||wcyqoiyohhav.com^$third-party
@@ -8916,6 +8981,7 @@
 ||wgssxjoac.com^$third-party
 ||whgvyswets.com^$third-party
 ||whjibbprhng.com^$third-party
+||whjwcghg.com^$third-party
 ||whlugpfcuvryx.com^$third-party
 ||whlvjuprdpkg.com^$third-party
 ||whzavlaamjcnt.com^$third-party
@@ -8930,6 +8996,7 @@
 ||wjgddzpvx.com^$third-party
 ||wjmckfsdcxpj.com^$third-party
 ||wjpdgueqasdgeq.com^$third-party
+||wjuowevxibmg.com^$third-party
 ||wjvwxcnavjodj.com^$third-party
 ||wjwontqlqchq.com^$third-party
 ||wkhkffefck.com^$third-party
@@ -8948,6 +9015,7 @@
 ||woghqyjpiwddme.com^$third-party
 ||wozltvfxtntaqk.com^$third-party
 ||wpbhnyjej.com^$third-party
+||wpkcfajkeytrro.com^$third-party
 ||wplqgfpj.com^$third-party
 ||wpxowkmaeyrte.com^$third-party
 ||wqkpadciw.com^$third-party
@@ -8963,6 +9031,7 @@
 ||wsucuzkmnd.com^$third-party
 ||wszpjhuosjeexj.com^$third-party
 ||wtrzjadunrzx.com^$third-party
+||wuaefxberbqcv.com^$third-party
 ||wubdkryfkr.com^$third-party
 ||wucbuvitibyiy.com^$third-party
 ||wuldvrdfie.com^$third-party
@@ -8987,6 +9056,7 @@
 ||wyuakcwxmiunqj.com^$third-party
 ||wyycgfyum.com^$third-party
 ||wyyrjymqewhulr.com^$third-party
+||wzdrtzvp.com^$third-party
 ||wzghuwvuyxknpv.com^$third-party
 ||wzismevwhqixlq.com^$third-party
 ||wzlcpagvidi.com^$third-party
@@ -9019,6 +9089,7 @@
 ||xeflnvycs.com^$third-party
 ||xeirmdgphdl.com^$third-party
 ||xellvrgouivty.com^$third-party
+||xffljxbbpy.com^$third-party
 ||xfmjleuaqgnuvv.com^$third-party
 ||xfrusgbifkba.com^$third-party
 ||xfwwhapm.com^$third-party
@@ -9059,6 +9130,7 @@
 ||xndskrtxkiv.com^$third-party
 ||xnfwhndl.com^$third-party
 ||xnjsdpohkgn.com^$third-party
+||xnmwxndqhyt.com^$third-party
 ||xnnbvckd.com^$third-party
 ||xnqfpnszqwpijd.com^$third-party
 ||xnwqhydt.com^$third-party
@@ -9078,6 +9150,7 @@
 ||xsgacudwlysw.com^$third-party
 ||xsgcobwd.com^$third-party
 ||xskbsyssik.com^$third-party
+||xsqylzml.com^$third-party
 ||xtccyvimdr.com^$third-party
 ||xtixyzjeibh.com^$third-party
 ||xtsnbxwak.com^$third-party
@@ -9132,6 +9205,7 @@
 ||ygdnflmhslwi.com^$third-party
 ||ygefxaurh.com^$third-party
 ||ygngaqihz.com^$third-party
+||yhaztdufgmw.com^$third-party
 ||yhyxopmgofz.com^$third-party
 ||yifuqtge.com^$third-party
 ||yimfcnxzyqhpih.com^$third-party
@@ -9176,6 +9250,7 @@
 ||yptwqjdgikmcqc.com^$third-party
 ||ypummbggdjex.com^$third-party
 ||yqmmjmjxdigdak.com^$third-party
+||yrbjfusd.com^$third-party
 ||yrkozodemantj.com^$third-party
 ||yrpjklwly.com^$third-party
 ||yrtyflmurngv.com^$third-party
@@ -9198,6 +9273,7 @@
 ||yvlmcehqt.com^$third-party
 ||yvlrhnzid.com^$third-party
 ||yvsymvjzk.com^$third-party
+||ywcxuagtmrawx.com^$third-party
 ||ywegbjiv.com^$third-party
 ||ywlaafzvnn.com^$third-party
 ||ywolsukpto.com^$third-party
@@ -9230,6 +9306,7 @@
 ||zcfbwlgydxo.com^$third-party
 ||zcjxeitlmnuq.com^$third-party
 ||zcwjasfrog.com^$third-party
+||zdhnepeadrwetg.com^$third-party
 ||zdjkzqwpqvwcmc.com^$third-party
 ||zdydvjzexmp.com^$third-party
 ||zfcjtxosje.com^$third-party
@@ -9252,6 +9329,7 @@
 ||zjwcddahpz.com^$third-party
 ||zkfhdpogauqb.com^$third-party
 ||zkfjgzonjvg.com^$third-party
+||zkmyaizgc.com^$third-party
 ||zkowrpcb.com^$third-party
 ||zkqpoamv.com^$third-party
 ||zksdztizohcfy.com^$third-party
@@ -9273,6 +9351,7 @@
 ||zomsfhgj.com^$third-party
 ||zonhpljclov.com^$third-party
 ||zoszujvvlu.com^$third-party
+||zotjktpk.com^$third-party
 ||zoyxbjmmlsrc.com^$third-party
 ||zpaimilpqx.com^$third-party
 ||zpcxpdpqllyrb.com^$third-party
@@ -9300,6 +9379,7 @@
 ||zuiiyzgiof.com^$third-party
 ||zukbmxbrv.com^$third-party
 ||zukipoayrlh.com^$third-party
+||zuwuqxstogbj.com^$third-party
 ||zuybvpprdoo.com^$third-party
 ||zvdacnjhetcrq.com^$third-party
 ||zvovdtomwa.com^$third-party
@@ -9318,6 +9398,7 @@
 ||zxpevjccjb.com^$third-party
 ||zxqudunt.com^$third-party
 ||zxreyuxvrjzxa.com^$third-party
+||zxwnolwaump.com^$third-party
 ||zzmyypjedpfxck.com^$third-party
 ||zzoxzkpqmklr.com^$third-party
 ||zzrdvzryaiwsin.com^$third-party
@@ -16553,6 +16634,7 @@
 ||yatab.net^$third-party
 ! Yavli.com
 ||07cdgbg.com^$image,third-party
+||23rsdsfdsf.com^$image,third-party
 ||247view.net^$image,third-party
 ||3dfrsdwde.com^$image,third-party
 ||46779ff4.net^$image,third-party
@@ -16629,6 +16711,7 @@
 ||cuantroy.com^$image,third-party
 ||cuasparian.com^$image,third-party
 ||d3lens.com^$image,third-party
+||d4orbital.com^$image,third-party
 ||derkopd.com^$image,third-party
 ||deuskex.link^$image,third-party
 ||dgg3632.com^$image,third-party
@@ -16658,8 +16741,10 @@
 ||ergewrg.com^$image,third-party
 ||erht5jhy.com^$image,third-party
 ||ershgrst.com^$image,third-party
+||erteesffesf.com^$image,third-party
 ||erwgerwt.com^$image,third-party
 ||esults.net^$image,third-party
+||etxbcbdhf.com^$image,third-party
 ||exactly0r.com^$image,third-party
 ||exciliburn.com^$image,third-party
 ||excolobar.com^$image,third-party
@@ -16671,6 +16756,7 @@
 ||fdhgxdfdfd.com^$image,third-party
 ||fegesd.net^$image,third-party
 ||fer4ere.com^$image,third-party
+||fhddhfhz.com^$image,third-party
 ||fhgtrhrt.net^$image,third-party
 ||flaudnrs.me^$image,third-party
 ||flaurse.net^$image,third-party
@@ -16696,6 +16782,7 @@
 ||gruadhc.com^$image,third-party
 ||gruanchd.link^$image,third-party
 ||gruandors.net^$image,third-party
+||gtsgdddss.com^$image,third-party
 ||gualdoniye.com^$image,third-party
 ||guaperty.net^$image,third-party
 ||guiandr.com^$image,third-party
@@ -16704,6 +16791,7 @@
 ||hapnr.net^$image,third-party
 ||havnr.com^$image,third-party
 ||heizuanubr.net^$image,third-party
+||hjklf.com^$image,third-party
 ||hobri.net^$image,third-party
 ||holmgard.link^$image,third-party
 ||hoppr.co^$image,third-party
@@ -16717,6 +16805,7 @@
 ||insiruand.com^$image,third-party
 ||inter1ads.com^$third-party
 ||invetpl.com^$image,third-party
+||ioghdgdgss.com^$image,third-party
 ||iunbrudy.net^$image,third-party
 ||ivism.org^$image,third-party
 ||jaspensar.com^$image,third-party
@@ -16760,7 +16849,9 @@
 ||nuaknamg.net^$image,third-party
 ||nualoghy.com^$image,third-party
 ||nuzilung.net^$image,third-party
+||ofgbefrhs.com^$image,third-party
 ||oiurtedh.com^$image,third-party
+||ojujyjjgg.com^$image,third-party
 ||ootloakr.com^$image,third-party
 ||oplo.org^$image,third-party
 ||opner.co^$image,third-party
@@ -16772,6 +16863,7 @@
 ||pianoldor.com^$image,third-party
 ||picstunoar.com^$image,third-party
 ||pikkr.net^$image,third-party
+||pjdhfwe.com^$image,third-party
 ||plex2.com^$image,third-party
 ||poaulpos.net^$image,third-party
 ||poaurtor.com^$image,third-party
@@ -16784,7 +16876,9 @@
 ||putkjter.com^$image,third-party
 ||q3sift.com^$image,third-party
 ||qaulinf.com^$image,third-party
+||qetstdbssdvs.com^$image,third-party
 ||qewa33a.com^$image,third-party
+||qfosjgnd.net^$image,third-party
 ||qftdsg.com^$image,third-party
 ||quandrer.link^$image,third-party
 ||quickmoneyanswers.org^$image,third-party
@@ -16798,6 +16892,7 @@
 ||rddywd.com^$image,third-party
 ||rdige.com^$image,third-party
 ||reaspans.com^$image,third-party
+||regdsvee.com^$image,third-party
 ||regersd.net^$image,third-party
 ||rehtsacdr.com^$image,third-party
 ||rehyery.com^$image,third-party
@@ -16811,8 +16906,15 @@
 ||rlex.org^$image,third-party
 ||rterdf.me^$image,third-party
 ||sddddjsjf.net^$image,third-party
+||shgnts.net^$image,third-party
 ||snfsnm5.net^$image,third-party
+||tjdasfdssd.com^$image,third-party
+||uyiyuiyuiy.com^$image,third-party
+||weufdhsas.com^$image,third-party
+||wfghrgscs.com^$image,third-party
+||wqtdtstdxg.com^$image,third-party
 ||yvsystem.com^$document
+||zcrfefgrg.com^$image,third-party
 ! ||ruamupr.com^$image,third-party
 ||ruandorg.com^$image,third-party
 ||ruandr.com^$image,third-party

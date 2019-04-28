@@ -1540,6 +1540,7 @@
 ||puritan.com/images/pixels/
 ||pvstat.china.cn^
 ||pw.org/sites/all/*/ga.js
+||px.wayfair.com^
 ||qbn.com/media/static/js/ga.js
 ||quantserve.com/pixel;
 ||questionmarket.com/adsc/
@@ -1895,6 +1896,7 @@
 ||srt.pch.com^
 ||ssc.api.bbc.com^
 ||ssl-stats.wordpress.com^
+||st.arte.tv^
 ||startpage.*/avtc?
 ||startpage.*/do/avt?$image
 ||startpage.*/do/smt?
@@ -2232,6 +2234,7 @@
 ||twitch.tv/track/
 ||twitter.com/abacus?
 ||twitter.com/i/csp_report?
+||twitter.com/metrics
 ||twitter.com/scribe?
 ||twitter.com/scribes/
 ||twitter.com^*/anonymize?data
@@ -2396,6 +2399,7 @@
 ||wired.com/js/stats/
 ||wired.com/tracker.js
 ||witn.com/g/g/button/
+||wla.vivaldi.com^
 ||wnd.com/s.js
 ||wolfram.com/common/javascript/wal/
 ||worksheetsengine.com/fd/ls/l?

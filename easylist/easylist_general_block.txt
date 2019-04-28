@@ -332,6 +332,7 @@
 -core-ads.
 -cpm-ad.
 -cpm-ads.
+-cust-ad.
 -dfp-ads/
 -dfp-adunits.
 -display-ads.
@@ -709,7 +710,7 @@
 .oasfile.
 .oastagging.
 .online/ads/
-.openad.
+.openad.$domain=~openad.lv
 .openx.$domain=~openx.com
 .openxtag.
 .org/ad-
@@ -2222,7 +2223,7 @@
 /adrevenue/*
 /adrevolver/*
 /adrich.
-/adright.
+/adright.$domain=~adright.com
 /adright/*
 /adrightcol.
 /adriver.$~object-subrequest
@@ -3670,6 +3671,7 @@
 /ak/ads/*
 /all/ad/*
 /all_ads/*
+/alternativeads/*
 /alternet.ad?
 /alwebad_
 /am/ads.
@@ -3705,6 +3707,7 @@
 /Article-Ad-
 /article-advert-
 /article_ad.
+/article_ads-
 /articlempuadvert/*
 /articleSponsorDeriv_
 /artimediatargetads.
@@ -5662,7 +5665,7 @@
 /OnlineAdServing/*
 /onplayerad.
 /ontopadvertising.
-/openad.
+/openad.$domain=~openad.lv
 /openads-
 /openads.
 /openads/*
@@ -7048,7 +7051,7 @@
 ://a.ads.
 ://ad.*/jstag^
 ://adcl.$domain=~adcl.com
-://ads.$domain=~ads.ac.uk|~ads.adstream.com.ro|~ads.am|~ads.bigbom.com|~ads.colombiaonline.com|~ads.comeon.com|~ads.elcarado.com|~ads.google.com|~ads.harvard.edu|~ads.lapalingo.com|~ads.lordlucky.com|~ads.mobilebet.com|~ads.msstate.edu|~ads.nc|~ads.nimses.com|~ads.quasaraffiliates.com|~ads.red|~ads.route.cc|~ads.safi-gmbh.ch|~ads.sk|~ads.socialtheater.com|~ads.toplayaffiliates.com|~ads.viksaffiliates.com|~ads.watson.ch|~ads.xtribeapp.com|~badassembly.com|~caravansforsale.co.uk|~fusac.fr|~memo2.nl|~reempresa.org|~seriouswheels.com
+://ads.$domain=~ads.ac.uk|~ads.adstream.com.ro|~ads.am|~ads.bigbom.com|~ads.colombiaonline.com|~ads.comeon.com|~ads.elcarado.com|~ads.google.com|~ads.harvard.edu|~ads.lapalingo.com|~ads.lordlucky.com|~ads.mobilebet.com|~ads.msstate.edu|~ads.nc|~ads.nimses.com|~ads.quasaraffiliates.com|~ads.red|~ads.route.cc|~ads.safi-gmbh.ch|~ads.sk|~ads.socialtheater.com|~ads.taboola.com|~ads.toplayaffiliates.com|~ads.viksaffiliates.com|~ads.watson.ch|~ads.xtribeapp.com|~badassembly.com|~caravansforsale.co.uk|~fusac.fr|~memo2.nl|~reempresa.org|~seriouswheels.com
 ://adv.$domain=~adv.bet|~adv.cincsys.com|~adv.co.it|~adv.cryptonetlabs.it|~adv.derfunke.at|~adv.ee|~adv.gg|~adv.michaelgat.com|~adv.msk.ru|~adv.ru|~adv.vg|~adv.works|~adv.yomiuri.co.jp|~advids.co|~erti.se|~escreverdireito.com|~farapp.com|~forex-tv-online.com|~r7.com|~typeform.com|~welaika.com
 ://affiliate.$third-party
 ://affiliates.$third-party
@@ -7434,6 +7437,7 @@ _adright2.
 _adrotator.
 _adrow-
 _ads-affiliates_
+_ads-rtk.
 _ads.cgi
 _ads.cms?
 _ads.html
@@ -7523,6 +7527,7 @@ _adtoma.
 _adtop.
 _adtxt.
 _adunit.
+_adunits/
 _adv/300.
 _adv/leaderboard_
 _adv/overlay/
@@ -7642,6 +7647,7 @@ _fach_ad.
 _fbadbookingsystem&
 _feast_ad.
 _files/ad.
+_files/ads/
 _fixed_ad.
 _floating_ad_
 _floatingad_

@@ -3188,6 +3188,7 @@
 ###adtechbanner728
 ###adtext
 ###adtext-top-content
+###adtoniq-msg-bar
 ###adtop
 ###adtopDet
 ###adtopHeader
@@ -5950,6 +5951,7 @@
 ###jobsAdBox
 ###joead
 ###joead2
+###js-ad-billboard
 ###js-ad-leaderboard
 ###js-adslot-300x250-storyrec
 ###js-image-ad-mpu
@@ -9056,6 +9058,7 @@
 ##.ad-block-in-post
 ##.ad-block-square
 ##.ad-block-wide
+##.ad-block-wrapper
 ##.ad-blog2biz
 ##.ad-blogads
 ##.ad-board
@@ -9389,6 +9392,7 @@
 ##.ad-nav-ad
 ##.ad-nav-ad-plus
 ##.ad-new
+##.ad-no-notice
 ##.ad-no-style
 ##.ad-noBorderAndMargin
 ##.ad-noline
@@ -12919,6 +12923,7 @@
 ##.adwhitespace
 ##.adwide
 ##.adwidget
+##.adwithspace
 ##.adwolf-holder
 ##.adword-box
 ##.adword-structure
@@ -14629,7 +14634,10 @@
 ##.ez-clientAd
 ##.ezAdsWidget
 ##.ezAdsense
+##.ezmob-footer
+##.ezo_ad
 ##.ezoic-ad
+##.ezoic-floating-bottom
 ##.f-ad
 ##.f-item-ad
 ##.fN-affiliateStrip
@@ -14982,6 +14990,7 @@
 ##.gen_side_ad
 ##.general-adzone
 ##.general_banner_ad
+##.generations-container__ad-space
 ##.generic-ad-module
 ##.generic-ad-title
 ##.generic_300x250_ad
@@ -16127,6 +16136,7 @@
 ##.lr-ad
 ##.lr_skyad
 ##.lsn-yahooAdBlock
+##.lt_ad
 ##.lt_ad_call
 ##.luma-ad
 ##.luxeAd
@@ -20166,6 +20176,7 @@
 ##.amp_ad_header
 ##.amp_ad_wrapper
 ##.ampad
+##.spotim-amp-list-ad
 ##AMP-AD
 ! Dealnews (Hearst Newspapers)
 ##div[class$="dealnews"] > .dealnews

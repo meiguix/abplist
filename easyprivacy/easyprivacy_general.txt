@@ -305,6 +305,7 @@
 /2x2.gif?$image
 /3rd-party-stats/*
 /4399stat.js
+/500b-bench.jpg?
 /?&cs=*&pid=*&tid=
 /?&pid=*&subid=$image
 /?&subid=*&pid=$image
@@ -1495,6 +1496,7 @@
 /eventlog.js
 /eventLogServlet?
 /events-collector.
+/events.gif?
 /events/*?event=
 /events/capture?
 /events?data=
@@ -1903,6 +1905,7 @@
 /hs_track.
 /hsc/trk/*
 /hstrck-detect.
+/hubspot_tracking.
 /HuShenGangTong.js
 /i.php?i=
 /i.png?id=
@@ -2364,8 +2367,10 @@
 /metrics/vanity/?
 /metricsISCS.
 /metrika/*?ident=
+/metrika/watch.
 /metrika/watch_
 /metriks/watch.
+/metriks/watch_
 /metrimatics/*
 /metriweb.js
 /metriweb/spring.js
@@ -3270,6 +3275,7 @@
 /stat-analytics/*
 /stat.asmx
 /stat.aspx?
+/stat.cgi?
 /stat.gif?
 /stat.htm?
 /stat.js?
@@ -3278,7 +3284,9 @@
 /stat.tiff?
 /stat/ad?
 /stat/count
+/stat/event/*
 /stat/event?
+/stat/eventManager/*
 /stat/fe?
 /stat/inserthit.
 /stat/track.php?mode=js
@@ -3532,6 +3540,7 @@
 /topic_page_timer?
 /toplytics.js
 /tops-counter?
+/torimochi.js
 /touchclarity/*
 /tp.gif?
 /tpix.gif?
@@ -3777,6 +3786,7 @@
 /tracking202/*
 /Tracking?id=
 /Tracking?t=
+/tracking?vs=
 /tracking_add_ons.
 /tracking_ajax.
 /tracking_clic.
@@ -3978,6 +3988,7 @@
 /v53.js
 /v53nse.js
 /v60.js
+/va-stat.
 /valor_analytics.
 /valor_analytics/*
 /valueclickbrands/*

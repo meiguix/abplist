@@ -123,7 +123,7 @@ frankonia.de##.fr-c-message
 jesus.de##.gaoop
 tipp24.com##.gdpr
 galeria-kaufhof.de##.gk-stickymessage
-brigitte.de,geo.de##.guj-cb
+brigitte.de,essen-und-trinken.de,geo.de##.guj-cb
 tork.de##.headerMessage
 postbank.de##.header__notification
 henryschein.at##.hs-block-ui
@@ -460,6 +460,7 @@ napsu.fi###napsu_cc
 sentraali.fi###popmake-4055
 spot-a-shop.fi###popup-notifications
 satakunnanautotalo.fi##.AVS-evasteseloste-container
+kulttuurivihkot.fi##.activebar-container
 americanairlines.fi##.alert
 sonera.fi##.attention-notice
 vismasign.fi##.banner
@@ -471,6 +472,7 @@ blogit.fi,ilmainensanakirja.fi,telsu.fi##.cookies
 ifolor.fi##.dialogBanner--align-bottom
 vr.fi##.headerContents > .infoMessages
 pelit.fi,telia.fi##.notification
+helmet.fi##.notifier_warning
 suomi24.fi##.s24_cc_banner-wrapper
 dplay.fi##div[class^="notification"]
 !
@@ -875,7 +877,7 @@ abt-s.pl##.reveal-modal-bg
 bierhalle.pl,pbsbank.pl,scanner.com.pl##.rstboxes
 yogenfruz.pl##.shotimoo
 megawrzuta.pl##.slickModal
-80dni.pl,ap-goal.pl,badaniaprenatalne.pl,bellpolska.com.pl,bezprawaanirusz.pl,businesstraveller.pl,careego.pl,centrum-terapii.pl,clubdelux.pt,codzienniefit.pl,ecochemia.pl,erif.pl,esportnow.pl,faktykonopne.pl,haft.com.pl,infokonsument.pl,instalnet.pl,intercyza-blog.pl,investjourney.pl,ironsky.pl,jasnastronamocy.info,jmdi.pl,kamienieogrodowe.com,karmopedia.pl,kartanauczycielablog.pl,konsalnet.pl,leszekbloch.pl,madameedith.com,mamysprawy.pl,maxbus.com.pl,mhtm.pl,naszwybir.pl,nowasprzedaz.pl,osiedlenatura.com.pl,pandrwal.pl,pierwsze-kroki.com,poloniawroclaw.pl,predathor.pl,programistanaswoim.pl,przedawnione.pl,przedsiebiorcza.com,przedszkolankowo.pl,przesył-energii.pl,radiowarszawa.com.pl,sds-automatyka.pl,spkomandytowa.pl,stanprawnynieruchomosci.pl,studiosante.pl,szkoleniamaciolek.com,teatr-capitol.pl,towsrodku.pl,wars.pl,warunki-zabudowy.com.pl,wspolnotakrzyzasmolec.pl,yasumi.pl,zabieganamama.com,zatorland.pl,zsm.edu.pl,zuch.media##.spu-bg
+80dni.pl,ap-goal.pl,badaniaprenatalne.pl,bellpolska.com.pl,bezprawaanirusz.pl,businesstraveller.pl,careego.pl,centrum-terapii.pl,clubdelux.pt,codzienniefit.pl,ecochemia.pl,erif.pl,esportnow.pl,faktykonopne.pl,haft.com.pl,infokonsument.pl,instalnet.pl,intercyza-blog.pl,investjourney.pl,ironsky.pl,jasnastronamocy.info,jmdi.pl,kamienieogrodowe.com,karmopedia.pl,kartanauczycielablog.pl,konsalnet.pl,leszekbloch.pl,madameedith.com,mamysprawy.pl,maxbus.com.pl,mhtm.pl,naszwybir.pl,nowasprzedaz.pl,osiedlenatura.com.pl,pandrwal.pl,piekarniabialogon.pl,pierwsze-kroki.com,poloniawroclaw.pl,predathor.pl,programistanaswoim.pl,przedawnione.pl,przedsiebiorcza.com,przedszkolankowo.pl,przesył-energii.pl,radiowarszawa.com.pl,rauhanpuolustajat.org,sds-automatyka.pl,spkomandytowa.pl,stanprawnynieruchomosci.pl,studiosante.pl,szkoleniamaciolek.com,teatr-capitol.pl,towsrodku.pl,wars.pl,warunki-zabudowy.com.pl,wspolnotakrzyzasmolec.pl,yasumi.pl,zabieganamama.com,zatorland.pl,zsm.edu.pl,zuch.media##.spu-bg
 spotlight.pl##.statement-container
 konsbud-hifi.com.pl##.sticky-footer
 szybkopraca.pl##.toast
@@ -913,6 +915,7 @@ e-elektron.pl##div[style="z-index: 100;  font-family: Arial; font-size: 12px; te
 sanprobi-superformula.pl##div[style="z-index:99999;text-align:center;position:fixed;bottom:0;left:0;right:0;overflow:hidden;padding:20px 70px;background:rgba(0,0,0,0.7);color:#fff"]
 kinoteka.pl##div[style^="font-size: 13px;"]
 sfinks.org.pl##div[style^="left: 0px; top:"]
+visionexpress.pl##div[style^="margin: 0px auto; padding:"]
 pallottinum.pl##div[style^="padding:5px 15px;padding-top:5px;"]
 vas.com.pl##div[style^="top:0;left:0;right:0;"]
 zs1mm.edu.pl##frame
