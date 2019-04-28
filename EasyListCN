@@ -1130,6 +1130,7 @@ _xiuno_com_ad/
 ##.modal-sm
 ##.module-image[style*="width:1100px;"]
 ##.module-image[style*="width:1240px;"]
+##.mt35
 ##.mzdh_bottom
 ##.nav_ads
 ##.nav_link[href^="http"]:not([href*=".qq."])
