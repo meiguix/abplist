@@ -64,6 +64,7 @@
 ###bottom-sponsor
 ###bottomAD
 ###bottomFixed
+###bottomImg
 ###bottomInquryBar
 ###cboxOverlay
 ###cms-company
@@ -160,6 +161,7 @@
 ###left_top_ad
 ###left_up_float_ad
 ###loan_ad_mod_a
+###loc
 ###local_pb_top
 ###lovexin1
 ###lovexin11
@@ -278,6 +280,7 @@
 ###toperAd2
 ###topic_ylzz_new
 ###toptb + div[align="center"]
+###topTxt
 ###tr_ad1
 ###tr_ad10
 ###tr_ad11
@@ -394,6 +397,7 @@
 ##.adsoho
 ##.adTopImg
 ##.adv1000
+##.advert
 ##.advertise
 ##.advertise_right_index
 ##.advs
@@ -428,6 +432,7 @@
 ##.below_ads
 ##.blk-wxfollow
 ##.blk-zcapp
+##.blog-expert-recommend-box
 ##.bm.a_c
 ##.bn728-93
 ##.body-Top-Ad
@@ -667,6 +672,7 @@
 ##.player_bg_ad
 ##.post_client_down
 ##.privilege-promote
+##.pulllog-box
 ##.qb-other-answer-wmad
 ##.qb-relate-box
 ##.qipai_thread
@@ -720,6 +726,7 @@
 ##.sj_300x250
 ##.sj_680x250
 ##.slide-bner-adv-ret
+##.slide-outer
 ##.slider_item[href^="http"]:not([href*=".qq."])
 ##.SP_ad_20150703
 ##.spage-couplet-container
@@ -937,6 +944,7 @@
 ##div[style="width:728px; height:90px; margin:auto;padding-top:5px;"]
 ##div[style="width:728px; height:90px; margin:auto; padding-top:5px;"]
 ##div[style="width:728px; height:90px; margin:auto; padding-top:10px;"]
+##div[style="width:1080px;height:60px;background:#fff; margin-bottom:10px;"]
 ##div.clearfix[style*="1000"]
 ##iframe[id^="sinaadtk_"]
 ##img[data-link][data-src*="/u/"]:not([data-link*="/i/"])
