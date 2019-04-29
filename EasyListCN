@@ -405,10 +405,10 @@
 /tuiguang/*
 /u/_sponsor/*
 /uc123_no/*/index/js/activity.
-/variety.tc.qq.com^
+/variety.tc.qq.com^*.mp4?
 /View/img/b72890.jpg
 /vipgg/*
-/vlive.qqvideo.tc.qq.com^
+/vlive.qqvideo.tc.qq.com^*.mp4?
 /wap/js/gg/*
 /wap_advpic/*
 /wdzj_banners.js
