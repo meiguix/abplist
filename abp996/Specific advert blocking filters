@@ -79,7 +79,7 @@
 /the_top$domain=28188.com|28188.net
 /tres/recommend/*$domain=ifeng.com
 /uniontgm.cmb.
-/vmind.qqvideo.tc.qq.com^
+/vmind.qqvideo.tc.qq.com^*.mp4?
 /w234.js$domain=dilidili.name
 /w_e_b/de_li_ve_ry/a_j_s.php?zid=$domain=cnlmjx.com
 /web/ad/*$domain=gamer.com.tw
@@ -94,7 +94,7 @@
 :88/lighttpd/default/
 ?method=baidu.ting.commercial.tactics&
 _!!1731999033.
-_vmind.qqvideo.tc.qq.com^
+_vmind.qqvideo.tc.qq.com^*.mp4?
 _yad_jsonp_
 |http*://$image,third-party,domain=avtbu.com
 |http*://$script,third-party,domain=52movieba.com|cilimao.cc|dm530.net|haiduomi.com|mp4pa.com|torrentkitty.se|torrentkitty.tv|torrentkittyzw.info
