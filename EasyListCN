@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201904291202
+! Version: 201905021202
 ! Title: EasyListCN
-! Last modified: 2019-04-29
+! Last modified: 2019-05-02
 ! Expires: 365 days
 !
 !---------------------General advert filters---------------------!
@@ -452,7 +452,6 @@
 =BAIDU_SSP_define&
 =loginExtAD.
 =SOGOU_WAP_SETJSONADSLOT&
-_65682a2.
 _billboard_320x100.iframe.
 _naimabdd_
 _popAds.
