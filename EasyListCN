@@ -1498,6 +1498,7 @@ baidu.com###lm
 ##div[id^="ecl-pc-game-"]
 ##div[srcid="12274"]
 ##div[srcid="13602"] > .c-border
+##div[style="display:block !important;visibility:visible !important"]
 ##div[tpl="app_normal"]
 ##div[tpl="houses_new"] > .c-border
 ##div[tpl^="ecl_health"] > .c-border
