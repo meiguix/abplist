@@ -727,7 +727,6 @@ _xiuno_com_ad/
 ###rightCouplet
 ###rightCouplet + #leftFloat
 ###rightRetui
-###right > div:first-child
 ###right_couple
 ###right_couple + #left_float
 ###right_down_float_ad
