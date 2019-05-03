@@ -1488,7 +1488,6 @@ baidu.com###lm
 ##div[class^="ecl"][class*="game"] > .c-border
 ##div[class^="ecl-edu-"]
 ##div[class^="ecr"][class*="game"]
-##div[data-click="\7b \"rsv_bdr\":\"0\",\"p5\":1\7d "]
 ##div[data-click="\7b \"rsv_srcid\":49516\7d "]
 ##div[id$="2"] ~ #\31 [data-click^="\7b \"rsv_bdr\":\"0\",\"p5\":"]
 ##div[id$="_canvas"]
