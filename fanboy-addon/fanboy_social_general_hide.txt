@@ -494,6 +494,7 @@
 ###enw-share-btn
 ###epoch-floating-social
 ###essbsocialprofileswidget-2
+###esv-sharebox
 ###et-post-share
 ###et-social-icons
 ###eventSocialMedia
@@ -1510,6 +1511,7 @@
 ###share-icons
 ###share-in-content
 ###share-left
+###share-li
 ###share-linkedin
 ###share-links
 ###share-lyrics
@@ -3016,6 +3018,7 @@
 ##.a__share
 ##.a_social_bas_fb
 ##.a_social_bas_twt
+##.aa-share-article
 ##.aa_share
 ##.aa_soc_sidebar
 ##.aa_socials
@@ -3358,6 +3361,7 @@
 ##.articleSocialMedia
 ##.articleSocialNetwork
 ##.articleToolbarShare
+##.article__commentBubble-socialShare
 ##.article__details--desktop-share
 ##.article__details__share
 ##.article__fb-like
@@ -3519,6 +3523,7 @@
 ##.b-socials-subscribe
 ##.b-ss-share
 ##.b-topic__socials
+##.b-widget-sharing
 ##.b-ya-share
 ##.b2jsocial
 ##.bI-topnav-stationsocialfb
@@ -3729,6 +3734,7 @@
 ##.bottomSocialBtns
 ##.bottomStormShareSec
 ##.bottom_share
+##.bottom_share_buttons
 ##.bottom_share_panel
 ##.bottom_shares
 ##.bottom_social
@@ -3742,6 +3748,7 @@
 ##.box-repro-social
 ##.box-share
 ##.box-share-content-group
+##.box-share-master-container
 ##.box-social
 ##.box-social-buttons
 ##.box-social-icons
@@ -4179,6 +4186,7 @@
 ##.connect_widget_button_count_including
 ##.connect_with_us
 ##.cont-social-header-top-bar
+##.contSocial
 ##.cont_reseaux_icon
 ##.cont_social
 ##.cont_text_edit_social_box
@@ -4332,6 +4340,7 @@
 ##.detailed_sharingIcons
 ##.details-share-bar
 ##.details-share-but
+##.details-share-wrap
 ##.detalheSocialShares
 ##.detalheSocialSharesToTop
 ##.detay-head-share
@@ -4512,6 +4521,7 @@
 ##.eplayer-share-social
 ##.esi-slide
 ##.esocial
+##.ess-share-text
 ##.essb-fans-facebook
 ##.essb-fans-google
 ##.essb-fans-twitter
@@ -4574,7 +4584,6 @@
 ##.fa-facebook-square
 ##.fa-fb
 ##.fa-google-plus-square
-##.fa-linkedin-in
 ##.fa-linkedin-square
 ##.fa-pinterest-p
 ##.fa-pinterest-square
@@ -5147,6 +5156,7 @@
 ##.follow-property-pinterest
 ##.follow-property-tumblr
 ##.follow-property-twitter
+##.follow-recirc
 ##.follow-rs
 ##.follow-share
 ##.follow-sharer-icon
@@ -5564,6 +5574,7 @@
 ##.g-plus-box
 ##.g-plusone
 ##.g-plusone-holder
+##.g-share
 ##.g1-drop-the-socials
 ##.g1-social-icons
 ##.g1-socials-item
@@ -6811,6 +6822,7 @@
 ##.liSocialGoogle
 ##.liSocialLinkedIn
 ##.liSocialTwitter
+##.libsyn-social-button
 ##.lien-facebook
 ##.lien-instagram
 ##.lien-twiter
@@ -7107,6 +7119,7 @@
 ##.mc-social-icons
 ##.md-list-share
 ##.md-mainArticle__share
+##.md-sharebar
 ##.md-sharethis-toolbox-floatingbutton_placement
 ##.md-social-toolbar-circle
 ##.mdSocialButton
@@ -7545,6 +7558,7 @@
 ##.p-share-icon
 ##.paCmsArticle-section-header-social
 ##.padded-footer-connect
+##.page-context-nav__share-menu
 ##.page-controls--share
 ##.page-controls-share
 ##.page-fb-like
@@ -9594,6 +9608,7 @@
 ##.social-follow-items
 ##.social-follow-list
 ##.social-follow-small
+##.social-follow-us__list
 ##.social-followers
 ##.social-foot
 ##.social-footer
@@ -10643,6 +10658,7 @@
 ##.socialscroll
 ##.socialshare
 ##.socialshare-icons2
+##.socialshare-wrapper
 ##.socialshare2
 ##.socialshare_inside
 ##.socialsharebtm
@@ -11182,6 +11198,7 @@
 ##.trb_sharelines
 ##.trb_socialize
 ##.trending_head_share
+##.trigger-share-list
 ##.triggerShare
 ##.triggerSocialBottom
 ##.trtFbShare
@@ -11681,6 +11698,7 @@
 ##.widget-follow
 ##.widget-follow-us
 ##.widget-followus
+##.widget-header-social
 ##.widget-live-tweets
 ##.widget-share
 ##.widget-share--rows
@@ -11850,6 +11868,7 @@
 ##.wpautbox-socials
 ##.wpbfsb-schema-org
 ##.wpcw-widget-social
+##.wpdev-bottom-single-social
 ##.wpdev-social-btn
 ##.wpdev-social-fb
 ##.wpdev-social-gp
@@ -12101,6 +12120,7 @@
 ##a[data-tm-ref-type-id="Follow-on-YouTube"]
 ##a[href*="facebook.com/sharer/sharer.php?"]
 ##a[href*="pinterest.com/js/pinmarklet.js?"]
+##a[href="#share-social"]
 ##a[href="//www.reddit.com/submit"]
 ##a[href="https://twitter.com/share"]
 ##a[href^="//pinterest.com/pin/create/button/?"]
@@ -12179,6 +12199,7 @@
 ##a[href^="https://api.whatsapp.com/send?"]
 ##a[href^="https://bufferapp.com/add?url="]
 ##a[href^="https://code.tubeadvertising.eu/"]
+##a[href^="https://dissenter.com/discussion/begin?url="]
 ##a[href^="https://facebook.com/dialog/share?"]
 ##a[href^="https://facebook.com/share.php?u="]
 ##a[href^="https://facebook.com/sharer.php?"]
@@ -12368,6 +12389,7 @@
 ##a[title^="follow us on facebook"]
 ##a[title^="share on Facebook"]
 ##a[title^="share on Twitter"]
+##a[uk-toggle="target: #share-social"]
 ##amp-social-share
 ##button[aria-label="Toggle social share buttons"]
 ##button[data-title="Share on Facebook"]

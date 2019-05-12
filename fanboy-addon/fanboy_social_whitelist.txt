@@ -117,6 +117,7 @@
 @@||cdn-immedia.net/img/share/
 @@||cdn.jamatto.com/api/images/*-login/facebook.png
 @@||cdn.pinknews.co.uk/images/$image,domain=pinknews.co.uk
+@@||cdn.ubi.com/uplay-connect/*/images/FB.png$domain=connect.ubi.com
 @@||cdnslate.com^*/social/colored-social-$image
 @@||chesscomfiles.com/images/fb_logo.png$domain=chess.com
 @@||chrisblattman.com/wp/wp-content/plugins/social/assets/social.png
@@ -158,6 +159,7 @@
 @@||deathfromabove1979.com/images/google-$image,domain=deathfromabove1979.com
 @@||depositphotos.com^*/depositphotos_$image,domain=depositphotos.com
 @@||deskmodder.de/blog/wp-content/uploads/$image,~third-party
+@@||disclose.tv/themes/custom/disclosetv/assets/images/svg-images/twitter-white.svg
 @@||discountsstory.com/image/facebook_icon.png
 @@||discourse.org/faq/customers/logos/$~third-party
 @@||disqus.com/embed/comments/?$subdocument
@@ -218,6 +220,7 @@
 @@||ge.tt/s/images/twitter-extension-icon.png
 @@||ge.tt/s/images/twitter-signin.png
 @@||gearbest.com/imagecache/*/images/styleimg/share.png
+@@||geocaching.su/images/ctypes/icons/googlemap/$image,~third-party
 @@||getmyapp.link/content/images/share/$image,~third-party
 @@||gfycat.com^*/sharepage-*.js$script
 @@||ghacks.net/wp-content/uploads/*/google-plus-
@@ -435,6 +438,7 @@
 @@||rasset.ie/static/news/js/socialMedia.js$domain=rte.ie
 @@||rawstory.com/wp-content/uploads/*-Facebook.jpg
 @@||rawstory.com/wp-content/uploads/*-Twitter.jpg
+@@||realfavicongenerator.net/files/*/facebook.png$image,~third-party
 @@||redbullusa.com^*/socialmedia/
 @@||redcarpetrampage.com/game/images/facebookbutton
 @@||reddit.com/mobile/site/images/btn_google_play.svg
@@ -548,6 +552,7 @@
 @@||tnwcdn.com/wp-content/blogs.dir/*_twitter-$domain=thenextweb.com
 @@||tnwcdn.com/wp-content/blogs.dir/*_twitter.$domain=thenextweb.com
 @@||torrentfreak.com/images/google-$~third-party
+@@||torrentfreak.com/images/reddit$image
 @@||triangleoffense.com^*/triangle-offense-header-social-sprites.png
 @@||trinixy.ru/engine/classes/min/index.php?f=*/social-$script,stylesheet
 @@||tripit.com/js/tripit/social/

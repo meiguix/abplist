@@ -130,6 +130,7 @@
 -ad-manager/$~stylesheet
 -ad-map/
 -ad-marker.
+-ad-master/
 -ad-mpu+
 -ad-new_
 -ad-pixel-
@@ -420,6 +421,7 @@
 -side-ad.
 -sidebar-ad.
 -simple-ads.
+-sky-ad.
 -Skyscraper-Ad.
 -skyscrapper160x600.
 -small-ad.
@@ -1073,6 +1075,7 @@
 /ad.slot.
 /ad.valary?
 /ad.view?
+/ad.xml$xmlhttprequest
 /ad.ytn.
 /ad/*&ifid=
 /ad/130-
@@ -2555,6 +2558,7 @@
 /ads/preroll/*
 /ads/preroll_
 /ads/pro/*
+/ads/prod/*
 /ads/profile/*
 /ads/promo_
 /ads/proposal/*
@@ -3504,7 +3508,7 @@
 /advweb.
 /AdvWindow/*
 /advzones/*
-/adw.$domain=~adw.be|~adw.olsztyn.pl
+/adw.$domain=~adw.be|~adw.olsztyn.pl|~adw.org
 /adw1.
 /adw2.
 /adw3.
@@ -3526,7 +3530,7 @@
 /adwords/*
 /adwordstracking.js
 /adWorking/*
-/adworks.$domain=~adworks.att.com|~adworks.co.il
+/adworks.$domain=~adworks.att.com|~adworks.co.il|~adworks.jobijoba.io
 /adworks/*
 /adworldmedia/*
 /adworx.
@@ -3692,6 +3696,7 @@
 /annonser/*
 /announce/adv/*
 /anyad.js
+/ape-ad-
 /api-ads.
 /api.ad.
 /Api/Ad.
@@ -4116,6 +4121,7 @@
 /clickads/*
 /clickboothad.
 /clicksor.
+/clicktag.engine?$document
 /clickunder.
 /clients/ads/*
 /clkads.
@@ -4432,6 +4438,7 @@
 /download/ad.
 /download/ad/*
 /download/ads
+/dpics/ads/*
 /drawad.
 /driveragentad1.
 /driveragentad2.
@@ -4653,6 +4660,7 @@
 /forums/ad/*
 /ForumViewTopicBottomAD.
 /ForumViewTopicContentAD.
+/fp.rb?$document
 /frame_ads_
 /framead-
 /framead.
@@ -5158,6 +5166,7 @@
 /intelliad.
 /intellitext.$domain=~intellitext.com|~intellitext.hu|~intellitext.us
 /interad.$domain=~interad.gr
+/interadv/*
 /interface/ads/*
 /intermediate-ad-
 /internAds.
@@ -5210,6 +5219,8 @@
 /Javascripts/Darla-
 /Javascripts/Darla.js
 /Javascripts/Eleanor.js
+/Javascripts/Gilda-May.js
+/Javascripts/Gilda.js
 /Javascripts/SBA-
 /jcorner.php?partner=
 /jetpack-ads/*
@@ -6054,7 +6065,6 @@
 /rect_ad.
 /rectangle_ad.
 /rectangle_advertorials_
-/Redirect.a2b?$document
 /redirect?tid=
 /redirect_awe.
 /refads/*
@@ -6176,6 +6186,7 @@
 /sample728x90ad.
 /samplead1.
 /samsung_ad.
+/sas/ads/*
 /satnetads.
 /satnetgoogleads.
 /savvyads.
@@ -8010,11 +8021,11 @@ _prebid_
 ! adinsertion used on gizmodo.in lifehacker.co.in
 /datomata.widget.js
 ! Common adserver string
-/mediahosting.engine$document,script
-/Redirect.a2b?MediaSegmentId=$script,subdocument
-/sitetestclickcount.engine
-/Tag.eng$script,third-party
-/Tag.rb$script,third-party
+/mediahosting.engine$document,script,subdocument
+/Redirect.a2b?$document,script,subdocument
+/sitetestclickcount.enginedocument,script,subdocument
+/Tag.eng$document,script,subdocument
+/Tag.rb$document,script,subdocument
 ! White papers insert
 /sl/assetlisting/?
 ! Peel script

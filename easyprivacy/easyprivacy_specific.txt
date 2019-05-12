@@ -1,3 +1,4 @@
+.gif?*&utm_$domain=livejasmin.com
 /fam/view.php?$domain=cnet.com
 /viewtrack/track?$domain=hulu.com
 |blob:$domain=iamdisappoint.com|shitbrix.com|tattoofailure.com
@@ -188,6 +189,7 @@
 ||apartments.com^*/al.gif?
 ||api.tinypic.com/api.php?action=track
 ||apkpure.com/analytics_
+||apnews.com/logger
 ||apphit.com/js/count.js
 ||apple.com^*/spacer2.gif?
 ||applifier.com/users/tracking?
@@ -328,7 +330,11 @@
 ||bn.adultempire.com^
 ||boards.ie/timing.php?
 ||boats.com/images/tracking/
+||booking.com/error_catcher?
+||booking.com/load_times?
 ||booking.com/logo?
+||booking.com/navigation_times?
+||booking.com/track_join_app_landing?
 ||boston.com/upixel/
 ||box.com/gen204?
 ||brandrepublic.com/session-img/
@@ -387,6 +393,7 @@
 ||cdnstats.tube8.com^
 ||cellstores.com/tracking/
 ||cem.hotelsapi.io^
+||centerblog.net/stats.js
 ||cert.org/images/1pxinv.gif
 ||cfr.org/js/ga.*js
 ||cgi.nch.com.au^*&referrer
@@ -471,6 +478,7 @@
 ||commentarymagazine.com^*/track.asp?
 ||commercialappeal.com/metrics/
 ||comms-web-tracking.uswitchinternal.com^
+||compare.easyvoyage.
 ||computerarts.co.uk/*.php?cmd=site-stats
 ||computershopper.com/wsgac/
 ||computing.co.uk^*/webtrends.js
@@ -498,6 +506,7 @@
 ||coursera.org/wf/open?
 ||coveritlive.com/1/sts/view?
 ||cpt.itv.com^
+||cr-eec.etp-prod.com^$xmlhttprequest,domain=crunchyroll.com
 ||cracked.com/tracking/
 ||crackle.com/tracking/
 ||creativecommons.org/elog/
@@ -650,6 +659,7 @@
 ||event-reporting-dot-webylytics.appspot.com^
 ||eventlog.jackpot.de^
 ||eventlogger.soundcloud.com^
+||events.godaddy.com^
 ||events.jora.com^
 ||events.privy.com^
 ||events.reddit.com^
@@ -731,6 +741,7 @@
 ||flybmi.com/livetrack/
 ||flyjazz.ca/ow_ga.js
 ||fncstatic.com/static/all/js/geo.js
+||fnlondon.com/fn_rac/
 ||foodcouture.net/public_html/ra/script.php$script
 ||foodnavigator.com/tracker/
 ||fool.com/tracking/
@@ -840,8 +851,6 @@
 ||go.com/stat/
 ||go.com^*/analytics.js
 ||go.theregister.com^$image
-||godaddy.com/image.aspx?
-||godaddy.com/pageevents.aspx
 ||golfsmith.com/ci/
 ||google.*/api/sclk?
 ||google.*/client_204?
@@ -1349,13 +1358,12 @@
 ||nola.com/cgi-bin/stats/
 ||nola.com/content/*/tracklinks.js
 ||nola.com/dhtml/stats/
+||nordstrom.com/log
 ||nova.pub/track.php?
 ||novatech.co.uk^*/tracking?
 ||novell.com^*/metrics.js
 ||novinite.com/tz.php
 ||nst.com.my/statistic/
-||nydailynews.com/tracker.js
-||nydailynews.com^*/tracker.js
 ||nymag.com/js/2/metrony
 ||nymag.com^*/analytics.js
 ||nyse.com^*/stats/
@@ -1392,6 +1400,7 @@
 ||openuniversity.co.uk/marketing/
 ||opera.com/js/sfga.js
 ||ophan.guardian.co.uk^
+||ophan.theguardian.com^
 ||optimize-stats.voxmedia.com^
 ||optimizely.com/js/geo.js
 ||optimum.net^*=pageview&
@@ -1905,6 +1914,7 @@
 ||stat.alibaba.com^
 ||stat.dealtime.com^
 ||stat.kbs.co.kr^
+||stat.pubhtml5.com^
 ||stat.ruvr.ru^
 ||stat.torrentbar.com^
 ||stat.xhamsterpremium.com^
@@ -2435,7 +2445,6 @@
 ||xhcdn.com/js/track.
 ||xing.com/collect/
 ||xing.com/logjam/
-||xnxx.com/in.php?referer
 ||xozilla.com/js/analytics.js
 ||yahoo.com/__perf_log_
 ||yahoo.com/_td_api/beacon/

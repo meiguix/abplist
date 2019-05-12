@@ -90,7 +90,7 @@
 @@||atdmt.com/ds/yusptsprtspr/
 @@||atdmt.com^*/direct*01$domain=sprint.com
 @@||atlanticbb.net/images/track/track.gif?$xmlhttprequest
-@@||atpworldtour.com/assets/js/util/googleAnalytics.js
+@@||atptour.com/assets/atpwt/scripts/util/googleAnalytics.js
 @@||att.com/scripts/adobe/virtual/detm-container-hdr.js
 @@||att.com/webtrends/scripts/dcs_tag.js
 @@||audi.co.uk^*/js/tracking/$script
@@ -449,6 +449,7 @@
 @@||media.ft.com/j/optimost-$domain=ft.com
 @@||media.ticketmaster.*/click_track.js
 @@||mediaite.com/decor/javascript/magnify_stats.js$domain=videos.mediaite.com
+@@||medianetworkinternational.com/js/fingerprint2.js$script
 @@||medicare.gov/SharedResources/widgets/foresee/foresee-trigger.js
 @@||mercedes-benz-mobile.com/js/tracking/tracker.min.js?
 @@||messenger.com/common/referer_frame.php$subdocument,domain=messenger.com
@@ -617,6 +618,7 @@
 @@||safelinkwireless.com/enrollment/*/GoogleAnalytics.js
 @@||sahibinden.com/assets/analytics*.js$script
 @@||samepage.io/assets/lib/google-analytics/GoogleAnalytics.js?
+@@||sbphototours.com/includes/AWStats.js$~third-party
 @@||sbstatic.com.au/js/tealium.js$domain=sportsbet.com.au
 @@||scorecardresearch.com/beacon.js$domain=agame.com|allmusic.com|amctv.com|apl.tv|babycenter.com|bonappetit.com|calgaryherald.com|canada.com|cbc.ca|dailymail.co.uk|deviantart.com|discovery.com|edmontonjournal.com|fastcompany.com|financialpost.com|firstwefeast.com|hitfix.com|huffingtonpost.com|investigationdiscovery.com|landandfarm.com|last.fm|leaderpost.com|m.tmz.com|montrealgazette.com|nationalpost.com|newsday.com|ottawacitizen.com|outsideonline.com|radaronline.com|salon.com|sci2.tv|syfy.com|theprovince.com|thestar.com|thestarphoenix.com|thinkatheist.com|tlc.com|tmz.com|v3.co.uk|vancouversun.com|windsorstar.com
 @@||scorecardresearch.com/c2/plugins/streamsense_plugin_html5.js

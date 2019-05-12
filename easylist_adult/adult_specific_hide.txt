@@ -103,7 +103,7 @@ be3x.com###fl813695
 sexyclips.org###flash
 loadsofpics.com###floatdiv
 sex.com###floater_button
-monstertube.com###footer
+monstertube.com,youjizz.com###footer
 youjizz.com###footer-block
 extremetube.com###footerWhole
 burningcamel.com###fp_promo
@@ -151,6 +151,7 @@ perfectgirls.net,postyourpuss.com###leaderboard
 imagetwist.com###left[align="center"] > center > a[target="_blank"]
 collegegrad.com###leftquad
 dachix.com###link-buttons
+faapy.com###link_bottom
 alysa.xxx###links
 suicidegirls.com###livetourbanner
 bootyoftheday.co###lj
@@ -347,6 +348,7 @@ extremetube.com##._mapm_link_premium
 seductivetease.com##.a-center
 porndoe.com##.a-container
 heavy-r.com##.a-d-holder
+de-sexy-tube.ru##.aBlock
 porn.com##.aRight
 pornvideofile.com##.aWrapper
 fooktube.com##.aa
@@ -354,7 +356,7 @@ porn300.com##.aan
 porn300.com##.aan__video-units
 bravotube.net##.abbs
 vrsmash.com##.abovePlayer
-celebspank.com,chaturbate.com,cliphunter.com,gamcore.com,playboy.com,pornhub.com,rampant.tv,sex.com,signbucks.com,tehvids.com,uflash.tv,wankoz.com##.ad
+celebspank.com,chaturbate.com,cliphunter.com,gamcore.com,playboy.com,pornhub.com,rampant.tv,sex.com,signbucks.com,tehvids.com,uflash.tv,wankoz.com,xcafe.com##.ad
 extremetube.com,pornhugo.com##.ad-container
 pornhub.com##.ad-link + table
 milfzr.com##.ad-widget > a
@@ -369,16 +371,17 @@ katestube.com##.add
 sex3.com##.add-box
 perfectgirls.net##.additional-block-bg
 hentaistream.com##.adds
+pinflix.com##.adhesion-zone
 adultbox.eu,bangyoulater.com,beemtube.com,cam4.com,djs-teens.net,femdom-fetish-tube.com,free-celebrity-tube.com,glarysoft.com,gosexy.mobi,hdporn.in,mobilepornmovies.com,onlyhot.biz,pichunter.com,pornshaft.com,porntalk.com,pornxs.com,ratemypeach.com,teentube18.com,thisav.com,youporn.com##.ads
 myfreeblack.com##.ads-player
-anyporn.com,badteencam.com,cutepornvideos.com,famouspornstarstube.com,hdporntube.xxx,lustypuppy.com,mrstiff.com,pervertslut.com,pixhub.eu,pornfreebies.com,pornoreino.com,smut6.com,tubedupe.com,tubepornclassic.com,vporn.com,watchteencam.com,webanddesigners.com,youngartmodels.net##.adv
+anyporn.com,badteencam.com,cutepornvideos.com,faapy.com,famouspornstarstube.com,hdporntube.xxx,lustypuppy.com,mrstiff.com,pervertslut.com,pixhub.eu,pornfreebies.com,pornoreino.com,shameless.com,smut6.com,tubedupe.com,tubepornclassic.com,vporn.com,watchteencam.com,webanddesigners.com,youngartmodels.net##.adv
 txxx.com##.adv-desk-list
 hdzog.com##.adv-thumbs
 freexcafe.com##.adv1
 anysex.com,hclips.com,privatehomeclips.com##.adv_block
 mygirlfriendvids.net,wastedamateurs.com##.advblock
 megatube.xxx,porn.hu,sunporno.com##.advert
-fakku.net,flyingjizz.com,perfectgirls.net,pornmd.com,porntube.com,xtube.com,youporn.com,youporngay.com##.advertisement
+fakku.net,flyingjizz.com,gotporn.com,perfectgirls.net,pornmd.com,porntube.com,xtube.com,youporn.com,youporngay.com##.advertisement
 alphaporno.com,bravotube.net,myxvids.com,privatehomeclips.com,sleazyneasy.com,tubewolf.com,xxxhdd.com##.advertising
 hentai2w.com##.aff-col
 fapdu.com##.aff300
@@ -402,6 +405,7 @@ onlydudes.tv##.b-randoms-col
 onlydudes.tv##.b-uvb-spot
 fuqer.com##.b300x250
 porndoo.com##.bAd
+redtube.com##.babyblue
 dbnaked.com##.ban-link
 devatube.com##.ban-list
 analpornpix.com##.ban_list
@@ -435,6 +439,7 @@ isanyoneup.com##.banners-125
 porntubevidz.com##.banners-area
 vid2c.com##.banners-aside
 bubbaporn.com,kalporn.com,koloporno.com,pornodingue.com,pornodoido.com,pornozot.com,serviporno.com,voglioporno.com##.banners-footer
+paradisehill.cc##.banners4
 5ilthy.com##.bannerside
 sexoncube.com##.bannerspot-index
 thehun.net##.bannervertical
@@ -470,6 +475,7 @@ xbabe.com,yumymilf.com##.bottom-banner
 pornoeggs.com##.bottom-banner-templ
 playvid.com##.bottom-banners
 letmejerk.com##.bottom-blocks
+pornhd.com##.bottom-box
 h2porn.com##.bottom-cubes
 pornxs.com##.bottom-sidebar
 pornfun.com##.bottom-spots
@@ -563,6 +569,8 @@ youjizz.com##.fix-right-content
 extremetube.com##.float-left[style="width: 49.9%; height: 534px;"]
 wankerhut.com##.float-right
 extremetube.com##.float-right[style="width: 49.9%; height: 534px;"]
+gotporn.com##.floater-banner
+xcafe.com##.fluid-b
 teensexyvirgins.com##.foot_squares
 scio.us,youporn.com##.footer
 4tube.com,fux.com,hotmovs.com,porntube.com,upornia.com##.footer-banners
@@ -590,6 +598,7 @@ pornhub.com##.gay-ad-container
 titsintops.com##.gensmall[width="250"]
 titsintops.com##.gensmall[width="305"]
 beeg.com##.go-paysite
+pinflix.com,pornhd.com##.gsm-header-zone
 ziporn.com##.hBannerHolder
 heavy-r.com##.hd-ban
 bgafd.co.uk##.hdradclip
@@ -643,6 +652,7 @@ xxxporntalk.com##.leftsidenav
 fantasti.cc##.lft-bn
 crazyshit.com##.linx
 galleries-pornstar.com##.list_sites
+pinflix.com,pornhd.com##.listing-zone
 sexyfunpics.com##.listingadblock300
 tnaflix.com##.liveJasminHotModels
 spankbang.com##.live_api_results_holder
@@ -690,6 +700,7 @@ definebabe.com,tube8.com##.partner-link
 shameless.com##.pause-adv
 bravotube.net##.paysite
 ah-me.com##.paysite-link
+faapy.com##.picture-row__holder
 hdzog.com##.pl_showtime1_wr2
 hclips.com##.pl_wr
 camvideos.tv##.place
@@ -842,6 +853,7 @@ galleries-pornstar.com##.title_slider
 tube8.com##.tjFooterMods
 tube8.com##.tjUpperMods
 popporn.com##.top-banner
+sexvid.xxx##.top-cube
 sunporno.com##.top-player-link
 motherless.com##.top-referers
 definebabe.com##.top-traders
@@ -880,7 +892,7 @@ indianpornvideos.com##.vdo-unit
 julesjordanvideo.com##.vertical_banner
 freepornvs.com##.vib > .cs
 vporn.com##.video-add
-letmejerk.com##.video-aside
+letmejerk.com,niceporn.xxx##.video-aside
 daporn.com,h2porn.com##.video-banner
 boyfriendtv.com##.video-extra-wrapper
 hdporntube.xxx,pornhat.com##.video-link
@@ -892,6 +904,7 @@ alphaporno.com,tubewolf.com##.video-sponsor
 clip16.com##.video-spots
 redtube.com.br##.video-wrap > .bvq
 pornhub.com##.video-wrapper > #player + [class]
+de-sexy-tube.ru##.videoAd
 youporn.com##.videoBanner
 tube8.com##.videoPageSkin
 tube8.com##.videoPageSkin1
@@ -919,6 +932,7 @@ imagearn.com##.wide_banner
 cumlouder.com##.widget_bnrs
 gifsauce.com##.widget_live
 beeg.com##.window
+de-sexy-tube.ru##.wrap-head-banner-mob
 xjapanese.com##.xcam
 babe.today##.xchat
 babe.today##.xchat1
@@ -944,10 +958,6 @@ extremetube.com,redtube.com,tube8.com,tube8.es,tube8.fr,xtube.com,youjizz.com,yo
 pornhub.com##[srcdoc]
 extremetube.com,pornhub.com,redtube.com,tube8.com,tube8.es,tube8.fr,xtube.com,youjizz.com,youporn.com,youporngay.com##[style*="base64"]
 extremetube.com,pornhub.com,redtube.com,tube8.com,tube8.es,tube8.fr,xtube.com,youjizz.com,youporn.com,youporngay.com##[style*="blob:"]
-extremetube.com,pornhub.com,redtube.com,tube8.com,tube8.es,tube8.fr,xtube.com,xvideos.com,youjizz.com,youporn.com,youporngay.com##[style*="height: 300px;"]
-extremetube.com,pornhub.com,redtube.com,tube8.com,tube8.es,tube8.fr,xtube.com,xvideos.com,youjizz.com,youporn.com,youporngay.com##[style*="height: 310px;"]
-extremetube.com,pornhub.com,redtube.com,tube8.com,tube8.es,tube8.fr,xtube.com,xvideos.com,youjizz.com,youporn.com,youporngay.com##[style*="height: 320px;"]
-extremetube.com,pornhub.com,redtube.com,tube8.com,tube8.es,tube8.fr,xtube.com,xvideos.com,youjizz.com,youporn.com,youporngay.com##[style*="height: 330px;"]
 sexyclips.org##[style="text-align: center; width: 1000px; height: 250px;"]
 exgirlfriendmarket.com##[width="728"][height="150"]
 porn.com##a[href*="&ref="]
@@ -961,17 +971,19 @@ keezmovies.com##a[href*="/affiliates/idevaffiliate.php?"]
 adultfreex.com##a[href*="/brazzers-network/"]
 taxidrivermovie.com##a[href*="/category/"]
 nude.hu##a[href*="/click/"]
-hdzog.com,xcafe.com##a[href*="/cs/"]
+faapy.com,hdzog.com,xcafe.com##a[href*="/cs/"]
 definebabe.com,eskimotube.com,gaytube.com,redtube.com,shemaletubevideos.com,therealpornwikileaks.com,xhamster.com,yea.xxx##a[href*="/go.php?"]
 data18.com,porndoe.com,theanalist.info,watchmygf.me,xxxhdd.com,xxxymovies.com##a[href*="/go/"]
 megatube.xxx,xozilla.com##a[href*="/link/"]
 efukt.com,sexyandfunny.com,yourdailypornstars.com##a[href*="/out.php?"]
 badjojo.com##a[href*="/out.php?siteid=13&id=0&url=http%3A%2F%2Fsyndication.traffichaus.com"]
-mansurfer.com,mypornstarbook.net##a[href*="/out/"]
+dbnaked.com,mansurfer.com,mypornstarbook.net##a[href*="/out/"]
+mypornstarbook.net##a[href*="/out1/"]
 avgle.com##a[href*="/redirect"]
 4tube.com,fux.com,pornerbros.com,porntube.com##a[href*="/redirect-channel/"]
 xhamster.com##a[href*="/spclick.php?"]
 porndig.com##a[href*="/trackhit/"]
+nicsgalleries.com##a[href*="/us/"]
 efukt.com##a[href*="/videos/"]
 porndig.com##a[href*="/zone_link/"]
 celebrity-slips.com##a[href*="?_atc="]
@@ -987,7 +999,7 @@ pornhub.com##a[href*="abbp"]
 taxidrivermovie.com##a[href*="mrskin.com/"]
 pornhub.com##a[href*="pleasedontslaymy"]
 pronpic.org##a[href*="takyake.ru"]
-adultfilmdatabase.com,animeidhentai.com,bos.so,camvideos.tv,camwhores.tv,celebrity-slips.com,cutscenes.net,dbnaked.com,devporn.net,efukt.com,gifsauce.com,hentai2read.com,hpjav.com,imagebam.com,imgbox.com,imgtaxi.com,motherless.com,myporn.club,planetsuzy.org,pussyspace.com,sendvid.com,sexgalaxy.net,sextvx.com,sexuria.com,sxyprn.com,thefappeningblog.com,ultrahorny.com,vintage-erotica-forum.com,waxtube.com,xopenload.com,yeapornpls.com,yourporn.sexy##a[href*="theporndude.com"]
+adultfilmdatabase.com,animeidhentai.com,bos.so,camvideos.tv,camwhores.tv,celebrity-slips.com,cutscenes.net,dbnaked.com,devporn.net,efukt.com,gifsauce.com,hentai2read.com,hotpornfile.org,hpjav.com,imagebam.com,imgbox.com,imgtaxi.com,motherless.com,myporn.club,planetsuzy.org,pussyspace.com,sendvid.com,sexgalaxy.net,sextvx.com,sexuria.com,sxyprn.com,thefappeningblog.com,ultrahorny.com,vintage-erotica-forum.com,waxtube.com,xopenload.com,yeapornpls.com,yourporn.sexy##a[href*="theporndude.com"]
 gaytube.com##a[href="/external/meet_and_fuck"]
 efukt.com##a[href="http://crazyshit.com/?utm_"]
 sex.com##a[href="http://idg.idealgasm.com/"]
@@ -1114,6 +1126,7 @@ drtuber.com##div + style[id] + div[class]
 ngentot.tv##div > a[href][target="_blank"]
 pornhub.com##div > aside > aside
 txxx.com##div > div[style*="z-index:"]
+redtube.com##div > iframe
 xhamster.com##div > noscript + div[style]
 sex3dtoons.com##div[align="center"] > table[width="940"][cellspacing="0"][cellpadding="0"][border="0"]
 babesandbitches.net##div[class^="banner"]
@@ -1125,6 +1138,7 @@ celeb.gate.cc##div[id^="bnrrotator_"]
 voyeurhit.com##div[id^="div-ad-"]
 hentaistream.com##div[id^="hs_ad"]
 tube8.com##div[id^="tj-zone"]
+pornhub.com,redtube.com,youporn.com,youporngay.com##div[onclick*="bbbp1.com"]
 ceporn.net##div[style="border:4px solid;width:300px;height:250px;background:#7e7e7e;"]
 redtube.com##div[style="display: block !important;"]
 javlibrary.com##div[style="display:block; position:relative; width:730px; height:92px; overflow:hidden; margin: 10px auto 0px auto;"]

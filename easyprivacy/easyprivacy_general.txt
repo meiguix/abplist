@@ -22,6 +22,7 @@
 -analitycs/fab.
 -analitycs/ga.
 -analitycs/metrica.
+-analytics-state?
 -analytics-tagserver-
 -analytics-wi.
 -analytics/analytics.
@@ -584,6 +585,7 @@
 /analytics/?event
 /analytics/activity.
 /analytics/analytics.$~xmlhttprequest
+/analytics/beacons/*
 /analytics/call-
 /analytics/cms/*
 /analytics/collect_
@@ -596,8 +598,7 @@
 /analytics/dist/*
 /analytics/eloqua/*
 /analytics/engine/*
-/analytics/events
-/analytics/eventTrack
+/analytics/event
 /analytics/ga.
 /analytics/ga/*
 /analytics/ga?
@@ -609,6 +610,7 @@
 /analytics/idg_
 /analytics/js/*
 /analytics/liferay-
+/analytics/logging
 /analytics/mbox.js
 /analytics/mouse_
 /analytics/newrelic_
@@ -700,6 +702,7 @@
 /api/pixel?
 /api/stat?
 /api/tracking/*
+/api/v1/metrics
 /api/v1/stat?
 /api/x.gif?
 /apilog?
@@ -719,6 +722,7 @@
 /ard.png?
 /argtk.min.
 /aria-web-telemetry-
+/arms-datacollectorjs/*
 /arstat?
 /art/stats/*
 /article-analytics.
@@ -889,6 +893,7 @@
 /bm-bam-trk.
 /bms-analytics.
 /bn/tracker/*
+/bookvisitinfo.html?
 /boomerang-minified-
 /boomerang.js
 /boomLogger.
@@ -953,6 +958,7 @@
 /cbstats/*
 /cc?a=
 /cclickTracking.
+/cclog?ck=
 /ccm_sj?
 /cct?
 /cdcVanity?
@@ -1142,6 +1148,7 @@
 /collect?callback=
 /collect?eid=
 /collect?event=
+/collect?iid=
 /collect?tid=
 /collect_data.php?
 /collect_stat.
@@ -1458,7 +1465,7 @@
 /error/*.gif?msg=
 /error/js/log?
 /est.pl?
-/estat.$domain=~estat.stat.ee
+/estat.$domain=~estat.ly|~estat.stat.ee
 /estatistica.js
 /estatnativeflashtag.swf
 /etag?
@@ -1749,6 +1756,7 @@
 /getThirdPartyTracking?
 /getTotalHits.
 /getViewBeans.action?
+/GetWebTrekkRecoElement?
 /gifbanner?
 /gifstats.
 /gigyaGAIntegration.
@@ -1756,6 +1764,7 @@
 /glb-pv-min.js
 /glbltrackjs.
 /global-analytics.js
+/global/analytics/*
 /global/ga.js?
 /global/tracker.
 /globalpagetracking.js
@@ -1988,6 +1997,7 @@
 /in.cgi?*http
 /in.getclicky.com/*
 /in.gif?url=
+/in.php?*&referer=
 /in.php?p=
 /in.php?referer=
 /include/js/ga-
@@ -2111,6 +2121,7 @@
 /jtracking/*
 /jump/?jl=
 /jump/clk1.
+/kairion.gif?
 /kaiseki/script.php
 /kaiseki/track.php?
 /kaizentrack/*
@@ -2494,6 +2505,7 @@
 /newsstat/*
 /newstat/*
 /newstatsinc.
+/next_analytics.
 /nextPerformanceRetargeting.
 /nielsen.htm
 /nielsen.js
@@ -2866,6 +2878,7 @@
 /publishertag.js
 /pubstats.
 /pubtag.js?
+/push/page-view/*
 /pushlog.
 /pv.gif?1=
 /pv.gif?url
@@ -3329,6 +3342,7 @@
 /statistics.html?action=
 /statistics.js?$third-party
 /statistics.php?data=
+/statistics.php?nid=
 /statistics/fab.
 /statistics/ga.
 /statistics/get?
@@ -3466,6 +3480,7 @@
 /TacodaFTT.
 /taevents-
 /tag/tag.jsp?
+/tag?tags=
 /tagAnalyticsCNIL.
 /tagCNIL.js
 /TagCommander.cfc?
@@ -3611,6 +3626,7 @@
 /track?cb=
 /track?event=
 /track?name=
+/track?pid=
 /track?referer=
 /Track?trackAction=
 /track?ts=*&domain=
@@ -3732,6 +3748,7 @@
 /tracking.vidt
 /tracking/*/agof-
 /tracking/?c_
+/tracking/?ID=
 /tracking/addview/*
 /tracking/adobe.js
 /tracking/adobe/*
@@ -3898,6 +3915,7 @@
 /trk.gif?
 /trk.php?
 /trk/p.gif?
+/trk_tb.
 /trk_zbo.
 /trkga.
 /trkpixel.gif
@@ -3947,6 +3965,7 @@
 /urchinstats.
 /URLSplitTrack?
 /us.gif?
+/userdata_n?*&uid=
 /userfly.js
 /users/track?
 /UserTraceCookie?
@@ -4005,6 +4024,7 @@
 /vgwort/*
 /video-ga.js
 /video.counters.js
+/video/tracking.js
 /video_count.php?
 /videoanalytic/*
 /videoAnalytics.
@@ -4077,6 +4097,7 @@
 /vs.gif?
 /vs/track.
 /vs_track.
+/vsl/imp?
 /vstat.php
 /vstats/counter.php
 /vstrack.

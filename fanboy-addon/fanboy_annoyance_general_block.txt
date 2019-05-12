@@ -153,6 +153,7 @@
 /push-notifications/*
 /push-sw.
 /push-worker-$script
+/push/offer/*
 /push/sbscr.
 /push/sbscrp.
 /push/subscribe.
@@ -209,6 +210,7 @@ _push_sw.
 /at_newsletter.
 /banner-newsletter.
 /banner/newsletter.
+/bannerino-newsletter.
 /BannerNewsletter.
 /bg-newsletter-
 /bg_newsletter.
@@ -249,6 +251,7 @@ _push_sw.
 /last_newsletter,
 /layout/newsletter.
 /leadin-subscribe.
+/Masthead-Newsletter-
 /MC-Newsletter-
 /mnav/newsletter.
 /mobile_newsletter_
@@ -340,6 +343,7 @@ _push_sw.
 /plugins/optin-monster/*$script
 /plugins/wp-subscribe-pro/*
 /pmd-newsletter/*
+/popinNewsletter.
 /popinNewsletter/*
 /popups/subscribe-
 /promonewsletters-
@@ -595,6 +599,7 @@ _s_rss_
 _social_rss.
 _xmlrss.
 ! ---------- Scroll To Top Buttons ----------
+-scroll-to-top/
 .ui.totop.
 /avada-to-top.
 /back-to-top-

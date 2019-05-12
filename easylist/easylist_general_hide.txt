@@ -1102,6 +1102,9 @@
 ###ad-sidebar-2
 ###ad-sidebar-3
 ###ad-sidebar-300x80
+###ad-sidebar-4
+###ad-sidebar-5
+###ad-sidebar-6
 ###ad-sidebar-btf
 ###ad-sidebar-container
 ###ad-sidebar-mad
@@ -3878,6 +3881,7 @@
 ###banner-ad
 ###banner-ad-container
 ###banner-ad-first
+###banner-ad-large
 ###banner-ad-last
 ###banner-ad-loader
 ###banner-ad-square-first
@@ -4307,6 +4311,8 @@
 ###boxes-box-ad_mpu
 ###boxtube-ad
 ###bpAd
+###bpcads-bottom-footer
+###bpcads-top-leaderboard
 ###bps-header-ad-container
 ###bq_homeMiddleAd
 ###br_ad
@@ -4998,6 +5004,7 @@
 ###divBottomad1
 ###divBottomad2
 ###divDoubleAd
+###divExoLayerWrapper
 ###divFoldersAd
 ###divFooterAd
 ###divFooterAds
@@ -5646,6 +5653,7 @@
 ###header_bottom_ad
 ###header_flag_ad
 ###header_leaderboard_ad_container
+###header_mainad
 ###header_publicidad
 ###header_right_ad
 ###header_sponsors
@@ -6144,6 +6152,7 @@
 ###lj_ad_row
 ###load-adslargerect
 ###localAds
+###locked-footer-ad-wrapper
 ###logoAd
 ###logoAd2
 ###logo_ad
@@ -7473,6 +7482,7 @@
 ###sponsored-products-dp_feature_div
 ###sponsored-recommendations
 ###sponsored-resources
+###sponsored-search
 ###sponsored-text-links
 ###sponsored-widget
 ###sponsored1
@@ -8845,6 +8855,7 @@
 ##.ad--centered
 ##.ad--dart
 ##.ad--desktop
+##.ad--displayed
 ##.ad--e
 ##.ad--fallback
 ##.ad--footer
@@ -8854,6 +8865,7 @@
 ##.ad--homepage-top
 ##.ad--horseshoe
 ##.ad--horseshoe__content
+##.ad--in-article
 ##.ad--inner
 ##.ad--just-in-feed
 ##.ad--large
@@ -9143,10 +9155,12 @@
 ##.ad-container-embedded
 ##.ad-container-leaderboard
 ##.ad-container-left
+##.ad-container-multiple
 ##.ad-container-pave
 ##.ad-container-responsive
 ##.ad-container-right
 ##.ad-container-side
+##.ad-container-single
 ##.ad-container-tool
 ##.ad-container-top
 ##.ad-container-topad
@@ -9626,6 +9640,7 @@
 ##.ad-thanks
 ##.ad-ticker
 ##.ad-tile
+##.ad-title
 ##.ad-tl1
 ##.ad-top
 ##.ad-top-300x250
@@ -9660,6 +9675,7 @@
 ##.ad-unit
 ##.ad-unit-300
 ##.ad-unit-300-wrapper
+##.ad-unit-970x90
 ##.ad-unit-anchor
 ##.ad-unit-container
 ##.ad-unit-editorial-well
@@ -12107,6 +12123,7 @@
 ##.adspot_468x60
 ##.adspot_728x90
 ##.adsprefooter
+##.adspreview
 ##.adsrecnode
 ##.adsright
 ##.adss
@@ -12341,6 +12358,7 @@
 ##.adv_728x90
 ##.adv_90
 ##.adv_PageTop
+##.adv__box
 ##.adv__container--300x250
 ##.adv__container--728x90
 ##.adv__text
@@ -12363,6 +12381,7 @@
 ##.adv_headerright
 ##.adv_hed
 ##.adv_here
+##.adv_img
 ##.adv_in_body_a
 ##.adv_info_text
 ##.adv_jump
@@ -13180,6 +13199,7 @@
 ##.b-ad
 ##.b-ad-footerBanner
 ##.b-ad-topBanner
+##.b-ad-wrapper-side-midi
 ##.b-ads728
 ##.b-ads_300
 ##.b-ads_gpt
@@ -13800,6 +13820,8 @@
 ##.boxcontentad
 ##.boxsponsor2
 ##.boxyads
+##.bpcads-bottom-footer
+##.bpcads-top-leaderboard
 ##.bps-ad-wrapper
 ##.bps-advertisement
 ##.bps-advertisement-inline-ads
@@ -13819,6 +13841,7 @@
 ##.bravo-ad
 ##.breadads
 ##.breadcumbad
+##.break-ads
 ##.breakad_container
 ##.breaker-ad
 ##.breakerAd
@@ -13931,6 +13954,7 @@
 ##.carbonad-tag
 ##.card--ad
 ##.card--article-ad
+##.card--type-html-native-ad
 ##.card-ad
 ##.card-ads
 ##.cards-categorical-list-ad
@@ -14140,6 +14164,7 @@
 ##.companion-ads
 ##.companionAd
 ##.companion_ad
+##.company-page__top-ad-container
 ##.compareBrokersAds
 ##.component-sponsored-links
 ##.conTSponsored
@@ -14524,6 +14549,7 @@
 ##.ds-ad-home
 ##.ds-ad-inner
 ##.ds-ad-ros
+##.dsk-box-ad-d
 ##.dsq_ad
 ##.dt-ad-top-content
 ##.dual-ads
@@ -14608,6 +14634,7 @@
 ##.ep-advertisment-link
 ##.epicgame-ads
 ##.esp_publicidad
+##.esv-pub-300x600
 ##.et-single-post-ad
 ##.etad
 ##.etn-ad-text
@@ -15867,6 +15894,7 @@
 ##.juicyads_300x250
 ##.jumboAd
 ##.jw-ad
+##.jw-ad-block
 ##.jw-ad-label
 ##.jw-ad-media-container
 ##.jw-ad-visible
@@ -15924,6 +15952,7 @@
 ##.lastads
 ##.lastpost_advert
 ##.latest-ad
+##.latest-news__ad--desktop
 ##.latest-posts__sidebar-ad-container
 ##.layer-ad-bottom
 ##.layer-ad-top
@@ -16823,6 +16852,9 @@
 ##.ox_ad
 ##.ozadtop
 ##.ozadtop3
+##.p-ad
+##.p-ad-outbreak
+##.p-ad-rectangle
 ##.p2_right_ad
 ##.p75_sidebar_ads
 ##.pAdsBlock2
@@ -17701,6 +17733,7 @@
 ##.servsponserLinks
 ##.set_ad
 ##.sex-party-ad
+##.sexunder_ads
 ##.sfadSlot
 ##.sfsp_adadvert
 ##.sgAd
@@ -18215,6 +18248,7 @@
 ##.sponsored-links-tbl
 ##.sponsored-offers-box
 ##.sponsored-post
+##.sponsored-post-container
 ##.sponsored-post_ad
 ##.sponsored-products-container
 ##.sponsored-result
@@ -18873,6 +18907,8 @@
 ##.tout-ad-embed
 ##.tower-ad
 ##.tower-ad-abs
+##.tower-ad-b
+##.tower-ad-wrapper
 ##.tower-ads-container
 ##.towerAd
 ##.towerAdLeft
@@ -19449,7 +19485,9 @@
 ##.ytp-ad-progress-list
 ##.yui3-ad
 ##.yw-ad
+##.z-ad-display
 ##.z-ad-lockerdome-inline
+##.z-lockerdome-inline
 ##.z-sponsored-block
 ##.zRightAdNote
 ##.zaba-advertising
@@ -19471,6 +19509,7 @@
 ##LEADERBOARD-AD
 ##[ad-id^="googlead"]
 ##[href*="//xml.revrtb.com/"]
+##[href^="https://maskip.co/"]
 ##[id^="bunyad_ads_"]
 ##[lazy-ad="leftbottom_banner"]
 ##[lazy-ad="leftthin_banner"]
@@ -19536,6 +19575,7 @@
 ##a[href^="//adbit.co/?a=Advertise&"]
 ##a[href^="//ads.ad-center.com/"]
 ##a[href^="//api.ad-goi.com/"]
+##a[href^="//awejmp.com/"]
 ##a[href^="//bwnjijl7w.com/"]
 ##a[href^="//db52cc91beabf7e8.com/"]
 ##a[href^="//go.onclasrv.com/"]
@@ -19618,6 +19658,7 @@
 ##a[href^="http://bc.vc/?r="]
 ##a[href^="http://bcntrack.com/"]
 ##a[href^="http://bcp.crwdcntrl.net/"]
+##a[href^="http://bestchickshere.com/"]
 ##a[href^="http://bestorican.com/"]
 ##a[href^="http://betahit.click/"]
 ##a[href^="http://bluehost.com/track/"]
@@ -19912,6 +19953,7 @@
 ##a[href^="https://aaucwbe.com/"]
 ##a[href^="https://ad.atdmt.com/"]
 ##a[href^="https://ad.doubleclick.net/"]
+##a[href^="https://adclick.g.doubleclick.net/"]
 ##a[href^="https://adhealers.com/"]
 ##a[href^="https://ads.ad4game.com/"]
 ##a[href^="https://ads.trafficpoizon.com/"]
@@ -19979,6 +20021,7 @@
 ##a[href^="https://secure.eveonline.com/ft/?aid="]
 ##a[href^="https://servedbyadbutler.com/"]
 ##a[href^="https://sexdatingz.live/"]
+##a[href^="https://spygasm.com/track?"]
 ##a[href^="https://squren.com/rotator/?atomid="]
 ##a[href^="https://syndication.exoclick.com/splash.php?"]
 ##a[href^="https://t.mobtya.com/"]

@@ -211,7 +211,6 @@
 @@||adserver.yahoo.com/crossdomain.xml$object-subrequest
 @@||adserver.yahoo.com^*=weather&$domain=ca.weather.yahoo.com
 @@||adservice.google.*/adsid/integrator.js$domain=twitch.tv
-@@||adservice.google.*/integrator.js$domain=nydailynews.com
 @@||adservice.google.com/|$xmlhttprequest,domain=twitch.tv
 @@||adshost1.com/crossdomain.xml$object-subrequest
 @@||adshost1.com/ova/*.xml$object-subrequest,domain=4shared.com
@@ -303,7 +302,7 @@
 @@||alphabaseinc.com/images/display_adz/$~third-party
 @@||alusa.org/store/modules/blockadvertising/$~third-party
 @@||amazon-adsystem.com/aax2/amzn_ads.js$domain=food.com|foodnetwork.com|weather.com
-@@||amazon-adsystem.com/aax2/apstag.js$domain=blastingnews.com|nydailynews.com|twitch.tv|wcvb.com
+@@||amazon-adsystem.com/aax2/apstag.js$domain=blastingnews.com|twitch.tv|wcvb.com
 @@||amazon-adsystem.com/js/$script,domain=voldingenglish.com
 @@||amazon-adsystem.com/panda/$script,domain=voldingenglish.com
 @@||amazon-adsystem.com/widgets/q?$image
@@ -570,8 +569,7 @@
 @@||collectivelyconscious.net^$generichide
 @@||collegehumor.com^$generichide
 @@||colorado.gov/airquality/psi/adv.png
-@@||comboadmedia.adperfect.com^$domain=classifieds.nydailynews.com
-@@||comeadvertisewithus.com^$script,domain=thecountrycaller.com|thefreethoughtproject.com
+@@||comeadvertisewithus.com^$script,domain=thecountrycaller.com
 @@||commarts.com/Images/missinganissue_ad.gif
 @@||commercialmotor.com/profiles/*advertisement/$image,~third-party
 @@||commercialmotor.com^*/advertisement-images/$image,~third-party
@@ -704,7 +702,7 @@
 @@||doubleclick.net/adj/pong.all/*;dcopt=ist;$script
 @@||doubleclick.net/adj/profootballreference.fsv/$script,domain=pro-football-reference.com
 @@||doubleclick.net/adj/yorkshire.jp/main-section;*;sz=120x600,160x600$script,domain=yorkshirepost.co.uk
-@@||doubleclick.net/ddm/$image,domain=aetv.com|fyi.tv|history.com|mylifetime.com|speedtest.net|tweaktown.com
+@@||doubleclick.net/ddm/$image,domain=aetv.com|fyi.tv|history.com|mylifetime.com|speedtest.net
 @@||doubleclick.net/ddm/clk/*://www.amazon.jobs/jobs/$subdocument,domain=glassdoor.com
 @@||doubleclick.net/favicon.ico$image,domain=convert-me.com|goal.com|grammarist.com|videotoolbox.com
 @@||doubleclick.net/N2605/adi/MiLB.com/scoreboard;*;sz=728x90;$subdocument
@@ -865,7 +863,7 @@
 @@||g.doubleclick.net/gampad/ads?adk$domain=rte.ie
 @@||g.doubleclick.net/gampad/adx?$xmlhttprequest,domain=qz.com
 @@||g.doubleclick.net/gampad/google_ads.js$domain=nitrome.com|ticketek.com.ar
-@@||g.doubleclick.net/gpt/pubads_impl_$script,domain=120sports.com|al.com|allmusic.com|beqala.com|blastingnews.com|bodas.com.mx|bodas.net|brandonsun.com|canoe.com|caranddriver.com|casamentos.com.br|casamentos.pt|casamiento.com.uy|casamientos.com.ar|cbsnews.com|cleveland.com|consequenceofsound.net|cwtv.com|daveramsey.com|denofgeek.co|denofgeek.com|drupalcommerce.org|ebaumsworld.com|fastcompany.com|flightcentre.co.uk|foodkick.com|foxnews.com|goalzz.com|greyhoundbet.racingpost.com|gulflive.com|independent.co.uk|lehighvalleylive.com|liverpoolfc.com|m.tmz.com|mardigras.com|mariages.net|marvel.com|masslive.com|matrimonio.com|matrimonio.com.co|matrimonio.com.pe|matrimonios.cl|mlb.com|mlive.com|nauticexpo.com|nj.com|nola.com|noodle.com|nydailynews.com|nytimes.com|olx.pl|opb.org|orbitz.com|oregonlive.com|out.com|pennlive.com|phonearena.com|phoronix.com|pianobuyer.com|pocketnow.com|qz.com|ripley.cl|ripley.com.pe|seahawks.com|sendtonews.com|silive.com|syracuse.com|thesimsresource.com|thoughtcatalog.com|time.com|tmz.com|urbandictionary.com|vanityfair.com|video.foxbusiness.com|vroomvroomvroom.com.au|washingtonexaminer.com|weather.com|weddingspot.co.uk|winnipegfreepress.com|wlj.net|wsj.com|wtop.com|wwe.com|zavvi.com|zdnet.com|zillow.com
+@@||g.doubleclick.net/gpt/pubads_impl_$script,domain=120sports.com|al.com|allmusic.com|beqala.com|blastingnews.com|bodas.com.mx|bodas.net|brandonsun.com|canoe.com|caranddriver.com|casamentos.com.br|casamentos.pt|casamiento.com.uy|casamientos.com.ar|cbsnews.com|cleveland.com|consequenceofsound.net|cwtv.com|daveramsey.com|denofgeek.co|denofgeek.com|drupalcommerce.org|ebaumsworld.com|fastcompany.com|flightcentre.co.uk|foodkick.com|foxnews.com|goalzz.com|greyhoundbet.racingpost.com|gulflive.com|independent.co.uk|lehighvalleylive.com|liverpoolfc.com|m.tmz.com|mardigras.com|mariages.net|marvel.com|masslive.com|matrimonio.com|matrimonio.com.co|matrimonio.com.pe|matrimonios.cl|mlb.com|mlive.com|nauticexpo.com|nj.com|nola.com|noodle.com|nytimes.com|olx.pl|opb.org|orbitz.com|oregonlive.com|out.com|pennlive.com|phonearena.com|phoronix.com|pianobuyer.com|pocketnow.com|qz.com|ripley.cl|ripley.com.pe|seahawks.com|sendtonews.com|silive.com|syracuse.com|thesimsresource.com|thoughtcatalog.com|time.com|tmz.com|urbandictionary.com|vanityfair.com|video.foxbusiness.com|vroomvroomvroom.com.au|washingtonexaminer.com|weather.com|weddingspot.co.uk|winnipegfreepress.com|wlj.net|wsj.com|wtop.com|wwe.com|zavvi.com|zdnet.com|zillow.com
 @@||g.doubleclick.net/pagead/ads?ad_type=image_text^$object-subrequest,domain=ebog.com|gameark.com
 @@||g.doubleclick.net/pagead/ads?ad_type=text_dynamicimage_flash^$object-subrequest
 @@||g4tv.com/clientscriptoptimizer.ashx?*-ads.$script,stylesheet
@@ -1044,7 +1042,6 @@
 @@||impde.tradedoubler.com/imp?type(img)$image,domain=sunsteps.org
 @@||imwx.com/js/adstwo/adcontroller.js$domain=weather.com
 @@||imzy.com/api/communities/no-auth/creative_ads$~third-party,xmlhttprequest
-@@||indexww.com/ht/nydn.js$domain=nydailynews.com
 @@||indiaresults.com/advertisements/submit.png
 @@||infoworld.com/www/js/ads/gpt_includes.js
 @@||innovid.com/crossdomain.xml$object-subrequest,domain=~channel4.com
@@ -1233,7 +1230,6 @@
 @@||mlb.com/shared/components/gameday/v6/js/adproxy.js
 @@||mlbstatic.com/mlb.com/video/config/mlb-vpp-aws/$xmlhttprequest,domain=mlb.com
 @@||mlive.com/static/common/js/ads/ads.js
-@@||mns.com/ad/$domain=classifieds.nydailynews.com
 @@||mobilefish.com/scripts/advertisement.js
 @@||mobinozer.com^*/gads.js
 @@||mochiads.com/ctr/*.swf?$domain=gamesforwork.com
@@ -1327,8 +1323,6 @@
 @@||nsandi.com/files/asset/banner-ads/
 @@||ntv.io/serve/load.js$domain=mcclatchydc.com
 @@||nyctourist.com/www/delivery/spcjs.php?$script,domain=nyctourist.com
-@@||nydailynews.com^$generichide
-@@||nydailynews.servedbyopenx.com/w/1.0/jstag$domain=nydailynews.com
 @@||nyt.com^*/ad-loader.js$domain=nytimes.com
 @@||nyt.com^*/ad-view-manager.js$domain=nytimes.com
 @@||nyt.com^*/dfp.js$domain=nytimes.com
@@ -1425,7 +1419,7 @@
 @@||partner.googleadservices.com/gampad/google_ads2.js$domain=motorcycle.com|mysoju.com
 @@||partner.googleadservices.com/gampad/google_ads_gpt.js$domain=amctheatres.com|pitchfork.com|podomatic.com|virginaustralia.com
 @@||partner.googleadservices.com/gampad/google_service.js$domain=autoguide.com|avclub.com|boatshop24.com|cadenasuper.com|dailygames.com|demotywatory.pl|drivearabia.com|ensonhaber.com|escapegames.com|juegosdiarios.com|lbox.me|letio.com|lightinthebox.com|memegenerator.net|motorcycle.com|mysoju.com|nx8.com|playedonline.com|playstationlifestyle.net|readersdigest.com.au|sulekha.com|ticketek.com.ar|volokh.com
-@@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=120sports.com|beqala.com|bodas.com.mx|bodas.net|canoe.com|casamentos.com.br|casamentos.pt|casamiento.com.uy|casamientos.com.ar|cbsnews.com|cwtv.com|denofgeek.co|denofgeek.com|drupalcommerce.org|flightcentre.co.uk|foxnews.com|goalzz.com|greyhoundbet.racingpost.com|independent.co.uk|liverpoolfc.com|m.tmz.com|mariages.net|marvel.com|matrimonio.com|matrimonio.com.co|matrimonio.com.pe|matrimonios.cl|mlb.com|nauticexpo.com|noodle.com|nydailynews.com|nytimes.com|opb.org|orbitz.com|out.com|phoronix.com|pianobuyer.com|ripley.cl|ripley.com.pe|seahawks.com|sendtonews.com|thesimsresource.com|thoughtcatalog.com|time.com|urbandictionary.com|vanityfair.com|video.foxbusiness.com|vroomvroomvroom.com.au|washingtonexaminer.com|weather.com|weddingspot.co.uk|wlj.net|wsj.com|wtop.com|wwe.com|zavvi.com|zdnet.com|zillow.com
+@@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=120sports.com|beqala.com|bodas.com.mx|bodas.net|canoe.com|casamentos.com.br|casamentos.pt|casamiento.com.uy|casamientos.com.ar|cbsnews.com|cwtv.com|denofgeek.co|denofgeek.com|drupalcommerce.org|flightcentre.co.uk|foxnews.com|goalzz.com|greyhoundbet.racingpost.com|independent.co.uk|liverpoolfc.com|m.tmz.com|mariages.net|marvel.com|matrimonio.com|matrimonio.com.co|matrimonio.com.pe|matrimonios.cl|mlb.com|nauticexpo.com|noodle.com|nytimes.com|opb.org|orbitz.com|out.com|phoronix.com|pianobuyer.com|ripley.cl|ripley.com.pe|seahawks.com|sendtonews.com|thesimsresource.com|thoughtcatalog.com|time.com|urbandictionary.com|vanityfair.com|video.foxbusiness.com|vroomvroomvroom.com.au|washingtonexaminer.com|weather.com|weddingspot.co.uk|wlj.net|wsj.com|wtop.com|wwe.com|zavvi.com|zdnet.com|zillow.com
 @@||partnerads.ysm.yahoo.com/ypa/?ct=*-search_results%$subdocument,domain=ask.com
 @@||partners.thefilter.com/crossdomain.xml$object-subrequest
 @@||partners.thefilter.com/dailymotionservice/$image,object-subrequest,script,domain=dailymotion.com
@@ -1669,7 +1663,6 @@
 @@||songza.com/advertising/top/
 @@||songza.com/static/*/songza/ads/iframe.js
 @@||sonicstate.com/video/hd/hdconfig-geo.cfm?$object-subrequest
-@@||sonobi.com/morpheus.$script,domain=nydailynews.com
 @@||sonypictures.com/global/images/ads/300x250/ad300x250.json$xmlhttprequest
 @@||sonypictures.com^*/admedia/
 @@||southparkstudios.com/images/shows/south-park/episode-thumbnails/*-advertising_$image
@@ -1987,6 +1980,7 @@
 @@||yimg.com^*/adplugin_*.swf$object,domain=games.yahoo.com
 @@||yimg.com^*/ads-min.css$domain=yahoo.com
 @@||yimg.com^*/java/promotions/js/ad_eo_1.1.js
+@@||yimg.com^*_300x250.$image,domain=search.yahoo.com
 @@||ykhandler.com/adframe.js
 @@||yokosonews.com/files/cache/
 @@||yoox.com/img//banner/affiliation/$image,domain=catalogfavoritesvip.com|freeshipping.com|freeshippingrewards.com|habandvipplus.com|inthecompanyofdogsvip.com|naturesjewelryvip.com|northstylevip.com|pyramidcollectionvip.com|serengeticatalogvip.com|travelplus.com
@@ -2085,7 +2079,6 @@
 @@||freedomoutpost.com^$generichide
 @@||freewarefiles.com^$generichide
 @@||gamerant.com^$generichide
-@@||godfatherpolitics.com^$generichide
 @@||gosocial.co^$generichide
 @@||gymflow100.com^$generichide
 @@||hallels.com^$generichide
@@ -2108,7 +2101,6 @@
 @@||lastresistance.com^$generichide
 @@||latinpost.com^$generichide
 @@||legalinsurrection.com^$generichide
-@@||libertyunyielding.com^$generichide
 @@||lidblog.com^$generichide
 @@||lifebuzz.com^$generichide
 @@||madworldnews.com^$generichide
@@ -2137,7 +2129,6 @@
 @@||realmomsrealreviews.com^$generichide
 @@||realtytoday.com^$generichide
 @@||redmaryland.com^$generichide
-@@||returnofkings.com^$generichide
 @@||reverbpress.com^$generichide
 @@||reviveusa.com^$generichide
 @@||rightwingnews.com^$generichide
@@ -2145,7 +2136,6 @@
 @@||sarahpalin.com^$generichide
 @@||shark-tank.com^$generichide
 @@||shedthoselbs.com^$generichide
-@@||sonsoflibertymedia.com^$generichide
 @@||stevedeace.com^$generichide
 @@||supercheats.com^$generichide
 @@||survivalnation.com^$generichide
@@ -2155,14 +2145,12 @@
 @@||terezowens.com^$generichide
 @@||theblacksphere.net^$generichide
 @@||theboredmind.com^$generichide
-@@||thefreethoughtproject.com^$generichide
 @@||thehayride.com^$generichide
 @@||thelibertarianrepublic.com^$generichide
 @@||thelibertydaily.com^$generichide
 @@||themattwalshblog.com^$generichide
 @@||thepoke.co.uk^$generichide
 @@||thepolitistick.com^$generichide
-@@||therealside.com^$generichide
 @@||tinypic.com^$generichide
 @@||tosavealife.com^$generichide
 @@||traileraddict.com^$generichide
@@ -2776,7 +2764,6 @@
 @@||inskinmedia.com/crossdomain.xml$object-subrequest
 @@||insys.pl/Scripts/InsysPlayer.*/adTest.png$domain=insys.pl
 @@||integral-marketing.com/scripts/imads.js$domain=dayt.se
-@@||intellitxt.com/intellitxt/front.asp?ipid=$script,domain=forums.tweaktown.com
 @@||investigationdiscovery.com/shared/ad-enablers/
 @@||investing.com^*/ads.js
 @@||investors.com^*/ads.js
@@ -2990,6 +2977,7 @@
 @@||nornar.com^$generichide
 @@||nosteam.ro/*ad*.$script
 @@||nosvideo.com/ads.js
+@@||notebookcheck.net/ads.js
 @@||npttech.com/advertising.js$script
 @@||ntn24.com/sites/all/libraries/can-run-ads/$script
 @@||nzbstars.com*/advertisement.js$~third-party,domain=nzbstars.com
@@ -3202,7 +3190,6 @@
 @@||soccity.net^$generichide
 @@||socketloop.com^$generichide
 @@||sockshare.com/js/$script
-@@||softonic.com^$generichide
 @@||software.informer.com*/ads.js$~third-party,domain=informer.com
 @@||sominaltvfilms.com/wp-content/*/adbanner/$image
 @@||sominaltvfilms.com^$generichide
@@ -3220,6 +3207,7 @@
 @@||srnet.eu^$script
 @@||srnk.co/js/ads.js
 @@||stackexchange.com/affiliate/
+@@||stackoverflow.com/tags/$~third-party,xmlhttprequest
 @@||startlr.com^$generichide
 @@||static-avforums.com/*ad$script,domain=avforums.com
 @@||static9.net.au^*/advert.js$domain=9news.com.au

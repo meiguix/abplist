@@ -94,7 +94,7 @@
 @@||abtasty.com/datacollectHeatmap.php$xmlhttprequest,domain=cdiscount.com
 @@||actiris.be/urchin.js
 @@||actiris.be^*/urchin.js
-@@||adobedtm.com^*/satelliteLib-$script,domain=icimusique.ca|laredoute.be|laredoute.ch|laredoute.fr|nrj.fr|tou.tv
+@@||adobedtm.com^*/satelliteLib-$script,domain=icimusique.ca|laredoute.be|laredoute.ch|laredoute.fr|lci.fr|nrj.fr|tou.tv
 @@||adyoulike.omnitagjs.com^$script,domain=dl.free.fr
 @@||analytics.belgacom.be/tms/loader.js$domain=proximus.be
 @@||analytics.ladmedia.fr/parismatch/xtcore_mod2.js$domain=parismatch.com
@@ -215,6 +215,7 @@
 @@||mxpnl.com/libs/mixpanel-*.min.js$domain=eloan.co.il
 @@||player.bizportal.co.il/scripts/GoogleAnalytics.js$domain=bizportal.co.il
 @@||player.flix.co.il/scripts/GoogleAnalytics.js
+@@||sport5.co.il/js/angulartics-google-analytics.js
 @@||stats.g.doubleclick.net/dc.js$domain=reshet.tv
 @@||tapuz.co.il/general/dotomi/statistics.js?$~third-party
 @@||themarker.com/logger/p.gif?$image,xmlhttprequest
@@ -257,6 +258,7 @@
 ! Indonesian
 @@||detik.com/urchin.js
 ! Japanese
+@@||adobedtm.com^*/satelliteLib-$script,domain=radiko.jp
 @@||analytics.edgekey.net/html5/akamaihtml5-min.js$domain=nhk.or.jp
 @@||chancro.jp/assets/lib/googleanalytics-$script
 ! Korean

@@ -393,6 +393,7 @@
 ||bonsai.internetbrands.com^
 ||bpath.com/count.dll?
 ||brain.foresee.com^
+||branch.io^*/pageview
 ||branch.io^*_fingerprint_id=$third-party
 ||brandaffinity.net/icetrack/
 ||brandcdn.com/pixel/
@@ -558,6 +559,7 @@
 ||condenastdigital.com/content?$third-party
 ||connect.facebook.net/signals/$third-party
 ||connect.facebook.net^*/fbds.js$third-party
+||consensu.org/?log=
 ||contactatonce.com/VisitorContext.aspx?
 ||content.cpcache.com^*/js/ga.js
 ||contentpass.net/stats?$third-party
@@ -731,6 +733,7 @@
 ||dc8na2hxrj29i.cloudfront.net^
 ||dc8xl0ndzn2cb.cloudfront.net^
 ||dd6zx4ibq538k.cloudfront.net^
+||dditscdn.com/*fingerprints
 ||dditscdn.com/?a=
 ||dditscdn.com/log/
 ||dealer.com^*/tracker/
@@ -2105,6 +2108,7 @@
 ||web-soft.in/counters/
 ||web1.51.la^
 ||webcare.byside.com^$third-party
+||webedia.fr/js/gs.js
 ||webeffective.keynote.com^
 ||weblog.livesport.eu^
 ||weblogger-dynamic-lb.playdom.com^

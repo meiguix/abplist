@@ -169,6 +169,7 @@
 ||aufderhar.net^$third-party
 ||augrenso.com^$third-party
 ||awentw.com^$third-party
+||aweprotostatic.com^$third-party
 ||awept.com^$third-party
 ||awmcenter.eu^$third-party
 ||awmpartners.com^$third-party
@@ -405,6 +406,7 @@
 ||fuelbuck.com^$third-party
 ||funcel.mobi^$third-party
 ||funnypickuplinesforgirls.com^$third-party
+||g--o.info^$third-party
 ||g6ni40i7.com^$third-party
 ||g726n8cy.com^$third-party
 ||gamblespot.ru^$third-party
@@ -710,6 +712,7 @@
 ||philstraffic.com^$third-party
 ||pictureturn.com^$third-party
 ||pinkhoneypots.com^$third-party
+||pkeeper3.ru^$third-party
 ||plachetde.biz^$third-party
 ||plantaosexy.com^$third-party
 ||pleasedontslaymy.download^$third-party
@@ -751,6 +754,7 @@
 ||ppc-direct.com^$third-party
 ||premature-ejaculation-causes.org^$third-party
 ||premiumhdv.com^$third-party
+||presatisfy.com^$third-party
 ||privacyprotector.com^$third-party
 ||private4.com^$third-party
 ||privateseiten.net^$third-party
@@ -1031,6 +1035,7 @@
 ||websitepromoserver.com^$third-party
 ||webstats.com.br^$third-party
 ||webteaser.ru^$third-party
+||wellmov.com^$third-party
 ||weownthetraffic.com^$third-party
 ||weselltraffic.com^$third-party
 ||wetpeachcash.com^$third-party

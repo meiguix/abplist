@@ -1,5 +1,6 @@
 @@/nk-sub.min.js$script,~third-party
 @@/rutorrent/plugins/rss/*$image,~third-party
+@@/threejs/Particles.js$script,~third-party
 @@||adfoc.us/*/interstitial.js$~third-party
 @@||amazonaws.com^*/feedback-v2.js?$domain=avgthreatlabs.com
 @@||bestof.s3.amazonaws.com/twitter.png$domain=makeuseof.com
@@ -34,6 +35,7 @@
 @@||libreprojects.net/logos/
 @@||livefyre.com/site_media/images/auth/$image
 @@||makeuseoflimited.netdna-cdn.com/pages/*/images/social.png$domain=makeuseof.com
+@@||moto-store.com.ua/catalog/view/theme/*/js/jquery.ui.totop.js$script,~third-party
 @@||my.leadpages.net/template/$script,domain=weddingjams.com
 @@||my.leadpages.net^*/public/
 @@||newsgator.com/ngbuzz/load.ashx/$script,domain=cbsnews.com

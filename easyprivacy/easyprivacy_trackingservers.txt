@@ -511,6 +511,7 @@
 ||cognitivematch.com^$third-party
 ||collarity.com^$third-party
 ||collserve.com^$third-party
+||colossusssp.com^$third-party
 ||commander1.com^$third-party
 ||company-target.com^$third-party
 ||compteur.cc^$third-party
@@ -629,6 +630,7 @@
 ||dejavu.mlapps.com^$third-party
 ||demandbase.com^$third-party
 ||demdex.net^$third-party
+||departapp.com^$third-party
 ||deqwas.net^$third-party
 ||devatics.com^$third-party
 ||device9.com^$third-party
@@ -726,6 +728,7 @@
 ||emediatrack.com^$third-party
 ||emjcd.com^$third-party
 ||emltrk.com^$third-party
+||emxdgt.com^$third-party
 ||enecto.com^$third-party
 ||enectoanalytics.com^$third-party
 ||engageclick.com^$third-party
@@ -885,6 +888,7 @@
 ||freshplum.com^$third-party
 ||friendbuy.com^$third-party
 ||fruitflan.com^$third-party
+||fsd2.digital^$third-party
 ||fshka.com^$third-party
 ||ftbpro.com^$third-party
 ||fueldeck.com^$third-party
@@ -1307,6 +1311,7 @@
 ||marketizator.com^$third-party
 ||marketo.com^$third-party
 ||marketo.net^$third-party
+||marketperf.com^$third-party
 ||marketshot.com^$third-party
 ||marketshot.fr^$third-party
 ||maropost.com^$third-party
@@ -1808,6 +1813,7 @@
 ||roivista.com^$third-party
 ||rollingcounters.com^$third-party
 ||roosterfirework.com^$third-party
+||rp-rep.net^$third-party
 ||rpdtrk.com^$third-party
 ||rqtrk.eu^$third-party
 ||rrimpl.com^$third-party
@@ -1912,6 +1918,7 @@
 ||silverpop.com^$third-party
 ||silverpush.co^$third-party
 ||simility.com^$third-party
+||simonsignal.com^$third-party
 ||simpleanalytics.io^$third-party
 ||simpleheatmaps.com^$third-party
 ||simplehitcounter.com^$third-party
@@ -1972,6 +1979,7 @@
 ||socialtrack.net^$third-party
 ||sociaplus.com^$third-party
 ||socketanalytics.com^$third-party
+||socketviking.net^$third-party
 ||sodoit.com^$third-party
 ||soflopxl.com^$third-party
 ||softonic-analytics.net^$third-party
@@ -2381,6 +2389,7 @@
 ||waplog.net^$third-party
 ||waudit.cz^$third-party
 ||waust.at^$third-party
+||wbdx.fr^$third-party
 ||wbtrk.net^$third-party
 ||web-boosting.net^$third-party
 ||web-counter.net^$third-party

@@ -320,6 +320,7 @@
 ||elr.sfr.fr^
 ||eultech.fnac.com^
 ||flake.formr.io/sp.js
+||futura-sciences.com^*/xtcore.js
 ||g.itespresso.fr^
 ||grazia.fr/ea.js
 ||gstat.orange.fr^
@@ -641,6 +642,7 @@
 ||c-date.it/tracking?
 ||c-date.it^*/tracking2/tr.js
 ||click.tv.repubblica.it^
+||compare.easyviaggio.com^
 ||deagostinipassion.it/collezioni/analytics.js
 ||emng.libero.it^
 ||fanpage.it/views/
@@ -854,6 +856,7 @@
 ||audiencies.ccma.cat^
 ||bankinter.com/res/img/documento_cargado.gif?
 ||coletor.terra.com^
+||compare.easyviajar.com^
 ||esmas.com/scripts/esmas_stats.js
 ||estadisticas.lanacion.com.ar^
 ||estadonline.publiguias.cl^

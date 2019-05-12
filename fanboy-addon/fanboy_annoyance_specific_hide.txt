@@ -14,7 +14,6 @@ kellyservices.com###ConnectWrap
 webmd.com###ContentPane46
 thebaffler.com###CoverPop-content
 thebaffler.com###CoverPop-cover
-nydailynews.com###DD-Widget
 trendhunter.com###DOMWindow
 trendhunter.com###DOMWindowOverlay
 mlive.com###EntryStats
@@ -305,7 +304,7 @@ theoatmeal.com###cf2_like
 bostinno.com###channel-cta
 realsimple.com###channelToutEditModule
 tutorvista.com###chat_box_iframe_popup
-arabtimesonline.com,elpasoheraldpost.com,futuregamereleases.com,loadthegame.com,minecrafthousedesign.com,thefreethoughtproject.com###check-also-box
+arabtimesonline.com,elpasoheraldpost.com,futuregamereleases.com,loadthegame.com,minecrafthousedesign.com###check-also-box
 huffingtonpost.com###chicklets
 nidirect.gov.uk###cicw
 popsci.com###circ-container
@@ -390,7 +389,6 @@ damninteresting.com###damnload-cart
 cryptocoinsnews.com,doyouremember.com,greenoptimistic.com,rawstory.com,thejewniverse.com###darkbackground
 inspire.com###darken
 cbsnews.com###dashboard
-nydailynews.com###dd-nydn-300-hp
 ebay.com###dd-top
 androidauthority.com###deal_day_bar
 earthtechling.com###deals-widget
@@ -570,7 +568,6 @@ reuters.com###followReuters
 shelterpop.com###followUsRightHub
 rawstory.com###follow_container
 democracynow.org###follow_dn
-softonic.com###follow_download
 cracked.com###follow_me
 nationalgeographic.com###follow_ng
 wikihow.com###follow_table
@@ -957,7 +954,6 @@ ft.com###opClusterOverlay
 1up.com###openhtmlforGooglecoop
 ft.com###optimostOverlay
 guidingtech.com,ruleyourrealm.com###optincrusher
-crainsnewyork.com###outbrain
 mp4upload.com###over
 collegefashion.net###overheader
 addons.opera.com,bestdaily.co.uk,bjs.com,buffalonews.com,geekfuel.com,kveller.com,moneysavingexpert.com,myjewishlearning.com,petri.co.il,scribd.com,thewarehouse.co.nz,thinkprogress.org###overlay
@@ -1429,7 +1425,6 @@ amtrak.com,benzinga.com,collegiatetimes.com,daniweb.com,doubleviking.com,titantv
 marca.com###toolbar-container
 cnet.com.au###toolbar-nav-outer-wrap
 thechivery.com###toolbarMaster
-softonic.com###toolbar_promotion
 tucsonsentinel.com###toolbarwrap
 channel4.com###toolbox
 stuff.co.nz###toolbox-gigya
@@ -1598,7 +1593,6 @@ pornhub.com##.abovePlayer
 tv.com##.action_sidebar
 groupon.com,wishtv.com,wivb.com##.actions
 zedge.net##.ad
-softonic.com##.ad--displayed
 utsandiego.com##.ad-and-callout
 pcquest.com##.ad-box
 hollywoodnews.com##.ad-entry
@@ -1820,7 +1814,6 @@ stylelist.com##.bylinefb
 citylab.com##.c-action-bar
 radionz.co.nz##.c-aside--subscribe
 plus.google.com##.c-zh-Wf
-care2.com##.c2_outbrain
 appeggs.com,downloadatoz.com##.c_scrollbar
 econsultancy.com##.call-to-action-pod
 xhamster.com##.cams-widget
@@ -2091,6 +2084,7 @@ aegis7.com##.forcetoregister
 patch.com##.form-card
 ijreview.com##.formRow
 huffingtonpost.com##.forma_email
+hiapkdownload.com,modapkdown.com##.fot-float-box
 theweek.com##.fourFreeBar
 fanpop.com##.fp_panel
 chowhound.com##.fr_relarrow
@@ -2450,6 +2444,7 @@ washingtonpost.com##.network-news
 chillicothenews.com##.network_bucket
 v3.co.uk##.network_links
 filehorse.com##.networking
+hiapkdownload.com,modapkdown.com##.new-fixd-box
 guyism.com##.new-guy
 v3.co.uk##.new_connection
 ndtv.com##.new_nextarrow
@@ -2564,7 +2559,6 @@ wired.com##.paginate-box
 clevelandjewishnews.com##.paging-link
 themittani.com##.pane-3
 atheistrepublic.com##.pane-aweber-webform
-popsci.com##.pane-bonnier-outbrain-outbrain-video-vr3-widget
 itworld.com##.pane-itw-blocks-itw-ad10-itjobs
 fiercewireless.com##.pane-library-stack
 fiercewireless.com##.pane-pusher-ad
@@ -2886,7 +2880,6 @@ wired.com##.sponsored-stories-component
 blogcritics.org,labnol.org##.spread
 9gag.com##.spread-bar
 collinsdictionary.com##.spread_the_word
-raprnb.com,the-line-up.com,thestack.com,xredmedia.com##.spu-bg
 the-line-up.com,thestack.com,xredmedia.com##.spu-box
 sandiegouniontribune.com##.sr-outer
 skysports.com##.ss-art-tools
@@ -3068,7 +3061,6 @@ in.com##.utility_bar_block
 zdnet.com##.utils
 ndtv.com##.uv-bottom-right
 realonlinedegrees.com,visualeconomics.com##.ve2_joinbox
-nydailynews.com##.vertical
 sify.com##.vhare-textbg
 metrolyrics.com##.video-container
 imgur.com##.viewInAppLink
@@ -3304,6 +3296,7 @@ sciencenews.org###block-boxes-call-to-action
 itpro.co.uk###block-boxes-subscription-promo-content
 infoworld.com###block-infoworld-newsletter_subscribe
 forces.net###block-mailchimpsubscriptionformmailsignup
+crosscut.com###block-quick-subscribe-footer
 shape.com###block-shape_newsletters-newsletters
 thehill.com###block-thehill-blocks-footer-signup
 thehill.com###block-thehill-blocks-right-rail-signup
@@ -3331,6 +3324,7 @@ thewrap.com###content-bottom-sidebar
 telecompaper.com###ctl00_MainPlaceHolder_HeadlineRegistersMain1_Update1
 guidedoc.com###curtain
 pridesource.com###custom_html-11
+theamericanmirror.com###custom_html-12
 aircargoworld.com###custom_html-16
 saabplanet.com###custom_html-31
 property360.co.za###custom_html-4
@@ -3416,8 +3410,8 @@ britannica.com###marketing-slider
 newscientist.com###marketingtertiary
 gearbest.com###mask
 rapidtvnews.com###masthead
-bcheights.com,cargofacts.com,cnn.com,dailyhive.com,etv.co.za,evonomics.com,fn.com,gimmesomeoven.com,kveller.com,lawandcrime.com,longreads.com,mtlblog.com,narrative.ly,nation.co.ke,nesthq.com,psypost.org,reliefweb.int,runthetrap.com,thewirecutter.com###mc-embedded-subscribe-form
-99fm.com.na,activistmommy.com,androidauthority.com,apriorit.com,artafricamagazine.org,bcheights.com,bhekisisa.org,bitguru.co.uk,biznews.com,blog.cloudflare.com,breakingisraelnews.com,breakingnews.ie,caribjournal.com,chinafile.com,churchmilitant.com,circuitdigest.com,cjr.org,cointelegraph.com,current.org,dailyfreepress.com,dailytimes.com.pk,dailytrust.com.ng,exstreamist.com,fusion.net,gaystarnews.com,ghafla.com,groovekorea.com,howlermagazine.com,indiaclimatedialogue.net,iphoneincanada.ca,jewishinsider.com,justrunlah.com,majorgeeks.com,maoritelevision.com,monetarywatch.com,nbc.na,newsthump.com,newtimes.co.rw,nextbigfuture.com,nodez.co,nyc.gov,premiumtimesng.com,propublica.org,providr.com,punchng.com,rawstory.com,registerguard.com,rnw.org,russia-insider.com,sciencealert.com,sciencebulletin.org,seattletimes.com,secretflying.com,spokesman.com,sporttechie.com,stellar.ie,swissinfo.ch,techjuice.pk,technobuffalo.com,thenewsflasher.com,thequint.com,thestar.com.my,theyeshivaworld.com,wayfm.com,worldreligionnews.com,wttw.com###mc_embed_signup
+bcheights.com,cargofacts.com,cnn.com,dailyhive.com,etv.co.za,evonomics.com,fn.com,gimmesomeoven.com,kveller.com,lawandcrime.com,longreads.com,mtlblog.com,narrative.ly,nation.co.ke,nesthq.com,psypost.org,reductress.com,reliefweb.int,runthetrap.com,thewirecutter.com###mc-embedded-subscribe-form
+99fm.com.na,activistmommy.com,androidauthority.com,apriorit.com,artafricamagazine.org,bcheights.com,bhekisisa.org,bitguru.co.uk,biznews.com,blog.cloudflare.com,breakingisraelnews.com,breakingnews.ie,caribjournal.com,chinafile.com,churchmilitant.com,circuitdigest.com,cjr.org,cointelegraph.com,current.org,dailyfreepress.com,dailytimes.com.pk,dailytrust.com.ng,exstreamist.com,fusion.net,gaystarnews.com,ghafla.com,groovekorea.com,howlermagazine.com,indiaclimatedialogue.net,iphoneincanada.ca,jewishinsider.com,justrunlah.com,majorgeeks.com,maoritelevision.com,monetarywatch.com,nbc.na,newsthump.com,newtimes.co.rw,nextbigfuture.com,nodez.co,nyc.gov,premiumtimesng.com,propublica.org,providr.com,punchng.com,rawstory.com,registerguard.com,rnw.org,russia-insider.com,sciencealert.com,sciencebulletin.org,seattletimes.com,secretflying.com,spokesman.com,sporttechie.com,stellar.ie,swissinfo.ch,techjuice.pk,technobuffalo.com,thenewsflasher.com,thequint.com,thestar.com.my,theyeshivaworld.com,truthuncensored.net,wayfm.com,worldreligionnews.com,wttw.com###mc_embed_signup
 activistmommy.com###mc_embed_signup-footer
 moneyweb.co.za###mc_embed_signup1
 priceonomics.com###mc_embed_signup_nojs
@@ -3500,7 +3494,7 @@ crmbuyer.com,ecommercetimes.com,linuxinsider.com,technewsworld.com###story-nl
 mentalfloss.com###su-300x150
 neonnettle.com###subBox
 freshome.com###submit_newsletter
-appstorm.net,artnet.com,beforeitsnews.com,biographile.com,dailygood.org,digg.com,doctortipster.com,dumblittleman.com,freemake.com,freshtechweb.com,fuelsandlubes.com,heavy.com,leftturn.org,lifehack.org,marineelectronics.com,maximumpc.com,michigandaily.com,nexustabletcentral.com,sfgate.com,stoppress.co.nz,techieapps.com,technostall.com,techsplurge.com,the-scientist.com,theamericanscholar.org,theatlantic.com,thinkprogress.org,tv.com,wakoopa.com,worldwatchmonitor.org,yahoo.com,yibada.com###subscribe
+appstorm.net,artnet.com,beforeitsnews.com,biographile.com,celebrity.red,dailygood.org,digg.com,doctortipster.com,dumblittleman.com,freemake.com,freshtechweb.com,fuelsandlubes.com,heavy.com,leftturn.org,lifehack.org,marineelectronics.com,maximumpc.com,michigandaily.com,nexustabletcentral.com,sfgate.com,stoppress.co.nz,techieapps.com,technostall.com,techsplurge.com,the-scientist.com,theamericanscholar.org,theatlantic.com,thinkprogress.org,tv.com,wakoopa.com,worldwatchmonitor.org,yahoo.com,yibada.com###subscribe
 abovethelaw.com###subscribe-main
 gossipcop.com###subscribe-message
 cloudcomputingadmin.com,insideaws.com,isaserver.org,msexchange.org,virtualizationadmin.com,windowsecurity.com###subscribe-modal
@@ -3574,6 +3568,7 @@ languagetool.org##.ZebraDialog
 languagetool.org##.ZebraDialogOverlay
 sportspromedia.com##._floating-box
 commentarymagazine.com##._form_5
+collective-evolution.com##._form_7
 androidauthority.com##.aa-subscribe-video-button
 buzzfeed.com##.action-bar--hover-container
 alternet.org##.action_form
@@ -3583,6 +3578,7 @@ healthgrades.com##.ad-mod + .card-basic
 movieguide.org##.ad_reviews_holder
 findlectures.com,goodnewsnetwork.org,medievalists.net##.af-form-wrapper
 afamilyfeast.com##.afamilyfeast_subscription
+jihadwatch.org##.aksh_mailchimp_widget
 codeproject.com##.alert-bar
 ifc.com##.amcn_newsletter_widget_module
 mic.com##.app-header__subscribe
@@ -3676,6 +3672,7 @@ dailysurge.com##.ebook-signup-box
 ecowatch.com##.eco_subscribe_box
 digg.com##.editions-promo
 jlconline.com##.editorial-promo
+insider.com##.editorial-sidebar
 democracynow.org,emigrate2.co.uk,pjmedia.com,townhall.com##.email
 hermanmiller.com,refinery29.com##.email-acquisition
 smarteranalyst.com##.email-alerts-pops
@@ -3808,6 +3805,7 @@ thewalrus.ca##.mailchimpAjax
 thefinancialist.com##.mailchimp_form
 ewn.co.za##.mailer-signup-sidebar
 audubon.org##.mailing-list
+bellingcat.com##.mailingList
 food52.com##.mailingListRoot
 ebar.com##.mailinglist
 psu.edu##.mailinglist-form
@@ -3970,7 +3968,7 @@ thenation.com##.siderail__item
 theaustralian.com.au##.sign-me-up
 ozy.com,politico.com,theatlantic.com##.sign-up
 viralnova.com##.sign-up-box
-dailysurge.com##.sign-up-form
+dailysurge.com,therealside.com##.sign-up-form
 jpost.com##.sign-up-wrap
 americamagazine.org,cnet.com##.signUp
 icepop.com##.signUp_mailchimp
@@ -4003,7 +4001,7 @@ businessoffashion.com##.smart-slot__subscribe-to-daily-digest
 ieee.org##.sml_article_static
 rt.com##.sp_registration-cta
 fortune.com##.special-story-social-wrapper
-500px.com##.spu-bg
+500px.com,raprnb.com,the-line-up.com,theisraelwire.com,thestack.com,xredmedia.com##.spu-bg
 500px.com,androidsage.com##.spu-box
 theprepared.org##.sqs-slide-layer-content
 timesofoman.com##.stayUpdated
@@ -4066,7 +4064,7 @@ newsweek.com##.trial-link
 gomechanicalkeyboard.com##.tve-leads-widget
 fortune.com##.two_ad
 iclg.co.uk,ptitchef.com##.ui-dialog
-pastemagazine.com,ptitchef.com,sperry.com,striderite.com##.ui-widget-overlay
+bestreviews.com,pastemagazine.com,ptitchef.com,sperry.com,striderite.com##.ui-widget-overlay
 movieguide.org,warisboring.com##.ulp-overlay
 movieguide.org,warisboring.com##.ulp-window
 universetoday.com##.unive-sidebar-subscribe-to-the-newsletter
@@ -4074,6 +4072,7 @@ cbc.ca##.upakneeWidget
 uproxx.com##.uproxx-retention-unit
 cbn.com##.view-display-id-blog_webform
 biblegateway.com##.votd-subscribe-wrapper
+crosscut.com##.waypoints-reveal-entity
 newstatesman.com##.webform-client-form
 sciencetimes.com##.wh_transf
 daltondailycitizen.com##.what-counts
@@ -4095,6 +4094,7 @@ sassymanila.com##.widget_smnl-mailchimp
 time.com##.widget_thepage_newsletter_widget
 merriam-webster.com##.word-of-day-subscribe-block
 5pillarsuk.com##.wpcf7
+ipatriot.com##.wpdev-email-signup
 i24news.tv##.wrapper_footer_5_suscribe
 i24news.tv##.wrapper_footer_5_suscribe_form
 wwd.com##.wwd-subscribe-now-banner-ad-container
@@ -4162,6 +4162,7 @@ gayboystube.com###action-up
 myinforms.com###arrow
 britishland.com###auto-top-link
 ntknetwork.com,shameless.com###b2t
+whtop.com###back
 indiatimes.com###back-top
 iy.com###backTop
 mangahere.co###back_top
@@ -4177,9 +4178,10 @@ thecommentator.com###go_to_top
 cri.cn###goup
 mitsui.com###js_globalFooterButtonTop
 visitcalifornia.com###link-top
+whtop.com###menu-back
 weeklyxpose.co.za###mt-scrollup
 afamilyfeast.com###myBtn
-konami.com###page-top
+casio-europe.com,konami.com###page-top
 cnet.com,macromill.com,mhi.com,oki.com,smbc.co.jp,smfg.co.jp,smth.jp###pageTop
 saudigazette.com.sa###pageup
 bingplaces.com###pagination_Arrow
@@ -4208,7 +4210,7 @@ firstbanknigeria.com###topbottom_arr
 gen14.com###topofpage
 thespinoff.co.nz###topscroll
 listnerd.com###topscroller
-guvonhotels.co.za,hirschs.co.za,langenscheidt.com,regalinn.co.za,schoolguide.co.za,thefairway.co.za,thewitcher.com,xtubetv.net###totop
+guvonhotels.co.za,hirschs.co.za,langenscheidt.com,regalinn.co.za,schoolguide.co.za,thefairway.co.za,thewitcher.com,webfail.com,xtubetv.net###totop
 motortrend.com###totop-arrow
 nextradioapp.com###tsnr-to-pgtop
 europeanjournalists.org###up
@@ -4336,7 +4338,6 @@ menshealth.com,runnersworld.com,womenshealthmag.com###newsletter-block
 cinemablend.com###newsletter-button
 infowars.com###newsletter-side-widget
 calgaryherald.com,edmontonjournal.com,montrealgazette.com,ottawacitizen.com,thestarphoenix.com,windsorstar.com###pn-newsletter-signup
-softonic.com###popup-newsletter-software
 cio.co.nz,cio.com.au,cmo.com.au,computerworld.co.nz,computerworld.com.au,cso.com.au,pcworld.co.nz###quick-signup-article-widget
 computerworld.co.nz,computerworld.com.au,cso.com.au###rhs_newsletter
 computerworld.co.nz###rhs_techjobs
@@ -4345,7 +4346,6 @@ menshealth.com,runnersworld.com##.OUTBRAIN
 ibtimes.co.uk##.anchored--newsletter
 arnnet.com.au,reseller.co.nz##.art-connect
 merriam-webster.com##.article-content-subscribe-block
-softonic.com##.article-next-sticky
 theweek.co.uk##.block-dennis-newsletter-popup
 merriam-webster.com##.footer-subscribe-block
 huffingtonpost.co.uk,huffingtonpost.com##.inline-newsletter
@@ -4353,7 +4353,7 @@ androidsage.com##.jetpack_subscription_widget
 soccity.net##.newsletter-block
 newsy.com##.newsletter-popup
 newsy.com##.newsletter-popup-background
-history.com,nydailynews.com##.newsletter-signup
+history.com##.newsletter-signup
 newsy.com##.newsletter-signup-bar-container
 freep.com##.newsletter-signup-primary
 hypable.com##.newsletter-single
@@ -4366,7 +4366,6 @@ multiup.eu,multiup.org##.scroll-to-top
 technoshouter.com##.td-more-articles-box
 jewishpress.com##.td-scroll-up
 broadwayworld.com##.widget-subscribe
-libertyunyielding.com##.wpdev-newsletter-signup
 stereogum.com##.zergnet-holder
 ! Bug in uBo: https://github.com/gorhill/uBlock/issues/1885
 newyorker.com##div[class^="NewsletterSubscribe_"]

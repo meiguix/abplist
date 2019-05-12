@@ -57,6 +57,7 @@
 ||5ilthy.com/porn.php
 ||64.62.202.124^*/cumlouder.jpg
 ||78.140.130.91^$script,domain=xcafe.com
+||9xmovies.cc/sw.js
 ||a.eporner.com^
 ||a.heavy-r.com^
 ||a.killergram-girls.com^
@@ -168,11 +169,14 @@
 ||celebrity-slips.com/bst/
 ||celebrity-slips.com/img/
 ||celebrity-slips.com/nlc/
+||cfake.com/*?$image
+||cfake.com/exo/
 ||cfake.com/images/a/
 ||chanweb.info/en/adult/hc/local_include/
 ||chatrandom.com/js/slider.js
 ||chubby-ocean.com/banner/
 ||clips-and-pics.org/clipsandpics.js
+||cloudfront.net^$domain=niceporn.xxx
 ||comdotgame.com/vgirl/
 ||coolmovs.com/js/focus.*.js
 ||coolmovs.com/rec/$subdocument
@@ -240,6 +244,7 @@
 ||extreme-board.com/bannrs/
 ||extremetube.com/*=$xmlhttprequest
 ||extremetube.com/player_related?
+||faapy.com/js_e/
 ||fakeporn.tv/bb/
 ||fantasti.cc/_special/
 ||fantasti.cc/fabl.
@@ -309,6 +314,7 @@
 ||go.strpjmp.com^
 ||goldporntube.com/iframes/
 ||gotgayporn.com/Watermarks/
+||gotporn.com/bck_loader_
 ||grannysexforum.com/filter.php
 ||gspcdn.com^*/banners/
 ||h2porn.com/*.js#spot=
@@ -503,8 +509,10 @@
 ||netronline.com/Include/burst.js
 ||niceandquite.com/msn.js
 ||niceandquite.com/nice.js
+||niceporn.xxx/sw.js
 ||niceyoungteens.com/ero-advertising
 ||niceyoungteens.com/mct.js
+||nicsgalleries.com/s/
 ||nonktube.com/brazzers/
 ||nonktube.com/nuevox/midroll.php?
 ||nonktube.com/popembed.js
@@ -530,6 +538,7 @@
 ||onlinestars.net/br/
 ||openjavascript.com/jtools/jads.
 ||orgyxxxhub.com/content/lib/
+||paradisehill.cc^*/300x250
 ||partners.keezmovies.com^
 ||pastime.biz/images/iloveint.gif
 ||pastime.biz/images/interracial-porn.gif
@@ -626,6 +635,7 @@
 ||pornfanplace.com/js/pops.
 ||pornfanplace.com/rec/
 ||porngals4.com/img/b/
+||pornhd.com/pornhd/
 ||pornhub.com/catagories/costume/
 ||pornhub.com/channels/pay/
 ||pornhub.com/front/alternative/
@@ -748,6 +758,8 @@
 ||sexu.com/*.php$script
 ||sexuhot.com/images/xbanner
 ||sexuhot.com/splayer.js
+||sexvid.xxx/pi/
+||sexvid.xxx/xdman/
 ||sexvideogif.com/msn.js
 ||sexvideogif.com/svg.js
 ||sexvines.co/images/cp
@@ -763,6 +775,7 @@
 ||shanbara.jp/okusamadx.gif
 ||sharew.org/modalfiles/
 ||shemaletubevideos.com/images/banners/
+||shesfreaky.com/pop/
 ||shooshtime.com/ads/
 ||shooshtime.com/images/chosenplugs/
 ||shooshtimeinc.com/under.php
@@ -925,6 +938,7 @@
 ||xbooru.com/ex.js
 ||xbooru.com/images/a/
 ||xbooru.com/script/application.js
+||xcafe.com/jkzx/
 ||xcritic.com/images/buy-
 ||xcritic.com/images/rent-
 ||xcritic.com/images/watch-
@@ -962,7 +976,6 @@
 ||xxxymovies.com^*/bottom-banner.
 ||yea.xxx/img/creatives/
 ||youaresogay.com/*.html
-||youjizz.com/neverblock/
 ||youngpornvideos.com/images/bangbros/
 ||youngpornvideos.com/images/glamglam/
 ||youngpornvideos.com/images/mofoscash/
@@ -990,25 +1003,10 @@
 ||zazzybabes.com/misc/virtuagirl-skin.js
 ||zemporn.com/js/pns.min.js
 ||zuzandra.info/b?
+! motherless
+/^https?:\/\/motherless\.com\/[a-z0-9A-Z]{3,}\.[a-z0-9A-Z]{2,}\_/$image,subdocument
 ! (/sw.js)
-/^https?:\/\/.*\/.*sw[0-9(.|_)].*/$script,domain=24-video.me|analdin.com|fux.com|heavy-r.com|incesto69.com|mypornstarbook.net|porn555.com|pornerbros.com|porntube.com|tubepornclassic.com|txxx.com|vidmo.org|vpornvideos.com
-! Juicyads
-.php/$image,~third-party,domain=4tube.com|anysex.com|badjojo.com|motherless.com|pornobae.com|pornoreino.com|pussyspace.com|xnxx-sexfilme.com|yourlust.com
-=$image,~third-party,domain=4tube.com|anysex.com|badjojo.com|motherless.com|pornobae.com|pornoreino.com|pussyspace.com|xnxx-sexfilme.com|yourlust.com
-?$image,~third-party,domain=4tube.com|anysex.com|badjojo.com|motherless.com|pornobae.com|pornoreino.com|pussyspace.com|xnxx-sexfilme.com|yourlust.com
-! Spankwire
-@@||spankwire.com/api/categories/list.json?$xmlhttprequest
-@@||spankwire.com/api/categories/popular.json?$xmlhttprequest
-@@||spankwire.com/api/comments/$xmlhttprequest
-@@||spankwire.com/api/pornstars?$xmlhttprequest
-@@||spankwire.com/api/video/list.json?$xmlhttprequest
-@@||spankwire.com/api/video/popular.json?$xmlhttprequest
-@@||spankwire.com/api/video/recent.json?$xmlhttprequest
-@@||spankwire.com/api/video/relateds.json?$xmlhttprequest
-@@||spankwire.com/api/video/trending.json?$xmlhttprequest
-@@||spankwire.com/player_related?$xmlhttprequest
-@@||spankwire.com/videoView?$xmlhttprequest
-||spankwire.com^*=$xmlhttprequest
+/^https?:\/\/.*\/.*sw[0-9(.|_)].*/$script,domain=24-video.me|analdin.com|extremetube.com|fux.com|heavy-r.com|incesto69.com|keezmovies.com|mofosex.com|mypornstarbook.net|porn555.com|pornerbros.com|porntube.com|tubepornclassic.com|tubev.sex|txxx.com|vidmo.org|vpornvideos.com
 ! pornhive.tv
 $script,subdocument,third-party,domain=pornhive.tv
 ! pornhd.com
@@ -1029,18 +1027,6 @@ $image,script,subdocument,third-party,webrtc,websocket,domain=camwhorestv.org
 ||bugel.pronpic.org^$image
 ||newmail.pronpic.org^$script
 ||pronpic.org^$media
-! youjizz
-@@||youjizz.com/app/$script
-@@||youjizz.com/js/contentlist.js$script
-@@||youjizz.com/js/jquery.$script
-@@||youjizz.com/js/knockout-2.2.1.js$script
-@@||youjizz.com/js/localdata.js$script
-@@||youjizz.com/js/videojs.$script
-@@||youjizz.com/player/$script
-@@||youjizz.com/rating/$script
-@@||youjizz.com^*/swfobject.js$script
-||www.youjizz.com^$image
-||youjizz.com^$script
 ! fantasti.cc
 ||fantasti.cc^$xmlhttprequest
 ! zone-anime.net
@@ -1087,13 +1073,6 @@ $image,script,subdocument,third-party,webrtc,websocket,domain=camwhorestv.org
 @@||anyporn.com/videojs/vjs-related.js$script
 @@||anyporn.com/videos_screenshots/$image
 ||anyporn.com^$image,script,subdocument,xmlhttprequest
-! hotpornfile.org
-@@||ajax.googleapis.com^$script,domain=hotpornfile.org
-@@||code.jquery.com^$script,domain=hotpornfile.org
-|http://$script,third-party,domain=hotpornfile.org
-|https://$script,third-party,domain=hotpornfile.org
-||hotpornfile.org/*/ban/
-||hotpornfile.org/*/ex/
 ! gaybeeg.info
 @@||netdna-storage.com^$xmlhttprequest,domain=gaybeeg.info
 @@||translate.google.com^$script,domain=gaybeeg.info
