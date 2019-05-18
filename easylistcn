@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201905131203
+! Version: 201905181205
 ! Title: EasyListCN
-! Last modified: 2019-05-13
+! Last modified: 2019-05-18
 ! Expires: 365 days
 !
 !---------------------General advert filters---------------------!
@@ -317,6 +317,7 @@
 /main.js?v=*&sp=*&ty=
 /main/s?
 /meinv/js/*_banner.js
+/metrika^
 /mobilegame/getroomapp?
 /module/adsview/*
 /moneymaker-banners/ads_
