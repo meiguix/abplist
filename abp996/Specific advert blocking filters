@@ -1228,6 +1228,7 @@ _yad_jsonp_
 ||bpimg.com^$domain=ref.so
 ||brand.sogou.com/micro?yyid=
 ||bs.baidu.com/app-ads%
+||bs.yandex.ru^
 ||bt121.net/ats/
 ||btbtdy.*/templets/btdy/js/ad
 ||btbtdy.*/templets/btdy/js/slade888.js
@@ -1438,6 +1439,7 @@ _yad_jsonp_
 ||ck101.com/api.php?mod=taobao&
 ||ckcdn.com/c/html5_ad/
 ||ckck.vip/inc/
+||clck.yandex.ru^
 ||client.88tours.com^
 ||clouddn.com/960x60.gif
 ||cloudflare.com/ajax/libs/jquery.blockUI/$domain=wantgoo.com
@@ -3066,6 +3068,7 @@ _yad_jsonp_
 ||mmtalk.net/images/banner
 ||mobile.sina.cn/public/files/image/600x150_
 ||mobile.sina.cn/public/files/image/620x300_
+||mobile.yandex.net^
 ||moe-acg.cc/ads.js
 ||moe-acg.cc/images/*/1225
 ||moe-acg.cc/images/*/2000x710
