@@ -17,6 +17,7 @@
 @@/wp-content/plugins/wp-rocket/$image,~third-party
 @@||126.net/share/js/$script,domain=163.com
 @@||3dmark.com/proxycon/images/fb_icon.png
+@@||3obieg.pl/wp-content/themes/sowe/css/content/$image
 @@||4game.com^*/facebook.js
 @@||4game.com^*/twitter.js
 @@||4shared.com/images/icons/social-connect-buttons.png
@@ -216,6 +217,7 @@
 @@||freshdesk.de/themes/freshdesk/images/icons/social-$image
 @@||friendfeed.com/static/images/icons/$~third-party
 @@||fyre.co/*/facebook_share_post.png
+@@||gamingsociety.pl/wp-content/themes/$image
 @@||gannett-cdn.com^*/googleplus-user-account.js
 @@||ge.tt/s/images/twitter-extension-icon.png
 @@||ge.tt/s/images/twitter-signin.png
@@ -462,7 +464,8 @@
 @@||s7.addthis.com/static/r07/$script,stylesheet,domain=majorgeeks.com
 @@||s7.addthis.com^*/addthis_widget.js$domain=carsom.nl|channelnewsasia.com|hatsandcaps.co.uk|politico.com|ticketmaster.nl|washingtonexaminer.com
 @@||s7.addthis.com^*/addthis_widget.js*async=$domain=koeln.de|moneytalksnews.com
-@@||s7.addthis.com^*/addthis_widget.js*pubid=
+@@||s7.addthis.com^*/addthis_widget.js*pub=$script
+@@||s7.addthis.com^*/addthis_widget.js*pubid=$script
 @@||s7.addthis.com^*/addthis_widget.js*username=$domain=iamsecond.com
 @@||salon.com/combo/js?*/share-buttons.js$script
 @@||schluetersche.de/global/js/libs/jquery/plugins/socialshareprivacy/jquery.socialshareprivacy.min.js
@@ -478,6 +481,7 @@
 @@||sharethis.com/button/sharethis.js$domain=statefarm.com|vogue.com
 @@||sharethis.com/getsegment.php$domain=cnn.com
 @@||sharethis.com^$domain=cbslocal.com|colbertnation.com|fandango.com|fox23.com|imgur.com|salon.com|thedailybeast.com|thedailyshow.com
+@@||sharetv.com/images/social_login/$image,~third-party
 @@||sk-static.com/assets/facebook-$image,domain=songkick.com
 @@||sk-static.com/assets/nw/components/taste-import/fb-icon-$domain=songkick.com
 @@||sk-static.com/assets/nw/elements/social-buttons/$domain=songkick.com

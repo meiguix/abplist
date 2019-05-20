@@ -296,6 +296,7 @@
 /autopromo.$domain=750g.com|alibabuy.com|allocine.fr|cap-cine.fr|chartsinfrance.net|cotecine.fr|easyvols.fr|easyvoyage.com|get-the-look.fr|jeuxactu.com|jeuxvideo.com|lestream.fr|millenium.org|musiquemag.com|ouest-france.fr|ozap.com|purebreak.com|purepeople.com|puretrend.com|shopoon.fr|terrafemina.com
 /autopromotion.$domain=750g.com|alibabuy.com|allocine.fr|cap-cine.fr|chartsinfrance.net|cotecine.fr|easyvols.fr|easyvoyage.com|get-the-look.fr|jeuxactu.com|jeuxvideo.com|lestream.fr|millenium.org|musiquemag.com|ouest-france.fr|ozap.com|purebreak.com|purepeople.com|puretrend.com|shopoon.fr|terrafemina.com
 ||accn.allocine.net^
+||aliasdmc.fr/js/general_sts.js
 ||analytics.rtbf.be^
 ||arte.tv/includes/xiti/
 ||autoplus.fr/st?
@@ -820,6 +821,8 @@
 ||montblanc.lenta.ru^
 ||mytoys.ru/ka_z.jpg?
 ||ngs.ru/s/
+||ok.ru/dk?cmd=videoStatNew
+||ok.ru/gwtlog
 ||ozon.ru/tracker/
 ||radar.imgsmail.ru^
 ||rbc.ru/click?
@@ -857,6 +860,7 @@
 ||bankinter.com/res/img/documento_cargado.gif?
 ||coletor.terra.com^
 ||compare.easyviajar.com^
+||epimg.net/js/*/satelliteLib-
 ||esmas.com/scripts/esmas_stats.js
 ||estadisticas.lanacion.com.ar^
 ||estadonline.publiguias.cl^

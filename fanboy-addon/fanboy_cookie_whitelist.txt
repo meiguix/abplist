@@ -12,6 +12,7 @@
 @@||barclays.co.uk/js/cookiepolicy.js
 @@||bbci.co.uk^*/cookie-library.min.js
 @@||bolha.com/js/obj.cookiesPolicy.js
+@@||businessinsider.in/gdpr_js/version-12,minify-1.cms$script,~third-party
 @@||cdn.cookielaw.org^$script,domain=cnn.com
 @@||civiccomputing.com^*/cookieControl-$script,domain=amplitude.com|msi.com
 @@||cloudflare.com^*/cookieconsent.min.js$domain=ehftv.com|pixieset.com|sammobile.com|xnview.com
@@ -24,6 +25,7 @@
 @@||consent.truste.com/notice$script
 @@||cookielawinfo.com^$~third-party
 @@||costa.co.uk/js/libs/cookieconsent.min.js
+@@||drivetribe.com/*/homepage-cookie-dialog.js
 @@||eucookiedirective.com^$~third-party
 @@||evbstatic.com^*/cookie_header.js
 @@||evidon.com/sitenotice/evidon-banner.js$domain=etonline.com|popsugar.co.uk

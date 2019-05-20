@@ -689,7 +689,6 @@ clarin.com##a[href^="/newsletters/"]
 ||monovolume.cc^*/up_btn.
 ||nexilia.it^*/feed.bundle.js
 ||notifiche.secoloditalia.it^
-||occhidellaguerra.it^*/mail_bottone_
 ||player.pulsemediatv.com^$third-party
 ||player.streamshow.it^$third-party
 ||publy.com^$third-party
@@ -719,7 +718,7 @@ infobuildenergia.it###IscrivitiBox
 katorishintoryu.it###POPUPS_ROOT
 evomagazine.it###RegSito
 comingsoon.it###TGCom24
-cure-naturali.it###adv_on_footer
+crescita-personale.it,cure-naturali.it###adv_on_footer
 tiendeo.it###alert-bar-footer
 gds.it###alert_container
 automoto.it,moto.it###arrow-back-top
@@ -817,6 +816,7 @@ tomshw.it##.content-autopromo
 bancamediolanum.it##.content-footer-scroll-up
 tomshw.it##.content-related
 corriereadriatico.it,ilgazzettino.it,ilmattino.it,ilmessaggero.it,leggo.it,quotidianodipuglia.it##.control_top
+e-coop.it##.coop-goToTop
 dday.it##.corriere-header
 sapere.it##.dbdslim
 donnamoderna.com##.donnam-footer-newsletter
@@ -877,6 +877,7 @@ media-mormoni.it##.top-button-container
 altadefinizione.ml,cartoonmemories.netsons.org,filmstreamingaltadefinizione.it,guardaserie.site,ilgeniodellostreaming.eu,informazionefiscale.it,streaminghd.online,vedohd.net##.top-page
 internazionale.it##.top_arrow_footer
 lagazzettadelmezzogiorno.it##.top_header_sali
+lagazzettadelmezzogiorno.it##.top_header_sali_footer
 mader.bz.it##.top_trigger
 peugeot.it##.toplink
 ilvibonese.it##.torna_su

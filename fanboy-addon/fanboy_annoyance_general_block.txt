@@ -142,6 +142,7 @@
 /multi-desktop-notification.
 /notification-ext.
 /notification-prod-sw.js
+/notifications_lazy.
 /one-signal.
 /onesignal-modal.
 /onesignal.min.
@@ -180,6 +181,7 @@
 /webpush.
 /webpush/*
 /webPushIframe.
+/wonderpush,
 /wonderpush.
 /wordpress-fire-push/*
 _push_sw.
@@ -327,6 +329,7 @@ _push_sw.
 /newsletterbutton.
 /newslettericon2.
 /newsletteroverlay/*
+/newsletterpopup.
 /newsletterpopup/*
 /newsletters-signup/*
 /newsletters/bandeau/*
@@ -403,6 +406,7 @@ _subscribe_button
 /32x32rss.
 /base/rss-
 /bg_rss_
+/bnr_rss.
 /bt_rss_
 /btn-rss-
 /btn-rss.
@@ -472,6 +476,7 @@ _subscribe_button
 /icorss.
 /imagen_rss_
 /images/rss-
+/images/rss/*
 /images/rss_
 /img/*rss.gif
 /img/*rss.png
@@ -500,6 +505,7 @@ _subscribe_button
 /rss-feed.
 /rss-follow.
 /rss-footer.
+/rss-google.
 /rss-head.
 /RSS-Home.
 /rss-ico.
@@ -508,9 +514,11 @@ _subscribe_button
 /rss-icon_
 /rss-iconheader.
 /rss-logo.
+/rss-netvibes.
 /rss-new.
 /rss-small.
 /RSS-top-
+/rss-yahoo.
 /rss.gif
 /rss.jpg
 /rss.png
@@ -522,6 +530,7 @@ _subscribe_button
 /rss2.png
 /rss25x25.
 /rss32.
+/rss40x40.
 /rss48.png
 /rss64.
 /rss80.
@@ -559,6 +568,7 @@ _subscribe_button
 /rssIcn.
 /rssicon.
 /rssicon_
+/rssimg.
 /rssred.
 /rsstop1.
 /sc_rss.

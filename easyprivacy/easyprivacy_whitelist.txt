@@ -79,6 +79,7 @@
 @@||api.branch.io^*/open$xmlhttprequest
 @@||api.chartbeat.com^$script,domain=betabeat.com|couriermail.com.au|financialpost.com|wcpo.com
 @@||api.cxense.com/public/widget/data?$script
+@@||api.perfops.net^$xmlhttprequest,domain=dnsperf.com
 @@||api.vidaxl.com^*/trackingservice/customerportal/*?$xmlhttprequest,domain=tracking.vidaxl.com
 @@||app.focalmark.com/bower_components/angulartics-google-analytics/$script,~third-party
 @@||app.instapage.com/ajax/$xmlhttprequest
@@ -89,6 +90,7 @@
 @@||arstechnica.com/services/incr.php?*=interactions.adblock-annoy.click$xmlhttprequest
 @@||atdmt.com/ds/yusptsprtspr/
 @@||atdmt.com^*/direct*01$domain=sprint.com
+@@||atl-paas.net/analytics/event
 @@||atlanticbb.net/images/track/track.gif?$xmlhttprequest
 @@||atptour.com/assets/atpwt/scripts/util/googleAnalytics.js
 @@||att.com/scripts/adobe/virtual/detm-container-hdr.js

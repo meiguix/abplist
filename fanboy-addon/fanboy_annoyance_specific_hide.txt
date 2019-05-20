@@ -671,9 +671,6 @@ wolframalpha.com###headerad-pro-a
 cio.com.au###headerpromos
 chron.com###healthpost-content-stub
 ifixit.com###helpLink
-askubuntu.com,mathoverflow.net,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com###hero-content
-askubuntu.com,mathoverflow.net,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com###herobox
-askubuntu.com,mathoverflow.net,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com###herobox-mini
 ncregister.com###hiddenSubscriptionPopupBox
 psdeluxe.com###hide
 rdmag.com###highlighted_text_ad\20
@@ -2253,6 +2250,7 @@ wired.com##.js-annotation
 dn.se##.js-article-preview
 twitch.tv##.js-bits-tooltip-wrapper
 pri.org##.js-cta_prompt
+askubuntu.com,mathoverflow.net,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com##.js-dismissable-hero
 wellandgood.com##.js-flying
 wired.com##.js-prefooter-rad
 medium.com##.js-promoCardWrapper
@@ -3276,6 +3274,7 @@ admonsters.com###adm-signupbar
 wnd.com###alerts-bottom
 reseller.co.nz###art-next_signifier
 humanevents.com###article-signup
+socialistworker.co.uk###article-view-subscribe-footer
 deseretnews.com###ask-form
 wellandgood.com###auto_signup
 tradeearthmovers.com.au###banner
@@ -3410,7 +3409,7 @@ britannica.com###marketing-slider
 newscientist.com###marketingtertiary
 gearbest.com###mask
 rapidtvnews.com###masthead
-bcheights.com,cargofacts.com,cnn.com,dailyhive.com,etv.co.za,evonomics.com,fn.com,gimmesomeoven.com,kveller.com,lawandcrime.com,longreads.com,mtlblog.com,narrative.ly,nation.co.ke,nesthq.com,psypost.org,reductress.com,reliefweb.int,runthetrap.com,thewirecutter.com###mc-embedded-subscribe-form
+bcheights.com,cargofacts.com,cnn.com,dailyhive.com,etv.co.za,evonomics.com,fn.com,gimmesomeoven.com,kveller.com,lawandcrime.com,longreads.com,mtlblog.com,narrative.ly,nation.co.ke,nesthq.com,psychcentral.com,psypost.org,reductress.com,reliefweb.int,runthetrap.com,thewirecutter.com###mc-embedded-subscribe-form
 99fm.com.na,activistmommy.com,androidauthority.com,apriorit.com,artafricamagazine.org,bcheights.com,bhekisisa.org,bitguru.co.uk,biznews.com,blog.cloudflare.com,breakingisraelnews.com,breakingnews.ie,caribjournal.com,chinafile.com,churchmilitant.com,circuitdigest.com,cjr.org,cointelegraph.com,current.org,dailyfreepress.com,dailytimes.com.pk,dailytrust.com.ng,exstreamist.com,fusion.net,gaystarnews.com,ghafla.com,groovekorea.com,howlermagazine.com,indiaclimatedialogue.net,iphoneincanada.ca,jewishinsider.com,justrunlah.com,majorgeeks.com,maoritelevision.com,monetarywatch.com,nbc.na,newsthump.com,newtimes.co.rw,nextbigfuture.com,nodez.co,nyc.gov,premiumtimesng.com,propublica.org,providr.com,punchng.com,rawstory.com,registerguard.com,rnw.org,russia-insider.com,sciencealert.com,sciencebulletin.org,seattletimes.com,secretflying.com,spokesman.com,sporttechie.com,stellar.ie,swissinfo.ch,techjuice.pk,technobuffalo.com,thenewsflasher.com,thequint.com,thestar.com.my,theyeshivaworld.com,truthuncensored.net,wayfm.com,worldreligionnews.com,wttw.com###mc_embed_signup
 activistmommy.com###mc_embed_signup-footer
 moneyweb.co.za###mc_embed_signup1
@@ -3500,6 +3499,7 @@ gossipcop.com###subscribe-message
 cloudcomputingadmin.com,insideaws.com,isaserver.org,msexchange.org,virtualizationadmin.com,windowsecurity.com###subscribe-modal
 martechadvisor.com###subscribe-new-form
 merriam-webster.com###subscribe-overlay
+e-onec.com###subscribe-wrapper
 indy100.com###subscribeIndy100
 wined.co.za###subscribeWrapper
 nytimes.com###subscribe_cont
@@ -3511,7 +3511,7 @@ nytimes.com###subscribe_mobile_cont
 creation.com###subscribe_options
 moneysavingmom.com,unz.com###subscribeform
 bizjournals.com###subscriber
-forexpeacearmy.com###subscription
+forexpeacearmy.com,musictimes.com###subscription
 ecnmag.com###subscription-newsletter-mainContent
 autointhenews.com###subscriptions
 yourtango.com###tango-newsletter-form
@@ -3580,6 +3580,7 @@ findlectures.com,goodnewsnetwork.org,medievalists.net##.af-form-wrapper
 afamilyfeast.com##.afamilyfeast_subscription
 jihadwatch.org##.aksh_mailchimp_widget
 codeproject.com##.alert-bar
+algemeiner.com##.alg_subscribe_cont
 ifc.com##.amcn_newsletter_widget_module
 mic.com##.app-header__subscribe
 latinopost.com##.art_letter
@@ -3590,6 +3591,7 @@ newstatesman.com##.article-footer-promotion
 upworthy.com##.article-left-column__item--email-signup
 lamag.com,texasmonthly.com##.article-subscription
 gaytimes.co.uk##.article__footer
+classicalite.com##.at-subsc
 atavist.com##.atavist-mailchimp
 bloombergquint.com##.authoritative__section
 dexerto.com##.b--charlie.ba
@@ -3643,7 +3645,7 @@ nytimes.com##.css-mlcs8h.shown
 recipetineats.com##.cta
 thecourier.co.uk##.cta--bg
 rewire.news##.cta-a
-worcesternews.co.uk##.cta-component-half-width
+gazette-news.co.uk,worcesternews.co.uk##.cta-component-half-width
 meta.com##.ctabox
 codeclimate.com##.ctas
 thebostonpilot.com##.ctct-embed-signup
@@ -3699,6 +3701,7 @@ americanlookout.com##.essbasc-popup
 economist.com##.exit-pop
 jornaldacidadeonline.com.br##.exit-screen
 online-convert.com,rt.com##.extension-browser
+classicalite.com##.f-subscform
 slator.com##.fancybox-desktop
 christianpost.com##.fancybox-iframe
 slator.com##.fancybox-overlay
@@ -4012,7 +4015,7 @@ fansided.com,lastnighton.com,netflixlife.com,winteriscoming.net##.sub-footer-con
 irishtimes.com##.sub-prompt
 investmentnews.com##.subPopupTop
 stlucianewsonline.com##.subscr
-al-shabaka.org,android.gs,attn.com,bamargera.com,bet.com,bizjournals.com,blackagendareport.com,boardingarea.com,briefly.co.za,businesstech.co.za,caloriesecrets.net,catonmat.net,cbn.com,cheeserank.com,chicagomag.com,cnet.com,dailycaller.com,dailyfeed.co.uk,devicemag.com,ebayinkblog.com,ehow.com,foxnews.com,freshersworld.com,fromthegrapevine.com,gellerreport.com,gimmesomeoven.com,gizmag.com,gotquestions.org,greece-is.com,hpcwire.com,huffingtonpost.com,indiatimes.com,infowars.com,intoday.in,intomobile.com,irishpost.com,labnol.org,lamag.com,laweekly.com,list25.com,livescience.com,messynessychic.com,miaminewtimes.com,mumbrella.com.au,mybroadband.co.za,mygaming.co.za,naij.com,naija.ng,nationalgeographic.com,ndtv.com,newatlas.com,news.usc.edu,newsarama.com,newsclick.in,newsroom.co.nz,nymag.com,outerplaces.com,pando.com,pandodaily.com,parentherald.com,pba.org,pedestrian.tv,people.com,petapixel.com,phonearena.com,politicsweb.co.za,poundsterlinglive.com,propertyobserver.com.au,rabble.ca,rbth.com,readwriteweb.com,recipetineats.com,savedelete.com,searchengineland.com,seroundtable.com,skiptomylou.org,snopes.com,space.com,spacenews.com,spoonuniversity.com,statescoop.com,stream.org,svpino.com,techeye.net,ted.com,teenchatdecoder.com,theaircurrent.com,theatlantic.com,thecollegefix.com,thefinancialbrand.com,themoscowtimes.com,therichest.org,thinq.co.uk,tourismupdate.co.za,trust.org,tuko.co.ke,tutsplus.com,tv.com,twice.com,udreview.com,upworthy.com,usatoday.com,usnews.com,vagabomb.com,variety.com,wackymania.com,wccftech.com,westword.com,windows7news.com,winhelponline.com,wired.co.uk##.subscribe
+al-shabaka.org,android.gs,attn.com,bamargera.com,bet.com,bizjournals.com,blackagendareport.com,boardingarea.com,briefly.co.za,businesstech.co.za,caloriesecrets.net,catonmat.net,cbn.com,cheeserank.com,chicagomag.com,classicalite.com,cnet.com,dailycaller.com,dailyfeed.co.uk,devicemag.com,ebayinkblog.com,ehow.com,foxnews.com,freshersworld.com,fromthegrapevine.com,gellerreport.com,gimmesomeoven.com,gizmag.com,gotquestions.org,greece-is.com,hpcwire.com,huffingtonpost.com,indiatimes.com,infowars.com,intoday.in,intomobile.com,irishpost.com,labnol.org,lamag.com,laweekly.com,list25.com,livescience.com,messynessychic.com,miaminewtimes.com,mumbrella.com.au,mybroadband.co.za,mygaming.co.za,naij.com,naija.ng,nationalgeographic.com,ndtv.com,newatlas.com,news.usc.edu,newsarama.com,newsclick.in,newsroom.co.nz,nymag.com,outerplaces.com,pando.com,pandodaily.com,parentherald.com,pba.org,pedestrian.tv,people.com,petapixel.com,phonearena.com,politicsweb.co.za,poundsterlinglive.com,propertyobserver.com.au,rabble.ca,rbth.com,readwriteweb.com,recipetineats.com,savedelete.com,searchengineland.com,seroundtable.com,skiptomylou.org,snopes.com,space.com,spacenews.com,spoonuniversity.com,statescoop.com,stream.org,svpino.com,techeye.net,ted.com,teenchatdecoder.com,theaircurrent.com,theatlantic.com,thecollegefix.com,thefinancialbrand.com,themoscowtimes.com,therichest.org,thinq.co.uk,tourismupdate.co.za,trust.org,tuko.co.ke,tutsplus.com,tv.com,twice.com,udreview.com,upworthy.com,usatoday.com,usnews.com,vagabomb.com,variety.com,wackymania.com,wccftech.com,westword.com,windows7news.com,winhelponline.com,wired.co.uk##.subscribe
 breakingnews.ie##.subscribe-box-articles
 rt.com,sport360.com##.subscribe-btn
 middleeastmonitor.com##.subscribe-container
@@ -4183,6 +4186,7 @@ weeklyxpose.co.za###mt-scrollup
 afamilyfeast.com###myBtn
 casio-europe.com,konami.com###page-top
 cnet.com,macromill.com,mhi.com,oki.com,smbc.co.jp,smfg.co.jp,smth.jp###pageTop
+chugai-pharm.co.jp###pagetop
 saudigazette.com.sa###pageup
 bingplaces.com###pagination_Arrow
 focustaiwan.tw###returnTop

@@ -275,6 +275,7 @@
 /16x16-mixx.
 /16x16-newsvine.
 /16x16/facebook_
+/16x16/google_plus.
 /16x16/twitter.
 /18x18-reddit.
 /32-tumblr.
@@ -562,6 +563,7 @@
 /facebook32.
 /facebook32px.
 /facebook40.png
+/facebook40x40.
 /facebook42x42.
 /facebook48.
 /facebook72.
@@ -861,6 +863,8 @@
 /google-over.
 /Google-Plus-
 /google-plus.png
+/google-plus.svg
+/google-plus40x40.
 /google-plus_
 /google_16.
 /google_32x
@@ -1372,6 +1376,7 @@
 /img/facebook_
 /img/fb.
 /img/fb_
+/img/google-plus.
 /img/gplus_
 /img/instagram-
 /img/instragram.
@@ -1680,6 +1685,7 @@
 /plugins/wp-social-toolbar-pro/*
 /plugins/wp-tweet-button/*
 /plus-badge.
+/plus_google.
 /popinfacebook.
 /popup/fb-like-
 /popups/facebook_
@@ -1798,6 +1804,7 @@
 /share/*/twitter.png
 /share/bnr_
 /share/buttons/*
+/share/comment.
 /share/count?
 /share/email.
 /share/facebook.
@@ -1921,6 +1928,7 @@
 /shareIcons.$~stylesheet
 /shareit.png
 /shareit_
+/sharelike.
 /ShareOnMySpace/*
 /sharepage-
 /sharePost/*
@@ -2421,9 +2429,11 @@
 /st_digg_
 /st_facebook_
 /st_twitter_
+/static/share/*
 /static/social/*$image
 /stocktwits_share.
 /storage/social/*
+/store-share.
 /story-fb.
 /story-follow.png
 /stumble_button.
@@ -2604,6 +2614,7 @@
 /twitter32px.
 /twitter3gif.
 /twitter40.png
+/twitter40x40.
 /twitter42x42.
 /twitter45.
 /twitter48.
@@ -2730,6 +2741,7 @@
 /widgets/sharing-
 /widgets/socials/*
 /widgets/twitter/*
+/win-sm-icons.
 /wordpress-popup/*$domain=ahchealthenews.com
 /wp-content/*/google.png
 /wp-content/*/social_$~stylesheet

@@ -84,6 +84,7 @@
 ||imsa.com/newsletter/
 ||indiatimes.com/subscriptionhomepage.cms
 ||insidesources.com/wp-content/themes/insidesources/js/jquery.fancybox.js
+||jewishworldreview.com^*/subscribe.
 ||jihadwatch.org^*/m-wp-popup.
 ||libertyheadlines.com^*/subscribe-
 ||makezine.com/js/unbouncer-
@@ -118,6 +119,7 @@
 ||womenonwheels.co.za^*/subscribe-
 ! ---------- Scroll To Top Buttons ----------
 ||cdprojektred.com^*/top.png
+||chugai-pharm.co.jp^*/pagetop.
 ||cloudfront.net^*/nav-top.$domain=bdnews24.com
 ||cricketcountry.com^*/topa.jpg
 ||dailypioneer.com/images/top.png

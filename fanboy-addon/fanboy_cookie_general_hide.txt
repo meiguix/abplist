@@ -2437,6 +2437,7 @@
 ###cookie_tajekoztato
 ###cookie_terms
 ###cookie_terms_div
+###cookie_text
 ###cookie_text_header
 ###cookie_tool_large
 ###cookie_tool_small
@@ -3875,6 +3876,7 @@
 ###gdpr-cookie-info
 ###gdpr-cookie-message
 ###gdpr-cookie-notice
+###gdpr-cookie-policy
 ###gdpr-cookieNotice
 ###gdpr-cover
 ###gdpr-dialog
@@ -6840,6 +6842,7 @@
 ##.cookie-notice-fixed
 ##.cookie-notice-wrap
 ##.cookie-notice-wrapper
+##.cookie-notice-wrapper-privacypolicy
 ##.cookie-noticebar
 ##.cookie-notif
 ##.cookie-notification-alert
@@ -8364,6 +8367,7 @@
 ##.gdpr-cookie-layer--active
 ##.gdpr-cookie-modal
 ##.gdpr-cookie-notice
+##.gdpr-cookie-policy
 ##.gdpr-cookie-popup
 ##.gdpr-cookie-wrapper
 ##.gdpr-cookieNotice

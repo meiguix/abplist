@@ -2857,6 +2857,7 @@
 ##.Share-buttons
 ##.Share-item
 ##.Share-item--social
+##.Share-reveal
 ##.ShareBar
 ##.ShareBar-shareItems
 ##.ShareBarRight
@@ -3092,6 +3093,7 @@
 ##.addthis_button_google_follow
 ##.addthis_button_google_plusone
 ##.addthis_button_google_plusone_share
+##.addthis_button_googleplus
 ##.addthis_button_instagram
 ##.addthis_button_linkedin
 ##.addthis_button_more
@@ -3769,6 +3771,8 @@
 ##.boxsocial
 ##.boxsociale
 ##.boxzilla-like-us-facebook
+##.bp-share-btn
+##.bp-share-button
 ##.bpro-social
 ##.bq-tweet
 ##.bq_shareDiv
@@ -3777,9 +3781,11 @@
 ##.brand-social-icons
 ##.breakingNews__socialMedia
 ##.brid-share-button
+##.brid-share-button-holder
 ##.brief-socialnetwork
 ##.brk-sharebar
 ##.brk-sharebar-abcd
+##.brojShareova
 ##.bsocialwidget
 ##.bt-share
 ##.bt-social-share
@@ -4720,6 +4726,7 @@
 ##.facebookRecommendation
 ##.facebookShare
 ##.facebookShareAlert
+##.facebookShareButton
 ##.facebookShareIcon
 ##.facebookShareToolsContainer
 ##.facebookShare__button
@@ -4952,6 +4959,8 @@
 ##.fbbigshare
 ##.fbbox
 ##.fbbox-wrapper
+##.fbbsb-button
+##.fbbsb-buttons
 ##.fbbutton
 ##.fbcirclebtn
 ##.fbfanpage
@@ -5114,6 +5123,7 @@
 ##.fodicon-google-plus
 ##.fodicon-tumblr
 ##.fodicon-twitter
+##.foglia-social-inside
 ##.follow-appeal-container
 ##.follow-author-mini
 ##.follow-bar
@@ -5894,6 +5904,7 @@
 ##.headerSocialLink
 ##.headerSocialLinks
 ##.headerSocial__socialLinks
+##.header__badge--app-share
 ##.header__nav-social
 ##.header__sharing-item
 ##.header__social
@@ -6662,6 +6673,7 @@
 ##.joomsharebar_vert
 ##.jr-social
 ##.js--email-social-promo
+##.js-Share
 ##.js-article-details-share-sticky
 ##.js-block-fb
 ##.js-cookie-light
@@ -7034,6 +7046,7 @@
 ##.m-site-nav__social
 ##.m-site-social
 ##.m-site-social-networks
+##.m-sns
 ##.m-social
 ##.m-social--button
 ##.m-social--no-count
@@ -7519,6 +7532,8 @@
 ##.oSocialLinks
 ##.ob-ShareBar-share
 ##.obs-block-follow
+##.ocArticleFooterShareContainer
+##.ocArticleFooterShareLinksWrapper
 ##.official-social2
 ##.oi-share
 ##.oi_soc_header
@@ -7556,6 +7571,7 @@
 ##.p-post-shareList
 ##.p-share
 ##.p-share-icon
+##.p-social-widget
 ##.paCmsArticle-section-header-social
 ##.padded-footer-connect
 ##.page-context-nav__share-menu
@@ -7857,6 +7873,7 @@
 ##.primary-share-buttons
 ##.primary-social-buttons
 ##.print-share
+##.print_and_shares
 ##.prisna-social-counter
 ##.prisna-social-counter-in-widget
 ##.prl-header-social
@@ -8688,6 +8705,7 @@
 ##.share__links
 ##.share__list
 ##.share__social-items
+##.share__text
 ##.share__tools
 ##.share__twitter
 ##.share__wrapper
@@ -8778,6 +8796,7 @@
 ##.share_row
 ##.share_sct
 ##.share_sharethis
+##.share_side_center
 ##.share_sm
 ##.share_small
 ##.share_social
@@ -8848,6 +8867,7 @@
 ##.sharebox-outer
 ##.sharebox_new
 ##.sharebtn
+##.sharebtns
 ##.sharebutcont
 ##.sharebutdrop
 ##.sharebutt
@@ -8904,6 +8924,7 @@
 ##.sharemore
 ##.sharenewsin
 ##.shareonclick
+##.shareovanje
 ##.sharepanel__bottom
 ##.sharepanel__buttons
 ##.sharepinterest
@@ -9466,6 +9487,7 @@
 ##.social-bar-widget
 ##.social-bar-wrapper
 ##.social-barker
+##.social-big
 ##.social-big-buttons
 ##.social-big-container
 ##.social-bk-news
@@ -12036,6 +12058,7 @@
 ##[data-type="twitter-bottom-share"]
 ##[eapps-link="share"]
 ##[href="http://www.addthis.com/bookmark.php"]
+##[href="https://www.addthis.com/bookmark.php"]
 ##[href^="//plus.google.com/share"]
 ##[href^="//twitter.com/share"]
 ##[href^="//www.twitter.com/share"]

@@ -147,6 +147,7 @@
 ||advertising.com^$third-party
 ||adways.com^$third-party
 ||adwstats.com^$third-party
+||adxadtracker.com^$third-party
 ||adyapper.com^$third-party
 ||afairweb.com^$third-party
 ||affilae.com^$third-party
@@ -519,6 +520,7 @@
 ||conductrics.com^$third-party
 ||confirmational.com^$third-party
 ||confirmit.com^$third-party
+||contactatonce.com^$third-party
 ||contactmonkey.com^$third-party
 ||contemporaryceremonies.ca^$third-party
 ||content-square.net^$third-party
@@ -532,6 +534,7 @@
 ||conversionlogic.net^$third-party
 ||conversionly.com^$third-party
 ||conversionruler.com^$third-party
+||convertcart.com^$third-party
 ||convertexperiments.com^$third-party
 ||convertglobal.com^$third-party
 ||convertmarketing.net^$third-party
@@ -626,6 +629,7 @@
 ||decibelinsight.net^$third-party
 ||decideinteractive.com^$third-party
 ||declaredthoughtfulness.co^$third-party
+||deep.bi^$third-party
 ||deepattention.com^$third-party
 ||dejavu.mlapps.com^$third-party
 ||demandbase.com^$third-party
@@ -890,6 +894,7 @@
 ||fruitflan.com^$third-party
 ||fsd2.digital^$third-party
 ||fshka.com^$third-party
+||fstrk.net^$third-party
 ||ftbpro.com^$third-party
 ||fueldeck.com^$third-party
 ||fugetech.com^$third-party
@@ -943,6 +948,7 @@
 ||goneviral.com^$third-party
 ||goodcounter.org^$third-party
 ||google-analytics.com/analytics.js
+||google-analytics.com/analytics_debug.js
 ||google-analytics.com/batch^
 ||google-analytics.com/collect
 ||google-analytics.com/cx/api.js
@@ -1091,6 +1097,7 @@
 ||inflectionpointmedia.com^$third-party
 ||influid.co^$third-party
 ||infopro-insight.com^$third-party
+||infoprodata.com^$third-party
 ||informz.net^$third-party
 ||inimbus.com.au^$third-party
 ||innomdc.com^$third-party
@@ -1274,6 +1281,7 @@
 ||logrocket.io^$third-party
 ||logsss.com^$third-party
 ||lookery.com^$third-party
+||loopa.net.au^$third-party
 ||loopfuse.net^$third-party
 ||lopley.com^$third-party
 ||losstrack.com^$third-party
@@ -1796,6 +1804,7 @@
 ||richard-group.com^$third-party
 ||richmetrics.com^$third-party
 ||ritecounter.com^$third-party
+||rivrai.com^$third-party
 ||rkdms.com^$third-party
 ||rktu.com^$third-party
 ||rlcdn.com^$third-party
@@ -2067,7 +2076,6 @@
 ||storygize.net^$third-party
 ||streamsend.com^$third-party
 ||streem.com.au^$third-party
-||stripe.network^$third-party
 ||stripedcollar.net^$third-party
 ||stroeerdigitalmedia.de^$third-party
 ||strossle.it^$third-party
@@ -2200,6 +2208,7 @@
 ||tracking100.com^$third-party
 ||tracking202.com^$third-party
 ||trackinglabs.com^$third-party
+||trackingpro.pro^$third-party
 ||trackkas.com^$third-party
 ||trackmytarget.com^$third-party
 ||trackmyusers.com^$third-party
@@ -2625,6 +2634,7 @@
 ||bewhoyouare.gq^$third-party
 ||bhzejltg.info^$third-party
 ||biberukalap.com^$third-party
+||binarybusiness.de^
 ||bitclub.network^$third-party
 ||bitclubnetwork.com^$third-party
 ||bitcoin-pay.eu^$third-party
@@ -2903,6 +2913,7 @@
 ||lindon-pool.win^$third-party
 ||listat.biz^$third-party
 ||livestatsnet.services^$third-party
+||lmiutil.com^$third-party
 ||lmodr.biz^$third-party
 ||losital.ru^$third-party
 ||m.anyfiles.ovh^

@@ -2264,6 +2264,7 @@
 /ads-250.
 /ads-300-
 /ads-300.
+/ads-5.
 /ads-admin.
 /ads-api.
 /ads-arc.
@@ -2791,7 +2792,7 @@
 /adsadview.
 /AdsAjaxRefresh.
 /adsales/*
-/adsall.
+/adsall.$domain=~adsall.net
 /adsame.
 /adsame/*
 /adsame1.
@@ -3530,7 +3531,7 @@
 /adwords/*
 /adwordstracking.js
 /adWorking/*
-/adworks.$domain=~adworks.att.com|~adworks.co.il|~adworks.jobijoba.io
+/adworks.$domain=~adworks.att.com|~adworks.co.il|~adworks.jobijoba.io|~adworks.net
 /adworks/*
 /adworldmedia/*
 /adworx.
@@ -4361,6 +4362,7 @@
 /dfp_init.
 /dfp_js/*
 /dfp_overlay.
+/dfp_skin.js
 /dfpad/*
 /dfpads.
 /dfpInAngular.
@@ -4403,6 +4405,7 @@
 /displayads3.
 /displayadsiframe.
 /displaybanner/*
+/dist/ads.
 /div-ads.
 /divad/*
 /dlfeatads.
@@ -4709,6 +4712,7 @@
 /gannett/ads/*
 /gate-ad-
 /gatewayAds.
+/gawker/ads.
 /gazette/ads/*
 /geitonpop.
 /gen-ad-

@@ -659,6 +659,7 @@
 ||d22v2nmahyeg2a.cloudfront.net^
 ||d23p9gffjvre9v.cloudfront.net^
 ||d23pi6hvdpcc5i.cloudfront.net^
+||d241ujsiy3yht0.cloudfront.net
 ||d24cze5sab2jwg.cloudfront.net^
 ||d24rtvkqjwgutp.cloudfront.net^
 ||d25ezbwokoefx6.cloudfront.net^
@@ -834,6 +835,7 @@
 ||event.loyalty.bigdoor.com^$third-party
 ||event.previewnetworks.com^
 ||event.trove.com^
+||eventapi.libring.com^
 ||eventful.com/apps/generic/$image,third-party
 ||eventgateway.soundcloud.com^
 ||eventlog.inspsearch.com^
@@ -913,6 +915,7 @@
 ||ftimg.net/js/log.js?
 ||fullstory.com/s/fs.js$third-party
 ||future-fie-assets.co.uk^
+||futurecdn.net^*/abp.js
 ||fwix.com/ref.js
 ||fwix.com^*/trackclicks_
 ||fyre.co^*/tracking/
@@ -1534,6 +1537,7 @@
 ||realplayer.com^*/pixel?
 ||realtidbits.com^*/analytics.js
 ||recs.atgsvcs.com^$third-party
+||redditstatic.com/ads/pixel.js
 ||redir.widdit.com^$third-party
 ||redplum.com^*&pixid=$third-party
 ||reevoo.com/assets/ga.$script

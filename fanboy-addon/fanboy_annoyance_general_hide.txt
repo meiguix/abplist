@@ -783,6 +783,7 @@
 ###navnewslettermailboxID
 ###new_newsletter
 ###new_newsletter_subscription
+###newletterF
 ###news-ltr
 ###newsLetter-signup-box
 ###newsLetterAsset
@@ -1313,6 +1314,7 @@
 ##.content-mod-newsletter-right
 ##.content-toaster--newsletter
 ##.content-well-newsletter
+##.cookie-notice-wrapper-newsletter
 ##.css-live-widget_subscribeEmails
 ##.cst_newsletter_signup
 ##.cta-news
@@ -1948,6 +1950,7 @@
 ##.psp_newsletter_subscribe
 ##.radium-builder-widget-newsletter-form
 ##.rdstation-popup-newsletter
+##.react-newsletter-overlay
 ##.register-newsletter
 ##.register-signup-promo
 ##.register_block_newsletter
@@ -2228,6 +2231,7 @@
 ##div[class^="NewsletterForm_"]
 ##div[class^="NewsletterPopup_"]
 ##div[id^="feature-newsletter"]
+##div[id^="wrapper_newsletter_"]
 ##img[alt="Subscribe via E-mail Newsletter"]
 ##img[title="Subscribe to our daily email"]
 ! wix sites
@@ -2239,6 +2243,7 @@
 ###\5f __tdspushdiv
 ###___ndtvpushdiv
 ###bigpicture-webpush-widget
+###cont_webpush
 ###desktop-notification-ask-dialog
 ###dialog-push-notification
 ###divPnot
@@ -2283,6 +2288,7 @@
 ##.bubble-push
 ##.cleverpush-backdrop
 ##.cleverpush-confirm
+##.cont_webpush
 ##.contentwebpush
 ##.desktop-notification-ask-dialog
 ##.e-push-notification-popup
@@ -2371,6 +2377,7 @@
 ###rightSocialRss
 ###rss-feed
 ###rss-ico
+###rss-link-top
 ###rss-links
 ###rss-subscribe
 ###rss-wrapper
@@ -2408,6 +2415,7 @@
 ##.bg-rss
 ##.bk-socialicons-rss
 ##.btRSS
+##.btn-rss-link
 ##.btnRSS
 ##.btnRss
 ##.btrss
@@ -2453,6 +2461,7 @@
 ##.icn_follow_rss
 ##.ico-RSS
 ##.ico-rss
+##.icoRss
 ##.icoRssBig
 ##.icon-footer-rss
 ##.icon-rss
@@ -2695,6 +2704,7 @@
 ###neklo_scrolltotop_arrow
 ###nino-scrollToTop
 ###np-scrollup
+###nv-scrollup
 ###onTop3
 ###page-go-up
 ###pageStick-Backtop-btn
@@ -2769,6 +2779,7 @@
 ##.GlobalFooter-backToTop
 ##.GlobalFooter-backToTopSection
 ##.JumpToTop
+##.ScrollTop
 ##.TopGoTop
 ##.W_gotop
 ##.a-back-to-top
@@ -2778,6 +2789,7 @@
 ##.article-back-to-top
 ##.article-return-to-top
 ##.aside-backtop
+##.aux-goto-top-btn
 ##.axScrollToTop
 ##.b-back-to-top
 ##.b-button-to-top
@@ -2939,6 +2951,7 @@
 ##.js-persistent-nav-top
 ##.js-scroll-event.on--totop
 ##.js-scroll-to-top
+##.js-scrollTop
 ##.js-scroll_to_bottom
 ##.js-scroll_to_top
 ##.js-toTop
@@ -3043,6 +3056,7 @@
 ##.sublink_back_top
 ##.sunfw-scrollup
 ##.ta_back-to-top
+##.tab-to-top
 ##.tc-back-to-top
 ##.td-scroll-up
 ##.tdr-backtop

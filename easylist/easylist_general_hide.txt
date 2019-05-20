@@ -2122,6 +2122,7 @@
 ###ad_place
 ###ad_placeholder
 ###ad_play_300
+###ad_player
 ###ad_plugs
 ###ad_post
 ###ad_post_300
@@ -2130,9 +2131,11 @@
 ###ad_primary
 ###ad_primaryAd
 ###ad_promoAd
+###ad_promotion_wrap
 ###ad_publicidad
 ###ad_pushupbar-closed
 ###ad_rail
+###ad_rec_01
 ###ad_rect
 ###ad_rect1
 ###ad_rect2
@@ -2543,6 +2546,7 @@
 ###adnet
 ###adnews
 ###adnorth
+###adnote
 ###adops_cube
 ###adops_leaderboard
 ###adops_skyscraper
@@ -2646,6 +2650,7 @@
 ###ads-container-anchor
 ###ads-container-top
 ###ads-content
+###ads-content-double
 ###ads-dell
 ###ads-div2
 ###ads-dw
@@ -9469,6 +9474,7 @@
 ##.ad-push
 ##.ad-pushdown
 ##.ad-r
+##.ad-rac-box
 ##.ad-rail
 ##.ad-reader
 ##.ad-reader-con-item
@@ -11151,6 +11157,7 @@
 ##.adintext
 ##.adintext-unten
 ##.adintro
+##.adisclaimer
 ##.adisland
 ##.adition_Skyscraper
 ##.adits
@@ -19543,6 +19550,7 @@
 ##a[href*=".qertewrt.com/"]
 ##a[href*=".revimedia.com/"]
 ##a[href*="//3wr110.xyz/"]
+##a[href*="//ridingintractable.com/"]
 ##a[href*="//xml.revrtb.com/"]
 ##a[href*="/adServe/banners?"]
 ##a[href*="/adrotate-out.php?"]
@@ -20014,6 +20022,7 @@
 ##a[href^="https://pubads.g.doubleclick.net/"]
 ##a[href^="https://redirect.ero-advertising.com/"]
 ##a[href^="https://refpaano.host/"]
+##a[href^="https://retiremely.com/"]
 ##a[href^="https://rev.adsession.com/"]
 ##a[href^="https://secure.adnxs.com/clktrb?"]
 ##a[href^="https://secure.bstlnk.com/"]
@@ -20036,6 +20045,7 @@
 ##a[href^="https://tracking.truthfinder.com/?a="]
 ##a[href^="https://trackjs.com/?utm_source"]
 ##a[href^="https://traffic.bannerator.com/"]
+##a[href^="https://trafficmedia.center/"]
 ##a[href^="https://transfer.xe.com/signup/track/redirect?"]
 ##a[href^="https://trklvs.com/"]
 ##a[href^="https://trust.zone/go/r.php?RID="]
@@ -20067,6 +20077,8 @@
 ##a[href^="https://www.secureupload.eu/suprerefid="]
 ##a[href^="https://www.share-online.biz/affiliate/"]
 ##a[href^="https://www.spyoff.com/"]
+##a[href^="https://www.what-sexdating.com/"]
+##a[href^="https://zononi.com/"]
 ##a[onclick*="//m.economictimes.com/etmack/click.htm"]
 ##a[onmousedown^="this.href='/wp-content/embed-ad-content/"]
 ##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
