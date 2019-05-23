@@ -12871,4 +12871,5 @@ zhihu.com#?#.TopstoryItem:-abp-has(.Popover > .TopstoryItem-advertButton)
 ||withad.cn^
 !----------------------------Whitelist---------------------------!
 @@||bdstatic.com/static/common/widget/ui/admanager
+@@/bannerad/bannerad
 !-----------------------------The End----------------------------!
