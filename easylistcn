@@ -533,6 +533,7 @@ _xiuno_com_ad/
 ###adx_cggp
 ###ali-js-1
 ###ali-js-4
+###alibbscb
 ###artibody > .article-video
 ###asideLeft
 ###asideRight
@@ -1339,6 +1340,7 @@ _xiuno_com_ad/
 ##[data-videojc*="://sax"]
 ##[href*="://sax"]
 ##[id^="spreadad_"]
+##[style="font-size:14px;border-radius: 4px; border: 2px solid #f9f7f7; color:#525050; width:95%; margin:0 auto; padding:10px; margin-top: 10px; text-align:center; line-height:30px; font-family:'微软雅黑'"]
 ##A[href*=".com/?Agent="]
 ~sinaimg.cn##a > img[src*=".sinaimg."][src$=".gif"][style*="width:960"]
 ~alicdn.com##a > img[width="960"][src*=".alicdn.com/"]
