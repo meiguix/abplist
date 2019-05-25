@@ -12870,6 +12870,7 @@ zhihu.com#?#.TopstoryItem:-abp-has(.Popover > .TopstoryItem-advertButton)
 ||sohu999.com^
 ||withad.cn^
 !----------------------------Whitelist---------------------------!
-@@||bdstatic.com/static/common/widget/ui/admanager
 @@/newperson/newperson
+@@||bdstatic.com/static/common/widget/ui/admanager
+@@||jb51.net/skin/js
 !-----------------------------The End----------------------------!
