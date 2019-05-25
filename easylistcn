@@ -134,6 +134,7 @@
 /adpuba/*
 /adpv?cn=
 /adsfactor_ab
+/adv_bottom
 /AdverJS/*
 /advpic/*
 /afd/entry
@@ -1287,6 +1288,7 @@ _xiuno_com_ad/
 ##.wanle_tab_tip
 ##.wapAd
 ##.weibo-wrap
+##.well
 ##.wemziguanggao
 ##.wf_ad_block
 ##.wgt-ads
