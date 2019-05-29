@@ -449,6 +449,7 @@
 ##.cbg-Ads
 ##.center-pdps
 ##.center-pdps-02
+##.center-tips
 ##.chat-ad
 ##.chat-right-ad
 ##.chat-sysbroadcast-ad
@@ -693,6 +694,7 @@
 ##.reader-to-cashier-vip > .rights-wrap
 ##.rec-feeditem
 ##.recom
+##.red-packet-box
 ##.related-news > section:first-child + div
 ##.right-banner-area
 ##.rightAd-skin
