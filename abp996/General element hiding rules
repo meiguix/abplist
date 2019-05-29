@@ -1033,6 +1033,15 @@ baidu.com###lm
 ##style[id^="s-"] + script + div[id]
 ##style[id^="s-"] + script + script + div[id]
 !
+###\31 [srcid="1599"][data-click="\7b \"rsv_bdr\":\"0\",\"p5\":1\7d "]
+###\31 [srcid="1599"][data-click="\7b \"rsv_bdr\":\"0\",\"p5\":3\7d "]
+###\31 [srcid="1599"][data-click="\7b \"rsv_bdr\":\"0\",\"p5\":4\7d "]
+###\31 [srcid="1599"][data-click="\7b \"rsv_bdr\":\"0\",\"p5\":5\7d "]
+###\31 [srcid="1599"][data-click="\7b \"rsv_bdr\":\"0\",\"p5\":13\7d "]
+###\31 [srcid="1599"][data-click="\7b \"rsv_bdr\":\"0\",\"p5\":14\7d "]
+###\31 [srcid="1599"][data-click="\7b \"rsv_bdr\":\"0\",\"p5\":15\7d "]
+###\31 [srcid="1599"][data-click="\7b \"rsv_bdr\":\"0\",\"p5\":16\7d "]
+!
 ##[style="display:none"] + iframe[scrolling="no"][src*="//"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
 ##div:not([id]):not([class]):not([style]) > div:not([id]):not([class]):not([style]) > iframe[scrolling="no"][src*="//"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]:not([src^="http://www.facebook.com/"])
 ##div[style^="width: 100%;"][style$="display: block;"] iframe[scrolling="no"][src*="//"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
