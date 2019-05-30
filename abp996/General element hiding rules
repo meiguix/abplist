@@ -641,7 +641,6 @@
 ##.ml_ad3
 ##.ml_ad5
 ##.mlad
-##.mobilehide
 ##.mod-01
 ##.mod-ad-full
 ##.mod_ad_main
@@ -951,6 +950,7 @@
 ##div[style*="width:960px; height:90px;"]
 ##div[style=" width:300px; height:250px; overflow:hidden"]
 ##div[style="margin:10px auto 20px; overflow:hidden; *zoom:1;"]
+##div[style="text-align:center;"]
 ##div[style="width:728px; height:90px; margin:auto; "]
 ##div[style="width:728px; height:90px; margin:auto;padding-top:5px;"]
 ##div[style="width:728px; height:90px; margin:auto; padding-top:5px;"]
