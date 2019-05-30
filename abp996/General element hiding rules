@@ -70,7 +70,6 @@
 ###cms-company
 ###cms-scroll
 ###cmsimage
-###colorbox
 ###comic_ad
 ###comiis_xizi_gg02
 ###content_wrapper + div + .default-container
@@ -515,6 +514,7 @@
 ##.float-adv-right-top
 ##.float_bot_right
 ##.focus_con > .item > a[href^="http"]:not([href*=".qq."])
+##.focus-img
 ##.footer_about
 ##.ford-tag
 ##.frAd
