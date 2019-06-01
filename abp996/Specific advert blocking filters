@@ -939,6 +939,7 @@ _yad_jsonp_
 ||api.bilibili.com/x/ad/
 ||api.wudizuqiu.com^*.js$domain=72nba.com
 ||apic.in/mmd.gif
+||apis.google.com^$third-party
 ||app-g.39.net/NNN/
 ||appfh.com/jiu/
 ||appfh.com/xin/
