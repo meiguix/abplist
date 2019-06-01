@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201905311206
+! Version: 201906011207
 ! Title: EasyListCN
-! Last modified: 2019-05-31
+! Last modified: 2019-06-01
 ! Expires: 365 days
 !
 !---------------------General advert filters---------------------!
@@ -1447,6 +1447,7 @@ _xiuno_com_ad/
 ##div[style="width:728px; height:90px; margin:auto; padding-top:10px;"]
 ##div[style="width:843px; height:80px; margin:auto; padding-top:5px;"]
 ##div[style="width:1080px;height:60px;background:#fff; margin-bottom:10px;"]
+##div[style="width:1300px;height:90px;margin:auto;background:#fff;"]
 ##div[style="width:1300px; height:90px;margin:auto;background-color:#FFF"]
 ##div.clearfix[style*="1000"]
 ##iframe[id^="sinaadtk_"]
