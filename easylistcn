@@ -755,6 +755,7 @@ _xiuno_com_ad/
 ###sning2
 ###sning3
 ###spage-top-banner
+###sponsors
 ###table1[width="468"][height="50"]
 ###table1[width="794"][height="60"]
 ###table1[width="812"][height="50"]
@@ -1441,7 +1442,6 @@ _xiuno_com_ad/
 ##div[style*="width:960px; height:90px;"]
 ##div[style=" width:300px; height:250px; overflow:hidden"]
 ##div[style="margin:10px auto 20px; overflow:hidden; *zoom:1;"]
-##div[style="padding-top: 2px; overflow: hidden; padding-left: 15px; height: 936px; width: 600px;"]
 ##div[style="text-align:center;"]
 ##div[style="width:728px; height:90px; margin:auto; "]
 ##div[style="width:728px; height:90px; margin:auto;padding-top:5px;"]
