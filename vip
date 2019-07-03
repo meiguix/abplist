@@ -67,8 +67,9 @@ ent.sina.com.cn##.blk08
 ent.sina.com.cn###tab01_btn02
 ##.daoliu-iframe
 finance.sina.com.cn###wx-tg-cont
-##.article-bottom-tg
 ###most_read
+##.article-bottom-tg
+##.fc_sidebar
 ##.seo_data_list + *
 ##.seo_data_list + * + *
 finance.sina.com.cn##.high-ad + *
