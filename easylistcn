@@ -568,6 +568,7 @@ _xiuno_com_ad/
 ###couplet-left
 ###couplet-right
 ###coupletBanner
+###cpzs
 ###crazy_ad_float
 ###crazy_ad_layer
 ###cs_left_couplet
@@ -1444,6 +1445,7 @@ _xiuno_com_ad/
 ##div[style*="WiDTH: 200px;"][style$="HeiGHT: 300px"]
 ##div[style*="width:960px; height:90px;"]
 ##div[style=" width:300px; height:250px; overflow:hidden"]
+##div[style="height:62px;"]
 ##div[style="margin:10px auto 20px; overflow:hidden; *zoom:1;"]
 ##div[style="text-align:center;"]
 ##div[style="width:728px; height:90px; margin:auto; "]
