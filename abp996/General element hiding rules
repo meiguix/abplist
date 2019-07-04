@@ -966,6 +966,7 @@
 ##div[style="width:1080px;height:60px;background:#fff; margin-bottom:10px;"]
 ##div[style="width:1300px;height:90px;margin:auto;background:#fff;"]
 ##div[style="width:1300px; height:90px;margin:auto;background-color:#FFF"]
+##div[style="width:1000px;margin:0 auto;display:block;margin-top: 20px;"]
 ##div.clearfix[style*="1000"]
 ##iframe[id^="sinaadtk_"]
 ##img[data-link][data-src*="/u/"]:not([data-link*="/i/"])
