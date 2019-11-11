@@ -15,6 +15,7 @@
 .cn/js/ads/
 .co/js/ads/
 .com*/ps/psCreat.js
+.com/17.js
 .com/a_d/
 .com/aaasi/*.js
 .com/ad777.js
@@ -262,6 +263,7 @@
 /images/ta1234.js
 /images/uploads/index_banner/a201*.gif
 /images/vpn
+/img/b72890.jpg
 /ina_ad_
 /include/inc/ad_data.
 /iscar.svc/getadvert?
@@ -342,6 +344,7 @@
 /pjk/xjk/*.php
 /plugin.php?id=popad_7ree&
 /pop_DJ2010.swf
+/pp_tall.
 /proxy.htm?id=
 /proxy.html?id=
 /public/videoJS/video-conrtib-ads.js
@@ -461,6 +464,9 @@
 =BAIDU_SSP_define&
 =loginExtAD.
 =SOGOU_WAP_SETJSONADSLOT&
+_104_139.
+_640_100.
+_580_60.
 _billboard_320x100.iframe.
 _naimabdd_
 _popAds.
@@ -1146,7 +1152,6 @@ _xiuno_com_ad/
 ##.mod-side + div[style="width:300px;height:257px;"]
 ##.mod_stridead
 ##.modal-backdrop
-##.modal-sm
 ##.module-image[style*="width:1100px;"]
 ##.module-image[style*="width:1240px;"]
 ##.mt35
@@ -1448,11 +1453,13 @@ _xiuno_com_ad/
 ##div[style="margin:10px auto 20px; overflow:hidden; *zoom:1;"]
 ##div[style="text-align:center;"]
 ##div[style="width:728px; height:90px; margin:auto; "]
+##div[style="width:640px; height:100px; margin:auto; padding-top:5px"]
 ##div[style="width:728px; height:69px; margin:auto; padding-top:5px;"]
 ##div[style="width:728px; height:90px; margin:auto;padding-top:5px;"]
 ##div[style="width:728px; height:90px; margin:auto; padding-top:5px;"]
 ##div[style="width:728px; height:90px; margin:auto; padding-top:10px;"]
 ##div[style="width:843px; height:80px; margin:auto; padding-top:5px;"]
+##div[style="width:843px; height:90px; margin:auto; padding-top:5px;"]
 ##div[style="width:1300px; height:90px;margin:auto;background-color:#FFF"]
 ##div[style="width:1080px;height:60px;background:#fff; margin-bottom:10px;"]
 ##div[style="width:1300px;height:90px;margin:auto;background:#fff;"]
@@ -7472,6 +7479,7 @@ _yad_jsonp_
 ||s.yimg.com/uv/dm/scripts/syndication.js
 ||s.yimg.com^*/flash_general_$domain=~tw.yahoo.com
 ||s1.pplive.cn/sta.js
+||s3.amazonaws.com^$third-party
 ||s8bbs.com/ad/
 ||s8bbs.com/g.php?
 ||sam*.baby-kingdom.com^
@@ -7856,6 +7864,7 @@ _yad_jsonp_
 ||trendmicro.com.tw/wp-content/uploads/*Banner
 ||truvidplayer.com^$domain=ck101.com
 ||ts.cn^*/site1/$object
+||tsyndolls.com^
 ||tt.biquge.la^
 ||tt1069.com/bbs/zgg_
 ||tt1069.com/or_pu_0604.js
