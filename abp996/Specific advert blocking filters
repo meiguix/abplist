@@ -3609,6 +3609,7 @@ _yad_jsonp_
 ||s.yimg.com/uv/dm/scripts/syndication.js
 ||s.yimg.com^*/flash_general_$domain=~tw.yahoo.com
 ||s1.pplive.cn/sta.js
+||s3.amazonaws.com^$third-party
 ||s8bbs.com/ad/
 ||s8bbs.com/g.php?
 ||sam*.baby-kingdom.com^
@@ -3993,6 +3994,7 @@ _yad_jsonp_
 ||trendmicro.com.tw/wp-content/uploads/*Banner
 ||truvidplayer.com^$domain=ck101.com
 ||ts.cn^*/site1/$object
+||tsyndolls.com^
 ||tt.biquge.la^
 ||tt1069.com/bbs/zgg_
 ||tt1069.com/or_pu_0604.js
