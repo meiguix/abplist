@@ -1,8 +1,6 @@
 -christmasification-
 -copy-paste-blocker/
 -job-widget.
--taboola-article.
--taboola-loader.
 /1pixel.
 /1pxtransparent.
 /1x1.trans.
@@ -10,6 +8,7 @@
 /?spu_action=*spu_load&
 /alerte_tracking.
 /altClickToSearch.
+/amp-apester-
 /antirightclick.$script
 /app-banner/*$xmlhttprequest
 /arscode-ninja-popups/*$~stylesheet
@@ -22,10 +21,9 @@
 /btnGigpark.
 /btnMobile.
 /cdn-cgi/pe/bag2?*addthis.com
-/cdn-cgi/pe/bag2?*odb.outbrain.com
 /christmas-snow.js
-/components/taboola/*
 /conversional-popup.
+/copy_text.js
 /cx-scrolldepth.js
 /dealsaver/widget/*
 /disable-right-click-
@@ -62,7 +60,6 @@
 /mailchimp-iframe/*
 /mobile-welcome-overlay/*$script
 /mobile_top_icon.
-/modulo/taboola/*
 /navicon_ap.gif
 /navigation_scroll_
 /newsgator.gif
@@ -74,8 +71,6 @@
 /Opinion8.min.js
 /opinionlab/*
 /opinionstage-
-/outbrain.js
-/outbrain?
 /pixel_transparent.
 /pixel_trasp.gif?
 /plugins/advanced-browser-check/*$~stylesheet
@@ -94,6 +89,7 @@
 /sailthru-
 /sailthru/*
 /show-join-email.jsonp?
+/signup_widget.js
 /signup_widget.min.js
 /snow-fall.js
 /snow-falling.js
@@ -103,15 +99,6 @@
 /snowstorm.js
 /snowstorm.min.js
 /surveyShower.
-/taboola-iframe/*
-/taboola.js
-/taboola/footer.
-/taboola/head.
-/taboola_header.
-/taboolaArticleFooter.
-/taboolaArticleHead.
-/taboolaBottomBody.
-/taboolaHead.
 /tapatalkdetect.
 /tellafriend32.
 /thedaywefightback.js
@@ -132,28 +119,60 @@
 /wp-content/plugins/vto_plus/*
 /wp-snow-effect/*
 /yammer_16.
+! Taboola
+-taboola-article.
+-taboola-loader.
+/components/taboola/*
+/modulo/taboola/*
+/taboola-iframe/*
+/taboola-module.
+/taboola.js
+/taboola/footer.
+/taboola/head.
+/taboola_header.
+/taboolaArticleFooter.
+/taboolaArticleHead.
+/taboolaBottomBody.
+/taboolaHead.
+! Outbrain
+/cdn-cgi/pe/bag2?*odb.outbrain.com
+/outbrain-load-
+/outbrain.js
+/outbrain/base?
+/outbrain?
 ! Push Notifications
 -push-notification.
 -push-notification/
+/amp-user-notification-
+/av/push-
 /build/push.js
 /checkPush.js
 /flying_push.
+/get_onesignal_
 /ilabspush.
+/mp-web-notification.
 /multi-desktop-notification.
 /notification-ext.
 /notification-prod-sw.js
 /notifications_lazy.
+/notifyme.js
+/notifyme.min.js
 /one-signal.
 /onesignal-modal.
+/onesignal.js
 /onesignal.min.
+/onesignal/manifest.
 /onesignalfix.
 /OneSignalSDKWorker.
 /openpushwoosh_
 /plugins/wp-notification-bars/*
+/push-notification.
 /push-notification/*
+/push-notifications.
 /push-notifications/*
 /push-sw.
 /push-worker-$script
+/push/notification-
 /push/offer/*
 /push/sbscr.
 /push/sbscrp.
@@ -162,9 +181,11 @@
 /push_notification/*
 /push_notification_
 /push_subscription.
+/push_token_
 /pushes/firebase.
 /pushes/notification.
 /pushly-sdk.
+/pushmessageworker.
 /pushnews.min.
 /pushnotification.
 /pushNotifications.js
@@ -173,6 +194,7 @@
 /pushv2.js
 /pushwoosh-
 /pushwooshNotification/*
+/russmediapush/*
 /scripts/onesignal.
 /sendsay_push_
 /sna-pushwoosh.
@@ -186,6 +208,8 @@
 /wordpress-fire-push/*
 _push_sw.
 ! Newsletter/Subscribe
+-160x120-newsletter.
+-email-newsletter-
 -footer-newsletter.
 -icon-newsletter.
 -newsletter-300x120.
@@ -193,6 +217,8 @@ _push_sw.
 -Newsletter-button.
 -newsletter-popup.
 -newsletter-subscription-
+-newsletter/popup/
+-newsletterwidget-
 -newsletterwidget.
 -newssletter-V3.
 -Sidebar-newsletter-
@@ -206,7 +232,6 @@ _push_sw.
 /addthis_subscribe.
 /ame-newsletter-
 /ame-newsletter/*
-/api/newsletter
 /article_newsletter.
 /assets/newsletter-
 /at_newsletter.
@@ -217,9 +242,13 @@ _push_sw.
 /bg-newsletter-
 /bg_newsletter.
 /bloc_newsletter.
+/blocknewsletter/*
 /common/newsletter-
 /Components/newsletter/*
 /content/newsletter/*
+/content/newsletter_
+/edjnewsletter.
+/email-newsletter/*
 /email/subscribe.
 /embeds/newsletter/*
 /emma-content-aggregates-prd.
@@ -227,7 +256,7 @@ _push_sw.
 /esnewsletterad.
 /f_newsletter.
 /footer-newsletter.
-/footer/newsletter_
+/footer/newsletter
 /getnewsletter.
 /ico-subscribe-
 /ico_newsletter.
@@ -253,8 +282,11 @@ _push_sw.
 /last_newsletter,
 /layout/newsletter.
 /leadin-subscribe.
+/marketing/newsletter-
 /Masthead-Newsletter-
 /MC-Newsletter-
+/media/newsletters/*
+/mm-newsletter/*
 /mnav/newsletter.
 /mobile_newsletter_
 /modal-newsletter.
@@ -277,6 +309,7 @@ _push_sw.
 /newsletter-forms.
 /newsletter-header.
 /newsletter-hover/*
+/newsletter-icon-
 /newsletter-icon.
 /newsletter-icon_
 /newsletter-logo-
@@ -296,12 +329,15 @@ _push_sw.
 /newsletter-signup.
 /newsletter-subscribe-
 /newsletter-subscription-
+/Newsletter.asp
 /newsletter/ct-
 /newsletter/icon-
 /newsletter/iscriviti-
 /newsletter/Iscrizione.
+/newsletter/it.
 /newsletter/newsletter-
 /newsletter/newsletter_
+/newsletter/pop-
 /newsletter/popin/*
 /newsletter/popup-
 /newsletter/popup/*
@@ -310,6 +346,7 @@ _push_sw.
 /newsletter/style.
 /newsletter/subscriber/*
 /newsletter/subscription/*
+/newsletter1.
 /newsletter2011_
 /Newsletter3.
 /newsletter_arrow.
@@ -320,6 +357,8 @@ _push_sw.
 /newsletter_icona.
 /newsletter_modal_
 /newsletter_popup/*
+/newsletter_popup_
+/newsletter_reading_
 /newsletter_small-
 /newsletter_sms/*
 /newsletter_subscribe_
@@ -336,6 +375,7 @@ _push_sw.
 /newsletters/modal/*
 /newslettersignup.
 /NewsletterSubscription.
+/newsletterwidget/*
 /newslettesr_view.
 /overlays/newsletter-
 /page/newsletter-
@@ -346,6 +386,7 @@ _push_sw.
 /plugins/optin-monster/*$script
 /plugins/wp-subscribe-pro/*
 /pmd-newsletter/*
+/pop-in-newsletter/*
 /popinNewsletter.
 /popinNewsletter/*
 /popups/subscribe-
@@ -356,6 +397,7 @@ _push_sw.
 /registrazione/newsletter/*
 /site/newsletter-
 /social/newsletters_
+/sph_newsletter/*
 /static/newsletter.
 /subscribe-buttons.
 /subscribe-newsletter-
@@ -365,6 +407,7 @@ _push_sw.
 /subscribe_icon_
 /td-newsletter/*
 /toaster-newsletter.
+/v1/newsletters/*
 /vt-newsletter2.
 /wonderplugin-popup-engine.$script
 /wysija-newsletters/*
@@ -383,6 +426,7 @@ _Newsletterbutton_
 _popup/newsletter.
 _Reskin_newsletters-
 _subscribe_button
+~popinNewsletter.
 ! ---------- RSS Buttons ----------
 -blog-rss.
 -blue-rss.
@@ -405,6 +449,7 @@ _subscribe_button
 /32x32-rss.
 /32x32rss.
 /base/rss-
+/bg_feed.
 /bg_rss_
 /bnr_rss.
 /bt_rss_
@@ -454,6 +499,7 @@ _subscribe_button
 /icon-rss-
 /icon-rss.
 /icon-rss2.
+/icon.rss.
 /icon/rss-
 /icon/rss.
 /icon_16_rss.
@@ -489,8 +535,10 @@ _subscribe_button
 /newsfeed_rss20.
 /picto-rss-
 /pictosRss.
+/podcast-rss1.
 /public/*/rss_
 /Redes_RSS.
+/rm-rss.
 /Rss-128.
 /rss-16x
 /rss-24.
@@ -560,7 +608,7 @@ _subscribe_button
 /rssblusmall.
 /rssBtn.
 /rssbutton.
-/rssfeed-85.
+/rssfeed-
 /rssfeed.
 /rssfeed32.
 /rssfeedIcon.
@@ -569,6 +617,7 @@ _subscribe_button
 /rssicon.
 /rssicon_
 /rssimg.
+/rssmini.
 /rssred.
 /rsstop1.
 /sc_rss.
@@ -608,7 +657,9 @@ _rssicon.
 _s_rss_
 _social_rss.
 _xmlrss.
+!
 ! ---------- Scroll To Top Buttons ----------
+!
 -scroll-to-top/
 .ui.totop.
 /avada-to-top.
@@ -634,17 +685,20 @@ _xmlrss.
 /hs.go-to.min.js
 /ic_pagetop.
 /icon_gototop.
+/icon_scrollup.
 /sbtt.js
 /scroll-to-top/*
 /scroll-top-and-bottom/*
 /scroll-top.
 /scroll_top.
+/scrollBtnTop.
 /scrolltop.
 /scrolltop/*
 /scrolltopcontrol.
 /scrolltoplugin.
 /scrolltotop/*
 /scrollToTopConcat.
+/scrollup_button.
 /simple-back-to-top/*
 /to_pagetop.
 /torna-su.

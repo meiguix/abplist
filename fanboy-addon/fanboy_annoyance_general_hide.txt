@@ -185,6 +185,7 @@
 ###xetv-top-links
 ###zerg-target
 ##.IN-widget
+##.UpNext-Wrapper
 ##._footer_follow_us_links_
 ##._popIn_recommend_ad
 ##.aa_popup_overlay
@@ -202,6 +203,7 @@
 ##.aptureTMMBar
 ##.article-next-sticky
 ##.articles-recirculation
+##.asset-paging-container
 ##.avia-post-nav
 ##.background-email-popup
 ##.bbccom_text
@@ -477,9 +479,12 @@
 ###block-boxes-taboola-article-right-rail
 ###js-Taboola-Container-0
 ###moduleTaboolaRightRail
+###taboola
+###taboola-above-homepage-thumbnails
 ###taboola-autosized-1r
 ###taboola-below-article
 ###taboola-below-article-thumbnails
+###taboola-below-article-thumbnails-2
 ###taboola-below-disco-board
 ###taboola-below-main-column
 ###taboola-below-main-column-mix
@@ -488,6 +493,7 @@
 ###taboola-bottom
 ###taboola-bottom-main-column
 ###taboola-div
+###taboola-homepage-thumbnails
 ###taboola-horizontal-toolbar
 ###taboola-horizontalx4-responsive
 ###taboola-native-right-rail-thumbnails
@@ -507,7 +513,9 @@
 ##.pb-f-ads-taboola-recommendations
 ##.section_taboola_alireaussi
 ##.taboola
+##.taboola-banner
 ##.taboola-bottom-adunit
+##.taboola-container
 ##.taboola-frame
 ##.taboola-inbetweener
 ##.taboola-like-block
@@ -526,6 +534,10 @@
 ##.taboola_v8
 ##.taboolaloader
 ##.theme-block--taboola
+##.trc-first-recommendation
+##.trc-spotlight-first-recommendation
+##.trc_excludable
+##.trc_spotlight_item
 ##.widget_am_taboola_main_widget
 ##.widget_ione-taboola
 ! nbc websites app element
@@ -582,6 +594,7 @@
 ###Subscribe-Article-Bottom
 ###SubscribeBox
 ###SubscribePushNotificationPanel
+###Widget-Newsletter
 ###aa-subscribe-widget
 ###aa-subscribe-widget-wrap
 ###aboutnewsletter_newsletter
@@ -592,6 +605,7 @@
 ###aol-newsletter
 ###appeal-newsletter
 ###art-subscribe-unit-outer
+###article-im-prompt
 ###article-newsletter-engage-content
 ###article-newsletter-side-module
 ###article-promo-newsletter
@@ -602,6 +616,7 @@
 ###at-cv-toaster
 ###barNewsletter
 ###bitsubscribe
+###bloc-newsletter
 ###bloc_newsletter
 ###block-br-hhog-module-br-hhog-newsletter-general
 ###block-dfp-subscriptions-block
@@ -677,6 +692,7 @@
 ###email-widget-wrapper
 ###emailAcqPopupContainer
 ###emailAcquisitionModal
+###emailAlerts
 ###emailSignUp
 ###emailSignUpV4
 ###emailSignupOverlay
@@ -728,6 +744,7 @@
 ###fsd_signup
 ###fusion-email-signup-modal
 ###get-our-newsletter
+###gigya-newsletter-social
 ###giz-emailsubscribe
 ###giz-subscribe
 ###gkNewsletter
@@ -746,6 +763,7 @@
 ###inline-subscribe-form
 ###inpage_newsletter_signup_wrapper
 ###ins-newsletter-form
+###inscription_newsletter
 ###instory_newsletter_signup
 ###iscrizioniscr_emaileNewsletter
 ###it_newsletters
@@ -787,6 +805,7 @@
 ###news-ltr
 ###newsLetter-signup-box
 ###newsLetterAsset
+###newsLetterFooterDiv
 ###newsLetterForm
 ###newsLetterSignUp
 ###newsLetterSignup
@@ -806,6 +825,7 @@
 ###newsletter-button
 ###newsletter-component
 ###newsletter-container
+###newsletter-content-wrapper
 ###newsletter-cta
 ###newsletter-dialog
 ###newsletter-email-ask
@@ -817,6 +837,7 @@
 ###newsletter-form-footer
 ###newsletter-form-holder
 ###newsletter-form-nonrail
+###newsletter-form\ gigya-form-registration
 ###newsletter-front
 ###newsletter-header
 ###newsletter-inline
@@ -826,13 +847,16 @@
 ###newsletter-invite
 ###newsletter-mapping-center
 ###newsletter-mod
+###newsletter-modal
 ###newsletter-module
 ###newsletter-note-footer
 ###newsletter-notification
 ###newsletter-overlay
 ###newsletter-panel
+###newsletter-popin
 ###newsletter-popup
 ###newsletter-popup-cont
+###newsletter-popup-container
 ###newsletter-popup-left
 ###newsletter-popup-overlay
 ###newsletter-popup-pardon
@@ -861,6 +885,7 @@
 ###newsletter-slider
 ###newsletter-strip
 ###newsletter-subscribe
+###newsletter-subscribe-
 ###newsletter-subscribe-box
 ###newsletter-subscribe-sidebar
 ###newsletter-subscription
@@ -939,7 +964,10 @@
 ###newsletter_subscribe
 ###newsletter_subscription
 ###newsletter_subscription_box
+###newsletter_subscription_footer
+###newsletter_widget-2
 ###newsletter_wrapper
+###newsletterad
 ###newsletterblock
 ###newsletterbox
 ###newsletterflyin
@@ -972,10 +1000,12 @@
 ###nmSignUpContainer
 ###node-basic-newsletter
 ###node-email-widget
+###noti_wrap
 ###notification-articleblock
 ###nyp-newsletter-modal
 ###obog_signup_widget
 ###offer-research-center-newsletter
+###ols-email-popup
 ###openNewsletter
 ###opinion-newsletter-promo
 ###optinform-container
@@ -987,6 +1017,7 @@
 ###popinNewsletter
 ###popular-newsletter
 ###popup-newsletter-software
+###popupNewsletter
 ###popup_newslettter
 ###pp-subscribe
 ###pp.pp_container
@@ -998,6 +1029,9 @@
 ###rb-newsletter
 ###rdc-newsletter
 ###react_wrapper_edition_newsletter_signup
+###react_wrapper_home_newsletter_large
+###registerNlArticle
+###related-newsletter
 ###relatedNavNewsletter
 ###remodalnewsletter
 ###responsive-newletter-signup-form
@@ -1021,6 +1055,7 @@
 ###sendpress_signup
 ###series-newsletter-signup
 ###share-newsletter
+###shortSignup
 ###sib_embed_signup
 ###side-newsletter-signup
 ###sidebar-block-newsletters
@@ -1033,6 +1068,8 @@
 ###sidebarnewsletter
 ###sidebarnewsletter_wrapper
 ###sidenewsletter
+###sign-up-newsletter
+###sign-up-newsletter__form
 ###signUpPromoFooter
 ###signup-box-rr
 ###signup-in-sidebar-newsletter
@@ -1066,6 +1103,7 @@
 ###subscribe-module
 ###subscribe-nav-btn
 ###subscribe-newsletter
+###subscribe-newsletters
 ###subscribe-nl-content
 ###subscribe-now
 ###subscribe-pcmag
@@ -1114,24 +1152,29 @@
 ###subscriptionModal
 ###subscription_box
 ###subscription_digest_hypepanel
+###subscription_head_banner
 ###subsribe_right
 ###sw-noty-email
 ###tc_newsletter
+###theEmailBlastSignup
 ###thehill-blocks-signup-form
 ###titolo-newsletter
 ###topMailingListWrapper
 ###uglipop_content_fixed
 ###uglipop_overlay
 ###webui-newsletter-bottom-column
+###weekly_newsletter
 ###widget-apply-newsletter-article
 ###widget-newsletter-signup
 ###widgetNewsletter
 ###widget_marketo-email-form-widget
 ###wp-subscribe
 ###wp_newsletter
+##.-newsletter-signup
 ##.ALS_IL_Holder
 ##.CheatNewsletter
 ##.DFNewsletterSignup
+##.DivNewsLetter
 ##.DnnModule-eps-NewsletterOptInv2
 ##.HB-Takeover
 ##.Homepage-newsletter
@@ -1140,16 +1183,21 @@
 ##.MembershipCTAs__newsletters
 ##.ModepsNewsletterOptInv2C
 ##.MultiColorSubscribeWidget
+##.NavMainDesktop__newsletters
 ##.NewsLetterForMobile
 ##.NewsLetterLeftSide
+##.NewsLetterSource
 ##.Newsletter-Overlay
 ##.Newsletter-shortcode
 ##.NewsletterBanner
 ##.NewsletterBox
 ##.NewsletterBox--footer
 ##.NewsletterColumn
+##.NewsletterModule
 ##.NewsletterRegister
+##.NewsletterSection
 ##.NewsletterSignUp
+##.NewsletterSignUp_container
 ##.NewsletterSignup
 ##.NewsletterSignupBlock
 ##.NewsletterSignupInset
@@ -1217,6 +1265,7 @@
 ##.be-newsletter-widget
 ##.bg-emailshare
 ##.bg-newsletter-signup
+##.bk-newsletter
 ##.bk-section-subscribe
 ##.bk-subscribe
 ##.bk-subscribe-email
@@ -1237,11 +1286,13 @@
 ##.block-newsletter
 ##.block-newsletter-signup
 ##.block-pi-signup
+##.block-social-newsletter
 ##.block-subscribe
 ##.block-theweek-subscriptions
 ##.block-ti-lsg-cook-newsletters
 ##.block-trinity-newsletter
 ##.blockNewsletter
+##.block_newsletter
 ##.block_valor_newsletter_front
 ##.blog-signup-container
 ##.blog_signup_box
@@ -1270,6 +1321,7 @@
 ##.c-newsletter--default
 ##.c-newsletter--footer
 ##.c-newsletter-context
+##.c-newsletter-form
 ##.c-newsletter-promo
 ##.c-newsletter-section
 ##.c-newsletter-widget
@@ -1298,6 +1350,7 @@
 ##.circulation-subscribe
 ##.cm_mobNewsletterSignup
 ##.cm_newsletter
+##.cmg_signup_box
 ##.column--newsletter
 ##.column-newsletter
 ##.column-subscribe
@@ -1309,6 +1362,7 @@
 ##.cont-newsletter-header
 ##.cont_popup_suscripicion_boletin_load
 ##.container-form-newsletter
+##.container_row--newsletter
 ##.content--newsletter
 ##.content-c__newsletter--box
 ##.content-mod-newsletter-right
@@ -1368,13 +1422,16 @@
 ##.email-signup-lightbox
 ##.email-signup-module
 ##.email-sub__iframe
+##.email-submit-article-footer
 ##.email-subscribe
 ##.email-subscribe-box-large
 ##.email-subscription-div
 ##.email-subscription-promo
+##.email-subscription-sidebar
 ##.email-subscription-wrap
 ##.email-subscription-wrap-sidebar
 ##.email-to-a-friend
+##.email-widget-container
 ##.emailCapture
 ##.emailSignup
 ##.emailSubscribe
@@ -1392,6 +1449,7 @@
 ##.endpage_newsletter_signup
 ##.enews-wrapper
 ##.enewsletter
+##.english_newsletter_component
 ##.enlace_newsletter
 ##.entry-email-signup
 ##.entry-footer-subscribe
@@ -1412,6 +1470,7 @@
 ##.fjs-newsletter-subscription
 ##.float-newsletter-bar
 ##.flyout-newsletter-rr
+##.flyover-email-cta
 ##.fn-widget__newsletter-signup
 ##.follow-embed__newsletter
 ##.follow-subscribe
@@ -1429,6 +1488,7 @@
 ##.footer-newsletter-box
 ##.footer-newsletter-form
 ##.footer-newsletter-signup
+##.footer-newsletter-social
 ##.footer-newsletter-wrapper
 ##.footer-newsletters
 ##.footer-sign-up
@@ -1436,6 +1496,7 @@
 ##.footer-social-email
 ##.footer-subscrabe-box
 ##.footer-subscribe
+##.footer-subscribe-widget
 ##.footerEmail
 ##.footer__action-media--newsletter
 ##.footer__column--newsletter
@@ -1453,6 +1514,7 @@
 ##.form__newsletter-subscribe
 ##.form__newsletter-subscribe--block
 ##.free-enewsletters-widget
+##.ftop-scrolltop
 ##.ftr-nwsltr
 ##.g1-newsletter
 ##.gcap-layout-popup
@@ -1484,6 +1546,8 @@
 ##.header__social--email
 ##.header__subscribe-btn
 ##.hellobar-signup
+##.home-enews-signup
+##.home-newsletter-widget
 ##.homepage-bottom-email-signup
 ##.homepage-newsletter
 ##.homepg-newsletter-sign-up-form
@@ -1510,11 +1574,13 @@
 ##.inline-newsletter-module
 ##.inline-signup
 ##.inline-subscribe
+##.inline-subscription-module
 ##.inlineNewsletterSubscription
 ##.inlineNewsletter__wrapper
 ##.inline_sign_up_box
 ##.ins-newsletter-column
 ##.ins-newsletter-wrapper
+##.inscription-newsletter
 ##.intextNewsletter
 ##.ione-widget-bp_newsletter_signup
 ##.ione-widget-social_conversion
@@ -1550,6 +1616,7 @@
 ##.klaviyo_flyout
 ##.l-footer__newsletter
 ##.lien-newsletter
+##.link-newsletter
 ##.listbuilder-popup-embedded
 ##.lnk-newsletter
 ##.lon-newsletter-tout
@@ -1563,6 +1630,8 @@
 ##.m-rock-newsletter
 ##.m-site-foot--newsletter
 ##.m-subscribe
+##.m4p-newsletter-form
+##.mail-newsletter
 ##.mailchimp-lists-user-subscribe-form
 ##.mailing-list-signup
 ##.mailingList--sidebar
@@ -1637,6 +1706,7 @@
 ##.newsletter--article
 ##.newsletter--blog-container
 ##.newsletter--container
+##.newsletter--dark
 ##.newsletter--eil
 ##.newsletter--footer
 ##.newsletter-advertisement
@@ -1655,7 +1725,9 @@
 ##.newsletter-box-news
 ##.newsletter-btn
 ##.newsletter-btn--mid-articles
+##.newsletter-buttom
 ##.newsletter-button
+##.newsletter-c
 ##.newsletter-call-to-action
 ##.newsletter-callout
 ##.newsletter-capture
@@ -1669,6 +1741,7 @@
 ##.newsletter-dialog-box
 ##.newsletter-element__form
 ##.newsletter-email-signup
+##.newsletter-embeb
 ##.newsletter-embed
 ##.newsletter-fixed
 ##.newsletter-flex-text
@@ -1681,6 +1754,7 @@
 ##.newsletter-form-border
 ##.newsletter-form-container
 ##.newsletter-frame
+##.newsletter-head
 ##.newsletter-home
 ##.newsletter-icon-footer
 ##.newsletter-inline
@@ -1696,6 +1770,7 @@
 ##.newsletter-mini-banner
 ##.newsletter-mod
 ##.newsletter-modal
+##.newsletter-modal-background
 ##.newsletter-modal-overlay
 ##.newsletter-nav-btn
 ##.newsletter-notification-box
@@ -1703,6 +1778,7 @@
 ##.newsletter-overlay-footer
 ##.newsletter-plug
 ##.newsletter-pop
+##.newsletter-pop-in
 ##.newsletter-popin
 ##.newsletter-popup
 ##.newsletter-popup-background
@@ -1713,9 +1789,11 @@
 ##.newsletter-popup-wrapper
 ##.newsletter-popups
 ##.newsletter-promo
+##.newsletter-promo-container
 ##.newsletter-r
 ##.newsletter-right-col
 ##.newsletter-right-rail
+##.newsletter-rightbar
 ##.newsletter-sc-container
 ##.newsletter-shortcode
 ##.newsletter-sidebar
@@ -1778,6 +1856,7 @@
 ##.newsletter-widget__wrapper
 ##.newsletter-wrap
 ##.newsletter-wrapper
+##.newsletter-wrapper-sidebar
 ##.newsletter-zone
 ##.newsletter.box
 ##.newsletter.panel-body
@@ -1814,9 +1893,11 @@
 ##.newsletterWrapper
 ##.newsletter__callout
 ##.newsletter__card
+##.newsletter__form
 ##.newsletter__headline
 ##.newsletter__signup
 ##.newsletter__wrapper
+##.newsletter_area
 ##.newsletter_bar
 ##.newsletter_bg
 ##.newsletter_block
@@ -1849,12 +1930,14 @@
 ##.newsletter_social
 ##.newsletter_social_form
 ##.newsletter_subscribe
+##.newsletter_subscribe_banner
 ##.newsletter_subscription
 ##.newsletter_subscription_top_embed
 ##.newsletter_testo
 ##.newsletter_widget
 ##.newsletter_wrapper
 ##.newsletterbg
+##.newsletterbottom
 ##.newsletterbox
 ##.newsletterdiv
 ##.newslettermodal
@@ -1865,6 +1948,7 @@
 ##.newslettersignin
 ##.newslettersignup
 ##.newslettersrssbox
+##.newsletterssignupmodules
 ##.newslettersubscrive
 ##.newslettertr
 ##.newsletterwidget
@@ -1872,13 +1956,18 @@
 ##.newssignup
 ##.ng-newsletter
 ##.nl-newsletter_signup
+##.nl-signup-scrollbox
+##.nl-subscription-container
+##.nl-subscription-inarticle
 ##.nlSubscribe
 ##.nlWidgetMain2
 ##.nls-subscribe
 ##.nlsubscribe-block
 ##.nn-newsletter
 ##.node-newsletter-subscribe
+##.notification-results
 ##.nse_subscription-list
+##.nslr-subscb
 ##.nw_form_newsletters
 ##.nw_icon_newsletter
 ##.nwletter-box
@@ -1898,6 +1987,7 @@
 ##.openNewsletter
 ##.opt-in-email-signup-drawer
 ##.optin-monster
+##.optin-monster-api
 ##.optin-monster-overlay
 ##.optin-monster-saas-overlay
 ##.optin-overlay
@@ -1951,6 +2041,7 @@
 ##.radium-builder-widget-newsletter-form
 ##.rdstation-popup-newsletter
 ##.react-newsletter-overlay
+##.reg_newsletter
 ##.register-newsletter
 ##.register-signup-promo
 ##.register_block_newsletter
@@ -1966,6 +2057,7 @@
 ##.s-nwletter
 ##.sb-signup-container
 ##.sbnewsletter-signup
+##.sc-gannett-atoms-component-newsletter-cta-h
 ##.sc-newsletter
 ##.scmp-inline-newsletter-subscription
 ##.scroll-navigation-subscribe
@@ -1975,6 +2067,7 @@
 ##.section_newsletter
 ##.sendinblue-newsletter-mergefields
 ##.sendinblue-signup-subscribe-form
+##.service-newsletter
 ##.sfsi_subscribe_Popinner
 ##.short-sign-up
 ##.shortcode-inline-newsletter
@@ -1990,6 +2083,7 @@
 ##.sidebar-email-signup-container
 ##.sidebar-mailchimp
 ##.sidebar-newsletter
+##.sidebar-newsletter-prompt
 ##.sidebar-subscribe
 ##.sidebar-subscribe-box
 ##.sidebar-subscribe-box-wrapper
@@ -2016,7 +2110,7 @@
 ##.signup-newsletter
 ##.signup-tout
 ##.signup-with-checkboxes
-##.signup1
+##.signup_module
 ##.signup_slider
 ##.simple-endofarticleemail
 ##.simple-sidebar-emailsignupbox
@@ -2026,6 +2120,7 @@
 ##.single-post__content__subscribe
 ##.site-foot__newsletter
 ##.site-masthead-subscribe-wrap
+##.site-newsletter
 ##.siteSubscribe
 ##.skinny-sign-up
 ##.skinny-signup
@@ -2034,6 +2129,7 @@
 ##.sm_newsletter
 ##.small-newsletter
 ##.sml_subscribe_widget
+##.sna-newsletter
 ##.social-link-mail
 ##.socialNewsletter
 ##.social_newsletter_box
@@ -2041,6 +2137,7 @@
 ##.ssb-subscribe-box
 ##.sticky-signup
 ##.stickyNewsletterBar
+##.sticky_newsletter
 ##.story-follow-module
 ##.str-inline-subscription-block
 ##.sub_newsletter
@@ -2084,7 +2181,9 @@
 ##.subscribe-top
 ##.subscribe-top-page
 ##.subscribe-widget-container
+##.subscribe-widget-sidebar
 ##.subscribe-wrapper
+##.subscribe.block
 ##.subscribe2
 ##.subscribeBox
 ##.subscribeInPost
@@ -2146,6 +2245,7 @@
 ##.today-newsletter-wrap
 ##.toolbox-newsletter
 ##.topic-newsletter
+##.topnav-newsletter-container
 ##.tout_subscribe
 ##.transformer__newsletter
 ##.traqli-subscribe
@@ -2153,6 +2253,7 @@
 ##.tsq_sailthru_newsletter_widget
 ##.tve-leads-lightbox
 ##.type-InsetNewsletterSignup
+##.ue-c-newsletter-widget
 ##.ui-front.newsletter-signup-overlay
 ##.ui-home-newsletter
 ##.ui-newsletter
@@ -2176,6 +2277,7 @@
 ##.widget-newsletter
 ##.widget-newsletter-block
 ##.widget-newsletter-form-style
+##.widget-newsletter-newsletter
 ##.widget-newsletter-sign-up
 ##.widget-newsletter-sign-up__form
 ##.widget-ngs-subscribe
@@ -2188,10 +2290,12 @@
 ##.widget_bs-newsletter-mailchimp
 ##.widget_cbs_newsletter_widget
 ##.widget_email_subscribe
+##.widget_enqtran_subscriber_widget
 ##.widget_home_newsletter
 ##.widget_ione-bp_newsletter_signup
 ##.widget_mailchimpsf_widget
 ##.widget_mailerlite_widget
+##.widget_mc4wp_form_widget
 ##.widget_mwn_newsletter
 ##.widget_mymail_signup
 ##.widget_newsletter
@@ -2199,6 +2303,7 @@
 ##.widget_newsletter_manager
 ##.widget_newsletter_sidebar
 ##.widget_newsletter_signup
+##.widget_newsletter_widget
 ##.widget_newsletters
 ##.widget_newsletterwidget
 ##.widget_newsletterwidgetminimal
@@ -2223,14 +2328,17 @@
 ##.wrapper_suscribe_home
 ##.wwd-subscribe-now-banner-background
 ##.yt-mailchimp-subscription-form-widget
+##GANNETT-ATOMS-COMPONENT-NEWSLETTER-CTA
 ##GET-SUBSCRIBERS
 ##[class^="NewsletterSubscribe"]
+##[data-module="newsletter-signup"]
 ##[data-target="#newsletter-modal"]
 ##a[title="Daily Email Newsletter"]
 ##div[class*="NewsletterSubscribe_"]
 ##div[class^="NewsletterForm_"]
 ##div[class^="NewsletterPopup_"]
 ##div[id^="feature-newsletter"]
+##div[id^="newsletter-subscribe-"]
 ##div[id^="wrapper_newsletter_"]
 ##img[alt="Subscribe via E-mail Newsletter"]
 ##img[title="Subscribe to our daily email"]
@@ -2247,10 +2355,13 @@
 ###desktop-notification-ask-dialog
 ###dialog-push-notification
 ###divPnot
+###edrone--push--alert--box
 ###frizbit-prompter
+###hint-push-service
 ###ilabspush-optin-container
 ###jeapie-prompt-widget
 ###js-gcm-notif
+###lwp-popover-container
 ###my_web_push_app_box_confirm
 ###noti_msg
 ###noti_subscribe_dialog
@@ -2261,6 +2372,7 @@
 ###push-alert-block
 ###push-container
 ###push-notification
+###push-notification-box
 ###push-notification-pop-up
 ###push-prompt
 ###pushAdUpBanner
@@ -2283,6 +2395,9 @@
 ###webpush-info-div
 ###webpushSelctorFormId
 ###webpush_modal
+##.PushNotification--base
+##.PushNotification--top
+##.PushNotification-popover-dialog
 ##.b-notification-push
 ##.bs-push-noti
 ##.bubble-push
@@ -2292,10 +2407,12 @@
 ##.contentwebpush
 ##.desktop-notification-ask-dialog
 ##.e-push-notification-popup
+##.et_push_notification
 ##.frizbit-prompt
 ##.hs-push
 ##.htpush-chrome-style-notification
 ##.insider-opt-in-notification
+##.item-newsletter-form
 ##.j-push-notifications-feature
 ##.js-custom-push-notifications
 ##.js-notifications-button
@@ -2304,10 +2421,6 @@
 ##.modal-push
 ##.notBar
 ##.notf-overlay
-##.notifacition-area
-##.notification-bar
-##.notification-box
-##.notification-wrapper
 ##.ntfc_overlay
 ##.ntfc_popup
 ##.oi-notify
@@ -2317,6 +2430,7 @@
 ##.push-message
 ##.push-notice
 ##.push-notification
+##.push-notification-box
 ##.push-overlay
 ##.push-popup
 ##.push-wrap
@@ -2335,7 +2449,9 @@
 ##.ud_webpush_sticky
 ##.web-notification
 ##.web-push
+##.web-push-box
 ##.window-push
+##.wordpress-fire-push-popup
 ##.ys-push
 ! alextimes.com
 ##.cpcta-flyin
@@ -2346,9 +2462,6 @@
 ! nlgate Newsletter
 ###nlgate
 ###nlgate-overlay-0
-! Ebay
-###gh > .gh-banner
-##header > .gh-banner-active:first-child
 ! Various uk Football splashes
 ###splash_mask
 ###splash_mask + #splash_box
@@ -2362,6 +2475,7 @@
 ###btnRss
 ###ctl00_ctl64_ctl00_LnkRSS
 ###dmrrss
+###document-action-rss
 ###floaty-rss
 ###follow-rss
 ###followRSS
@@ -2374,6 +2488,7 @@
 ###icon-RSS
 ###icon-rss
 ###page-header-rss
+###podcastRss
 ###rightSocialRss
 ###rss-feed
 ###rss-ico
@@ -2407,15 +2522,20 @@
 ##.SocialRSS
 ##.addthis-rss
 ##.alternative-links__link_rss
+##.art-rss-tag-icon
 ##.article-open_shere-feed
 ##.author-rss
+##.av-icon-rss
 ##.b-article__header-rss-ico
 ##.b-icon__rss
 ##.bg-button-rss
 ##.bg-rss
 ##.bk-socialicons-rss
 ##.btRSS
+##.btRss
+##.btn-rss
 ##.btn-rss-link
+##.btn.rss
 ##.btnRSS
 ##.btnRss
 ##.btrss
@@ -2487,6 +2607,7 @@
 ##.listRss
 ##.m-global-header__rss
 ##.m-rss
+##.main-icon--rss
 ##.menu-rss
 ##.msc-rss
 ##.msm_icon_rss
@@ -2519,6 +2640,7 @@
 ##.rssBox
 ##.rssConnect
 ##.rssFeed
+##.rssFeedEn
 ##.rssFeeds
 ##.rssIco
 ##.rssIcon
@@ -2535,6 +2657,7 @@
 ##.rssbar
 ##.rssdef
 ##.rssfeeds
+##.rssicn
 ##.rssicon
 ##.rsslink
 ##.rsstop
@@ -2564,6 +2687,7 @@
 ##.td-icon-rss
 ##.term-rss
 ##.topbar-rss
+##.toprow_rss
 ##.track-action-RSS
 ##.trtrss
 ##.uk-icon-rss
@@ -2600,7 +2724,9 @@
 ##img[alt="Subscribe via RSS Feed"]
 ##img[alt="Subscribe via RSS!"]
 ##img[alt="Subscribe via RSS"]
-! Scroll to top
+!
+! ---------- Scroll to top ----------
+!
 ###BackToTop
 ###BtmToPageTopArea
 ###Imgback2top
@@ -2628,9 +2754,11 @@
 ###back2top
 ###backToTop
 ###backToTopButton
+###backToTop_RT
 ###backTop
 ###back_to_top
 ###back_to_top_now
+###back_to_top_seaocore_button_common_21813
 ###backtoTop
 ###backtop
 ###backtotop
@@ -2658,7 +2786,10 @@
 ###eltdf-back-to-top
 ###fav-backtotop
 ###fl-to-top
+###float-btn-backtotop
+###footer-0-BackToTop
 ###footer-back-to-top
+###footer-to_top_button
 ###footer_scroll_top
 ###g1-back-to-top
 ###gh-bt
@@ -2682,6 +2813,7 @@
 ###img_goTop
 ###infinite-footer-back-to-top-button
 ###int-btn-top
+###iron-back-top
 ###jGoTop
 ###jas-backtop
 ###jm-back-top
@@ -2694,12 +2826,14 @@
 ###jwDisqusBackToTop
 ###ktz-backtotop
 ###layoutscrolltop
+###linkbacktop_top
 ###mainToTopAnchor
 ###main_scroll_icon
 ###menu-back-to-top
 ###mgs-scrollup
 ###mkd-back-to-top
 ###move-to-top
+###move_to_top
 ###navBackToTop
 ###neklo_scrolltotop_arrow
 ###nino-scrollToTop
@@ -2712,10 +2846,12 @@
 ###picto-to-top
 ###pojo-scroll-up
 ###pro-scroll-top
+###product-list-scroll-link
 ###return-to-top
 ###returnOnTop
 ###return_to_top
 ###sbttBacktotop
+###scrl-top
 ###scroll-to-top
 ###scroll-top
 ###scroll-top-button
@@ -2724,8 +2860,10 @@
 ###scroll-toplink
 ###scroll-up
 ###scroll-up-button
+###scroll2top
 ###scrollToTop
 ###scrollToTopButton
+###scrollTop
 ###scrollTopBtn
 ###scrollUp
 ###scroll_back_to_top
@@ -2743,11 +2881,13 @@
 ###sticky-back-to-top
 ###sttotop
 ###tab-to-top
+###theme-go-to-top
 ###to-the-top
 ###to-top
 ###to-top-button
 ###to-top-container
 ###to-top-link
+###toPagetop
 ###toTo_button
 ###toTop
 ###toTopLink
@@ -2776,9 +2916,12 @@
 ##.BackToTop
 ##.Backtotop
 ##.Bt_Gotop
+##.ButtonBackToTop
 ##.GlobalFooter-backToTop
 ##.GlobalFooter-backToTopSection
 ##.JumpToTop
+##.NextCheatButton
+##.PageHeaderWithMenu-backTop
 ##.ScrollTop
 ##.TopGoTop
 ##.W_gotop
@@ -2800,6 +2943,7 @@
 ##.back-to-top-btn
 ##.back-to-top-button
 ##.back-to-top-container
+##.back-to-top-cta
 ##.back-to-top-link
 ##.back-to-top-sticky
 ##.back-to-top-wrap
@@ -2827,9 +2971,12 @@
 ##.backtopbutton
 ##.backtotop
 ##.backtotop-bubble
+##.backtotopbutton
 ##.bc_goto_top
 ##.bd-backtotop-1
+##.bfc-scroll-to-top
 ##.block_to_top
+##.blog-back-to-top
 ##.body-back-to-top
 ##.body-btn-top
 ##.body-scrollToTop
@@ -2857,11 +3004,13 @@
 ##.button-back-top
 ##.button-to-top
 ##.c-back-to-top
+##.c-back-to-top-cta
 ##.c-totop
 ##.cScrollIndicatorContainer
 ##.c_pagetop
 ##.category-page__back-to-top--button
 ##.ccm_go_top
+##.crc-backToTop
 ##.ct-js-btnScrollUp
 ##.ct-scrollUpButton
 ##.ct-totop
@@ -2872,6 +3021,7 @@
 ##.ef3-back-to-top
 ##.enigma_scrollup
 ##.et_pb_scroll_top
+##.eut-back-top
 ##.f-footer__btn_up
 ##.f-go-top
 ##.fi-back-to-top
@@ -2928,10 +3078,12 @@
 ##.gpe_movetop
 ##.gr-footer-back-top
 ##.greatwp-scroll-top
+##.gs18-GoTop
 ##.header-bottom-totop-button
 ##.hestia-scroll-to-top
 ##.hh-button-scroll-top__wrapper
 ##.hse-scrolltotop
+##.icon--totop
 ##.icon-back-to-top
 ##.icon-buffett-backtotop
 ##.icons-scrolltop-black
@@ -2942,15 +3094,18 @@
 ##.iyc-views-ScrollUp
 ##.j-footer__btn_up
 ##.jquery-back-to-top
+##.js--scroll-top
 ##.js-back-to-top
 ##.js-back-to-top-story
 ##.js-backToTop
 ##.js-button-totop
 ##.js-go-to
+##.js-go-top-el
 ##.js-pageTop
 ##.js-persistent-nav-top
-##.js-scroll-event.on--totop
+##.js-s-f-back-to-top
 ##.js-scroll-to-top
+##.js-scroll-top
 ##.js-scrollTop
 ##.js-scroll_to_bottom
 ##.js-scroll_to_top
@@ -2972,19 +3127,26 @@
 ##.m-go-top
 ##.m-scroll-top
 ##.main-footer__btn-backtotop
+##.main-icon--pagetop
+##.material-scrolltop
 ##.menu-back-to-top
 ##.mh-back-to-top
 ##.mk-go-top
+##.mnmd-go-top
 ##.mod-totop
 ##.move-top
 ##.ms-scroll-to-top-button
+##.mvp-to-top
 ##.mypresta_scrollup
 ##.nav--back-to-top
+##.news-back-to-top__top-link
 ##.o-backtop
+##.on--totop
 ##.os-back-to-top
 ##.p-pagetop-btn
 ##.pagetop-btn
 ##.pb-back-to-top
+##.pdb-footer-topbar-backtotop
 ##.penci-go-to-top-floating
 ##.pgevoke-backtotop
 ##.pi-scroll-top-arrow
@@ -2994,11 +3156,13 @@
 ##.qw-scrollbutton-top
 ##.remonter-la-page
 ##.retour_haut
+##.return-to-top
 ##.rh-footer-back-to-top
 ##.rlx-back-top
 ##.rtp-back-to-top
 ##.ruby-back-top
 ##.s-btn-gotop
+##.s-f-back-to-top
 ##.s-gotop-wrap
 ##.s5_scrolltotop
 ##.scroll-back-to-top-wrapper
@@ -3024,6 +3188,7 @@
 ##.scrollTop
 ##.scrollTopButton
 ##.scrollUp-child
+##.scroll__to__top
 ##.scroll_to_top
 ##.scroll_to_top_icon
 ##.scroll_top
@@ -3031,9 +3196,11 @@
 ##.scrollbtntop
 ##.scrollto_top
 ##.scrolltop
+##.scrolltop-btn
 ##.scrolltotop
 ##.scrolltotopbutton
 ##.scrollup
+##.scrollup-container
 ##.scroolTop
 ##.sf-back-to-top
 ##.sh-back-to-top
@@ -3046,9 +3213,11 @@
 ##.siteAside_toTop
 ##.slideToTop
 ##.sm-page-scroll-to-top
+##.sp-scroll-up
 ##.st-site-scroll-top
 ##.sticky-back-to-top
 ##.sticky_totop_box
+##.stotop
 ##.stp--nav-to-top
 ##.stt-gototop
 ##.stt-top
@@ -3057,6 +3226,7 @@
 ##.sunfw-scrollup
 ##.ta_back-to-top
 ##.tab-to-top
+##.tb-scroll-to-top
 ##.tc-back-to-top
 ##.td-scroll-up
 ##.tdr-backtop
@@ -3075,9 +3245,11 @@
 ##.to_the_top
 ##.to_top
 ##.top-of-page
+##.top-of-page-button
 ##.top-of-page-link
 ##.topofpage
 ##.torna-su
+##.torna_su
 ##.tornasu
 ##.tothetop
 ##.totop
@@ -3093,8 +3265,10 @@
 ##.up-to-top
 ##.upbtn
 ##.vw-scroll-to-top
+##.vw_m511_back_top
 ##.vw_m520_topbar
 ##.w-toplink
+##.widget-goto-top
 ##.wp-to-top
 ##.yjscroll
 ##.yukari_git
@@ -3103,11 +3277,15 @@
 ##[alt="Scroll Top"]
 ##[app="back-to-top-button"]
 ##[aria-label="Back to top"]
+##[aria-label="Scroll to top of page"]
 ##[data-funct="GoToPageTop"]
 ##[data-id="documentScrollToTop"]
 ##[data-linktracking="cta:scroll_up"]
 ##[data-ng-click^="scrollToTop"]
+##[data-role="back-to-top-cta"]
 ##[data-test="back-to-top"]
+##[data-testid="article-toolbar-goToTopButton"]
+##[data-testid="react-scroll-up-button"]
 ##[data-trackname="page-top"]
 ##[name="goBackTop"]
 ##[onclick^="jumpToTop"]

@@ -16,7 +16,14 @@ poba.hr##.meerkat
 sptv.hr##.scroll-top-arrow
 krovni-nosaci.hr##.topbarBox
 034portal.hr##.vijesti
+||ds-recommender.styria.hr^
 ||linker.hr^$third-party
+||traffic.styria.hr^
+!
+! ---------- Serbian Site Specific Blocking Rules ----------
+!
+||aklamator.com^$third-party
+||espreso.rs/widget?$third-party
 !
 ! ---------- Latvian Site Specific Hiding Rules ----------
 !
@@ -25,6 +32,8 @@ delfi.lv##.after_body
 sputniknewslv.com##.arrowup
 delfi.lv##.notification-widget
 delfi.lv##.sbookmarks
+skaties.lv##.skaties-push-notification
+1a.lv##.up-btn
 !
 ! ---------- Non-english Generic Hiding Rules ----------
 !
@@ -38,6 +47,8 @@ thscore.mobi###returnTop
 kapook.com###totop
 armeniasputnik.am,sputnik-abkhazia.info,sputnik-georgia.com,sputnik-news.ee,sputnik-ossetia.com,sputnik-tj.com,sputnik.az,sputnik.by,sputnik.kg,sputniknews-uz.com,sputniknews.kz,sputniknews.lt##.arrowup
 thscore.co##.backTop
+cazin.net##.btn-btt
+avaz.ba##.float-top
 beritaharian.sg##.subscribe
 ||thscore.co^*/backTop.
 ||thscore.mobi^*/top.
@@ -56,6 +67,7 @@ nooun.net,syria.tv,thawrah2day.com,tunisna.tv##.newsletter
 aljadeed.tv##.nextPrevNews
 iwaatch.com##.s-up
 fakartany.com##.sign-up
+alhurra.com##.subscribe
 alhayat.tv##.subscription
 hamas.ps##.top
 youm7.com##.topTop
@@ -71,15 +83,21 @@ xiachufang.com###scrollTop
 udn.com###story_related
 bcc.com.tw###topx
 huanqiukexue.com###totop
+cna.com.tw##.Subscription
 sputniknews.cn##.arrowup
 wanda.cn##.backtop
 worldjournal.com##.btn-top
-4399.cn,cts.com.tw,digitimes.com.tw,weather.com.cn##.gotop
+4399.cn,cna.com.tw,cts.com.tw,digitimes.com.tw,weather.com.cn##.gotop
 baidu.com##.gotop-button
 sogou.com##.index-top
 hisense.com##.js-return-top
 baike.com##.li-top
+cyberctm.com##.news-control
+am730.com.hk##.news-pagination
+metrodaily.hk##.rss
 4gtv.tv##.scrollUP
+mtime.com##.topbar
+am730.com.hk##.topic-pagination
 ||4gtv.tv^*/scriptUP.
 !
 ! ---------- Danish Site Specific Hiding Rules ----------
@@ -115,6 +133,7 @@ mydealz.de###softMessages-list
 groupon.de###spotlight
 soeren-hentzschel.at###storage-notice
 ing-diba.at###top-message__wrapper
+noen.at###topButton
 daenischesbettenlager.de###totop
 suedtirolermilch.com###up
 helpster.de###videoFlyin
@@ -124,6 +143,7 @@ suedtirol-it.com##.btn-top
 comparis.ch##.button-go-up
 phoenix.de##.c-toplink
 motorsportpics.de##.cc-FloatingButtonBarContainer-button-scroll
+alpine-gehoerschutz.de##.cd-top
 blm.de##.clickTop
 zentrum-der-gesundheit.de##.component-recommended-products
 stuttgarter-nachrichten.de##.container-stn-popup
@@ -138,7 +158,7 @@ luxor.co.at##.info
 stuttgarter-nachrichten.de##.js-to-top
 ifun.de,iphone-ticker.de##.mail
 weltwoche.ch##.navInner.fixed
-israelheute.com,kleinezeitung.at,manager-magazin.de,servus.com,silicon.de##.newsletter
+diepresse.com,israelheute.com,kleinezeitung.at,manager-magazin.de,servus.com,silicon.de##.newsletter
 therese-moelk.at##.pageup
 matratzen.info##.postNavigation
 rnd-news.de##.rss
@@ -161,6 +181,7 @@ motorsport-total.com##a[data-target="top"]
 wdr.de##a[href="#goToHead"]
 antennebrandenburg.de,conleys.de,israelheute.com,radioberlin.de,vodafone.de##a[href="#top"]
 ||focus.de/fol/pics/special/informiert.gif
+||gluecksdetektiv.de/wp-content/plugins/easy-fancybox-pro/
 ||mdsngpush.finanzen.net^
 ||stncdn.it^*/smartbanner.
 ||valentins.de^*/glyphicon_up.
@@ -170,6 +191,7 @@ antennebrandenburg.de,conleys.de,israelheute.com,radioberlin.de,vodafone.de##a[h
 !
 capital.gr###infiload-return-top
 nooz.gr###right_popout
+sputniknews.gr##.arrowup
 news247.gr##.newsletter-form
 capital.gr##.rss
 !
@@ -212,6 +234,7 @@ komorkomania.pl###floatingbar
 gsmonline.pl###jGrowl
 salon404.pl###jqmAlert
 gosc.pl###l-overlay
+kliknijwzdrowie.pl###mc_embed_signup
 decathlon.pl###messagetop
 polskatimes.pl###poza-szkieletem
 totalmoney.pl###right_widget
@@ -231,6 +254,7 @@ naszamlawa.pl##.slide_button
 pb.pl##.smPopupContainer
 rp.pl##.social-toolbar__container + .toolbar
 virginmobile.pl##.topPanelBlock
+atramentowka.com,oil-land.pl,sklep-art-meb.pl##.up
 pl.yahoo.com##.yom-wave3-generic
 gpcodziennie.pl##a[href="javascript:scroll(0,0);"]
 gosc.pl##div[style*="position: fixed"]
@@ -253,6 +277,7 @@ demotywatory.pl##div[style^="position: fixed; width: 750px; margin-left: -375px"
 !
 ! ---------- Polish Site Specific Blocking Rules ----------
 !
+||getreview.pl^$third-party
 !
 ! ---------- Finnish Site Specific Hiding Rules ----------
 !
@@ -279,6 +304,7 @@ nos.nl##div[class^="notificationBar_"]
 !
 ! ---------- Norwegian Site Specific Hiding Rules ----------
 !
+bighorn.no###consent
 dagbladet.no###db-inger
 resett.no###mc_embed_signup
 bt.no##.flyout
@@ -318,6 +344,7 @@ bolagsverket.se##div[style^="margin: 0px 0px"]
 !
 ! ---------- Russian Site Specific Hiding Rules ----------
 !
+kinopoisk.ru###GOWrapper
 rzn.info###myNotification
 rbc.ru###popup_box
 rbc.ru###popup_inner
@@ -475,7 +502,7 @@ korben.info##.post-subscribe
 la-croix.com##.prev
 tourhebdo.com##.resocs
 radins.com##.reveal-modal
-radins.com##.reveal-modal-bg
+monalbumphoto.fr,radins.com##.reveal-modal-bg
 express.live##.rss
 rtbf.be##.rtbf-newsletter
 rtbf.be##.rtbf-newsletter-article
@@ -511,6 +538,7 @@ yahoo.co.jp###RSAB
 tv-tokyo.co.jp###bangumi_page_top
 jti.co.jp###footer-pagetop
 meiji.com###ftr-pagetop
+suumo.jp###js-pageTop
 biglobe.ne.jp,keisei.co.jp###page-top
 tabelog.com###page-up
 girlsheaven-job.net,gnavi.co.jp,harpersbazaar.jp,news24.jp###pageTop
@@ -553,6 +581,7 @@ bloomberg.co.jp##BB-MINI-PLAYER
 ||okjapan.jp^*_gotop_
 ||radionikkei.jp^*/pagetop.
 ||share.gree.jp^$third-party
+||suumo.jp^*/pagetop.
 ||takashimaya.co.jp^*/pagetop.
 ||tweetbuzz.jp^$third-party
 !
@@ -602,6 +631,7 @@ castroelectronica.pt##div[style="height: 35px; background:#2a2a2a; position:abso
 ||noticiasautomotivas.com.br^*/receber-noticias.
 ||revistaforum.com.br^*/jquery.fancybox.min.js
 ||smonitor.com.br^$third-party
+||tribunademinas.com.br^*/banner-tribuna_-NEWS.
 !
 ! ---------- Spanish Site Specific Hiding Rules ----------
 !
@@ -620,6 +650,7 @@ telemundo20.com,telemundo31.com,telemundo40.com,telemundo47.com,telemundo48elpas
 rtve.es##.arrow
 andro4all.com,applesencia.com,atlascultural.com,capitalibre.com,frenomotor.com,placeralplato.com,rootear.com,sportadictos.com,winphonemetro.com,xombit.com,xombitgames.com,xombitmusic.com##.border-button
 economiahoy.mx##.box-sus
+elplural.com##.btn-subscribe
 telesurtv.net##.btnBoletin
 cadenaser.com##.cnt-subir
 cadenaser.com##.cont_webpush
@@ -631,6 +662,7 @@ mundodeportivo.com##.home-nav-balls
 notimex.gob.mx##.ir-arriba
 990espndeportes.com##.more-stories
 eldiariony.com,laopinion.com,laprensafl.com,laraza.com,paratimujer.us,silicon.es##.newsletter
+clarin.com##.notification-popup
 diariolasamericas.com##.object-forward-note
 soychile.cl##.overli
 daf.es##.page-overlay
@@ -645,6 +677,7 @@ lanacion.com.ar##.titulares-del-dia
 andro4all.com,applesencia.com,atlascultural.com,capitalibre.com,frenomotor.com,placeralplato.com,rootear.com,sportadictos.com,winphonemetro.com,xombit.com,xombitgames.com,xombitmusic.com##.top-button
 lanacion.com.ar##.twitter
 telcel.com##.up_button
+larepublica.cat##.widget_mailpoet_form
 infobae.com##a[href^="/newsletter/"]
 clarin.com##a[href^="/newsletters/"]
 ||ara.cat^*/newsletters/
@@ -658,6 +691,7 @@ clarin.com##a[href^="/newsletters/"]
 ||booster3d.com^$third-party
 ||cambiodns.com/img/up.png
 ||cml.to/robot/
+||cn24tv.it^*/mod_letter.
 ||comingsoon.it^*/tgCom24-head.
 ||contactlab.it^*/subscribe.php?
 ||corriereobjects.it/rcs_cor_exit-page/
@@ -689,7 +723,7 @@ clarin.com##a[href^="/newsletters/"]
 ||monovolume.cc^*/up_btn.
 ||nexilia.it^*/feed.bundle.js
 ||notifiche.secoloditalia.it^
-||player.pulsemediatv.com^$third-party
+||player.pulsemediatv.com^$third-party,domain=~bwin.sport
 ||player.streamshow.it^$third-party
 ||publy.com^$third-party
 ||reviews.shoppydoo.it^$third-party
@@ -701,6 +735,7 @@ clarin.com##a[href^="/newsletters/"]
 ||smiling.video^$third-party
 ||trovaprezzi.it/buttons/$third-party
 ||videosynd.kataweb.it^$third-party
+||vistosulweb.com^*/Newsletter.
 ||warnerbros.it^*/top.png
 ||widgets.trustedshops.com^$third-party
 ||wp.com/www.proiezionidiborsa.it/*/google-news-
@@ -725,6 +760,7 @@ automoto.it,moto.it###arrow-back-top
 norbaonline.it###back
 ssangyong-auto.it###back_top
 telefonino.net###backbutton
+grandangoloagrigento.it,qds.it,tempostretto.it,vistosulweb.com###blogup
 erboristeriamagentina.it###blultpdfbanner
 virgilio.it###bottom_chat
 paginegialle.it###btt
@@ -732,13 +768,14 @@ starq8.it###button-top
 tods.com###container-overlay-fast-registration
 corriere.it###corriere-exit-page-container
 italiafruit.net###ctl00_imgIscrizione
-entertainmentillustrated.it,primaonline.it,stradeeautostrade.it###custom_html-2
+entertainmentillustrated.it,primaonline.it,stradeeautostrade.it,youtrend.it###custom_html-2
 entertainmentillustrated.it###custom_html-5
 rockit.it###fangate-container
 eprice.it###fastRegBottom
 bastabugie.it###feed
 ilgiornale.it###footer_map_col_1
 ilquotidianodellazio.it###form-newsletter
+advisoronline.it###formSubscriptionDiv
 autobelle.it###freccetta
 radioibiza.it###gantry-totop
 ###gazzetta-audience-bar
@@ -749,7 +786,7 @@ ilsole24ore.com###ias-footer
 ilquotidianodellazio.it###imgtop
 citywire.it###jsRegisterAlertBanner
 italiaoggi.it###lig_movingup2it_smartbox
-agenziaimpress.it,davidemaggio.it,ilfarosulmondo.it,meteonetwork.it,moked.it,money.it,tvsvizzera.it###mc_embed_signup
+agenziaimpress.it,davidemaggio.it,ilfarosulmondo.it,meteonetwork.it,moked.it,money.it,techzilla.it,tvsvizzera.it###mc_embed_signup
 decathlon.it###messagetop
 milanofinanza.it###milanofinanza_web_smartbox_article
 automoto.it,moto.it###mit-bottombar
@@ -768,9 +805,10 @@ greenme.it###related-newsletter
 rockit.it###relatedpop
 corrierediragusa.it###rss
 monclick.it###scroll-top-container
-dottori.it###scroll_top
+dottori.it,ildubbio.news###scroll_top
 vloungebeach.tv###scroll_up
 mobimart.it###scrollblock
+cb01.best###scroller
 chiesi.com###scrolltab
 tuttoandroid.net###sh_local
 virgilio.it###shr_box
@@ -798,6 +836,7 @@ autoscout24.it##.app-banner
 basketinside.com,carpicalcionews.it,cittaceleste.it,corsedimoto.com,fantamagazine.com,fcinter1908.it,forzaroma.info,gazzamercato.it,golssip.it,ilmilanista.it,itasportpress.it,juvenews.eu,mediagol.it,mondoudinese.it,numericalcio.it,padovasport.tv,passioneinter.com,pianetagenoa1893.net,pianetamilan.it,sassuolocalcionews.it,sportavellino.it,tenniscircus.com,toronews.net,tuttobolognaweb.it,violanews.com##.arrowleft
 basketinside.com,carpicalcionews.it,cittaceleste.it,corsedimoto.com,fantamagazine.com,fcinter1908.it,forzaroma.info,gazzamercato.it,golssip.it,ilmilanista.it,itasportpress.it,juvenews.eu,mediagol.it,mondoudinese.it,numericalcio.it,padovasport.tv,passioneinter.com,pianetagenoa1893.net,pianetamilan.it,sassuolocalcionews.it,sportavellino.it,tenniscircus.com,toronews.net,tuttobolognaweb.it,violanews.com##.arrowright
 zoomsud.it##.article-navigation
+edilportale.com##.article-right
 multiplayer.it##.article_nav
 tempi.it##.article_newls_box
 iltempo.it##.articoli_correlati
@@ -808,7 +847,7 @@ infobuildenergia.it##.box_dem
 wuerth.it##.btn-scroll-top
 liquiriziacalabrese.it##.btn-top
 lastampa.it##.call-iscrizione
-calendario-365.it,cdt.ch,consumer.bz.it,dmail.it,epochtimes.it,maximitalia.it,mondoconv.it,paginesi.it,ridble.com,vinusta.com,vog.it##.cd-top
+calendario-365.it,cdt.ch,consumer.bz.it,dmail.it,epochtimes.it,kellergrigliati.it,maximitalia.it,mondoconv.it,paginesi.it,ridble.com,saras.it,vinusta.com,vog.it##.cd-top
 primaonline.it##.col-nl
 lastampa.it##.conferma_reg_nl
 ilfarmacistaonline.it##.containerBannerBox
@@ -848,7 +887,7 @@ spaziogames.it##.nav-reveal
 everyeye.it##.nav_articoli
 ilsitodellozoo.com##.navbar-alt
 laleggepertutti.it##.news-letter
-01net.it,basketinside.com,carpicalcionews.it,cittaceleste.it,condominioweb.com,corsedimoto.com,fantamagazine.com,fcinter1908.it,focusardegna.com,forzaroma.info,gazzamercato.it,gogedizioni.it,golssip.it,guidafisco.it,ilfoglio.it,ilgiorno.it,ilmilanista.it,ilposticipo.it,ilrestodelcarlino.it,ilsecoloxix.it,itasportpress.it,juvenews.eu,lanazione.it,leitgamhof.com,lescienze.it,linkiesta.it,lvh.it,mediagol.it,mondoudinese.it,motorionline.com,numericalcio.it,padovasport.tv,passioneinter.com,pianetagenoa1893.net,pianetamilan.it,quotidiano.net,rivistacontrasti.it,sassuolocalcionews.it,silicon.it,sportavellino.it,tenniscircus.com,toronews.net,tuttobolognaweb.it,violanews.com##.newsletter
+01net.it,advisoronline.it,basketinside.com,carpicalcionews.it,cittaceleste.it,condominioweb.com,corsedimoto.com,fantamagazine.com,fcinter1908.it,focusardegna.com,forzaroma.info,gazzamercato.it,gogedizioni.it,golssip.it,guidafisco.it,ilfoglio.it,ilgiorno.it,ilmilanista.it,ilposticipo.it,ilrestodelcarlino.it,ilsecoloxix.it,ilsussidiario.net,itasportpress.it,juvenews.eu,lanazione.it,leitgamhof.com,lescienze.it,linkiesta.it,lvh.it,mediagol.it,mondoudinese.it,motorionline.com,numericalcio.it,padovasport.tv,passioneinter.com,pianetagenoa1893.net,pianetamilan.it,quotidiano.net,rivistacontrasti.it,sassuolocalcionews.it,silicon.it,sportavellino.it,tenniscircus.com,toronews.net,tuttobolognaweb.it,valori.it,violanews.com##.newsletter
 ravennanotizie.it##.newsletter-section
 starbene.it##.nlslim
 systems.bz##.on-top
@@ -864,10 +903,12 @@ lasicilia.it##.sali
 tempoitalia.it##.scroll
 simplymarket.it##.scroll-top-footer
 assologico.it##.scrollbutton
+ilsole24ore.com##.scta
 nazarenogabrielli.it##.shopress_scroll
 ilfattoquotidiano.it##.side-arrow
+tavoloeditoriradio.it##.sm-up-container
 calciomercato.com,sky.it##.smartbanner
-ilpost.it##.subscribe
+ilglobo.com.au,ilpost.it##.subscribe
 la7.it##.tgla7-condividi
 obi-italia.it##.to-top-nav
 anothersound.it##.to_top
@@ -882,6 +923,7 @@ mader.bz.it##.top_trigger
 peugeot.it##.toplink
 ilvibonese.it##.torna_su
 americantourister.it##.ui-widget-overlay
+lospecialista.tv##.widget_mailpoet_form
 secoloditalia.it##.widget_wpmailup_widget
 inpharmamag.it##.wptbbarheaddiv
 corriere.it##a[href*="/newsletter"]
@@ -891,6 +933,7 @@ autoscout24.it,billboard.it,calendario-365.it,dagospia.com,lvh.it,regione.marche
 01net.it##a[href="/iscriviti-alla-newsletter"]
 gds.it,qualenergia.it##a[title="Newsletter"]
 inran.it##div[style="background-color: #f0f0f0; text-align: center; font-size:12px; display: block; margin: 0 auto; padding: 3px;"]
+trend-online.com##div[style="display:flex;padding:10px;background:#efefef;border:1px solid #dadada; border-top: 2px solid #638d43"]
 !
 ! ---------- Korean Site Specific Hiding Rules ----------
 !

@@ -11,11 +11,13 @@
 ||cultofmac.com/e2ma.js
 ||d.yimg.com/ds/badge2.js
 ||dailymaverick.co.za/images/iabsa.png
+||easytutoriel.com/wp-content/themes/easytutoriel-10-1/js/scripts.js
 ||eatout.co.za^*/iab-
 ||emailsherlock.com/javascripts/lightbox.js
 ||fin24.com^*/iabLogo.
 ||findthebest.co.uk/ajax/load_tracker
 ||gameyum.com/_static/popup/
+||goodreads.com/sign_in_prompt
 ||google.com/images/*_promo_
 ||google.com^*/friendconnect.js
 ||imgzzz.com/styles/buttons_
@@ -24,6 +26,7 @@
 ||l.yimg.com/zz/combo?pv*/promo-banner_$script
 ||l.yimg.com^*/img/badge-
 ||lightboxcdn.com/vendor/*/lightbox.js?$script,third-party
+||lightboxcdn.com/vendor/*/lightbox_inline.js$script,third-party
 ||mediafire.com/images/backgrounds/download/*promo
 ||mg.co.za^*/iabsa_
 ||moneytalksnews.com/wp-content/themes/mtn/assets/js/mtn-modal.$script
@@ -49,18 +52,20 @@
 ||wp.com/wp-content/mu-plugins/post-flair/
 ||wp.com^*/linkwidgets/slingshot_
 ||wufoo.com/embed/$subdocument,third-party,domain=heavy.com
-||xhamster.com/ajax/cams-widget/
-||xhamster.com/ajax/wid-cams-widget/
-||xhamster.one/ajax/wid-cams-widget/
+||xhamster.com/ajax/wil-cams-widget/
+||xhamster.one/ajax/wit-cams-widget/
 ! ||lightboxcdn.com^$third-party,domain=adweek.com|ahoramismo.com|hotair.com|androidcentral.com|avclub.com|bearingarms.com|bgr.com|cinemablend.com|clickhole.com|cnet.com|conservativeradio.com|crackberry.com|cracked.com|culturemap.com|dailycaller.com|deadline.com|deadspin.com|fastcodesign.com|fastcompany.com|gamespot.com|gizmodo.com|heavy.com|hollywoodlife.com|imore.com|jalopnik.com|jezebel.com|kotaku.com|lifehacker.com|mashable.com|modernfarmer.com|nbcsports.com|reason.com|redstate.com|splinternews.com|spy.com|thehill.com|theinventory.com|theonion.com|theroot.com|thetakeout.com|townhall.com|tvline.com|twitchy.com|venturebeat.com|windowscentral.com|zdnet.com
 ! ---------- Push Notifications ----------
+/push.js$script,~third-party,domain=armeniasputnik.am|sputnik-abkhazia.info|sputnik-abkhazia.ru|sputnik-georgia.com|sputnik-georgia.ru|sputnik-news.ee|sputnik-ossetia.com|sputnik-ossetia.ru|sputnik-tj.com|sputnik.az|sputnik.by|sputnik.kg|sputnik.md|sputniknews-uz.com|sputniknews.cn|sputniknews.com|sputniknews.gr|sputniknews.kz|sputniknews.lt|sputniknewslv.com
 ||alerts.ndtv.com^
 ||alerts.thedailystar.net^
+||annahar.com/assets/js/notifications.js
 ||bdstatic.com/linksubmit/push.js
 ||indiatimes.com/pn/
 ||irishtimes.com/assets/js/notify.js
 ||ndtv.com/popupNotification.aspx
 ||notify.hindustantimes.com^
+||push.neko-san.fr^
 ||ultimedia.com/js/common/notification.js
 ! ---------- Newsletter/Signup Buttons ----------
 ||aish.com^*-Subscribe-
@@ -97,6 +102,7 @@
 ||nscreenmedia.com^*-newsletter.
 ||oghits.com^*/modules/modal/assets/js/modal.min.js
 ||oilprice.com/iframes/sidebar_signupform/
+||pgs.aviationweek.com^
 ||politics.co.uk^*/newsletter.
 ||premierchristianradio.com^*/Stay-informed-
 ||revntv.com^*-Subscribe-
@@ -117,6 +123,8 @@
 ||tmform.azurewebsites.net^
 ||webmd.com/dtmcms/live/webmd/*/newsletter/
 ||womenonwheels.co.za^*/subscribe-
+||wp.com^*/Subscribe-$domain=noqreport.com
+||zerohedge.com^*/zh_email.
 ! ---------- Scroll To Top Buttons ----------
 ||cdprojektred.com^*/top.png
 ||chugai-pharm.co.jp^*/pagetop.
@@ -134,6 +142,7 @@
 ||gogoanimes.co^*/croll_
 ||hotpepper-gourmet.com^*/pagetop_
 ||howtogermany.com^*/top.png
+||jefftucker.org^*/pagetop.
 ||jtbcorp.jp^*/pagetop.
 ||katestube.com^*/up.
 ||mhi.com^*/pagetop_

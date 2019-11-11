@@ -16,6 +16,7 @@
 ||antenne.de^*/ivw_reload.js
 ||aol.de/cnt/
 ||aol.de/track/
+||ard.de/ard.gif
 ||arlt.com^*/econda/
 ||arte.tv^*=countstats,
 ||as.base.de^
@@ -25,6 +26,8 @@
 ||banner.t-online.de^$image
 ||baur.de/servlet/LandmarkServlet?
 ||beacon.gutefrage.net^
+||behave.noen.at^
+||behave.sn.at^
 ||berliner-zeitung.de/analytics/
 ||berlinonline.de^*/cp.php?
 ||bild.de/code/jiffy,*.js
@@ -68,6 +71,7 @@
 ||cpix.daserste.de^
 ||cpx.golem.de^
 ||cpxl.golem.de^
+||cxt.deutsche-bank.de^
 ||dab-bank.de/img/dummy.gif
 ||dada.net^*/nedstat_sitestat.js
 ||daenischesbettenlager.de/analytics.js
@@ -134,6 +138,7 @@
 ||kicker.de^*/videocount?
 ||koins.de/screen.js
 ||krissi-ist-weg.de/ce_vcounter/
+||kununu.com^*/log?
 ||laut.de^*/analyse.gif?
 ||log.suchen.de^
 ||log.sz-online.de^
@@ -161,12 +166,11 @@
 ||muensterland.de^*/zaehlpixel.php?
 ||multicounter.de^$third-party
 ||musik4fun.com/ga.php?
+||mydirtyhobby.de/tracker
 ||mytoys.de/acv/
-||myvideo.at/dynamic/mingreport.php$object-subrequest
-||myvideo.ch/dynamic/mingreport.php$object-subrequest
-||myvideo.de/dynamic/mingreport.php$object-subrequest
 ||n24.de^*/tracking.js
 ||news.ch/newslogbug.asp?
+||newsdeutschland.com/RPC
 ||nickles.de/ivw/
 ||nowonscreen.com/statistik_
 ||nox.to/files/frame.htm
@@ -179,6 +183,7 @@
 ||otik.de/tracker/
 ||otto.de/servlet/landmarkservlet?
 ||otto.de^*/beacons/
+||oxifwsabgd.nzz.ch^
 ||pap.zalando.de^
 ||passul.t-online.de^
 ||pcfreunde.de/wb.
@@ -242,10 +247,12 @@
 ||topnews.de^*/aws.cgi?
 ||tp.deawm.com^
 ||tr.werkenntwen.de^
+||track.bazonline.ch^
 ||track.bernerzeitung.ch^
 ||track.cinestar.de^
 ||track.derbund.ch^
 ||track.express.de^
+||track.mopo.de^
 ||trackerstatistik.init-ag.de^
 ||tracking.autoscout24.com^
 ||tracking.beilagen-prospekte.de^
@@ -266,6 +273,7 @@
 ||ts.otto.de^
 ||ts.rtl.de^
 ||tvcommunity.at/filmpicture.aspx?count=1&
+||tweakimg.net/x/vendor/wt/
 ||ui-portal.de/brbtpixel/
 ||unser-star-fuer-oslo.de^*/stats.php
 ||vfd2dyn.vodafone.de^
@@ -295,13 +303,18 @@
 /acceptable.$domain=750g.com|alibabuy.com|allocine.fr|cap-cine.fr|chartsinfrance.net|cotecine.fr|easyvols.fr|easyvoyage.com|get-the-look.fr|jeuxactu.com|jeuxvideo.com|lestream.fr|millenium.org|musiquemag.com|ouest-france.fr|ozap.com|purebreak.com|purepeople.com|puretrend.com|shopoon.fr|terrafemina.com
 /autopromo.$domain=750g.com|alibabuy.com|allocine.fr|cap-cine.fr|chartsinfrance.net|cotecine.fr|easyvols.fr|easyvoyage.com|get-the-look.fr|jeuxactu.com|jeuxvideo.com|lestream.fr|millenium.org|musiquemag.com|ouest-france.fr|ozap.com|purebreak.com|purepeople.com|puretrend.com|shopoon.fr|terrafemina.com
 /autopromotion.$domain=750g.com|alibabuy.com|allocine.fr|cap-cine.fr|chartsinfrance.net|cotecine.fr|easyvols.fr|easyvoyage.com|get-the-look.fr|jeuxactu.com|jeuxvideo.com|lestream.fr|millenium.org|musiquemag.com|ouest-france.fr|ozap.com|purebreak.com|purepeople.com|puretrend.com|shopoon.fr|terrafemina.com
+||a.20minutes.fr^
 ||accn.allocine.net^
+||act.acotedemoi.com^
 ||aliasdmc.fr/js/general_sts.js
+||analytics.allovoisins.com^
 ||analytics.rtbf.be^
 ||arte.tv/includes/xiti/
 ||autoplus.fr/st?
 ||azurewebsites.net^*/mnr-mediametrie-tracking-
+||bigvoy.com/cft/view.php
 ||bloguez.com/manager/compteurs/
+||c0011.boursorama.com^
 ||cfcn.allocine.net^
 ||clubic.com/editorial/publier_count.php?
 ||compteur.developpez.com^
@@ -321,19 +334,22 @@
 ||elr.sfr.fr^
 ||eultech.fnac.com^
 ||flake.formr.io/sp.js
-||futura-sciences.com^*/xtcore.js
+||franceculture.fr/static/js/xtcore-
 ||g.itespresso.fr^
+||galerieslafayette.com/c/
 ||grazia.fr/ea.js
 ||gstat.orange.fr^
 ||hit.leboncoin.fr^
 ||iphonesoft.fr/js/analytics-
 ||jeu.net/hits.js
 ||jeuxvideo.com/contenu/medias/video/countv.php?
+||kbn.korben.info^
 ||lavenircdn.net^*/analytics.js?
 ||lecho.be/fb/?
 ||lemde.fr^*/metrics/
 ||lemde.fr^*/tracking/
 ||logs-qos.tf1.fr^
+||neko-san.fr/stats
 ||nouvelobs.com/scripts/stats.php?
 ||nouvelobs.com/tools/csrum.php
 ||nouvelobs.com/trafiz-
@@ -355,9 +371,9 @@
 ||sport365.fr/ea.js
 ||stat.ouedkniss.com^
 ||stat.webevolutis.com^
-||static.lephoceen.net/js/xtcore.js
 ||stats1x1.kapaza.be^
 ||surace-jujitsu.fr/outils/compteur_php/
+||tag.boulanger.fr^
 ||track.24heures.ch^
 ||tracker-id.cdiscount.com^
 ||tracker.cds-tracking.com^
@@ -365,7 +381,7 @@
 ||tracking.ha.rueducommerce.fr^
 ||unblog.fr/cu.js
 ||virginmobile.fr/ea.js
-||wawacity.ec/bypasspijs
+||wawacity.*/bypass
 ||wbdds.allocine.fr^
 ||zonecss.fr/images/stat_robocop.gif?
 ||zonecss.fr/images/statscreen.gif?
@@ -377,7 +393,6 @@
 ! Bulgarian
 ||counter.search.bg^
 ! Chinese
-/pos?act=dur$object-subrequest,domain=tudou.com
 ||17173.com/ping.js
 ||2cat.or.tl/pmccounter.swf
 ||55bbs.com/pv.js
@@ -399,8 +414,11 @@
 ||autohome.com.cn/impress?
 ||autohome.com.cn/realdeliver?
 ||baidu.com/billboard/pushlog/
+||baidu.com/click.gif?
 ||baidu.com/dalog/
+||baidu.com/dv.gif?
 ||baidu.com/tb/pms/img/st.gif?
+||baidu.com^*/adlog?
 ||baidu.com^*/c.gif?
 ||baidu.com^*/s.gif?
 ||baidu.com^*/w.gif?
@@ -419,12 +437,12 @@
 ||collect.tianya.cn^
 ||collect.yinyuetai.com^
 ||count.joy.cn^
-||count.kandian.com^$object-subrequest
+||count.kandian.com^
 ||count.newhua.com^
 ||count.qiannao.com^
 ||count.taobao.com^
 ||count.video.sina.com.cn^
-||count.vrs.sohu.com^$object-subrequest
+||count.vrs.sohu.com^
 ||count5.pconline.com.cn^
 ||counter.people.cn^
 ||cri.cn/a1.js
@@ -462,7 +480,6 @@
 ||js.soufunimg.com/count/
 ||jscss.kdslife.com/club/html/count/PChome_Count.js
 ||ku6.com/ku6.gif?
-||l.qq.com^$~object-subrequest,~xmlhttprequest
 ||le.com/op/
 ||letv.com/op?
 ||log*.ku6.com^
@@ -477,6 +494,8 @@
 ||logs.51cto.com^
 ||logs.live.tudou.com^
 ||logstat.caixin.com^
+||logx.mtime.cn^
+||logx.mtime.com^
 ||luobo.tv/staticts.html
 ||mar.vip.com^
 ||narutom.com/stat.js
@@ -484,6 +503,7 @@
 ||on.cc^*/checkrev.gif?
 ||p-log.ykimg.com^
 ||pan.baidu.com/api/analytics?
+||pass.1688.com^
 ||pb.i.sogou.com^
 ||people.cn/js/pa.js
 ||pingback.sogou.com^
@@ -501,7 +521,9 @@
 ||ranking.ynet.com^
 ||rcgi.video.qq.com^
 ||rec.udn.com^
+||referer.pixplug.in^
 ||report.qq.com^
+||retcode.taobao.com^
 ||rgd.com.cn/counter/
 ||s.360.cn^
 ||s.pixfs.net/js/pixlogger.min.js
@@ -548,11 +570,13 @@
 ||stats.autohome.com.cn^
 ||stats.tudou.com^
 ||stats.yinyuetai.com^
+||tbskip.taobao.com^
 ||tf.360.cn^
 ||tianxun.com/ajax_website_statistics.
 ||tinglog.baidu.com^
 ||titan24.com/scripts/stats.js
 ||tmall.com/add?
+||tmall.com^*/vdata.htm?
 ||tongji.mafengwo.cn^
 ||tongji2.vip.duba.net/__infoc.gif?
 ||top.baidu.com/js/nsclick.js
@@ -676,6 +700,7 @@
 ||tiscali.it/banner-tiscali/stats.html?
 ||topolino.it^*/omniture.php?
 ||track.tesiteca.it^
+||tracker.stileo.it^
 ||tracking.gruppo.mps.it^
 ||trk.m.libero.it^
 ||tuttogratis.it/gopix.php?
@@ -685,38 +710,43 @@
 ||volkswagen-italia.it^*/tracking/
 ||yachtingnetwork.it/stat/
 ! Japanese
+||amazonaws.com/ai-img/aia.js
 ||ameblo.jp/accesslog/
 ||analytics.cocolog-nifty.com^
 ||analyzer.fc2.com^
 ||analyzer2.fc2.com^
+||barks.jp/v1/stats
 ||carview.co.jp/include_api/log/
 ||cgi.tbs.co.jp^
+||count.upc.rakuten.co.jp^
 ||dmm.com/analytics/
-||dmm.com^*/dmm.tracking.
 ||goo.ne.jp^*/vltracedmd.js
 ||i2i.jp/bin/
 ||ln.ameba.jp^
+||log.suumo.jp^
 ||measure.ameblo.jp^
 ||mtc.nhk.or.jp^
 ||nhk.or.jp^*/bc.js
 ||ppf.rakuten.co.jp^$~script
 ||pvtag.yahoo.co.jp^
+||pw.gigazine.net^
 ||rakuten.co.jp/gw.js
 ||rdsig.yahoo.co.jp^$image
 ||sankei.co.jp/js/analytics/
 ||scis.tbs.co.jp^
 ||seesaawiki.jp/img/rainman.gif?
+||suumo.jp^*/tag/
 ||sy.amebame.com^
 ||sy.ameblo.jp^
 ||tsite.jp/static/analytics/
 ||visit.geocities.jp^
 ||wisteria-js.excite.co.jp^
+||x.allabout.co.jp^
 ||yahoo.co.jp/b?p=
 ||yahoo.co.jp/p?
 ||yahoo.co.jp/s?s=
 ||yjtag.yahoo.co.jp^
 ! Korean
-||211.106.66.62^*/statistics/$domain=yonhapnews.co.kr
 ||chosun.com/hitlog/
 ||count.munhwa.com^
 ||gather.hankyung.com^
@@ -729,6 +759,7 @@
 ||seoul.co.kr/weblog/
 ||sp.naver.com^
 ||track.tiara.daum.net^
+||tracker.cauly.co.kr^
 ||veta.naver.com^
 ||wcs.naver.com^
 ||weblog.eseoul.go.kr^
@@ -762,6 +793,7 @@
 ||mklik.gazeta.pl^
 ||nasza-klasa.pl^*/pp_gemius
 ||p.gazeta.pl^
+||pixel.wp.pl^
 ||rek.www.wp.pl^
 ||savecart.pl/d/
 ||squid.gazeta.pl/bdtrck/
@@ -776,6 +808,7 @@
 ||g.bit.pt^
 ||g.bitmag.com.br^
 ||globo.com/geo?
+||jsuol.com.br/aud/$script
 ||lancenet.com.br/pw.js
 ||log.r7.com^
 ||logger.rm.uol.com.br^
@@ -808,6 +841,8 @@
 ||drom.ru/dummy.
 ||fb.ru/stat/
 ||fotostrana.ru/start/
+||hh.ru/analytics
+||hh.ru/stat
 ||irecommend.ru/collect/
 ||kiks.auto.ru^
 ||kommersant.ru/a.asp?p=
@@ -818,15 +853,17 @@
 ||lmcdn.ru^*/statistics.js
 ||log.ren.tv^
 ||mail.ru/count/
+||mirtesen.ru/js/ms.js
 ||montblanc.lenta.ru^
 ||mytoys.ru/ka_z.jpg?
 ||ngs.ru/s/
 ||ok.ru/dk?cmd=videoStatNew
-||ok.ru/gwtlog
 ||ozon.ru/tracker/
 ||radar.imgsmail.ru^
+||rambler.ru/metrics/
 ||rbc.ru/click?
 ||rbc.ru/count/
+||rbc.ru/redir/stat/
 ||rt.ru/proxy?
 ||rutube.ru/counters.html?
 ||rutube.ru/dbg/player_stat?
@@ -836,6 +873,7 @@
 ||stat.lenta.ru^
 ||stat.pravmir.ru^
 ||stat.russianfood.com^
+||stat.stars.ru^
 ||stat.woman-announce.ru^
 ||stats.lifenews.ru^
 ||stats.mos.ru^
@@ -845,6 +883,8 @@
 ||tracker.tiu.ru^
 ||vedomosti.ru/boom?
 ||vesti.ru/counter/
+||yandex.ru/clck/click
+||yandex.ru/clck/jclck/
 ||yast.rutube.ru^
 ! Serbian
 ||trak-analytics.blic.rs^
@@ -877,6 +917,8 @@
 ||terra.com/js/metrics/
 ||terra.com^*/td.asp?bstat
 ||trrsf.com/metrics/
+||wssgmstats.vibbo.com^
+||wsstats.coches.net^
 ! Swedish
 ||ai.idg.se^
 ||ax.idg.se^
@@ -909,6 +951,8 @@
 ||piccy.info/c?
 ||piccy.org.ua/c?
 ||target.ukr.net^
+! Vietnamese
+||logsbin.dantri.com.vn^
 ! Specific blocking filters necessary for sites whitelisted with $genericblock filter option
 ! Gamestar.de
 /ping.gif?$domain=gamestar.de
@@ -985,3 +1029,6 @@
 ||google-analytics.com/analytics.js$domain=notebookcheck.com
 ||ioam.de/?$domain=notebookcheck.com
 ||ioam.de/tx.io?$domain=notebookcheck.com
+! Gofeminin.de
+/__utm.gif?$domain=gofeminin.de
+||digidip.net^$domain=gofeminin.de

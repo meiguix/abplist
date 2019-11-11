@@ -2,6 +2,7 @@
 ||5movies.to/share.php
 ||76.my/Auc/
 ||abc.net.au^*/news-podcasts-
+||alwaght.com/upload/logo/case/
 ||amazingbeautifulworld.net^*/images/face.png
 ||ana.net/contentimage/genicon/facebook.png
 ||ana.net/contentimage/genicon/twitter.png
@@ -29,6 +30,7 @@
 ||cloudfront.net/linkedin/
 ||cloudfront.net/twitter/
 ||cnet.com/rest/v1.0/tweets/
+||csgoreportbot.net/jquery.fancybox.min.js
 ||curate.venturebeat.com^
 ||dailykostv.com/digg.html
 ||deusm.com/informationweek/editor-*.png$domain=informationweek.com
@@ -74,6 +76,7 @@
 ||rackcdn.com/Instagram/
 ||radiomirchi.com^*/soc_iconNew
 ||radiotunes.com/_papi/v1/radiotunes/timed_alerts$xmlhttprequest
+||reuters.tv/socialLinks/
 ||safewow.com^*/faceback.png
 ||schwalbe.co.uk/_webedit/cached-images/172-37-38-0-0-37-38
 ||schwalbe.co.uk/_webedit/cached-images/174-37-38-0-0-37-38
@@ -84,6 +87,8 @@
 ||sourceforge.net/social/
 ||static2.stuff.co.nz^$subdocument
 ||store.yahoo.net/lib/directron/icons-test02.jpg
+||teamskeetimages.com^*/ig.png
+||teamskeetimages.com^*/twit.png
 ||thedailyblog.co.nz^*_Facebook_Promo-
 ||theecologist.org/siteimage/scale/0/0/132471.gif
 ||theecologist.org/siteimage/scale/0/0/132472.gif
@@ -96,14 +101,13 @@
 ||wordpress.com^*/facebook.png
 ||wordpress.com^*/twitter1.png
 ||worldtruth.tv^*/fb.png
+||xinhuanet.com^*/fanxiang
 ! Specific filters necessary for sites whitelisted with $genericblock filter option
 /fb_likegate.$domain=focus.de
 /likebox.$domain=focus.de
-||addthis.com^$domain=thewatchseries.to
 ||facebook.com*/plugins/like.php?$domain=autobild.de|focus.de|transfermarkt.de
-||facebook.com/plugins/like.php$domain=tellows.de|thewatchseries.to
-||facebook.com^*/plugins/page.php$domain=thewatchseries.to
+||facebook.com/plugins/like.php$domain=tellows.de
 ||facebook.com^*/plugins/page.php?$domain=kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de
 ||google.com^*/fastbutton?$domain=autobild.de|tellows.de
-||platform.twitter.com/js/button.$domain=focus.de|spiegel.de|thewatchseries.to|transfermarkt.de
+||platform.twitter.com/js/button.$domain=focus.de|spiegel.de|transfermarkt.de
 ||twitter.com/js/timeline.$domain=kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de

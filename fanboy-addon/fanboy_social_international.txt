@@ -1,14 +1,16 @@
 !
 !---------- Non-English Social Media Elements ----------
 !
-armeniasputnik.am,rtvslo.si,sputnik-abkhazia.info,sputnik-georgia.com,sputnik-news.ee,sputnik-ossetia.com,sputnik-tj.com,sputnik.az,sputnik.by,sputnik.kg,sputniknews-uz.com,sputniknews.kz,sputniknews.lt###share
+novinite.bg###article_options
+armeniasputnik.am,blic.rs,rtvslo.si,sputnik-abkhazia.info,sputnik-georgia.com,sputnik-news.ee,sputnik-ossetia.com,sputnik-tj.com,sputnik.az,sputnik.by,sputnik.kg,sputniknews-uz.com,sputniknews.kz,sputniknews.lt###share
 meteovista.si,tvsa.ba###social
 delfi.ee##.article__info
-cas.sk##.header-social
-autoline-eu.rs,autoline.lt,autoline.mk,autoline.si,autoline.sk,gettyimages.fi,hrt.hr,landrover.cz,landrover.ee,landrover.fi,landrover.lt,landrover.ua,landroverarmenia.am,ohtuleht.ee##.share
+cas.sk,vijesti.ba##.header-social
+autoline-eu.rs,autoline.lt,autoline.mk,autoline.si,autoline.sk,blic.rs,gettyimages.fi,hrt.hr,landrover.cz,landrover.ee,landrover.fi,landrover.lt,landrover.ua,landroverarmenia.am,ohtuleht.ee##.share
 europages.ee,europages.eu,europages.fi,europages.lt,europages.si,football.ir,rts.rs,sanook.com##.social
 irinn.ir##.social-network
 yle.fi##.yle__article__header__shareButtons
+||probook.bg/like?$third-party
 !
 !---------- Danish Specific Social Media Elements ----------
 !
@@ -20,6 +22,7 @@ europages.dk##.social
 !
 !---------- Greek Specific Social Media Elements ----------
 !
+sputniknews.gr##.article__google-news
 capital.gr##.controls
 insomnia.gr##.share
 europages.gr,pentapostagma.gr##.social
@@ -39,7 +42,7 @@ lionexpress.in##.like-text
 bhaskarhindi.com##.news-info
 ibctamil.com##.news-shares
 amarujala.com##.rgt-links
-webdunia.com##.share
+mediacorp.sg,webdunia.com##.share
 mathrubhumi.com##.tFB
 mathrubhumi.com##.tYT
 !
@@ -65,7 +68,7 @@ trt.net.tr##.twitter
 !---------- Latvian Specific Social Media Elements ----------
 !
 autoline.lv,landrover.lv##.share
-europages.lv##.social
+europages.lv,latvija.lv##.social
 sputniknewslv.com###share
 tvnet.lv###fancybox-overlay
 tvnet.lv###fancybox-wrap
@@ -104,6 +107,8 @@ privatbankar.hu##.utilities
 !---------- Chinese Site Specific Hiding Rules ----------
 !
 appledaily.com###RHSfacebook
+exmoo.com###fixed-wechat
+exmoo.com###footer-wechat-container
 china.org.cn###rightNav
 sputniknews.cn###share
 hitoradio.com###socialogo
@@ -111,19 +116,26 @@ on.cc###toolBar
 cw.com.tw##.control
 ulifestyle.com.hk##.fa-facebook-official
 ulifestyle.com.hk##.fa-instagram
+ettoday.net##.fb
 stheadline.com##.follow
 localpresshk.com##.gp-top-icons
+ettoday.net##.ig
+ettoday.net##.line
 cw.com.tw##.linefriend
+chicv.com##.menu-socials
 cna.com.tw,landrover.com.cn,ltn.com.tw,newhua.com,ulifestyle.com.hk##.share
+mtime.com##.sina
 europages.cn,europages.hk,ntdtv.com##.social
 mingpao.com##.ssm
 takungpao.com.hk##.tkp_con_share
-cw.com.tw##.twitter
+udn.com##.toprow_fb
+cw.com.tw,ettoday.net##.twitter
 udn.com##.udn_facebook
 udn.com##.udn_line
 pearvideo.com##.video-tt-box > .box-right > .qr-code
 linghit.com##.weChat
-linghit.com##.weibo
+ettoday.net,linghit.com##.weibo
+mtime.com##.weixin
 vapee.com##a[href^="http://e.weibo.com/"]
 vapee.com##a[href^="http://t.qq.com/"]
 !
@@ -136,27 +148,36 @@ vapee.com##a[href^="http://t.qq.com/"]
 srad.jp###article-bottom
 shiseidogroup.jp###extra-tools
 biz-journal.jp,ntv.co.jp###sns
+etour.co.jp###snsbtn
+jiji.com##.SnsBtn
 asahi.com##.SnsUtilityArea
+kakakumag.com##.article-sns-btm
+kakakumag.com##.article-sns-top
+oricon.co.jp##.block-sub-sns
 1242.com##.conts_Facebook
 1242.com##.conts_Twitter
 bayfm.co.jp,ironna.jp##.facebook
 ismedia.jp##.header-fb
 ismedia.jp##.header-tw
+suumo.jp##.headlinks
 zaikei.co.jp##.ninja_onebutton
 nikkei-cnbc.co.jp##.officialAccount
 tokyo-np.co.jp##.print
 blogos.com##.ranking-sns
 fnn-news.com,gettyimages.co.jp,landrover.co.jp##.share
 bestcarweb.jp,biglobe.ne.jp,coffee-break.me,sankei.com##.sns
+oricon.co.jp##.sns-box
+ismedia.jp##.sns-fixed
+ismedia.jp##.sns-icons
 blogos.com,impress.co.jp,mobilenews.jp##.social
 tokyo-np.co.jp##.social-plugin
 srad.jp##.synd
 toyokeizai.net##.tools
+kakakumag.com##.top-header-sns-link
 nikkei-cnbc.co.jp##.twitter
 !
 !---------- German Site Specific Hiding Rules ----------
 !
-willhaben.at###bookmarks
 finanznachrichten.de###bookmarks_container
 clipfish.de###cf-player-googleplus
 clipfish.de###cf-player-twitter
@@ -192,8 +213,9 @@ t-online.de##.TsocBar
 gulli.com##._bookmark
 onlinewelten.com##.action-initiator
 butenunbinnen.de##.article-addons
-manager-magazin.de##.article-toolbar
+manager-magazin.de,wienerzeitung.at##.article-toolbar
 infosat.de##.artikeltools
+ahk.de##.b-footer__icons
 provinz.bz.it##.banner_facebook
 chip.de##.bookmark
 fnp.de,sport1.de,winfuture.de##.bookmarks
@@ -214,6 +236,7 @@ deutschlandfunk.de,fantasy.de,weisseskreuz.bz.it##.fb
 zentrum-der-gesundheit.de##.fbbox_overlay
 falk.de##.fbstatic
 silicon.de##.follow
+dz-privatbank.com##.footer__top
 myvideo.de##.globallike--fb-navi
 heise.de,t3n.de##.google
 n24.de##.google_interactivepos
@@ -232,6 +255,7 @@ laut.de##.module-share
 ardmediathek.de##.mt-player_bookmarks
 tvnow.de##.player_share_wrapper
 willhaben.at##.posttofacebook
+cash.ch##.print-button
 ndr.de##.recommendations
 t3n.de##.sbCombined
 autoline-eu.at,autoline-eu.ch,autoline.de,autoline.li,delivering-tomorrow.de,gettyimages.at,gettyimages.ch,gettyimages.de,hls-dhs-dss.ch,landrover.de,manager-magazin.de,nachrichten.it,radiotirol.it,suedtirol1.it,welt.de##.share
@@ -244,7 +268,7 @@ playmassive.de,playnation.de##.sn
 heise.de##.soc-pos
 focus.de##.socBm
 focus.de##.socInfo
-az.com.na,businessinsider.de,europages.de,infosat.de,kabeleins.de,klassikradio.de,n24.de,omdb.org,peugeot.de,prosieben.de,ran.de,sat1.de,sixx.de,the-voice-of-germany.de,therese-moelk.at,top.de##.social
+az.com.na,businessinsider.de,europages.de,infosat.de,kabeleins.de,klassikradio.de,n24.de,omdb.org,peugeot.de,prosieben.de,ran.de,sat1.de,sixx.de,the-voice-of-germany.de,therese-moelk.at,top.de,tt.com##.social
 futurezone.at##.social > li > a > img
 marcopolo.de##.socialWeb
 schwaebische.de##.social_communities
@@ -326,7 +350,7 @@ skomplikowane.pl###exitpopup-modal
 gadzetomania.pl###floatingbar
 biutiq.pl###header > .slidebox
 polskatimes.pl###narzedzia
-meteovista.pl###social
+meteovista.pl,nexto.pl###social
 strefabiznesu.pl###toolbar
 mf24.pl##.facebook
 eurocash.pl##.fb
@@ -343,6 +367,7 @@ narew.info##.sbuttons
 autoline.com.pl,gazeta.pl##.share
 europages.pl,goldenline.pl,pap.pl##.social
 onet.pl##.social-container
+virtualeye.pl##.ssmw-handler
 mf24.pl##.twitter
 mf24.pl##.youtube
 !
@@ -468,7 +493,7 @@ europe1.fr,lemonde.fr##.partage
 jeuxvideo.fr,jeuxvideopc.com##.pictos
 leparisien.fr##.plusRecommande
 madagascar-tribune.com##.rezo_sociaux
-autoline-eu.fr,autoline.be,autoline.lu,buzzmoica.fr,diningcity.be,ecoaustral.com,epochtimes.fr,franceinter.fr,francetvinfo.fr,gamekult.com,gettyimages.be,gettyimages.fr,la-croix.com,landrover.be,landrover.ch,landrover.fr##.share
+autoline-eu.fr,autoline.be,autoline.lu,buzzmoica.fr,diningcity.be,ecoaustral.com,epochtimes.fr,franceinter.fr,francetvinfo.fr,gamekult.com,gettyimages.be,gettyimages.fr,la-croix.com,landrover.be,landrover.ch,landrover.fr,valeursactuelles.com##.share
 rtl.fr##.shared-logo
 fracademic.com##.smm
 lepoint.fr##.snlinks
@@ -515,6 +540,7 @@ epochtimes.com.br##.tools
 !---------- Spanish Site Specific Hiding Rules ----------
 !
 soychile.cl###facebook
+mediterraneodigital.com###jj_sl_navigation
 notiactual.com###redes
 perfil.com###redesArticulo
 hispantv.com###sharings-footer
@@ -524,6 +550,7 @@ horoscoponegro.com###text-23
 notimex.gob.mx##.RedesFlotante
 ara.cat##.ara-header-social
 lanacion.com.ar##.compartir
+abc.es##.compartir-mas
 americateve.com##.compartir-nota
 apertura.com,cronista.com##.content-redes
 ondacero.es##.facebook
@@ -559,6 +586,7 @@ tennisitaliano.it###Utility
 salto.bz###block-block-11
 salto.bz###block-block-6
 interno.gov.it###block-menu-menu-segui-su
+leggo.it###box-social
 mediaset.it###boxOptions
 comune.torino.it###condividi
 ilmeteo.it###condividi_news
@@ -658,28 +686,32 @@ showprice.it##.link_invia_amico
 liujo.com##.liujo-footer-social-container
 gruppoeditorialesanpaolo.it##.menu-icons-list
 rockol.it##.menu__facebook
+andreagaleazzi.com##.mercatino-toggle
 ansa.it##.new-toolbar-menu
+ansa.it##.news-social
 corriere.it##.player-email-ctn
 mediaset.it##.s_box
 nationalgeographic.it##.segui-ng
 lescienze.it##.seguici
 askanews.it##.seguici_footer
 chiesi.com##.seguicisu
-amica.it,autoline-eu.it,basketinside.com,carpicalcionews.it,cdt.ch,cittaceleste.it,comune.torino.it,coopcasarsa.it,corriere.it,corsedimoto.com,famigliacristiana.it,fantamagazine.com,fcinter1908.it,foodnetwork.it,forzaroma.info,gazzamercato.it,gazzetta.it,gettyimages.it,golssip.it,ildolomiti.it,ilmilanista.it,ilsecoloxix.it,ilsole24ore.com,itasportpress.it,juvenews.eu,landrover.it,lifegate.it,listadimaio.com,mediagol.it,miur.gov.it,mobilita.org,mondoudinese.it,numericalcio.it,padovasport.tv,paginegialle.it,panorama.it,passioneinter.com,pianetagenoa1893.net,pianetamilan.it,ravennanotizie.it,repubblica.it,reteimprese.it,sassuolocalcionews.it,sportavellino.it,supereva.it,tenniscircus.com,tivusat.tv,toronews.net,tuttobolognaweb.it,violanews.com##.share
-ilsole24ore.com##.share-elements
+amica.it,autoline-eu.it,basketinside.com,carpicalcionews.it,cdt.ch,cittaceleste.it,comune.torino.it,coopcasarsa.it,corriere.it,corsedimoto.com,famigliacristiana.it,fantamagazine.com,fcinter1908.it,foodnetwork.it,forzaroma.info,gazzamercato.it,gazzetta.it,gettyimages.it,golssip.it,ildolomiti.it,ilmilanista.it,ilsecoloxix.it,ilsussidiario.net,itasportpress.it,juvenews.eu,landrover.it,lifegate.it,listadimaio.com,mediagol.it,miur.gov.it,mobilita.org,mondoudinese.it,numericalcio.it,padovasport.tv,paginegialle.it,panorama.it,passioneinter.com,pianetagenoa1893.net,pianetamilan.it,ravennanotizie.it,repubblica.it,reteimprese.it,sassuolocalcionews.it,sportavellino.it,supereva.it,tenniscircus.com,tivusat.tv,toronews.net,tuttobolognaweb.it,violanews.com##.share
 mediaset.it,meteo.it##.shr
-finanzaonline.com,teleborsa.it##.soc
+finanzaonline.com,teleborsa.it,tempostretto.it##.soc
 quickparking.it##.soc-icon-container
-affaritaliani.it,altadefinizione01.cloud,altroconsumo.it,angeloparodi.it,angolotesti.it,aruba.it,askanews.it,auto.it,avivaitalia.it,bioisotherm.it,cdt.ch,cielotv.it,cipiacecucinare.it,cittametropolitanaroma.gov.it,coopcasarsa.it,corriere.it,corrierecomunicazioni.it,deabyday.tv,diariodelweb.it,eurogamer.it,euronics.it,europages.it,eurospin.it,famigliacristiana.it,finanzaonline.com,fm-world.it,grandhotel-et-des-palmes.com,hdmotori.it,html.it,ilgiornale.it,ilpopulista.it,ilposticipo.it,inmoto.it,istat.it,italiaoggi.it,ivid.it,kataweb.it,lafeltrinelli.it,lasicilia.it,legacoop.coop,liberoquotidiano.it,linkiesta.it,mader.bz.it,magnoliatv.it,mediagol.it,mediocredito.it,meetingrimini.org,milanofinanza.it,monovolume.cc,moto.it,motorionline.com,mtv.it,naturalborngamers.it,norbaonline.it,nurse24.it,olivetti.com,opinione.it,pneusnews.it,proiezionidiborsa.it,qualenergia.it,radiocitymilano.it,ravennanotizie.it,regione.piemonte.it,repubblica.it,rmcsport.net,rollingstone.it,roncadin.it,rossopomodoro.it,sardiniapost.it,scorpionbay.com,sorgenia.it,suzuki.it,tari.it,testimania.com,vg247.it,viveregiovani.it,vortice.it,wallstreetitalia.com##.social
+affaritaliani.it,altadefinizione01.cloud,altroconsumo.it,angeloparodi.it,angolotesti.it,aruba.it,askanews.it,auto.it,avivaitalia.it,bioisotherm.it,cdt.ch,cielotv.it,cipiacecucinare.it,cittametropolitanaroma.gov.it,coopcasarsa.it,corriere.it,corrierecomunicazioni.it,deabyday.tv,diariodelweb.it,eurogamer.it,euronics.it,europages.it,eurospin.it,famigliacristiana.it,finanzaonline.com,fm-world.it,grandhotel-et-des-palmes.com,gse.it,hdmotori.it,html.it,ilgiornale.it,ilpopulista.it,ilposticipo.it,ilsussidiario.net,inmoto.it,istat.it,italiaoggi.it,ivid.it,kataweb.it,lafeltrinelli.it,lasicilia.it,legacoop.coop,liberoquotidiano.it,linkiesta.it,mader.bz.it,magnoliatv.it,mediagol.it,mediocredito.it,meetingrimini.org,milanofinanza.it,monovolume.cc,moto.it,motorionline.com,mtv.it,naturalborngamers.it,norbaonline.it,nurse24.it,olivetti.com,opinione.it,pneusnews.it,proiezionidiborsa.it,qualenergia.it,radiocitymilano.it,ravennanotizie.it,regione.piemonte.it,repubblica.it,rmcsport.net,rollingstone.it,roncadin.it,rossopomodoro.it,sardiniapost.it,scorpionbay.com,sorgenia.it,suzuki.it,tari.it,testimania.com,vg247.it,viveregiovani.it,vortice.it,wallstreetitalia.com##.social
 investireoggi.it##.social_menu
 gametimers.it,kontrokultura.it##.ss-ic
 cinemalibero.news##.telegram
 nurse24.it##.toolbar
-epochtimes.it,ilsole24ore.com##.tools
+epochtimes.it##.tools
 gianlucadimarzio.com,ilpost.it##.tw
 agenziacasaclima.it,ilfoglio.it,teleticino.ch,webnews.it##.twitter
 mymovies.it##.vota-pul-consiglio
 agenziacasaclima.it##.youtube
+ilsole24ore.com##[data-type="fb"]
+ilsole24ore.com##[data-type="in"]
+ilsole24ore.com##[data-type="tw"]
 agendadigitale.eu,corrierecomunicazioni.it,insuranceup.it##a[href="#condivisioni"]
 ||calciomercato.it/img/notizie/social/
 ||condominioweb.com/img_cdw/seguici.png
@@ -738,6 +770,7 @@ skynewsarabia.com##.whats_app
 gharbiaonline.com##.you_tube
 elsharq.org,wesalhaq.tv##.youtube
 wesalhaq.tv##.yt
+||qatarradio.qa/images/LB/
 ||shabiba.com/images/snapchat-
 ||shabiba.com/images/whatsapp-
 ||tn-sport.net/like/

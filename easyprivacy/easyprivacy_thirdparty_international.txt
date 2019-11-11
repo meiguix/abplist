@@ -36,6 +36,7 @@
 ||ctr.nmg.de^$third-party
 ||d.adrolays.de^
 ||d.nativendo.de^
+||d.omsnative.de^
 ||data.econa.com^
 ||datacomm.ch^*/count.cgi?
 ||et.twyn.com^
@@ -164,6 +165,7 @@
 ||tracking.s24.com^
 ||tracking.sim-technik.de^
 ||tracking.srv2.de^
+||tracking.webtradecenter.com^
 ||traffic.brand-wall.net^
 ||trck.bdi-services.de^
 ||trck.spoteffects.net^
@@ -204,17 +206,24 @@
 ||btstats.devtribu.fr^
 ||calotag.com^$third-party
 ||cdn-analytics.ladmedia.fr^
+||cdn-files.prsmedia.fr^*/xiti/
+||ced-ns.sascdn.com/diff/js/smart.js
 ||cloudfront.net^$script,domain=gentside.com
 ||compteur.websiteout.net^
-||d3eokk6ya562p5.cloudfront.net^
 ||da-kolkoz.com/da-top/track/
 ||devtribu.fr/t.php?
 ||e-pagerank.fr/bouton.gif?$third-party
 ||e.funnymel.com^$third-party
+||ea.warnerbros.fr^
+||easydmp.net/collect_
+||easydmp.net/etag.
+||easydmp.net/get_delivery_data.
 ||email-reflex.com^$third-party
+||events.sk.ht^
 ||free.fr/cgi-bin/wwwcount.cgi?
 ||free.fr/services/compteur_page.php?
 ||i-services.net^*/compteur.php?
+||jvc.gg^*/traffic.js
 ||leguide.com/js/lgtrk-*.js
 ||lepoint-stat.sdv.fr^
 ||linguee.fr/white_pixel.gif
@@ -229,6 +238,7 @@
 ||osd.oxygem.it^
 ||pagesjaunes.fr/stat/
 ||piximedia.com^$third-party
+||rs.smc.tf^
 ||scriptsgratuits.com/sg/stats/
 ||securite.01net.com^
 ||service-webmaster.fr/cpt-visites/$third-party
@@ -236,10 +246,10 @@
 ||stats-dc1.frz.io^
 ||stats.buzzea.com^
 ||stats.ipmgroup.be^
+||stats.tipser.com^
 ||t.planvip.fr^$third-party
 ||tag.leadplace.fr^
 ||tmgr.ccmbg.com^
-||tra.pmdstatic.net^
 ||track.byzon.swelen.net^$third-party
 ||track.laredoute.fr^$image
 ||trackcustomer.laredoute.com^$image
@@ -256,6 +266,7 @@
 ||woopic.com/Magic/o_vr.js
 ||zebestof.com^$third-party
 ! Belarusian
+||ladesk.com/scripts/track.js
 ||minsk-in.net/counter.php?
 ! Croatian
 ||aff*.kolektiva.net^
@@ -267,6 +278,7 @@
 ||360.cn/mapping_service?
 ||4gtv.tv/js/ga_
 ||aixifan.com/acsdk/log.min.js?
+||alicdn.com^*/tracker/
 ||alimama.cn/inf.js
 ||alipay.com/common/um/lsa.swf
 ||analytics.21cn.com^
@@ -341,6 +353,8 @@
 ||t.hypers.com.cn^
 ||tanx.com/t/tanxclick.js
 ||tanx.com/t/tanxcollect.js
+||taobao.com/tracker.
+||tce.alicdn.com^
 ||tns.simba.taobao.com^
 ||toruk.tanx.com^
 ||tr.n2.hk^
@@ -463,6 +477,7 @@
 ||quinet.it/counter/
 ||rcsmetrics.it^
 ||rd.alice.it^
+||sem.triboomedia.it^
 ||sembox.it/js/sembox-tracking.js
 ||shinystat.lvlar.com^
 ||stat.acca.it^
@@ -500,18 +515,25 @@
 ||analysis.shinobi.jp^
 ||analyzer51.fc2.com^
 ||asumi.shinobi.jp^
+||beacon.itmedia.jp^
 ||clickanalyzer.jp^$third-party
 ||counter2.blog.livedoor.com^
 ||imgstat.ameba.jp^$third-party
+||ip2c.landscape.co.jp^
+||kitchen.juicer.cc^
+||l-tike.com/akam/$script
 ||l.popin.cc^
 ||lcs.livedoor.net^
+||line.me/tag.gif$image
 ||log.nordot.jp^
 ||macromill.com/imp/
 ||mofa.go.jp^*/count.cgi?
 ||omt.shinobi.jp^
 ||otoshiana.com/ufo/
+||pia.jp/akam/$script
+||pia.jp/images/pt.gif$image
 ||rcm.shinobi.jp^
-||rd.rakuten.co.jp^
+||rd.rakuten.co.jp^$script
 ||seesaa.jp/ot_square.pl?
 ||shinobi.jp/track?
 ||speee-ad.akamaized.net^
@@ -529,10 +551,13 @@
 ||log.cizion.com^
 ||log2.adop.cc^
 ||recobell.io/rest/logs?
+||teralog.techhub.co.kr^
 ||tracking.adweb.co.kr^$third-party
 ! Latvian
 ||counter.hackers.lv^
 ||hits.sys.lv^
+||pmo.ee/stats/
+||salidzini.lv^*/logo_button.gif?$third-party
 ! Lithuanian
 ||top.chebra.lt^$third-party
 ||top.dating.lt^$third-party
@@ -543,14 +568,19 @@
 ! Persian
 ||analytics.aasaam.com^
 ! Polish
+||analytics.ceneo.pl^
 ||analytics.greensender.pl^$third-party
 ||cafenews.pl/mpl/static/static.js?
 ||fab.interia.pl^
 ||hit.interia.pl^
 ||liczniki.org/hit.php
+||marketing.tr.netsalesmedia.pl^
 ||pixel.homebook.pl^
 ||ppstatic.pl^*/track.js
-||quartic.pl/quartic.js
+||px.wp.pl^
+||qai-ir.quartic.pl^$third-party
+||qai.quartic.pl^$third-party
+||rec.quartic.pl^$third-party
 ||scontent.services.tvn.pl^
 ||stats.asp24.pl^
 ||stats.media.onet.pl^
@@ -615,6 +645,7 @@
 ||counter.star.lg.ua^
 ||counter.tovarro.com^
 ||counter.wapstart.ru^
+||crm-analytics.imweb.ru^
 ||dp.ru/counter.gif?
 ||emoment.net/cnt/
 ||error.videonow.ru^
@@ -646,6 +677,7 @@
 ||open.ua/stat/
 ||optimizavr.ru/counter.php?
 ||penza-online.ru^*/userstats.pl?
+||piper.amocrm.ru^
 ||pluso.ru/counter.php?
 ||pluso.ru/ping.php?
 ||prompages.ru/top/

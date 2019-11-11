@@ -13,9 +13,10 @@
 @@||chip.de^*/outbrain.js
 @@||chobani.com/js/views/newsletter-signup.js
 @@||complexmedianetwork.com/js/cmnUNT.js
-@@||config.parsely.com/config/$script,domain=dailystar.co.uk|express.co.uk
+@@||config.parsely.com/config/$script,domain=express.co.uk
 @@||connatix.com/min/connatix.renderer.infeed.min.js$domain=collider.com|gamepress.gg|salon.com
 @@||disqus.com^*/social-icons.png
+@@||dollartree.com^*/backToTop.min.js
 @@||drivek.it^*/jquery.cookiecuttr.min.js
 @@||ebuddy.com/website/*social-icons.png
 @@||ecache.vzw.com/imageFiles/Myacct/*/onlineopinionV5/
@@ -26,6 +27,7 @@
 @@||expedia.*/opinionlab/oo_engine.js$script
 @@||footy-boots.com/wp-content*/comment-reply.js
 @@||georiot.com/snippet.js$domain=bound2hiphop.com
+@@||gismeteo.ru/images/rss/$image
 @@||google.com/friendconnect/$script,domain=blogspot.com
 @@||huffpost.com/images/social/benefits/signup/
 @@||images.taboola.com/taboola/$image,domain=indiatimes.com
@@ -42,10 +44,11 @@
 @@||novyny.org/wp-content/themes/*/jquery.ui.totop.min.js?$script,~third-party
 @@||odnoklassniki.ru/share/odkl_share.js$domain=ivi.ru
 @@||online-banking.hsbc.ca^*/Interstitial.js?
-@@||outbrain.com/outbrain.js$domain=cnn.com|damnyouautocorrect.com|ninemsn.com.au|slate.com
+@@||outbrain.com/outbrain.js$domain=cnn.com|damnyouautocorrect.com|doctoroz.com|ninemsn.com.au|slate.com
 @@||over-blog-kiwi.com/combo.php?/$script
 @@||pages03.net^*/iMAWebCookie.js$script,domain=paulstuart.com
 @@||parastorage.com^*/rssButton.min.js
+@@||parastorage.com^*/ScrollToPlugin.min.js$script
 @@||paypalobjects.com^*/oo_engine.min.js$script,domain=paypal.com
 @@||paypalobjects.com^*/opinionLab/$script,domain=paypal.com
 @@||paysera.com^*/email-icon-over.png
@@ -56,6 +59,7 @@
 @@||st.mycdn.me/static/*/WebPush.js$script,domain=ok.ru
 @@||static.bbci.co.uk/modules/*/sharetools.js$domain=bbc.co.uk
 @@||static.lci.fr/assets/scripts/modules/outbrain.js?$script,~third-party
+@@||static.parastorage.com^*/ScrollToPlugin.min.js$domain=wix.com|wixsite.com
 @@||statictapcdn-a.akamaihd.net^$domain=tapiture.com
 @@||surveygizmo.com^*/runtime/$script,stylesheet
 @@||surveygizmo.com^*/runtimejs/$script,stylesheet
@@ -68,6 +72,8 @@
 @@||viastream.viasat.tv/flvplayer/play/share/$domain=tv3play.se
 @@||wayback.archive.org/web/jsp/Interstitial.jsp?
 @@||williams-sonoma.com^*/js/external/coremetrics.js
+@@||windy.com^*/plugins/particles.js$script,~third-party
 @@||ws.audioscrobbler.com^$domain=diffuser.fm
+@@||yimg.com/ud/fp/js/GoldenGate$script,domain=mobi.yahoo.com
 @@||yimg.com/uq/syndication/yad.js$domain=zdnet.com
 @@||zdnet.com/images/base/sprites-social.png

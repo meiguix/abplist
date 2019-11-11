@@ -164,8 +164,8 @@
 -social-instagram.
 -social-linked-
 -social-linkedin.
--social-media-$~script,~stylesheet,~xmlhttprequest
--social-media.
+-social-media-$~document,~script,~stylesheet,~xmlhttprequest
+-social-media.$~document,~script,~stylesheet,~xmlhttprequest
 -social-panel.
 -social-panel/
 -social-pinterest-
@@ -199,6 +199,7 @@
 -socialbuttons.
 -socialbuttons/
 -socialicons.
+-socialmedia-buttons/
 -socialmedia-sprite.
 -socialMedia.$domain=~easy-socialmedia.com
 -socialmediashare.
@@ -335,6 +336,7 @@
 /bg-social.
 /big-facebook.
 /big-twitter.
+/bigphoto_share.
 /bnr-sns.
 /body/share/*$image
 /bookmark/fbk.
@@ -453,6 +455,7 @@
 /context-social.
 /controller/share-
 /contshare.
+/cool-share/*
 /crowdbooster-
 /crowdbooster_
 /css/social-$~stylesheet
@@ -606,6 +609,7 @@
 /facebook_side_
 /facebook_sidebar.
 /facebook_small.
+/facebook_social.
 /Facebook_Social_
 /facebook_top_icon.
 /facebookA1_
@@ -692,7 +696,7 @@
 /fb_upload_
 /fbcirclebtn.
 /fbfooter.
-/FBicon.
+/FBicon.$~stylesheet
 /fblike.
 /fblikefp.
 /fbook-share-
@@ -879,6 +883,8 @@
 /google_plus_icon_
 /Google_plus_logo_
 /google_plus_one.
+/google_share_
+/google_social.
 /googleicon.
 /googlepin.
 /googleplus-
@@ -933,6 +939,7 @@
 /gplusbtn.
 /gpluslogo-50.
 /gplusrp.
+/graphics/share/*
 /graphics/tweet-
 /graphics/twitter.
 /guys_social.
@@ -970,6 +977,7 @@
 /ic_facebook.
 /ic_facebook_
 /ic_reddit.
+/ic_share.
 /ic_stumbleupon.
 /ic_technorati.
 /ic_twitter.
@@ -1380,6 +1388,7 @@
 /img/gplus_
 /img/instagram-
 /img/instragram.
+/img/plusgoogle.
 /img/share-
 /img/share/*
 /img/share_
@@ -1554,6 +1563,7 @@
 /navtumblr.
 /nc-follow1.
 /needsharebutton.
+/news_share_
 /newshare/*
 /newsharecounts.
 /newSideShare/*
@@ -1565,6 +1575,7 @@
 /nmt_youtube_
 /orange-fb-
 /orange-twit-
+/orion_sharing.
 /orkut.gif
 /orkut_16.
 /outsidesocialsprite.
@@ -1789,6 +1800,7 @@
 /share-sprite.
 /share-this-
 /share-tl.
+/share-tools-
 /share-tw-
 /share-tw.
 /share-twitter-
@@ -1798,6 +1810,7 @@
 /share-weibo.
 /share-wx.
 /share.json?
+/share.min.
 /share.php?buttons=
 /share.png
 /share/*/facebook.png
@@ -1809,6 +1822,7 @@
 /share/email.
 /share/facebook.
 /share/facebook_
+/share/final.
 /share/flip_
 /share/footer/*
 /share/frame/*
@@ -1818,6 +1832,7 @@
 /share/googlebookmarks.
 /share/icon_
 /share/js/*
+/share/mail.
 /share/plusone.
 /share/reddit.
 /share/share_
@@ -1828,11 +1843,13 @@
 /share/yahoomyweb.
 /share/youtube_
 /share001btn.
+/share1.
 /share2-
-/share2.png
+/share2.
 /share2/*$~stylesheet
 /share24.
 /share2_
+/share3.
 /share4.
 /share42.js
 /share42_
@@ -1841,6 +1858,7 @@
 /share_bg.
 /share_blogger.
 /share_btn.
+/share_btn_
 /share_btns_
 /share_button.
 /share_button?
@@ -1868,6 +1886,7 @@
 /share_icons_
 /share_iframe.
 /share_link/*
+/share_link_
 /share_linkedin_
 /share_myspace.
 /share_pinterest-
@@ -2336,7 +2355,6 @@
 /sociallocker-
 /socialMedia-
 /socialMedia.
-/socialmedia/*$image,script
 /socialmedia_
 /socialmediabar_
 /socialmediabuttons.
@@ -2374,6 +2392,7 @@
 /socialshare_
 /socialShareCount.
 /SocialSharePlugin.
+/socialshareprivacy-
 /socialshareprivacy/*$~script,~stylesheet
 /socialshares.
 /SocialShareSprite.
@@ -2455,6 +2474,10 @@
 /subscribe-icons-
 /subscribe_facebook.
 /subscribe_twitter.
+/suivez-nous-facebook.
+/suivez-nous-google.
+/suivez-nous-twitter.
+/suivez-nous-youtube.
 /synved-social/*
 /tabs-social.
 /tabs/social/*
@@ -2659,6 +2682,7 @@
 /twitter_menu_
 /twitter_out.
 /twitter_share.
+/twitter_share_
 /Twitter_social.
 /twitter_social_
 /twitter_sprite.
@@ -2728,6 +2752,7 @@
 /vkontakte.svg
 /vkontakte2_icon.
 /web_share/*
+/weiboshare.
 /whatsapp-button.
 /whatsapp_button.
 /whatsapp_icon.
@@ -2736,6 +2761,7 @@
 /whtapp-web.
 /widget/digg/*$~stylesheet
 /widget/share?
+/widget/share_
 /widget_add_this_
 /Widgets/*/Tweets?
 /widgets/sharing-
@@ -2761,6 +2787,7 @@
 /wp-social-media-
 /wp-social-toolbar/*
 /wpsocial.
+/wptelegram/*
 /xnapp/share/*
 /xshare_
 /xsocial-icons.

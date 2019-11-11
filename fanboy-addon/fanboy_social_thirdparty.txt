@@ -26,6 +26,9 @@
 ||assets.pinterest.com/pidget.html$third-party
 ||assets.tumblr.com/assets/html/iframe/o.html$third-party
 ||assets.tumblr.com/assets/html/iframe/teaser.html?$third-party
+||b.hatena.ne.jp^$third-party
+||b.st-hatena.com/images/$image,third-party
+||b.st-hatena.com/js/$script,third-party
 ||b2c-wsinsight.crowdfactory.com^$third-party
 ||badge.facebook.com^$third-party
 ||badges.del.icio.us/feeds/$third-party
@@ -107,8 +110,10 @@
 ||friends2follow.com^$subdocument,third-party
 ||getpocket.com/button?$third-party
 ||getsocial.io/widget/$third-party
+||getsocial.io^*/gs_async.js$third-party
 ||google.com/_/+1/$third-party
 ||google.com^*/fastbutton?$third-party
+||gotchosen.com^$third-party
 ||gplusapi.appspot.com^$third-party
 ||graph.facebook.com/fql?q=SELECT$third-party
 ||handll.com^$third-party
@@ -243,7 +248,7 @@
 ||vk.com/widget_community.php$third-party
 ||vk.com/widget_community_messages.php?$third-party
 ||vk.com/widget_like.php$third-party
-||vkontakte.ru/js/api/$third-party,domain=~arudex.com|~vk.com
+||vkontakte.ru/js/api/$third-party,domain=~arudex.com|~ugo.ru|~vk.com
 ||vkontakte.ru/share.php?$third-party
 ||vkontakte.ru/widget_community.php$third-party
 ||vkontakte.ru/widget_like.php$third-party
@@ -260,6 +265,7 @@
 ||whatsbroadcast.com^$third-party
 ||widget.stagram.com^$third-party
 ||widget.weibo.com^$third-party
+||widget.whatshelp.io^$third-party
 ||widgets.digg.com^$third-party
 ||widgets.fbshare.me^$third-party
 ||widgets.getpocket.com^$third-party
