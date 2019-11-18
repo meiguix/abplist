@@ -104,6 +104,7 @@ news.mydrivers.com##.news_xg
 ###nav_shouyou
 ###nav_yeyou
 ###nav_yule
+ali213.net##.ali-foot
 ali213.net##.ali-flink
 ##SCRIPT + .n_xg
 ali213.net##.n_xglist
@@ -114,6 +115,7 @@ ali213.net##.web_news_right
 ##.zt_center_con_body_left_gametj_con_img
 ##.t5c_r_xyxh
 ali213.net###g1
+##.right-user + * + *
 !JDT
 ###J_event
 ##.mui-mbarp-qrcode
