@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Version: 88888888
 ! Title: EasyListVIP
-! Last modified: 2019-06-06
+! Last modified: 2019-11-18
 ! Expires: 365 days
 !
 !QQ
@@ -35,6 +35,8 @@ gameapp.qq.com###J_slider_contanier
 ###QM_Container_100002
 ##.fn_accessLog_tips
 qzone.qq.com##.sn-line
+##.app-guard.app-guard-left.J_appguard
+##.app-guard.app-guard-right.J_appguard
 !Sina
 ##[data-sudaclick="blk_top1_house"]
 ##.part-e
