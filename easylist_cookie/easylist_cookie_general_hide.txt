@@ -396,6 +396,7 @@
 ###SVDv3_cookie
 ###SWCC3_CookieLawBanner
 ###S_cookie_box
+###SgCookieOptin
 ###ShowCookie
 ###SiteInfoBanner[data-cookie-checker]
 ###SiteMasterPage_updCookieDisclaimer
@@ -635,6 +636,7 @@
 ###alternetCookieMessage
 ###amccookies-bar
 ###amcookieapproval
+###amgdpr-cookie-block
 ###amp-user-cookie
 ###amp-user-notification-cookies
 ###amp-user-notification-privacy
@@ -928,6 +930,7 @@
 ###brandfour-cookie-block
 ###browser-cookie-warnin
 ###browser-cookie-warning
+###brunelcookies
 ###bsCookiesBanner
 ###bscookie
 ###bt-privacy-header
@@ -1103,6 +1106,7 @@
 ###cm4all-cookie-policy-page
 ###cmFluxMessageCookies
 ###cmanager-container
+###cmc-cookie-policy-banner
 ###cmc-tracking-consent-form-step1
 ###cmconsent-message
 ###cmp-cookie-notification
@@ -1203,6 +1207,7 @@
 ###consentAccepted
 ###consentBanner
 ###consentBar
+###consentComponentContainer
 ###consentContainer
 ###consentCookieDiv
 ###consentDialog
@@ -2469,6 +2474,7 @@
 ###cookie_policy_overlay
 ###cookie_policy_popup
 ###cookie_policy_pu
+###cookie_policy_rgpd
 ###cookie_politics_overlay
 ###cookie_pop
 ###cookie_popover_container
@@ -3013,6 +3019,7 @@
 ###cookiesMessageContainer
 ###cookiesModal
 ###cookiesModalContainer
+###cookiesModal_bottom
 ###cookiesMsg
 ###cookiesNote
 ###cookiesNotice
@@ -3471,6 +3478,7 @@
 ###diffuse-cookie-notice
 ###digischool_cookie_push
 ###digo_cookies
+###din-cookie-banner
 ###dinamoPrivacyPopup
 ###dis-cookie-info-box
 ###disCookieContainer
@@ -3836,6 +3844,7 @@
 ###eucookienotice
 ###eucookies
 ###eucookies-note
+###eudomintl-cmb
 ###eulaw
 ###eulaw-bar
 ###eupolicy
@@ -4279,6 +4288,7 @@
 ###infocookies
 ###inforCookieWallPopup
 ###inforcwp
+###inform-cookies
 ###informacionSobreCookies
 ###informacja-o-cookies
 ###informacjaOCiasteczkach
@@ -4757,6 +4767,7 @@
 ###nld_cookies
 ###no-cookie
 ###no-cookie-doorkeeper
+###noConsentAlertModal
 ###nocookie
 ###nocookieaktiv
 ###non-blocking-consent-notification
@@ -5080,6 +5091,7 @@
 ###positiv_cookies_field
 ###powa-cookie
 ###ppCookies
+###pp_cookie
 ###pp_cookielaw
 ###ppms_cm_bar_overlay
 ###pravda-cookie-usage
@@ -5364,6 +5376,8 @@
 ###siteusescookiewarningstrip
 ###siu_cookiehinweis
 ###siv_cookieBanner
+###sizzle-gdpr
+###sizzle-gdpr-supressor
 ###sk-cookies
 ###skcookies
 ###sky-cookie-bar
@@ -5581,6 +5595,7 @@
 ###ub24-cookie-container
 ###uc-privacy-chip
 ###ucn-gdpr-banner
+###udf-cookie-message
 ###udtCookiebox
 ###ue-cookie-notify
 ###ue_cookie
@@ -5676,6 +5691,7 @@
 ###vscookieAlertCont
 ###vsebinaOpozorilaCookie
 ###vsm_cookie_check
+###vu_layer_cookie_content
 ###vueCookie
 ###vue_cookielaw
 ###vvc_cookie
@@ -5914,6 +5930,7 @@
 ##.Cookie__Banner
 ##.Cookie__banner
 ##.Cookie_bar
+##.Cookie_modal
 ##.Cookiebar
 ##.Cookiebar_header_26n
 ##.Cookies-notification
@@ -5931,6 +5948,7 @@
 ##.CookiesOk
 ##.CookiesPolicy-banner
 ##.CookiesPolicyBanner
+##.CookiesTermsConsent
 ##.CookiesUsage
 ##.CookiesWarning
 ##.Cookies_alert
@@ -6190,6 +6208,7 @@
 ##.alvinecookieinfo
 ##.am-cookie-notice
 ##.am-cookiebar
+##.amgdpr-cookie
 ##.ams-m-cookie-warning
 ##.amz-cookies-notice
 ##.analytics-consent
@@ -6520,6 +6539,7 @@
 ##.c-floating.c-window
 ##.c-fnd-cookie-acceptance
 ##.c-footer__cookies
+##.c-gdprbar
 ##.c-headband-cookies
 ##.c-info--cookie
 ##.c-info-bar.-cookies
@@ -6663,6 +6683,7 @@
 ##.cm-message
 ##.cm-notification-container
 ##.cm-user-message
+##.cmc-cookie-policy-banner
 ##.cmp-app_gdpr
 ##.cmp_cookies_usage_wr
 ##.cms-cookielaw
@@ -6770,6 +6791,7 @@
 ##.content--cookie-js
 ##.content-alert-browser
 ##.content-alert-cookie
+##.content-con-cookie
 ##.content-cookie
 ##.content-legale-cookie
 ##.contentCookie
@@ -7034,6 +7056,7 @@
 ##.cookie-jar
 ##.cookie-l
 ##.cookie-label
+##.cookie-landing
 ##.cookie-lasche
 ##.cookie-lasche-hp
 ##.cookie-law
@@ -7041,6 +7064,7 @@
 ##.cookie-law-approval-wrapper
 ##.cookie-law-banner
 ##.cookie-law-bar
+##.cookie-law-block-wrapper
 ##.cookie-law-box
 ##.cookie-law-container
 ##.cookie-law-dialog
@@ -7281,6 +7305,7 @@
 ##.cookie-usage-notification
 ##.cookie-usage-notify
 ##.cookie-use
+##.cookie-used-note
 ##.cookie-usgae
 ##.cookie-uslovi
 ##.cookie-uzenet
@@ -7480,6 +7505,7 @@
 ##.cookieNoticeBar
 ##.cookieNoticePopUp
 ##.cookieNoticeType1
+##.cookieNotice__container
 ##.cookieNotif
 ##.cookieNotification
 ##.cookieNotificationBanner
@@ -7979,6 +8005,7 @@
 ##.cookies-nav-bar
 ##.cookies-nofication
 ##.cookies-normative__container
+##.cookies-not-set:not(body)
 ##.cookies-note
 ##.cookies-notice
 ##.cookies-notice-msg
@@ -8135,6 +8162,7 @@
 ##.cookies__info
 ##.cookies__inner
 ##.cookies__layover
+##.cookies__message
 ##.cookies__overlay
 ##.cookies__show
 ##.cookies__std
@@ -8568,6 +8596,7 @@
 ##.ev-cookie-banner
 ##.evidon-banner
 ##.evt-cookie-element
+##.exp-cookies
 ##.expanded.gdpr
 ##.explicit-cookie-container
 ##.explicit-cookie-container-wrapper
@@ -8579,6 +8608,7 @@
 ##.eyg-cookie-policy-msg
 ##.f-data-policy
 ##.f-eu-cookies
+##.f_cookie
 ##.fa-cookie
 ##.fasciaCookie
 ##.fb-cookie-law
@@ -8695,6 +8725,7 @@
 ##.gdpr-blk
 ##.gdpr-block
 ##.gdpr-block-privacy
+##.gdpr-block-wrap
 ##.gdpr-bottom
 ##.gdpr-box
 ##.gdpr-card-wrapper
@@ -9023,6 +9054,7 @@
 ##.js-cc-announcement
 ##.js-consent-bar
 ##.js-consent-form
+##.js-consent-notice
 ##.js-consent-panel
 ##.js-consent-popup
 ##.js-consent-react-root
@@ -9429,6 +9461,7 @@
 ##.mt-cookie-consent-bar
 ##.mtvcookienotificationscontainer
 ##.mu-cookie-box
+##.mu_cookie_background
 ##.mui-cookie-banner
 ##.mui-js-cookie-banner
 ##.must_show_cookie
@@ -9612,6 +9645,7 @@
 ##.oly-web-ui_cookie-container
 ##.om-cookie-agreement
 ##.omnium_cookies_popup_wrapper
+##.on.cookie
 ##.once-upon-ga-consent
 ##.one-alert--cookie
 ##.oneindia-cookie-notification
@@ -10487,6 +10521,7 @@
 ##accept-cookie-box
 ##acidjs-xcookie-consent
 ##adcookies
+##amedia-privacybox
 ##amp-consent
 ##amp-user-notification
 ##app-cookie-consent
@@ -10569,6 +10604,7 @@
 ##div[class^="cookiesAlert_"]
 ##div[class^="gdpr_banner_"]
 ##div[class^="index_cookieNotification"]
+##div[class^="styles__Cookie"]
 ##div[class^="termly-consent-"]
 ##div[data-automation="cookies-banner"]
 ##div[data-banner="cookies"]
@@ -10730,6 +10766,7 @@
 ##.as-oil-content-overlay
 ##.bst-panel
 ##.c_i_container
+##.cmplz-soft-cookiewall
 ##.elisa-navi-cookie-and-consent-disclaimer
 ##.rcc-panel
 ##.recocliv2

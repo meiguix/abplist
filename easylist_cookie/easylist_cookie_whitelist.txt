@@ -47,6 +47,7 @@
 @@||oddschecker.com/OC-B2B/platform-uk-gdpr-banner/$script
 @@||ozmotorbike.com/templates/motorbike/js/vendor/cookies-enabler.js
 @@||ozracing.com/templates/oz/js/vendor/cookies-enabler.min.js
+@@||policy.app.cookieinformation.com^$script,domain=eniro.se
 @@||porno720.pl/core/js/cookieinfo.js
 @@||riwal.com/includes/js/components/cookiebar.js$script
 @@||shop.dangerfield.com.au/min/$script,stylesheet
@@ -85,6 +86,7 @@
 @@||meine.postbank.de/translations/*-cookieDisclaimer-*.json$~third-party,xmlhttprequest
 @@||mymuesli.com/assets/js/cookiespopup.js$script
 @@||nowegumy.pl/cookiecuttr.js
+@@||oasjs.kataweb.it/cookielex/kwdnt.js$domain=video.repubblica.it
 @@||polenka.pl/wp-content/plugins/cookie-law-info/js/cookielawinfo.js$script
 @@||rai.it^*/cookie.pack.js$script
 @@||rainews.it^*/cookie.pack.js$script

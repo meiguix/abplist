@@ -1,5 +1,4 @@
 ||1lzz.com^$popup
-||33traffic.com^$popup
 ||3file.info^$popup,third-party
 ||3questionsgetthegirl.com^$popup
 ||45i73jv6.com^$popup,third-party
@@ -37,12 +36,14 @@
 ||dbbp1.com^$popup
 ||dbbp1.net.^$popup
 ||dbbp1.net^$popup
+||dbbp1.pro^$popup
 ||desklks.com^$popup
 ||dirty-tinder.com^$popup,third-party
 ||doublegear.com^$popup,third-party
 ||dynsrvazg.com^$popup
 ||dynsrvazh.com^$popup
 ||easysexdate.com^$popup
+||ebbp1.pro^$popup
 ||ebocornac.com^$popup,third-party
 ||ekod.info^$popup,third-party
 ||ero-advertising.com^$popup,third-party

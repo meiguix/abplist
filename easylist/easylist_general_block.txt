@@ -47,7 +47,7 @@
 &adurl=
 &adv_keywords=
 &advert_
-&advertiserid=
+&advertiserid=$domain=~bee.gl|~cpashka.ru
 &advid=$~image
 &advtile=
 &adzone=
@@ -247,6 +247,7 @@
 -Ads_728x902.
 -ads_9_3.
 -Ads_Billboard_
+-ads_story/
 -adscript.
 -adsense2.
 -adserver-
@@ -363,6 +364,7 @@
 -google-adsense.
 -google2-ad-
 -gpt-ad-$~xmlhttprequest
+-header_ads/
 -housead-
 -iframe-ad.
 -iframe-ads/
@@ -879,6 +881,7 @@
 /_scripts/_oas/*
 /_svc/ad/*
 /a-ads.$third-party
+/a/?ad=
 /a/ads/*
 /a/display.php?
 /a1/*?sub=$third-party
@@ -1372,6 +1375,7 @@
 /ad_bsb.
 /ad_button.
 /ad_cache/*
+/ad_campaign/*
 /ad_campaign?
 /ad_campaigns/*
 /ad_caption.
@@ -1408,6 +1412,7 @@
 /ad_engine?
 /ad_entry_
 /ad_exo.
+/ad_fallback/*
 /ad_feed.
 /ad_feedback_
 /ad_file/*
@@ -1642,7 +1647,7 @@
 /adbanner2/*
 /adbanner_
 /adbanners/*
-/adbar.$domain=~adbar.fi|~adbar.io
+/adbar.$domain=~adbar.fi|~adbar.io|~adbar.jp
 /adbar/*
 /adbar2_
 /adbar_
@@ -1792,6 +1797,7 @@
 /addeliverymodule/*
 /addisplay.$domain=~addisplay.ca
 /addon/ad/*
+/addons/ads.
 /addons/ads/*
 /adds_banner/*
 /addyn/3.0/*
@@ -1851,7 +1857,7 @@
 /adflash.
 /adflashes/*
 /adfliction-
-/adflow.$domain=~adflow.com.au|~adflow.io|~adflow.marketing|~adflow.pl
+/adflow.$domain=~adflow.com.au|~adflow.genoudsa.ch|~adflow.io|~adflow.marketing|~adflow.pl
 /adfly/*
 /adfolder/*
 /adfootcenter.
@@ -2042,6 +2048,7 @@
 /adload.
 /adloader.
 /adloader/*
+/Adlocal/*
 /adlock300.
 /adlog.php?
 /adlogix.
@@ -2450,6 +2457,7 @@
 /ads/contextual.
 /ads/contextual_
 /ads/contextuallinks/*
+/ads/core.
 /ads/create_
 /ads/creatives/*
 /ads/cube-
@@ -2476,6 +2484,7 @@
 /ads/exo_
 /ads/fb-
 /ads/final.
+/ads/fixed/*
 /ads/flash/*
 /ads/flash_
 /ads/flashbanners/*
@@ -2527,6 +2536,7 @@
 /ads/intermarkets_
 /ads/interstitial.
 /ads/interstitial/*
+/ads/jobroll-
 /ads/jquery.
 /ads/js.
 /ads/js/*
@@ -3376,6 +3386,7 @@
 /adver-left.
 /adver.$domain=~adver.biz|~adver.by|~adver.media
 /adver_hor.
+/adver_img/*
 /adverfisement.
 /adverfisement2.
 /adverserve.
@@ -3879,6 +3890,7 @@
 /banner_control.php?
 /banner_db.php?
 /banner_dfp.
+/banner_dfp_
 /banner_file.php?
 /banner_id/*
 /banner_iframe_
@@ -4228,7 +4240,7 @@
 /conad.$domain=~conad.it
 /conad_$domain=~conad.it
 /concert_ads-
-/concertads-
+/concert_ads.
 /configspace/ads/*
 /cont-adv.
 /contads.
@@ -4485,6 +4497,7 @@
 /doubleclickplugin.
 /doubleclicktag.
 /doublepimp2.js
+/doubleserve.js
 /downads.
 /download-ad.
 /download/ad.
@@ -4821,9 +4834,12 @@
 /getadsettingsjs?
 /getAdsForClient?
 /getads|
+/GetAdvertData?
 /getadvertimageservlet?
 /getAdvertisement^
 /getadvertiserimage.
+/GetAdvertisingLeft?
+/GetAdvertisingTop?
 /getadverts?
 /GetADVOverlay.
 /getarticleadvertimageservlet?
@@ -4920,6 +4936,7 @@
 /googleadhpbot.
 /googleadhtml/*
 /googleadiframe_
+/googleadpush.
 /googleadright.
 /googleads-$domain=~github.com
 /googleads.$domain=~googleads.github.io
@@ -5158,6 +5175,7 @@
 /img_ads/*
 /img_adv/*
 /imgaad/*
+/imgad-
 /imgad.
 /imgad?
 /imgad_
@@ -5314,6 +5332,7 @@
 /js/adv/*
 /js/adverts-
 /js/adz.
+/js/dfp-
 /js/doubleclick/*
 /js/oas-
 /js/oas.
@@ -5624,6 +5643,7 @@
 /native-ad-
 /native-ads-
 /native-advertising/*
+/native_ad/*
 /nativead.
 /nativead/*
 /NativeAdManager.
@@ -5758,7 +5778,7 @@
 /openads_
 /openadserver/*
 /openx-$domain=~openx.com
-/openx.$domain=~openx.tv
+/openx.
 /openx/*
 /openx_
 /openxtag.
@@ -5905,6 +5925,9 @@
 /pilot_ad.
 /pitattoad.
 /pix/ads/*
+/pixel/pure
+/pixel/purs?
+/pixel/purst?
 /pixelads/*
 /place-ads/*
 /placead_
@@ -6014,6 +6037,7 @@
 /printad.
 /printad/*
 /printads/*
+/prism_ad/*
 /PRNAd300x150.
 /proads/*
 /proadvertising.
@@ -6317,6 +6341,7 @@
 /securepubads.
 /seo-ads.
 /serv.ads.
+/servads.
 /serve.ads.
 /servead.
 /servead/*
@@ -6917,6 +6942,7 @@
 /video-ads-management.
 /video-ads-player.
 /video-ads/*
+/video-js-ads.
 /video.ads.
 /video/ad/*
 /video/ads/*
@@ -7080,6 +7106,7 @@
 /www/delivery/*
 /www/js/ad/*
 /www/xengine/*
+/wwwad.
 /wwwads.
 /x5advcorner.
 /xads.js
@@ -7540,6 +7567,7 @@ _adpartner.
 _adplugin.
 _adright.
 _adright2.
+_adrotate-
 _adrotator.
 _adrow-
 _ads-affiliates_
@@ -7735,6 +7763,7 @@ _dart_ads.
 _dart_interstitial.
 _dashad_
 _dfp.php?
+_dfp_qa.
 _dfp_targeting.
 _Digital_Ads-
 _dispad_
@@ -7905,6 +7934,7 @@ _static_ads.
 _sticky_ad.
 _StickyAd.
 _StickyAdFunc.
+_suggestive_ads_
 _survey_ad_
 _tagadvertising.
 _temp/ad_
@@ -8071,6 +8101,7 @@ _prx/ba_$script
 /prebid2140.
 /prebid?
 /prebid_$script
+/prebidtest.
 /prodprebidheader-
 /pubfig.js
 /pubfig.min.js
@@ -8129,6 +8160,11 @@ _prebid_
 /cdn-cgi/pe/bag?r*pubads.g.doubleclick.net
 ! adinsertion used on gizmodo.in lifehacker.co.in
 /datomata.widget.js
+! domain parking redirection
+/affiliate/referral.asp?site=*&aff_id=$document
+/bdv_rd2.dbm?enparms$document
+/jscheck.php?enc=$xmlhttprequest
+/match-*/mf_*/feed$document
 ! Common adserver string
 /mediahosting.engine$document,script,subdocument
 /Redirect.a2b?$document,script,subdocument

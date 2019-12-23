@@ -334,6 +334,7 @@
 ||abcompteur.com^$third-party
 ||ad4m.at^$third-party
 ||admo.tv^$third-party
+||adsixmedia.fr^$third-party
 ||adthletic.com^$third-party
 ||affilizr.com^$third-party
 ||air360tracker.net^$third-party
@@ -354,6 +355,8 @@
 ||compteur.org^$third-party
 ||count.fr^$third-party
 ||countus.fr^$third-party
+||d-bi.fr^$third-party
+||datado.me^$third-party
 ||datadome.co^$third-party
 ||deliv.lexpress.fr^$third-party
 ||do09.net^$third-party
@@ -372,6 +375,7 @@
 ||graphinsider.com^$third-party
 ||hunkal.com^$third-party
 ||ivitrack.com^$third-party
+||kdata.fr^$third-party
 ||lead-analytics.biz^$third-party
 ||leadium.com^$third-party
 ||libstat.com^$third-party
@@ -385,6 +389,7 @@
 ||netvigie.com^$third-party
 ||organicfruitapps.com^$third-party
 ||phywi.org^$third-party
+||potterpetrey.com^$third-party
 ||reseau-pub.com^$third-party
 ||semiocast.com^$third-party
 ||sitizy.network^$third-party
@@ -402,6 +407,7 @@
 ||webcompteur.com^$third-party
 ||wysistat.com^$third-party
 ||x-traceur.com^$third-party
+||ywywjrlbsuv.com^$third-party
 ! Armenian
 ||circle.am^$third-party
 ! Belarusian
@@ -454,7 +460,6 @@
 ||logly.co.jp^$third-party
 ||mediav.com^$third-party
 ||miaozhen.com^$third-party
-||mmstat.com^$third-party
 ||oadz.com^$third-party
 ||p0y.cn^$third-party
 ||phpstat.com^$third-party

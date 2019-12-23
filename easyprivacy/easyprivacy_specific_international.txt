@@ -248,6 +248,7 @@
 ||tp.deawm.com^
 ||tr.werkenntwen.de^
 ||track.bazonline.ch^
+||track.berliner-kurier.de^
 ||track.bernerzeitung.ch^
 ||track.cinestar.de^
 ||track.derbund.ch^
@@ -314,6 +315,7 @@
 ||azurewebsites.net^*/mnr-mediametrie-tracking-
 ||bigvoy.com/cft/view.php
 ||bloguez.com/manager/compteurs/
+||buf.lemonde.fr^
 ||c0011.boursorama.com^
 ||cfcn.allocine.net^
 ||clubic.com/editorial/publier_count.php?
@@ -324,20 +326,14 @@
 ||dm.journaldesfemmes.com^
 ||dm.journaldunet.com^
 ||dm.linternaute.com^
-||ea.celio.com^
-||ea.clubic.com^
-||ea.jeuxvideopc.com^
-||ea.lexpress.fr^
-||ea.monsieurmanuel.com^
-||ea.rueducommerce.fr^
 ||editeurjavascript.com/hit-parade.php
 ||elr.sfr.fr^
 ||eultech.fnac.com^
+||events.guesttoguest.com^
 ||flake.formr.io/sp.js
 ||franceculture.fr/static/js/xtcore-
 ||g.itespresso.fr^
 ||galerieslafayette.com/c/
-||grazia.fr/ea.js
 ||gstat.orange.fr^
 ||hit.leboncoin.fr^
 ||iphonesoft.fr/js/analytics-
@@ -368,19 +364,20 @@
 ||sa.tf1.fr^
 ||secure-stat.canal-plus.com^
 ||sfr.fr/js/pent-stats.jsp
-||sport365.fr/ea.js
 ||stat.ouedkniss.com^
 ||stat.webevolutis.com^
+||stats.grafikart.fr^
 ||stats1x1.kapaza.be^
 ||surace-jujitsu.fr/outils/compteur_php/
+||t.blablacar.com^
 ||tag.boulanger.fr^
+||tc.hometogo.net^
 ||track.24heures.ch^
 ||tracker-id.cdiscount.com^
 ||tracker.cds-tracking.com^
 ||tracker.mspy.com^
 ||tracking.ha.rueducommerce.fr^
 ||unblog.fr/cu.js
-||virginmobile.fr/ea.js
 ||wawacity.*/bypass
 ||wbdds.allocine.fr^
 ||zonecss.fr/images/stat_robocop.gif?
@@ -408,6 +405,7 @@
 ||analytics.nextmedia.com^
 ||analytics.shop.hisense.com^
 ||analytics.zhihu.com^
+||anti-bot.baidu.com^
 ||atm.youku.com^
 ||autohome.com.cn/count.js
 ||autohome.com.cn/deliver?
@@ -417,6 +415,7 @@
 ||baidu.com/click.gif?
 ||baidu.com/dalog/
 ||baidu.com/dv.gif?
+||baidu.com/nocache/mp/b.jpg?cmd=
 ||baidu.com/tb/pms/img/st.gif?
 ||baidu.com^*/adlog?
 ||baidu.com^*/c.gif?
@@ -472,6 +471,7 @@
 ||hisense.com/ta.js
 ||hk.ndx.nextmedia.com^
 ||ifeng.com/i?p=
+||imgstat.baidu.com^
 ||imp.appledaily.com^
 ||jcm.jd.com^
 ||jiayuan.com^*/pv.js
@@ -497,7 +497,13 @@
 ||logx.mtime.cn^
 ||logx.mtime.com^
 ||luobo.tv/staticts.html
+||map.baidu.com/newmap_test/static/common/images/transparent.gif
 ||mar.vip.com^
+||mp.weixin.qq.com/mp/appmsgreport?
+||mp.weixin.qq.com/mp/getappmsgad?
+||mp.weixin.qq.com/mp/report?
+||music.163.com/weapi/feedback/weblog
+||music.163.com/weapi/pl/count
 ||narutom.com/stat.js
 ||nstat.tudou.com^
 ||on.cc^*/checkrev.gif?
@@ -515,6 +521,8 @@
 ||pv.udn.com^
 ||pv.xcar.com.cn^
 ||pvx.xcar.com.cn^
+||qhimg.com/11.0.1.js$script
+||qihucdn.com/11.0.1.js$script
 ||qq.com/kvcollect?
 ||qq.com/p?
 ||qq.com/qqcom/
@@ -631,7 +639,10 @@
 ||webstatistieken.xs4all.nl^
 ! Finnish
 ||analytics.sanoma.fi^
+||dp.alma.iltalehti.fi/v1/cookie
+||events.il.fi^
 ||huuto.net/js/analytic/
+||ilcdn.fi^*/Bootstrap.js
 ||mtv3.fi/remarketing.js
 ||stat.mtv3.fi^
 ||ts.fi^*/spring.js
@@ -644,7 +655,6 @@
 ||ds.haaretz.co.il^
 ||events.walla.co.il/events.asp
 ||inn.co.il/Controls/HPJS.ashx?act=log
-||nana10.co.il/statistics/
 ||stats.mako.co.il^
 ||walla.co.il/CountsHP.asp?
 ||walla.co.il/impression/
@@ -674,6 +684,7 @@
 ||g.techweekeurope.it^
 ||gazzetta.it^*/stats.php?
 ||getscreensaver.it/statistiche/
+||ilsole24ore.com/static/js/track.js?
 ||joka.it/inquiero/isapi/csf.dll?
 ||la7.it/js-live/nielsen1.js
 ||libero.it//js/comscore/
@@ -708,6 +719,7 @@
 ||videogame.it/a/logview/
 ||virgilio.it/clientinfo.gif?
 ||volkswagen-italia.it^*/tracking/
+||vvvvid.it^$ping
 ||yachtingnetwork.it/stat/
 ! Japanese
 ||amazonaws.com/ai-img/aia.js
@@ -725,6 +737,7 @@
 ||ln.ameba.jp^
 ||log.suumo.jp^
 ||measure.ameblo.jp^
+||mmstat.com^$image
 ||mtc.nhk.or.jp^
 ||nhk.or.jp^*/bc.js
 ||ppf.rakuten.co.jp^$~script
@@ -756,9 +769,12 @@
 ||naver.com/PostView.nhn?$image
 ||nil.naver.com^
 ||pb.m.naver.com^
+||prism.pandora.tv^
 ||seoul.co.kr/weblog/
 ||sp.naver.com^
+||stat.tiara.kakao.com^
 ||track.tiara.daum.net^
+||track.tiara.kakao.com^
 ||tracker.cauly.co.kr^
 ||veta.naver.com^
 ||wcs.naver.com^
@@ -849,7 +865,10 @@
 ||kommersant.uk/banner_stats
 ||lamoda.ru/z?
 ||link.subscribe.ru^
-||livelib.ru/service/
+||livelib.ru/service/pinger
+||livelib.ru/service/spv
+||livelib.ru/service/traffic
+||livelib.ru/service/visitlist/
 ||lmcdn.ru^*/statistics.js
 ||log.ren.tv^
 ||mail.ru/count/
