@@ -9,6 +9,10 @@
 /a-tuijian.
 /a-yejiao.
 /db122.
+/gujian.
+/bk2.
+##.a_czt
+##.good_main
 ##.banner + * + * + *
 /dsj7133.
 ###randboxb+*+*+*
@@ -17,5 +21,7 @@
 /downdangbei.
 ##[style="height:20px;"] + * + * + *
 /1020x60-1.
+##[style="display: block;margin: 0 auto;width: 1000px;margin-top: 58px;"]
+##[style="width:1000px;margin:0 auto;display:block;margin-top: 20px;"]
 !51ZJ
 !US-EN
