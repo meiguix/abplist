@@ -45,3 +45,4 @@
 ||google.com/cse/*$third-party
 ||google-analytics.com^$third-party
 ||netdna.bootstrapcdn.com^$third-party
+||skimresources.com^$third-party
