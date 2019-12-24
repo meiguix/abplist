@@ -36,3 +36,12 @@
 ##.well
 ##[style="font-size:14px;border-radius: 4px; border: 2px solid #f9f7f7; color:#525050; width:95%; margin:0 auto; padding:10px; margin-top: 10px; text-align:center; line-height:30px; font-family:'微软雅黑'"]
 !US-EN
+||ajax.googleapis.com^$third-party
+||cdnjs.cloudflare.com^$third-party
+||connect.facebook.net^$third-party
+||cse.google.com^$third-party
+||fonts.googleapis.com^$third-party
+||fonts.gstatic.com^$third-party
+||google.com/cse/*$third-party
+||google-analytics.com^$third-party
+||netdna.bootstrapcdn.com^$third-party
