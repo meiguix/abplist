@@ -40,6 +40,7 @@
 ##.well
 ##[style="font-size:14px;border-radius: 4px; border: 2px solid #f9f7f7; color:#525050; width:95%; margin:0 auto; padding:10px; margin-top: 10px; text-align:center; line-height:30px; font-family:'微软雅黑'"]
 !US-EN
+photopea.com###cap
 ||ajax.googleapis.com^$third-party
 ||cdnjs.cloudflare.com^$third-party
 ||connect.facebook.net^$third-party
@@ -50,3 +51,6 @@
 ||google-analytics.com^$third-party
 ||netdna.bootstrapcdn.com^$third-party
 ||skimresources.com^$third-party
+!SC
+/api/v4/lot
+/uploads/javascript_core
