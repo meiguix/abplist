@@ -21,8 +21,12 @@
 /downdangbei.
 ##[style="height:20px;"] + * + * + *
 /1020x60-1.
+##.ul_main
 ##[style="display: block;margin: 0 auto;width: 1000px;margin-top: 58px;"]
 ##[style="width:1000px;margin:0 auto;display:block;margin-top: 20px;"]
+!QD
+##.focus-img
+##[style="text-align: center;"]
 !51ZJ
 ###topTxt
 ###loc
