@@ -23,6 +23,81 @@ sports.qq.com###footer
 ##[style="margin:10px auto 20px; overflow:hidden; *zoom:1;"]
 ##[style="margin:15px 0 10px;"]
 ###test.nl
+!------------SINA------------!
+sina.com.cn###footer
+##[data-sudaclick="blk_top1_house"]
+##.nmod01
+##.searchCars
+##.blank-cont[style="height:23px;"]
+##.part-e
+##.blank-cont[style="height:15px;"]
+##.part-ip-1
+##[style="z-index:1"]
+##.blank-cont[style="height:16px"]
+##.blank-cont[style="height:12px"]
+##.part-j
+##.part-n
+##.part-n + [style="height:25px"]
+##.part-o
+##.part-r
+##.part-r + [style="height:25px"]
+##.part-s
+##.blank-cont[style="height:20px"]
+##.video-slider
+###sina_footer
+##.SP_ad_20150703
+##.daoliu-iframe
+!
+news.sina.com.cn###tab_related
+###recommendB
+###video-miaopai
+###hot-blog
+##.nav-link-box
+##[data-sudaclick="ad_right_sea_p"]
+sports.sina.com.cn##.footer
+sports.sina.com.cn###tab_related
+##.footer-cont
+###j_wrap_55a07552_9f6c_12b3_4f25_921db3cc5584
+###j_wrap_894980cb_ad47_ac8b_4b9e_a4f65e6b70fb
+###j_wrap_a0ff4cae_adf2_578f_4c55_bbefe76ea2b3
+ent.sina.com.cn##.ent_ad
+##[data-sudaclick="right_kandian_p"]
+##[data-sudaclick="right_search_p"]
+##[data-sudaclick="right_videos_p"]
+tech.sina.com.cn###tab_related
+##[data-sudaclick="blk-chuangye"]
+##[data-sudaclick="blk-kejiqy"]
+##.tech-quotation
+##[data-sudaclick="right_chuangshiji_p"]
+##[data-sudaclick="right_discovery_p"]
+##[data-sudaclick="right_scientist_p"]
+##[data-sudaclick="right_zt_p"]
+##.blk9
+##.blk_articles
+##.tech-right-footer
+fashion.sina.com.cn##.video-wrap
+##.star-wrap
+##.fashion-wrap
+##.fashion-app
+finance.sina.com.cn###most_read
+finance.sina.com.cn###tab_related
+##.fc_sidebar
+##IFRAME[height="320"]
+##[style="margin-top:11px;"]
+##IFRAME[height="305"]
+##IFRAME[height="560"]
+##IFRAME[height="410"]
+##IFRAME[height="310"]
+##.tit1 + .list1
+##[data-sudaclick="right_live_p"]
+!
+##.footer-bg
+##.share-layout
+##SCRIPT + .s-tit
+##.love-list
+###tsList + .s-tit
+##.s-tit + .video-list
+!------------SINA------------!
 ! YX
 ali213.net##.ali-foot
 ###nav_zhengban
