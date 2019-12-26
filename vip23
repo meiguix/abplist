@@ -4,7 +4,28 @@
 ! Last modified: 2019-12-26
 ! Expires: 180 days
 !
-!QDK
+! YX
+ali213.net##.ali-foot
+###nav_zhengban
+###nav_shouyou
+###nav_yeyou
+###nav_yule
+ali213.net###rmpl
+##.web_news_right
+##.t5c_r_xyxh
+###g1
+##.web_news_right + .t5c_r_tjh
+##.t5c_r_tjo + .t5c_r_tjh
+##.zt_center_con_body_left_gametj_con
+##.news_app
+##.n_xs + .n_xg
+##.line10 + * + * + * + * + .n_xg
+##.n_xglist
+##.n_xgbbs + .n_xg
+##.tjyd.masonry
+ali213.net##.news_foot
+pic.ali213.net##.ALi_f
+! QDK
 news.mydrivers.com###footer
 news.mydrivers.com##.footer_about
 ##.baidu
