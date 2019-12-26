@@ -1,4 +1,4 @@
-!Baidu
+! Baidu
 baidu.com###qrcode
 ###s_qrcode_feed
 ###bottom_layer
@@ -8,7 +8,7 @@ fanyi.baidu.com##.app-guide
 pan.baidu.com##.module-canvas
 ###dialog1
 ##.phone-banner
-!TX
+! TX
 ##.layout.qq-gg
 ###mercury
 ###wntj-xh
@@ -16,8 +16,8 @@ pan.baidu.com##.module-canvas
 ###ad_qll_width1
 ###ad_qll_width2
 ###ad_qll_width3
-!Qzone
-!Sina
+! Qzone
+! Sina
 ##.blank-cont[style="height:25px;"]
 ent.sina.com.cn##.fbr-down
 ###wrap_wbHot
@@ -42,13 +42,13 @@ finance.sina.com.cn###jj50r
 ##.article-bottom-tg
 ###wx-tg-cont
 ##[data-sudaclick="sf_cjapp_rightzxg_P"]
-!QDK
-!YX
+! QDK
+! YX
 ###ali-js-1
 game.ali213.net##[align="center"]
 ###alibbscb
-!TBMJD
-!DB
+! TBMJD
+! DB
 /a-yejiao.
 /a-tuijian.
 /db122.
@@ -67,9 +67,9 @@ game.ali213.net##[align="center"]
 ##.ul_main
 ##[style="display: block;margin: 0 auto;width: 1000px;margin-top: 58px;"]
 ##[style="width:1000px;margin:0 auto;display:block;margin-top: 20px;"]
-!QD
+! QD
 ##.focus-img
-!51ZJ
+! 51ZJ
 ###topTxt
 ###loc
 ##.dxy370
@@ -81,7 +81,7 @@ game.ali213.net##[align="center"]
 ##.softsfwtl
 ##.well
 ##[style="font-size:14px;border-radius: 4px; border: 2px solid #f9f7f7; color:#525050; width:95%; margin:0 auto; padding:10px; margin-top: 10px; text-align:center; line-height:30px; font-family:'微软雅黑'"]
-!US-EN
+! US-EN
 photopea.com###cap
 ||ajax.googleapis.com^$third-party
 ||cdnjs.cloudflare.com^$third-party
@@ -93,6 +93,6 @@ photopea.com###cap
 ||google-analytics.com^$third-party
 ||netdna.bootstrapcdn.com^$third-party
 ||skimresources.com^$third-party
-!SC
+! SC
 /api/v4/lot
 /uploads/javascript_core
