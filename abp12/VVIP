@@ -81,7 +81,7 @@ game.ali213.net##[align="center"]
 ##.softsfwtl
 ##.well
 ##[style="font-size:14px;border-radius: 4px; border: 2px solid #f9f7f7; color:#525050; width:95%; margin:0 auto; padding:10px; margin-top: 10px; text-align:center; line-height:30px; font-family:'微软雅黑'"]
-! US-EN
+! HK-US-EN
 photopea.com###cap
 ||ajax.googleapis.com^$third-party
 ||cdnjs.cloudflare.com^$third-party
@@ -91,8 +91,12 @@ photopea.com###cap
 ||fonts.gstatic.com^$third-party
 ||google.com/cse/*$third-party
 ||google-analytics.com^$third-party
+||hm.baidu.com^$third-party
 ||netdna.bootstrapcdn.com^$third-party
 ||skimresources.com^$third-party
+||use.typekit.net^$third-party
 ! SC
 /api/v4/lot
 /uploads/javascript_core
+! KO
+! JP
