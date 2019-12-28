@@ -16777,6 +16777,9 @@ pan.baidu.com##.module-canvas
 ###ad_qll_width2
 ###ad_qll_width3
 ! Qzone
+##.ui-popover
+###qz_notification
+###J_inner_tips
 ! Sina
 ##.blank-cont[style="height:25px;"]
 ent.sina.com.cn##.fbr-down
@@ -16811,6 +16814,7 @@ game.ali213.net##[align="center"]
 ###alibbscb
 ! TBMJD
 ###toolbar-qrcode
+||h5.360buyimg.com^
 ##.tanx.J_Module
 ||wwc.alicdn.com^
 ##.sufei-dialog
@@ -16867,6 +16871,7 @@ photopea.com###cap
 ||netdna.bootstrapcdn.com^$third-party
 ||skimresources.com^$third-party
 ||use.typekit.net^$third-party
+||zz.bdstatic.com^$third-party
 ! SC
 /api/v4/lot
 /uploads/javascript_core
