@@ -98,7 +98,6 @@ photopea.com###cap
 ##SEND-PROMO
 ###mobilebanner
 ||ajax.googleapis.com^$third-party
-||bdstatic.com^$~baidu.com
 ||connect.facebook.net^$third-party
 ||cse.google.com^$third-party
 ||fonts.googleapis.com^$third-party
@@ -109,6 +108,7 @@ photopea.com###cap
 ||netdna.bootstrapcdn.com^$third-party
 ||skimresources.com^$third-party
 ||use.typekit.net^$third-party
+||zz.bdstatic.com^$third-party
 ! SC
 /api/v4/lot
 /uploads/javascript_core
