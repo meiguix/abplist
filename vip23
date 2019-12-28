@@ -25,6 +25,21 @@ sports.qq.com###footer
 ##[style="margin:10px auto 20px; overflow:hidden; *zoom:1;"]
 ##[style="margin:15px 0 10px;"]
 ###test.nl
+! Qzone
+###tab_switch
+##.sn-line
+##.fn_accessLog_tips
+###QM_Container_333
+###set-home-page-bubble
+##.app-fixedbar
+##.app-guard.app-guard-left
+##.app-guard.app-guard-right
+##.publicity-list
+##.new-feature-guide
+##.recommend-list
+##.public-banner
+###J_slider_contanier
+##[style="padding:0 10px 5px 80px;line-height:20px;"]
 !------------SINA------------!
 sina.com.cn###footer
 ##[data-sudaclick="blk_top1_house"]
