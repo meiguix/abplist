@@ -98,7 +98,7 @@ photopea.com###cap
 ##SEND-PROMO
 ###mobilebanner
 ||ajax.googleapis.com^$third-party
-||zz.bdstatic.com^$third-party
+||bdstatic.com^$~baidu.com
 ||connect.facebook.net^$third-party
 ||cse.google.com^$third-party
 ||fonts.googleapis.com^$third-party
