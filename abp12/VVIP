@@ -17,6 +17,9 @@ pan.baidu.com##.module-canvas
 ###ad_qll_width2
 ###ad_qll_width3
 ! Qzone
+##.ui-popover
+###qz_notification
+###J_inner_tips
 ! Sina
 ##.blank-cont[style="height:25px;"]
 ent.sina.com.cn##.fbr-down
