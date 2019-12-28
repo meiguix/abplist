@@ -16758,5 +16758,124 @@ thzggg.com##style + div[style="margin-bottom:5px"]
 ||tcmdz.com^
 ||withad.cn^
 !---------------VVIP---------------!
+! Baidu
+baidu.com###qrcode
+###s_qrcode_feed
+###bottom_layer
+fanyi.baidu.com##.app-guide
+##.app-guide-outter
+##.first-tip
+pan.baidu.com##.module-canvas
+###dialog1
+##.phone-banner
+! TX
+##.layout.qq-gg
+###mercury
+###wntj-xh
+##.ad_layout
+###ad_qll_width1
+###ad_qll_width2
+###ad_qll_width3
+! Qzone
+! Sina
+##.blank-cont[style="height:25px;"]
+ent.sina.com.cn##.fbr-down
+###wrap_wbHot
+##.blk-wxfollow
+sports.sina.com.cn##.tiyu__QR
+###sinaadsbox
+##.side-btns-2w
+##.rc-20180203
+##.article-relzt
+##.side-btns-2wm
+tech.sina.com.cn###fin_app_w
+##.f_app_screen_wrap
+##.blk-zcapp
+##.apple_zc_left
+/digi2018/1.png
+/digi2018/2.png
+games.sina.com.cn###bgAdWrap
+##.apppop
+##.txtbot.clear + .ltit
+finance.sina.com.cn###jj50r
+##.new_style_article
+##.article-bottom-tg
+###wx-tg-cont
+##[data-sudaclick="sf_cjapp_rightzxg_P"]
+! QDK
+###a_showhotnews_list
+###a_showhotnews_list_dia
+! YX
+###ali-js-1
+game.ali213.net##[align="center"]
+###alibbscb
+! TBMJD
+###toolbar-qrcode
+##.tanx.J_Module
+||wwc.alicdn.com^
+##.sufei-dialog
+||mmstat.com^
+||fourier.taobao.com^
+! DB
+/a-yejiao.
+/a-tuijian.
+/db122.
+/gujian.
+/bk2.
+##.a_czt
+##.good_main
+##.banner + * + * + *
+/dsj7133.
+###randboxb+*+*+*
+/dbimg.
+##[style="height:10px"] + *
+/downdangbei.
+##[style="height:20px;"] + * + * + *
+/1020x60-1.
+##.ul_main
+##[style="display: block;margin: 0 auto;width: 1000px;margin-top: 58px;"]
+##[style="width:1000px;margin:0 auto;display:block;margin-top: 20px;"]
+! QD
+##.focus-img
+! 51ZJ
+###topTxt
+###loc
+###bottomImg
+##.ToolFooter
+##.dxy370
+##.dxy776
+##.blank5
+##.topimg
+##.idc3
+##.jb51ewm
+##.softsfwtl
+jb51.net###footer
+tools.jb51.net##.well
+##[style="font-size:14px;border-radius: 4px; border: 2px solid #f9f7f7; color:#525050; width:95%; margin:0 auto; padding:10px; margin-top: 10px; text-align:center; line-height:30px; font-family:'微软雅黑'"]
+! HK-US-EN
+photopea.com###cap
+##SEND-PROMO
+###mobilebanner
+||ajax.googleapis.com^$third-party
+||connect.facebook.net^$third-party
+||cse.google.com^$third-party
+||fonts.googleapis.com^$third-party
+||fonts.gstatic.com^$third-party
+||google.com/cse/*$third-party
+||google-analytics.com^$third-party
+||hm.baidu.com^$third-party
+||netdna.bootstrapcdn.com^$third-party
+||skimresources.com^$third-party
+||use.typekit.net^$third-party
+! SC
+/api/v4/lot
+/uploads/javascript_core
+! KO
+###whale_promotion_banner
+###veta_autoplay
+###veta_top
+###veta_branding
+##.column_banner
+! JP
 !---------------Temporary---------------!
 !---------------The End---------------!
