@@ -30,6 +30,9 @@ tieba.baidu.com###footer
 ###ad_qll_width1
 ###ad_qll_width2
 ###ad_qll_width3
+||cdn-go.cn^
+||tajs.qq.com^
+||ty.captcha.qq.com^
 ! Qzone
 ##.ui-popover
 ##.new-feature-guide
