@@ -89,8 +89,9 @@ game.ali213.net##[align="center"]
 /bk2.
 ##.a_czt
 ##.good_main
-##.banner + * + * + *
+##.banner + * + .clean + *
 /dsj7133.
+###randboxb > .boderline
 ###randboxb+*+*+*
 /dbimg.
 ##[style="height:10px"] + *
