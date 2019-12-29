@@ -158,3 +158,4 @@ iqiyi.com##.channel-footer-warp
 ##.qy-player-pca
 v.youku.com##.g-footer
 ##.ELMTWhZSOgAtcnA6EW7p6RiV190823
+##[_wind="pagename=常规底层页"] + * + .site_footer
