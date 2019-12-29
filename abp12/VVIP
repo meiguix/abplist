@@ -2,6 +2,18 @@
 baidu.com###qrcode
 ###s_qrcode_feed
 ###bottom_layer
+##.hint_right_top
+##.hint_right_middle
+##[srcid="1599"][data-click="\7b \"rsv_bdr\":\"0\",\"p5\":1\7d "]
+##[srcid="1599"][data-click="\7b \"rsv_bdr\":\"0\",\"p5\":3\7d "]
+##[srcid="1599"][data-click="\7b \"rsv_bdr\":\"0\",\"p5\":11\7d "]
+##[srcid="1599"][data-click="\7b \"rsv_bdr\":\"0\",\"p5\":12\7d "]
+##[srcid="1599"][data-click="\7b \"rsv_bdr\":\"0\",\"p5\":13\7d "]
+##[srcid="1599"][data-click="\7b \"rsv_bdr\":\"0\",\"p5\":14\7d "]
+##[srcid="1599"][data-click="\7b \"rsv_bdr\":\"0\",\"p5\":15\7d "]
+##[srcid="1599"][data-click="\7b \"rsv_bdr\":\"0\",\"p5\":16\7d "]
+##[srcid="1599"][data-click="\7b \"rsv_bdr\":\"0\",\"p5\":17\7d "]
+##[srcid="1599"][data-click="\7b \"rsv_bdr\":\"0\",\"p5\":18\7d "]
 fanyi.baidu.com##.app-guide
 ##.app-guide-outter
 ##.first-tip
