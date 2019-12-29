@@ -32,6 +32,10 @@ tieba.baidu.com###footer
 ###ad_qll_width3
 ! Qzone
 ##.ui-popover
+##.new-feature-guide
+###set-home-page-bubble
+###tab_switch
+###tab_applist_switch
 ###qz_notification
 ###J_inner_tips
 ! Sina
