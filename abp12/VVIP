@@ -131,7 +131,9 @@ photopea.com###cap
 ||google-analytics.com^$third-party
 ||hm.baidu.com^$third-party
 ||netdna.bootstrapcdn.com^$third-party
+||platform.twitter.com^$third-party
 ||skimresources.com^$third-party
+||translate.google.com^$third-party
 ||use.typekit.net^$third-party
 ||zz.bdstatic.com^$third-party
 ! SC
@@ -143,7 +145,6 @@ photopea.com###cap
 ###veta_top
 ###veta_branding
 ##.column_banner
-! JP
 ! Video
 ##.grid-noad
 ###video-download-game
