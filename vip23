@@ -159,3 +159,14 @@ iqiyi.com##.channel-footer-warp
 v.youku.com##.g-footer
 ##.ELMTWhZSOgAtcnA6EW7p6RiV190823
 ##[_wind="pagename=常规底层页"] + * + .site_footer
+! JP
+###new_footer_box
+##.bunner
+###new_header_box > P
+/camp/sale
+/side_cardinfo_pc2
+/freesend_
+/new_guide
+##.contents_right
+/guide/rentalup
+##.item_mailtag
