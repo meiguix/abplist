@@ -137,6 +137,7 @@ photopea.com###cap
 ||ssl.qhres.com^$third-party
 ||translate.google.com^$third-party
 ||use.typekit.net^$third-party
+||users.51.la^$third-party
 ||zz.bdstatic.com^$third-party
 ! SC
 /api/v4/lot
