@@ -150,3 +150,18 @@ photopea.com###cap
 ###second-afp
 ! GZW
 ##.adboxs
+! BT
+||dc5k8fg5ioc8s.cloudfront.net^
+||distoryrussion.info^
+||s3.amazonaws.com^$third-party
+/dark-animated
+###note[style="display: block;"]
+##.becbdbcf
+###at4-share
+###close-fixedbanner
+/msk-close
+||addthis.com^$third-party
+||api.ip.sb^
+||c.statcounter.com^
+||graph.facebook.com^$third-party
+||secure.statcounter.com^
