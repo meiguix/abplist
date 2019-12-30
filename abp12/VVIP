@@ -134,6 +134,7 @@ photopea.com###cap
 ||netdna.bootstrapcdn.com^$third-party
 ||platform.twitter.com^$third-party
 ||skimresources.com^$third-party
+||ssl.qhres.com^$third-party
 ||translate.google.com^$third-party
 ||use.typekit.net^$third-party
 ||zz.bdstatic.com^$third-party
