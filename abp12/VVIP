@@ -123,6 +123,7 @@ photopea.com###cap
 ##SEND-PROMO
 ###mobilebanner
 ||ajax.googleapis.com^$third-party
+||cnzz.com^$third-party
 ||connect.facebook.net^$third-party
 ||cse.google.com^$third-party
 ||fonts.googleapis.com^$third-party
