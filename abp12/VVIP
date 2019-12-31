@@ -66,6 +66,8 @@ finance.sina.com.cn###jj50r
 ##.article-bottom-tg
 ###wx-tg-cont
 ##[data-sudaclick="sf_cjapp_rightzxg_P"]
+###pl_band_index + .card-wrap
+##.W_layer_tips
 ! QDK
 ###a_showhotnews_list
 ###a_showhotnews_list_dia
