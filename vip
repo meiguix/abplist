@@ -118,6 +118,10 @@ finance.sina.com.cn###tab_related
 ##.love-list
 ###tsList + .s-tit
 ##.s-tit + .video-list
+!
+weibo.com##.WB_footer
+##.PCD_mplayer
+###Pl_Core_RecommendFeed__24
 !------------SINA------------!
 ! YX
 ali213.net##.ali-foot
