@@ -16860,7 +16860,7 @@ game.ali213.net##[align="center"]
 /dbimg.
 ##[style="height:10px"] + *
 /downdangbei.
-##[style="height:20px;"] + * + * + *
+##.clear + .boderline
 /1020x60-1.
 ##.ul_main
 ##[style="display: block;margin: 0 auto;width: 1000px;margin-top: 58px;"]
