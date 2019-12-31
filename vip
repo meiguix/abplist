@@ -130,6 +130,8 @@ ali213.net###rmpl
 ##.t5c_r_xyxh
 ###g1
 ##.web_news_right + .t5c_r_tjh
+##.header-bg
+##.nzl_t6
 ##.t5c_r_tjo + .t5c_r_tjh
 ##.zt_center_con_body_left_gametj_con
 ##.news_app
@@ -141,6 +143,7 @@ ali213.net###rmpl
 ali213.net##.news_foot
 pic.ali213.net##.ALi_f
 ! QDK
+news.mydrivers.com##.link
 news.mydrivers.com###footer
 news.mydrivers.com##.footer_about
 ##.baidu
