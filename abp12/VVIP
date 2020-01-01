@@ -1,5 +1,5 @@
 ! Baidu
-baidu.com###qrcode
+##.qrcodeCon
 ###s_qrcode_feed
 ###bottom_layer
 ##.hint_right_top
@@ -89,6 +89,7 @@ game.ali213.net##[align="center"]
 ||mmstat.com^
 ||fourier.taobao.com^
 ! DB
+##[rel="nofollow"] > IMG
 /a-yejiao.
 /a-tuijian.
 /db122.
