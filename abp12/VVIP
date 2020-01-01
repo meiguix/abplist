@@ -115,11 +115,18 @@ game.ali213.net##[align="center"]
 ###loc
 ###bottomImg
 ##.ToolFooter
-##.dxy370
-##.dxy776
+##.logom.fl
+##.logor.fr
+##.mainlr IMG
 ##.blank5
 ##.topimg
+##.dxy370
+##.dxy776
+###container > .pt10
+jb51.net##.r300
 ##.idc3
+##.mt10.rFixedBox
+##.lbd_bot
 ##.jb51ewm
 ##.softsfwtl
 ||apps.bdimg.com^
