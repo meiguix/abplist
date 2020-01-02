@@ -16760,6 +16760,7 @@ thzggg.com##style + div[style="margin-bottom:5px"]
 !------------Whitelist7------------!
 @@/newperson/newperson
 @@||bdstatic.com/static/common/widget/ui/admanager
+@@||log.mmstat.com^
 @@||misc.360buyimg.com/channel/??^
 !------------VVIP------------!
 ! Baidu
