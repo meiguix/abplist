@@ -168,6 +168,7 @@ news.mydrivers.com##.footer_about
 ! Viedo3
 ##.g_search
 ##.module-video2018-newupload
+##.grid + * + .g_copyright
 iqiyi.com##.channel-footer-warp
 ##.qy-player-pca
 v.youku.com##.g-footer
