@@ -16795,6 +16795,10 @@ tieba.baidu.com###footer
 ###ad_qll_width1
 ###ad_qll_width2
 ###ad_qll_width3
+||btrace.qq.com^
+||btrace.video.qq.com^
+||dp3.qq.com^
+||*.qqvideo.tc.qq.com^*.mp4?
 ||cdn-go.cn^
 ||tajs.qq.com^
 ||ty.captcha.qq.com^
@@ -16931,6 +16935,12 @@ photopea.com###cap
 ###veta_branding
 ##.column_banner
 ! Video
+##.u-panel_3C81k
+##[data-spm="anthology_shoujikan"]
+||hudong.alicdn.com^
+||irs01.com^
+||localhost.iku.youku.com^
+||ynuf.aliapp.org^
 ##.grid-noad
 ###video-download-game
 ###second-afp
