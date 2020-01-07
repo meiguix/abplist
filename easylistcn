@@ -16758,6 +16758,7 @@ thzggg.com##style + div[style="margin-bottom:5px"]
 ||tcmdz.com^
 ||withad.cn^
 !------------Whitelist7------------!
+@@/2014/1114/js/*
 @@/newperson/newperson
 @@||bdstatic.com/static/common/widget/ui/admanager
 @@||log.mmstat.com^
@@ -16792,6 +16793,7 @@ tieba.baidu.com###footer
 ###mercury
 ###wntj-xh
 ##.ad_layout
+sports.qq.com##.mt35
 ###ad_qll_width1
 ###ad_qll_width2
 ###ad_qll_width3
@@ -16858,7 +16860,7 @@ game.ali213.net##[align="center"]
 ||mmstat.com^
 ||fourier.taobao.com^
 ! DB
-##[rel="nofollow"] > IMG
+##DIV.a_mu
 /a-yejiao.
 /a-tuijian.
 /db122.
