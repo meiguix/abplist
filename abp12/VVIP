@@ -37,8 +37,6 @@ sports.qq.com##.mt35
 ||dp3.qq.com^
 ||*.qqvideo.tc.qq.com^*.mp4?
 ||cdn-go.cn^
-||tajs.qq.com^
-||ty.captcha.qq.com^
 ! Qzone
 ##.ui-popover
 ##.new-feature-guide
