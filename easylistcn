@@ -16794,7 +16794,7 @@ tieba.baidu.com###footer
 ###mercury
 ###wntj-xh
 ##.ad_layout
-sports.qq.com##.mt35
+##.layout.mt35
 ###ad_qll_width1
 ###ad_qll_width2
 ###ad_qll_width3
@@ -16802,7 +16802,7 @@ sports.qq.com##.mt35
 ||btrace.video.qq.com^
 ||dp3.qq.com^
 ||*.qqvideo.tc.qq.com^*.mp4?
-||cdn-go.cn^
+###qr_tips
 ! Qzone
 ##.ui-popover
 ##.new-feature-guide
