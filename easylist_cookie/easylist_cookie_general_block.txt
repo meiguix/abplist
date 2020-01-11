@@ -109,6 +109,7 @@
 /bauer.cookies.
 /bc-cookie-consent
 /bCookiesMessage.
+/bgmp-gdpr.
 /bgon-cookies-
 /borlabs-cookie/*$~script
 /borlabs_cookie/*$~script
@@ -132,6 +133,7 @@
 /cmp/privacy_manager?
 /cmp/tmcookie.
 /cmp/tracking-opt-
+/cmp3p.js
 /cmp_consentStorage.
 /cmp_shim.js
 /cmpCookie.
@@ -278,6 +280,7 @@
 /cookiebanner.
 /cookieBanner/*
 /cookiebar-
+/cookiebar.js
 /cookiebar_
 /cookiebox.
 /cookiec.json
@@ -387,6 +390,7 @@
 /cookies-policy-
 /cookies-policy.
 /cookies-policy/*
+/cookies-popup.
 /cookies-requirement.
 /cookies-requirement/*
 /cookies-window.js
@@ -643,6 +647,7 @@
 /privacy-cookies.js
 /privacy-manager.js
 /privacy-modal.js
+/privacy-policy.js
 /privacy-templates.js?
 /privacy/cookie.
 /privacy_cookie.

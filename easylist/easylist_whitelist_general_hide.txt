@@ -105,7 +105,6 @@ mautofied.com,thisisads.co.uk#@##adtext
 4sysops.com,autogidas.lt,ew.com,globalsecurity.org#@##adtop
 al.com,cleveland.com,gulflive.com,lehighvalleylive.com,masslive.com,mlive.com,nj.com,nola.com,oregonlive.com,pennlive.com,silive.com,syracuse.com#@##adv-masthead
 lawinfo.com#@##adv-top
-inverterbolsa.com#@##advert1
 lakeviewfinancial.net#@##advert2
 dice.com#@##advertContainer
 felcia.co.uk#@##advert_box
@@ -121,7 +120,7 @@ asuragen.com#@##bannerAd
 visitscotland.com#@##bannerAdWrapper
 macrumors.com#@##banner_topad
 alltimesgames.com,go.com,kennedyhealth.org,modernmedicine.com#@##bannerad
-hotels.mapov.com,redcanoecu.com#@##bigAd
+redcanoecu.com#@##bigAd
 sudoku.com.au#@##bigad
 eenadu.net,themediaonline.co.za#@##body_ad
 freeshipping.com#@##bottomAds
@@ -173,7 +172,7 @@ cyclingnews.com#@##mpu_container
 tei-c.org#@##msad
 www.yahoo.com#@##my-adsFPAD
 4kidstv.com#@##myAd
-180upload.nl,lemuploads.com,megarelease.org#@##player_ads
+lemuploads.com,megarelease.org#@##player_ads
 govolsxtra.com#@##pre_advertising_wrapper
 box10.com,chicagotribune.com,enemy.com,flashgames247.com,hackedarcadegames.com,puzzles.usatoday.com#@##prerollAd
 flickr.com#@##promo-ad
@@ -196,12 +195,10 @@ members.portalbuzz.com#@##sponsors-home
 acceptableads.com#@##text-ads
 audioacrobat.com#@##theAd
 foodbeast.com,mensfitness.com#@##top-ad
-boards.adultswim.com#@##top-ad-content
 isource.com#@##topAd
 playstationlifestyle.net#@##topAdSpace
 sdtimes.com#@##topAdSpace_div
 ceporn.net#@##topAds
-inverterbolsa.com#@##topAdvert
 neowin.net#@##topBannerAd
 morningstar.se,zootoo.com#@##top_ad
 hbwm.com#@##top_ads
@@ -294,7 +291,6 @@ abc.go.com#@#.adMessage
 seznam.cz#@#.adMiddle
 cheaptickets.com,orbitz.com#@#.adMod
 outspark.com#@#.adModule
-hotels.mapov.com#@#.adOverlay
 advertiser.ie#@#.adPanel
 shockwave.com#@#.adPod
 aggeliestanea.gr#@#.adResult
@@ -388,7 +384,6 @@ advancedrenamer.com,epicbundle.com,weightlosereally.com,willyoupressthebutton.co
 copart.com#@#.adscontainer
 starbike.com#@#.adsense_wrapper
 live365.com#@#.adshome
-chupelupe.com#@#.adside
 nationalpost.com#@#.adsizewrapper
 fodey.com,tuxpi.com#@#.adslot
 wg-gesucht.de#@#.adslot_blurred
@@ -417,7 +412,7 @@ niedziela.nl#@#.advert_container
 browsershots.org#@#.advert_list
 pets4homes.co.uk#@#.advertbox
 itavisen.no#@#.advertisement-1
-zalora.co.id,zalora.co.th,zalora.com.my,zalora.com.ph,zalora.sg#@#.advertisement-block
+zalora.co.id,zalora.co.th,zalora.com.hk,zalora.com.my,zalora.com.ph,zalora.com.tw,zalora.sg#@#.advertisement-block
 wired.com#@#.advertisement__leaderboard
 buyout.pro,news.com.au,zlinked.com#@#.advertiser
 anobii.com,ceporn.net#@#.advertisment
@@ -507,7 +502,7 @@ gq.com#@#.homepage-ad
 straighttalk.com#@#.homepage_ads
 radaronline.com#@#.horizontal_ad
 bodas.com.mx,bodas.net,daveramsey.com,economist.com,flightcentre.co.uk,mariages.net,matrimonio.com,payback.pl,ripley.cl,ripley.com.pe,weddingspot.co.uk,wsj.com#@#.img_ad
-a-k.tel,baldai.tel,boracay.tel,covarrubias.tel#@#.imgad
+boracay.tel#@#.imgad
 lespac.com#@#.inner_ad
 classifiedads.com#@#.innerad
 gizbrain.com,szlifestyle.com#@#.insert-post-ads
@@ -575,7 +570,7 @@ avizo.cz,bisexual.com#@#.searchads
 ipsluk.co.uk#@#.section-sponsor
 arbetsformedlingen.se,wunderground.com#@#.showAd
 almanacnews.com,danvillesanramon.com,mv-voice.com,paloaltoonline.com,pleasantonweekly.com#@#.showads
-agelioforos.gr,audioholics.com,domainrural.com.au#@#.side-ad
+audioholics.com,domainrural.com.au#@#.side-ad
 suntimes.com#@#.side-bar-ad-position1
 timesofoman.com#@#.sideAd
 fool.com#@#.sidebar-ads
@@ -594,7 +589,6 @@ photocrowd.com#@#.sponsor-logo
 childfund.org#@#.sponsorBlock
 xhamster.com#@#.sponsorBottom
 getprice.com.au#@#.sponsoredLinks
-golfmanagerlive.com#@#.sponsorlink
 giantlife.com,hellobeautiful.com,newsone.com,theurbandaily.com#@#.sticky-ad
 technical.ly#@#.story-ad
 ibtimes.co.in#@#.taboola-ad
@@ -607,12 +601,10 @@ antronio.com,cdf.cl,frogueros.com#@#.textads
 uol.com.br#@#.tm-ads
 anythinghollywood.com,aylak.com#@#.top-ad
 mobilesyrup.com#@#.top-ad-container
-boards.adultswim.com#@#.top-ad-content
 programmableweb.com#@#.top-ad-wrapper
 afbmotorcycles.co.uk#@#.top-advert
 nypress.com,timescall.com#@#.topAds
 horsemart.co.uk,torrentv.org#@#.top_ad
-conversations.nokia.com#@#.top_ad_div
 egmnow.com#@#.top_ad_wrap
 imagepicsa.com,sun.mv,trailvoy.com#@#.top_ads
 earlyamerica.com,infojobs.net#@#.topads
