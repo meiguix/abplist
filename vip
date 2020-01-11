@@ -125,10 +125,11 @@ weibo.com##.WB_footer
 !------------SINA------------!
 ! YX
 ali213.net##.ali-foot
-###nav_zhengban
-###nav_shouyou
-###nav_yeyou
-###nav_yule
+##.section3
+##.section4
+##.section6
+##.footer-con > .footer-list
+##.footer-ali
 ali213.net###rmpl
 ##.web_news_right
 ##.t5c_r_xyxh
