@@ -146,6 +146,22 @@ ali213.net###rmpl
 ##.tjyd.masonry
 ali213.net##.news_foot
 pic.ali213.net##.ALi_f
+gl.ali213.net##.glzjfoot
+down.ali213.net##.Ali_down_foot
+##.recommendContainer
+##.detail_body_left_xgxx
+##.detail_body_left_info_con_srgz
+###xwgl + .detail_body_left_xgxz
+###xwgl + * + * + .detail_body_left_xgxz
+patch.ali213.net##.bottom
+##.buyRentContainer
+##.downWayBottom
+##.basePluginContainer
+##.recommendGameContainer
+##.hotGameContainer
+##.otherGameContainer
+in.ali213.net###foot
+ali213.net##.ol_foot
 ! QDK
 news.mydrivers.com##.link
 news.mydrivers.com###footer
