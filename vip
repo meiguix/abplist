@@ -141,6 +141,7 @@ ali213.net###rmpl
 ##.n_show_b
 ##.n_show_s
 ##.news_app
+##.n_xs + .n_xg
 ##SCRIPT + * + .n_xg
 ##.line10 + * + * + * + * + .n_xg
 ##.n_xglist
