@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202001018803
+! Version: 202002028805
 ! Title: EasyListCN
-! Last modified: 2020-01-01
+! Last modified: 2020-02-02
 ! Expires: 180 days
 !
 !------------General advert filters------------!
@@ -16841,6 +16841,7 @@ finance.sina.com.cn###jj50r
 ##.W_layer_tips
 ##.extendAd
 ! QDK
+-info-580.
 ###a_showhotnews_list
 ###a_showhotnews_list_dia
 ! YX
