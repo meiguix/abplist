@@ -21,6 +21,7 @@ fanyi.baidu.com##.app-guide
 ##.first-tip
 pan.baidu.com###wizard-functions-intro
 ###dialog1
+###dialog1 + .module-canvas
 ##.phone-banner
 tieba.baidu.com###footer
 ##.ui_bubble_wrap
