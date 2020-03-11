@@ -21,6 +21,7 @@
 -facebook-icon.
 -facebook-icons-
 -facebook-like-box/
+-facebook-likeButton-
 -facebook-share.
 -facebook-widget.
 -facebook.js$domain=~king.com
@@ -310,12 +311,12 @@
 /android-share.
 /aolshare/*
 /app/social.
+/appSocialShare/*
 /article-shares.
 /article-social/*
 /ArticleSocialShare.
 /ashare.js
 /aspexi-facebook-
-/assets/*discord.png
 /assets/*Facebook.jpg
 /assets/*facebook.png
 /assets/*twitter.png
@@ -429,6 +430,7 @@
 /bz_share/*
 /chs/share/*
 /cht/share/*
+/circle_share.
 /cnw.share.
 /color-facebook-
 /color-twitter-
@@ -590,6 +592,7 @@
 /facebook_badge-
 /facebook_badge.
 /facebook_boton.
+/facebook_btn.
 /facebook_button
 /facebook_button.
 /facebook_circle-
@@ -805,6 +808,7 @@
 /footer-youtube-
 /footer/facebook-
 /footer/facebook.
+/footer/facebook_
 /footer/fb-
 /footer/google-
 /footer/instagram-
@@ -816,6 +820,7 @@
 /footer/twit-
 /footer/twitter-
 /footer/twitter.
+/footer/twitter_
 /footer/youtube.
 /footer_facebook.
 /footer_fb-
@@ -1348,10 +1353,12 @@
 /images/social_$image
 /images/socials/*
 /images/soicial/*
+/images/tmblur.
 /images/tumblr-
 /images/tw_
 /images/twiter
 /images/twitter
+/images/vimeo-
 /images/vk-
 /images/whtapp-
 /images/youtube-
@@ -1547,6 +1554,7 @@
 /mobilesharetools.
 /mod_socialmedialinks/*
 /mod_socialslider/*
+/modeles_facebook/*
 /mtsocialgroup_
 /myshare/*
 /myspace-32x32.
@@ -1590,6 +1598,7 @@
 /partnerNavSocialButtons.
 /pics/*facebook.png
 /pics/*twitter.png
+/pict-fb.
 /pin-icon-
 /pin-interest-icon.
 /pin-it.gif
@@ -1685,7 +1694,6 @@
 /plugins/slide-in/*$script
 /plugins/sociable-$~stylesheet
 /plugins/sociable/*$~stylesheet
-/plugins/social-$~stylesheet
 /plugins/socialbox/*
 /plugins/socialfans-counter/*
 /plugins/socialgrid/*$~stylesheet
@@ -2006,6 +2014,7 @@
 /sidenav_instagram_
 /sidenav_tumblr_
 /sideShare_
+/silicon-counters/*
 /simple-share-$~stylesheet
 /simple-social-sharing/*$~stylesheet
 /simpleshare.js
@@ -2117,6 +2126,7 @@
 /social-likes-
 /social-likes.$~script,~stylesheet
 /social-likes_$~stylesheet
+/social-linkedin.
 /social-links-
 /social-links.
 /social-locker/*$script
@@ -2343,7 +2353,9 @@
 /socialcount.
 /socialcounters/*
 /socialcounts/*$script
+/socialCounts?
 /socialfacebookdark.
+/socialfooter.
 /socialFooterSprite.
 /socialgoogledark.
 /socialhomesprite2.
@@ -2672,6 +2684,7 @@
 /twitter_badge.
 /twitter_bird.
 /twitter_bird_
+/twitter_btn.
 /twitter_bubble_
 /Twitter_button
 /twitter_button.

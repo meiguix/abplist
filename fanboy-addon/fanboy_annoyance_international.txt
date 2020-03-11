@@ -143,7 +143,7 @@ suedtirol-it.com##.btn-top
 comparis.ch##.button-go-up
 phoenix.de##.c-toplink
 motorsportpics.de##.cc-FloatingButtonBarContainer-button-scroll
-alpine-gehoerschutz.de##.cd-top
+alpine-gehoerschutz.de,fraunhofer.de##.cd-top
 blm.de##.clickTop
 zentrum-der-gesundheit.de##.component-recommended-products
 stuttgarter-nachrichten.de##.container-stn-popup
@@ -464,6 +464,7 @@ rtl.fr##.article-mail-form
 carrelages4000.fr##.ays-front-message
 orange.be##.b2c-global-footer-container
 automobile-magazine.fr##.bloc-nl
+e-sante.fr##.box-one-click
 ouest-france.fr##.btn-scroll
 liberation.fr##.campagne-opt-in
 ledevoir.com##.card
@@ -489,6 +490,7 @@ futura-sciences.com##.module-propal-nl
 dealabs.com##.nav-banner
 silicon.fr##.nav-next
 silicon.fr##.nav-previous
+service-public.fr##.nav-up
 ogaming.tv##.navbar-fixed-bottom
 fourchette-et-bikini.fr##.newsBloc
 cuisineetvinsdefrance.com,francetvinfo.fr,leparisien.fr,phonandroid.com,silicon.fr##.newsletter
@@ -668,7 +670,6 @@ mundodeportivo.com##.home-nav-balls
 notimex.gob.mx##.ir-arriba
 990espndeportes.com##.more-stories
 eldiariony.com,laopinion.com,laprensafl.com,laraza.com,paratimujer.us,silicon.es##.newsletter
-clarin.com##.notification-popup
 diariolasamericas.com##.object-forward-note
 soychile.cl##.overli
 daf.es##.page-overlay
@@ -709,6 +710,7 @@ clarin.com##a[href^="/newsletters/"]
 ||epeex.com^$third-party
 ||fastweb.it^*/newsletter.
 ||formiche.net^*/newsletterformiche-
+||giornaledibrescia.it/newsletter/
 ||hikoki-powertools.it/image/top-
 ||ilpost.it^*/IAS_banner_
 ||ilpost.it^*/System24_banner_
@@ -792,7 +794,7 @@ ilsole24ore.com###ias-footer
 ilquotidianodellazio.it###imgtop
 citywire.it###jsRegisterAlertBanner
 italiaoggi.it###lig_movingup2it_smartbox
-agenziaimpress.it,davidemaggio.it,ilfarosulmondo.it,meteonetwork.it,moked.it,money.it,techzilla.it,tvsvizzera.it###mc_embed_signup
+agenziaimpress.it,davidemaggio.it,ilfarosulmondo.it,meteonetwork.it,moked.it,money.it,techzilla.it,tvsvizzera.it,vvox.it###mc_embed_signup
 decathlon.it###messagetop
 milanofinanza.it###milanofinanza_web_smartbox_article
 automoto.it,moto.it###mit-bottombar
@@ -816,6 +818,7 @@ vloungebeach.tv###scroll_up
 mobimart.it###scrollblock
 cb01.best###scroller
 chiesi.com###scrolltab
+uniroma1.it###sdb-wrapper
 tuttoandroid.net###sh_local
 virgilio.it###shr_box
 qualescegliere.it###slideUpForm
@@ -831,13 +834,16 @@ emmepress.com###text-9
 isocellitalia.it###top
 avantishop.it,lacomunicazione.it###top-link
 wtc.genova.it###top-of-the-page
+gedidigital.it###topButton
+fantacalcio.it###topbar
 cambiodns.com###torna
-consorzioautolinee.it,ixosofficial.com,maxcasa.com,murripatrizia.it,nomisma.it,rstore.it###totop
+consorzioautolinee.it,ixosofficial.com,maxcasa.com,murripatrizia.it,nilox.com,nomisma.it,rstore.it###totop
 altoadigelatte.com###up
 alvolante.it###wrapper-header-small-up
 ice.it##.ScrollTop
 ilvibonese.it##.acy-email-footer
 ansa.it##.adv-static
+agi.it##.agi-newsletter
 autoscout24.it##.app-banner
 basketinside.com,carpicalcionews.it,cittaceleste.it,corsedimoto.com,fantamagazine.com,fcinter1908.it,forzaroma.info,gazzamercato.it,golssip.it,ilmilanista.it,itasportpress.it,juvenews.eu,mediagol.it,mondoudinese.it,numericalcio.it,padovasport.tv,passioneinter.com,pianetagenoa1893.net,pianetamilan.it,sassuolocalcionews.it,sportavellino.it,tenniscircus.com,toronews.net,tuttobolognaweb.it,violanews.com##.arrowleft
 basketinside.com,carpicalcionews.it,cittaceleste.it,corsedimoto.com,fantamagazine.com,fcinter1908.it,forzaroma.info,gazzamercato.it,golssip.it,ilmilanista.it,itasportpress.it,juvenews.eu,mediagol.it,mondoudinese.it,numericalcio.it,padovasport.tv,passioneinter.com,pianetagenoa1893.net,pianetamilan.it,sassuolocalcionews.it,sportavellino.it,tenniscircus.com,toronews.net,tuttobolognaweb.it,violanews.com##.arrowright
@@ -846,6 +852,7 @@ edilportale.com##.article-right
 multiplayer.it##.article_nav
 tempi.it##.article_newls_box
 iltempo.it##.articoli_correlati
+agi.it##.banner-register
 agendadigitale.eu,corrierecomunicazioni.it,insuranceup.it##.bottom-bar__up
 guardaserie.watch##.bottom-button-top
 engage.it##.box-engage-mag
@@ -866,6 +873,7 @@ dday.it##.corriere-header
 sapere.it##.dbdslim
 donnamoderna.com##.donnam-footer-newsletter
 webnews.it##.email
+policymakermag.it,startmag.it##.essb-subscribe-form
 pambianconews.com,tecnoandroid.it##.essb_mailform
 corriere.it##.fancybox-overlay
 tomshw.it##.fixed_arrows
@@ -893,7 +901,7 @@ spaziogames.it##.nav-reveal
 everyeye.it##.nav_articoli
 ilsitodellozoo.com##.navbar-alt
 laleggepertutti.it##.news-letter
-01net.it,advisoronline.it,basketinside.com,carpicalcionews.it,cittaceleste.it,condominioweb.com,corsedimoto.com,fantamagazine.com,fcinter1908.it,focusardegna.com,forzaroma.info,gazzamercato.it,gogedizioni.it,golssip.it,guidafisco.it,ilfoglio.it,ilgiorno.it,ilmilanista.it,ilposticipo.it,ilrestodelcarlino.it,ilsecoloxix.it,ilsussidiario.net,itasportpress.it,juvenews.eu,lanazione.it,leitgamhof.com,lescienze.it,linkiesta.it,lvh.it,mediagol.it,mondoudinese.it,motorionline.com,numericalcio.it,padovasport.tv,passioneinter.com,pianetagenoa1893.net,pianetamilan.it,quotidiano.net,rivistacontrasti.it,sassuolocalcionews.it,silicon.it,sportavellino.it,tenniscircus.com,toronews.net,tuttobolognaweb.it,valori.it,violanews.com##.newsletter
+01net.it,advisoronline.it,basketinside.com,carpicalcionews.it,chiesadimilano.it,cittaceleste.it,condominioweb.com,corsedimoto.com,fantamagazine.com,fcinter1908.it,focusardegna.com,forzaroma.info,gazzamercato.it,giornaledibrescia.it,gogedizioni.it,golssip.it,guidafisco.it,ilfoglio.it,ilgiorno.it,ilmilanista.it,ilposticipo.it,ilrestodelcarlino.it,ilsecoloxix.it,ilsussidiario.net,itasportpress.it,juvenews.eu,lanazione.it,leitgamhof.com,lescienze.it,linkiesta.it,lvh.it,mediagol.it,mondoudinese.it,motorionline.com,numericalcio.it,padovasport.tv,passioneinter.com,pianetagenoa1893.net,pianetamilan.it,quotidiano.net,rivistacontrasti.it,sassuolocalcionews.it,silicon.it,sportavellino.it,tenniscircus.com,toronews.net,tuttobolognaweb.it,valori.it,violanews.com##.newsletter
 ravennanotizie.it##.newsletter-section
 starbene.it##.nlslim
 systems.bz##.on-top
@@ -908,6 +916,7 @@ ilfoglio.it,webnews.it##.rss
 lasicilia.it##.sali
 tempoitalia.it##.scroll
 simplymarket.it##.scroll-top-footer
+lampade.it##.scrollBack
 assologico.it##.scrollbutton
 ilsole24ore.com##.scta
 nazarenogabrielli.it##.shopress_scroll
@@ -930,6 +939,7 @@ peugeot.it##.toplink
 ilvibonese.it##.torna_su
 americantourister.it##.ui-widget-overlay
 lospecialista.tv##.widget_mailpoet_form
+lospecialista.tv##.widget_specialert
 secoloditalia.it##.widget_wpmailup_widget
 inpharmamag.it##.wptbbarheaddiv
 corriere.it##a[href*="/newsletter"]

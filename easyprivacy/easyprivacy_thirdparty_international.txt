@@ -15,6 +15,7 @@
 ||beenetworks.net/traffic
 ||blacktri-a.akamaihd.net^
 ||captcha-ad.com/stats/
+||cdn.c-i.as^$script,third-party
 ||cdntrf.de^$third-party
 ||cgicounter.onlinehome.de^
 ||clipkit.de/metrics?
@@ -59,7 +60,6 @@
 ||iqcontentplatform.de/tracking/
 ||js.stroeermediabrands.de^$third-party
 ||koe-vip.com/statistik/
-||kontextr.eu/content/track?
 ||kt-g.de/counter.php?
 ||live.cxo.name^
 ||live.ec2.cxo.name^
@@ -85,10 +85,8 @@
 ||onlex.de/_counter.php
 ||onlinepresse.info/counter.php?
 ||onlyfree.de^*/counterservice/
+||orbidder.otto.de^
 ||ottogroup.media/ogm.nitro.
-||pix.news.at^
-||pixel.holtzbrinckdigital.info^
-||pixel.nbsp.de^
 ||plista.com/getuid?
 ||plista.com/iframeShowItem.php
 ||px.staticfiles.at^
@@ -99,7 +97,6 @@
 ||script.idgentertainment.de/gt.js
 ||sec-web.com/stats/
 ||serverkompetenz.net/cpx.php?
-||sett.i12.de^
 ||sheego.de/ar/$third-party
 ||sim-technik.de/dvs.gif?
 ||sim-technik.de^*&uniqueTrackId=
@@ -111,14 +108,12 @@
 ||statistics.klicktel.de^
 ||statistik.motorpresse.de^$third-party
 ||statistik.simaja.de^
-||stats.av.de^
 ||stats.blogoscoop.net^
 ||stats.clickforknowledge.com^
+||stats.datawrapper.de^*/datawrapper.gif?
 ||stats.digital-natives.de^
 ||stats.fittkaumaass.de^
 ||stats.frankfurterneuepresse.de^
-||stats.ilsemedia.nl^
-||stats.nekapuzer.at^$third-party
 ||stats.united-domains.de^
 ||stats.urban-media.com^
 ||stats2.algo.at^$third-party
@@ -129,33 +124,27 @@
 ||t.etraveli.com^
 ||t.nativendo.de^
 ||t.quisma.com^
-||tap.idg.de^
+||tagm.tchibo.de^
 ||top50-solar.de/solarcount/
+||track2.cliplister.com^
 ||track2.dulingo.com^
 ||track2.mycliplister.com^
 ||tracker.euroweb.net^
-||tracker.netdisk.de^
 ||tracker.winload.de^
-||tracking-rce.veeseo.com^
+||tracking-opi.fonpit.de^
 ||tracking.base.de^
-||tracking.ddd.de^
 ||tracking.emsmobile.de^
 ||tracking.gameforge.de^
-||tracking.gj-mobile-services.de^
 ||tracking.hannoversche.de^
 ||tracking.hi-pi.com^
 ||tracking.ladies.de^
 ||tracking.mindshare.de^
-||tracking.mvsuite.de^
 ||tracking.netzathleten-media.de^
 ||tracking.promiflash.de^
-||tracking.rce.veeseo.com^
 ||tracking.rtl.de^
 ||tracking.s24.com^
-||tracking.sim-technik.de^
 ||tracking.srv2.de^
 ||tracking.webtradecenter.com^
-||traffic.brand-wall.net^
 ||trck.bdi-services.de^
 ||trck.spoteffects.net^
 ||uni-duesseldorf.de/cgi-bin/nph-count?
@@ -170,7 +159,6 @@
 ||webcounter.goweb.de^
 ||webstatistik.odav.de^$third-party
 ||wieistmeineip.de/ip-address/$third-party
-||wrmwb.7val.com^
 ||x.bloggurat.net^
 ||xnewsletter.de/count/counter.php?
 ||zs.dhl.de^
@@ -221,26 +209,28 @@
 ||makazi.com/tracker-
 ||neteventsmedia.be/hit.cfm?
 ||netreviews.eu/index.php?action=act_access&$third-party
-||nvc.n1bus-exp.com^
 ||nws.naltis.com^
 ||optinproject.com/rt/visit/
 ||osd.oxygem.it^
 ||pagesjaunes.fr/stat/
 ||piximedia.com^$third-party
-||poool.fr^*/access/track
 ||rs.smc.tf^
 ||scriptsgratuits.com/sg/stats/
 ||securite.01net.com^
 ||service-webmaster.fr/cpt-visites/$third-party
 ||stat.prsmedia.fr^
 ||stats-dc1.frz.io^
+||stats-factory.digitregroup.io^
 ||stats.buzzea.com^
 ||stats.ipmgroup.be^
 ||stats.tipser.com^
-||t.planvip.fr^$third-party
+||t.ofsys.com^
+||tag.goldenbees.fr^
 ||tag.leadplace.fr^
+||testcddc.atclouddev.net^
 ||tmgr.ccmbg.com^
 ||track.byzon.swelen.net^$third-party
+||track.kyoads.com^
 ||track.laredoute.fr^$image
 ||trackcustomer.laredoute.com^$image
 ||tracking.ecookie.fr^
@@ -250,6 +240,7 @@
 ||tsphone.biz/pixelvoleur.jpg?
 ||veoxa.com/get_trackingcode.
 ||visitping.rossel.be^
+||webmecanik.com/mtc.js
 ||webreseau.com/impression.asp?
 ||webtutoriaux.com/services/compteur-visiteurs/index.php?$third-party
 ||wifeo.com/compteurs/$third-party
@@ -257,7 +248,6 @@
 ||wrapper.lemde.fr^$third-party
 ||zebestof.com^$third-party
 ! Belarusian
-||ladesk.com/scripts/track.js
 ||minsk-in.net/counter.php?
 ! Croatian
 ||aff*.kolektiva.net^
@@ -268,6 +258,7 @@
 ||3.cn/cesu/r?
 ||360.cn/mapping_service?
 ||4gtv.tv/js/ga_
+||adv-sv-stat.focus.cn^
 ||aixifan.com/acsdk/log.min.js?
 ||alicdn.com/tkapi/click.js
 ||alicdn.com^*/tracker/
@@ -295,6 +286,7 @@
 ||cms.grandcloud.cn^$third-party
 ||cnzz.com/c.php?
 ||counter.pixplug.in^
+||cpro.baidustatic.com^$script,domain=sohu.com
 ||cri.cn/js/a1.js
 ||csbew.com^$third-party
 ||csdn.net^*/counter.js
@@ -307,6 +299,7 @@
 ||haostat.qihoo.com^
 ||hudong.com/flux.js
 ||hyrankhit.meldingcloud.com^
+||ia.51.la^
 ||ifengimg.com/sta_collection.*.js
 ||imp.ad-plus.cn^
 ||imp.go.sohu.com^
@@ -316,6 +309,7 @@
 ||js.static.m1905.cn/pingd.js
 ||log.hiiir.com^
 ||log.tagtic.cn^
+||m.lolvsdota.cn^
 ||mlt01.com/cmp.htm$third-party
 ||msg.71.am^
 ||n.yunshipei.com^
@@ -328,15 +322,17 @@
 ||pv.hd.sohu.com^
 ||pv.sohu.com^
 ||qbox.me/vds.js
+||qidian.qq.com/report/
 ||qtmojo.com/pixel?
 ||r.sax.sina.com.cn^
 ||report.meituan.com^
 ||sitemaji.com/nownews.php?
 ||sobeycloud.com/Services/Stat.
 ||sohu.com/pvpb.gif?
+||soso.mymederback.com^
 ||stargame.com/g.js
 ||stat.ws.126.net^
-||stat.youku.com^
+||statics.itc.cn^*/spm.js$script,domain=sohu.com
 ||sugs.m.sm.cn^
 ||t.hypers.com.cn^
 ||tanx.com/t/tanxclick.js
@@ -348,7 +344,6 @@
 ||tr.n2.hk^
 ||track.ra.icast.cn^
 ||tracking.cat898.com^
-||traffic.bokecc.com^
 ||union.360.cn/1899.js
 ||useg.nextdigital.com.hk^
 ||v.emedia.cn^
@@ -357,6 +352,7 @@
 ! Croatian
 ||tracking.vid4u.org^
 ! Czech
+||bisko.mall.tv^
 ||bnr.alza.cz^
 ||counter.cnw.cz^
 ||fimg-resp.seznam.cz^
@@ -367,7 +363,6 @@
 ||pixel.cpex.cz^
 ||stat.cncenter.cz^
 ||stat.ringier.cz^$third-party
-||stats.mf.cz^
 ||t.leady.com^
 ||t.leady.cz^
 ||track.leady.cz^
@@ -404,12 +399,10 @@
 ! Greek
 ||analytics.dol.gr^
 ||analyticsv2.dol.gr^
-||stats.e-go.gr^
 ! Hebrew
 ||walla.co.il/stats/
 ! Hungarian
 ||gpr.hu/pr.pr?
-||pagerank.g-easy.hu^
 ||rum.marquardmedia.hu^
 ||videostat-new.index.hu^
 ||videostat.index.hu^
@@ -432,6 +425,7 @@
 ||dd3p.com/sensor/ddsense.aspx?
 ||digiland.it/count.cgi?
 ||diritalia.com^*/seosensor.js
+||dmpcdn.el-mundo.net^
 ||eage.it/count2.php?
 ||encoderfarmstatsnew.servicebus.windows.net^
 ||evnt.iol.it^
@@ -444,6 +438,8 @@
 ||iltrovatore.it/vp.htm
 ||instore.pagomeno.it^
 ||iol.it^*/clickserver.js
+||italiaonline.it/script/ga.
+||italiaonline.it/script/iol-body.js
 ||livestats.matrix.it^
 ||log.superweb.ws^
 ||logger.kataweb.it^
@@ -463,18 +459,14 @@
 ||rd.alice.it^
 ||sem.triboomedia.it^
 ||sembox.it/js/sembox-tracking.js
-||shinystat.lvlar.com^
 ||stat.acca.it^
 ||stat.freetool.it^
-||stat.webtool.it^
 ||stats.itsol.it^
 ||stats.rcsobjects.it^
 ||stats.technopia.it^
 ||stats2.*.fdnames.com^
 ||stgy.ovh^*/3rdp-censor/
 ||tag.triboomedia.it^
-||top100.mrwebmaster.it^
-||top100.tuttoperinternet.it^
 ||tr.bt.matrixspa.it^
 ||track.adintend.com^
 ||track.cedsdigital.it^
@@ -483,12 +475,10 @@
 ||tracker.bestshopping.com^
 ||tracker.iltrovatore.it^
 ||tracking.conversion-lab.it^
-||tracking.conversionlab.it^
 ||tracking.trovaprezzi.it^
 ||tracks.arubamediamarketing.it^
 ||tracy.sadv.dadapro.com^
 ||triboomedia.it^*/Bootstrap.js
-||ts.blogo.it^
 ||vppst.iltrovatore.it^
 ||webbificio.com/add.asp?
 ||webbificio.com/wm.asp?
@@ -496,7 +486,9 @@
 ||wmtools.it/wmtcounter.php?
 ! Japanese
 ||199.116.177.156^$domain=~fc2.jp.ip
+||ad-beacon-v01.uliza.jp^
 ||analysis.shinobi.jp^
+||analytics.liveact.cri-mw.jp^
 ||analyzer51.fc2.com^
 ||asumi.shinobi.jp^
 ||clickanalyzer.jp^$third-party
@@ -509,6 +501,7 @@
 ||l.popin.cc^
 ||lcs.livedoor.net^
 ||line.me/tag.gif$image
+||log.codemarketing.cloud^
 ||log.nordot.jp^
 ||macromill.com/imp/
 ||mofa.go.jp^*/count.cgi?
@@ -522,11 +515,13 @@
 ||seesaa.jp/ot_square.pl?
 ||shinobi.jp/track?
 ||speee-ad.akamaized.net^
+||spnx.jp/spnx-logger.js
+||sstats.mora.jp^
 ||sweet-candy.jp/c.php?$third-party
 ||sync.shinobi.jp^
+||t.adlpo.com^
 ||torimochi.line-apps.com^
 ||track.thebase.in^
-||trck.dlpo.jp^
 ||userdive.com^$third-party
 ||webtracker.jp^$third-party
 ||x9.shinobi.jp^
@@ -559,24 +554,27 @@
 ||analytics.ceneo.pl^
 ||analytics.greensender.pl^$third-party
 ||cafenews.pl/mpl/static/static.js?
+||cmp.dreamlab.pl^
 ||fab.interia.pl^
 ||hit.interia.pl^
 ||iwa.iplsc.com/plugins/$script
 ||liczniki.org/hit.php
 ||marketing.tr.netsalesmedia.pl^
 ||pixel.homebook.pl^
+||pixel6.wp.pl^
 ||ppstatic.pl^*/track.js
 ||px.wp.pl^
 ||qai-ir.quartic.pl^$third-party
 ||qai.quartic.pl^$third-party
+||rec-pl.quartic.pl^
 ||rec.quartic.pl^$third-party
 ||scontent.services.tvn.pl^
+||sgqcvfjvr.onet.pl^
 ||stats.asp24.pl^
 ||stats.media.onet.pl^
 ||stats.ulixes.pl^
 ||statystyki.panelek.com^
 ||track.omgpl.com^
-||tracker.advisable.pl^
 ||tracking.novem.pl^
 ||wymiana.org/stat/
 ! Portuguese
@@ -632,6 +630,7 @@
 ||counter.tovarro.com^
 ||counter.wapstart.ru^
 ||crm-analytics.imweb.ru^
+||dbex-tracker-v2.driveback.ru^
 ||dp.ru/counter.gif?
 ||emoment.net/cnt/
 ||error.videonow.ru^
@@ -650,7 +649,6 @@
 ||linestudio.ru/counter/
 ||mediaplus.fm/cntr.php?
 ||mediator.mail.ru^
-||medorgs.ru/js/counterlog_img.js
 ||metka.ru/counter/
 ||metrics.aviasales.ru^
 ||mobtop.ru/c/$third-party
@@ -674,7 +672,6 @@
 ||rambler.ru/counter.js
 ||rbc.magna.ru^
 ||retailrocket.ru/content/javascript/tracking.js
-||rustopweb.ru/cnt.php?
 ||s.agava.ru^
 ||s.holm.ru/stat/
 ||scnt.rambler.ru^
@@ -684,40 +681,28 @@
 ||sishik.ru/counter.php?
 ||stainlesssteel.ru/counter.php?
 ||stascorp.com/stat/
-||stat-22.medialand.ru^
-||stat-counter.tass-online.ru^
 ||stat.eagleplatform.com^
 ||stat.radar.imgsmail.ru^
 ||stat.rum.cdnvideo.ru^
 ||stat.sputnik.ru^
 ||stat.tvigle.ru^
 ||stats-*.p2pnow.ru^
-||stats.internet-yadro.com^
 ||stats.seedr.com^
-||t.pusk.ru^
 ||target.mirtesen.ru^
 ||target.smi2.net^
 ||target.smi2.ru^
 ||tbe.tom.ru^
 ||telemetry.jivosite.com^
 ||tms-st.cdn.ngenix.net^
-||top.bur-bur.ru^
 ||top.elec.ru^
-||top.sec.uz^
 ||track.recreativ.ru^
-||track.revolvermarketing.ru^
-||track.rtb-media.ru^
 ||tracking.i-vengo.com^
 ||tracking.retailrocket.net^
-||tracking.vengovision.ru^
 ||traktor.ru^*/counter.php?
 ||ulogin.ru/js/stats.js
 ||upstats.yadro.ru^
 ||uptolike.com/widgets/*/imp?
-||viewstat.promoblocks.ru^
-||wapson.ru/counter.php?
 ||webtrack.biz^$third-party
-||wmtools.ru/counter.php?
 ||xn--e1aaipcdgnfsn.su^*/counter.php
 ||yandeg.ru/count/
 ||yandex.ru/metrika/
@@ -740,19 +725,16 @@
 ||g-stats.openhost.es^
 ||hits.eluniversal.com.mx^
 ||leadzu.com^$third-party
-||maik.ff-bt.net^
 ||pixel.zumby.io^
 ||reachandrich.antevenio.com^
-||stats.lnol.com.ar^
+||s3wfg.com/js/vortexloader.js
 ||stats.miarroba.info^
-||track.bluecompany.cl^
 ||tracker.thinkindot.com^
 ! Swedish
 ||aftonbladet.se/blogportal/view/statistics?$third-party
 ||collector.schibsted.io^
 ||counter.mtgnewmedia.se^
 ||evt.klarna.com^
-||stats.dominoplaza.com^
 ||vizzit.se^$third-party
 ! Thai
 ||sal.isanook.com^
@@ -766,3 +748,4 @@
 ||mgz.com.ua/counter.php?
 ||top.zp.ua/counter/
 ! Vietnamese
+||analytics.yomedia.vn^

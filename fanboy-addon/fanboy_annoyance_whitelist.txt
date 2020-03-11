@@ -2,11 +2,14 @@
 @@/rutorrent/plugins/rss/*$image,~third-party
 @@/threejs/Particles.js$script,~third-party
 @@||adfoc.us/*/interstitial.js$~third-party
+@@||agressor.com.ua/lib/js/totop/js/jquery.ui.totop.min.js$script
+@@||akamaized.net^*/scrolltop.js$script,domain=olx.ua
 @@||amazonaws.com^*/feedback-v2.js?$domain=avgthreatlabs.com
+@@||arsenal.army/templates/*/jquery.ui.totop.js$script,~third-party
 @@||bestof.s3.amazonaws.com/twitter.png$domain=makeuseof.com
 @@||bing.net/videos/thumbnail.aspx?$domain=bing.com
 @@||blogsmithmedia.com^*/sailthru-newsletter.js?
-@@||britishairways.com/cms/global/scripts/pages/interstitial.js
+@@||britishairways.com^*/interstitial.js
 @@||buttons.reddit.com^$domain=redditstatic.com
 @@||cdn.complexmedianetwork.com/cdn/$script,subdocument,domain=kicksonfire.com
 @@||cdn.jsdelivr.net^*/jquery.particleground.min.js?$script,domain=url.hulblog.com
@@ -57,7 +60,6 @@
 @@||redditarchive.com^
 @@||rentalsystems.com/advert_price_imbed.asp
 @@||sail-horizon.com/scout/*.js?$domain=theblaze.com
-@@||st.mycdn.me/static/*/WebPush.js$script,domain=ok.ru
 @@||static.bbci.co.uk/modules/*/sharetools.js$domain=bbc.co.uk
 @@||static.lci.fr/assets/scripts/modules/outbrain.js?$script,~third-party
 @@||static.parastorage.com^*/ScrollToPlugin.min.js$domain=wix.com|wixsite.com

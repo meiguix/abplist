@@ -6,7 +6,6 @@
 ||adserving.unibet.com^$popup,third-party
 ||affiliates.galapartners.co.uk^$popup,third-party
 ||affportal-lb.bevomedia.com^$popup,third-party
-||aliexpress.com^*?af=$popup,third-party
 ||babylon.com/redirects/$popup,third-party
 ||babylon.com/welcome/index.html?affID=$popup,third-party
 ||banner.galabingo.com^$popup,third-party
@@ -44,9 +43,8 @@
 ||fwmrm.net/ad/$popup
 ||generic4all.com^*.dhtml?refid=$popup,third-party
 ||getsecuredfiles.com^$popup,third-party
+||go.streamcomplet.$popup
 ||greevid.com/exit_p/$popup
-||hdplayer.li^$popup
-||hdvid-codec.com^$popup
 ||hetu.in^$popup,third-party
 ||hmn-net.com^*/xdirect/$popup,third-party
 ||homemadecelebrityporn.com/track/$popup,third-party
@@ -62,15 +60,12 @@
 ||liutilities.com^*/affiliate/$popup
 ||lovefilm.com/partners/$popup,third-party
 ||lovepoker.de^*/?pid=$popup
-||lp.ilivid.com/?$popup,third-party
-||lp.imesh.com/?$popup,third-party
 ||lp.musicboxnewtab.com^$popup,third-party
 ||lp.titanpoker.com^$popup,third-party
 ||lsbet.com/bonus/$popup,third-party
 ||lumosity.com/landing_pages/$popup
 ||lyricsbogie.com/?$popup,third-party
 ||makemoneyonline.2yu.in^$popup
-||market.space^$popup,third-party
 ||maxedtube.com/video_play?*&utm_campaign=$popup,third-party
 ||mcars.org/landing/$popup,third-party
 ||megacloud.com/signup?$popup,third-party
@@ -78,7 +73,6 @@
 ||mgid.com^$popup,third-party
 ||mp3ger.com^$popup,third-party
 ||mypromocenter.com^$popup
-||myvpn.review^$popup,domain=cloudvideo.tv
 ||noowmedia.com^$popup
 ||opendownloadmanager.com^$popup,third-party
 ||otvetus.com^$popup,third-party
@@ -110,6 +104,7 @@
 ||stake7.com^*?a_aid=$popup,third-party
 ||stargames.com/bridge.asp?idr=$popup
 ||stargames.com/web/*&cid=*&pid=$popup,third-party
+||static.akacdn.ru^$popup,third-party
 ||sunmaker.com^*^a_aid^$popup,third-party
 ||sunnyplayer.com^*^aff^$popup,third-party
 ||thebestbookies.com^$popup,third-party
@@ -122,13 +117,10 @@
 ||torrentprotect.com/?$popup
 ||track.mypcbackup.com^$popup,third-party
 ||track.xtrasize.nl^$popup,third-party
-||tracker.lotto365.com^$popup,third-party
 ||tripadvisor.*/HotelLander?$popup,third-party
 ||truckingunlimited.com^$popup,domain=sharpfile.com
 ||ul.to/ref/$popup
 ||unibet.co.uk/*affiliate$popup,third-party
-||unlimited-tv.show^$popup,third-party
-||upbcd.info/vuze/$popup
 ||uploaded.net/ref/$popup
 ||urlcash.net/random*.php$popup
 ||urmediazone.com/play?ref=$popup,third-party

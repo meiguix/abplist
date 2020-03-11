@@ -5,6 +5,7 @@
 ||cmp.pcwelt.de^
 ||consent.berliner-kurier.de^
 ||henryschein.at^*/CookieList.aspx
+||strato.de^*/consent.js
 !
 ! ---------- French ----------
 !
@@ -42,6 +43,7 @@
 !
 ! ---------- Finnish ----------
 !
+||hsy.fi^*/hsycookie.js
 ||sanoma.fi^*/sccm-b.js
 ||sanoma.fi^*/sccm-c.js
 ||sanoma.fi^*/sccm.js
@@ -71,6 +73,7 @@
 ||creaweb.it/cookie/
 ||cure-naturali.it/cookies?
 ||effekt.it/analytics/
+||plug.it^*/cmp.min.js
 ||privacyportal.fatergroup.com^
 ||rcsobjects.it/rcs_cpmt/
 ||spesasicura.com/Scripts/cookie.js

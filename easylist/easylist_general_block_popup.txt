@@ -68,6 +68,7 @@
 /lib/*&adb=$popup
 /lr.php?zoneid=$popup
 /open?shu=$popup
+/out?zoneId=$popup
 /play?*&refer=$popup
 /play?aver=$popup
 /play?refer=$popup
@@ -103,6 +104,7 @@
 /watch?shu=$popup,third-party
 /xdirect.html?$popup
 /yesbaby.$popup
+://adn.*/zone/$popup
 ://ads.$popup
 ://adv.$popup
 =ad_unit&$popup

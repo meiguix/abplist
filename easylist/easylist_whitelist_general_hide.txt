@@ -2,7 +2,7 @@ thedailygreen.com#@##AD_banner
 webmail.verizon.net#@##AdColumn
 jobs.wa.gov.au,lalovings.com#@##AdContainer
 jobs.wa.gov.au,ksl.com#@##AdHeader
-sprouts.com,tbns.com.au#@##AdImage
+sprouts.com#@##AdImage
 games.com#@##Adcode
 designspotter.com#@##AdvertiseFrame
 wikimedia.org#@##Advertisements
@@ -11,7 +11,7 @@ freeshipping.com,freeshippingrewards.com#@##BottomAds
 orientaldaily.on.cc#@##ContentAd
 kizi.com,playedonline.com#@##PreRollAd
 japantimes.co.jp#@##RightAdBlock
-isource.com,nytimes.com,ocregister.com,pe.com#@##TopAd
+isource.com,nytimes.com,nytimes3xbfgragh.onion,ocregister.com,pe.com#@##TopAd
 statejournal.com#@##WNAd41
 dailyfinancegroup.com#@##ad-area
 dormy.se,marthastewart.com#@##ad-background
@@ -109,7 +109,6 @@ lakeviewfinancial.net#@##advert2
 dice.com#@##advertContainer
 felcia.co.uk#@##advert_box
 basinnow.com#@##advertise
-tiv.pw#@##advertisement1
 telkomspeedy.com#@##advertisetop
 govolsxtra.com,legacy.com#@##advertising_wrapper
 flyroyalbrunei.com#@##adverts
@@ -187,7 +186,7 @@ logic-immo.be,motortrade.me#@##search_ads
 spinner.com#@##sideAd
 japantoday.com#@##side_ads
 gaelick.com,romstone.net#@##sidebar-ads
-facebook.com,japantoday.com#@##sidebar_ads
+facebook.com,facebookcorewwwi.onion,japantoday.com#@##sidebar_ads
 allthingsd.com#@##skybox-ad
 zapak.com#@##sponsorAdDiv
 members.portalbuzz.com#@##sponsors-home
@@ -224,13 +223,12 @@ francofilo.com#@#.aalb-pg-ad-unit
 apartments.com#@#.ad-300x250
 channelnewsasia.com#@#.ad-970
 optimum.net#@#.ad-banner
-bash.fm,tbns.com.au#@#.ad-block
+bash.fm#@#.ad-block
 felcia.co.uk#@#.ad-body
 auctionstealer.com#@#.ad-border
 members.portalbuzz.com#@#.ad-btn
 assetbar.com,jazzradio.com,o2.pl#@#.ad-button
 bahtsold.com,propertysold.asia#@#.ad-cat
-small-universe.com#@#.ad-cell
 jobmail.co.za,odysseyware.com#@#.ad-display
 foxnews.com,yahoo.com#@#.ad-enabled
 seattletimes.com#@#.ad-fixed
@@ -301,8 +299,7 @@ microsoft.com,northjersey.com#@#.adSpace
 autotrader.co.za,thebulletinboard.com#@#.adText
 autotrader.co.za,ksl.com,superbikeplanet.com#@#.adTitle
 empowher.com#@#.adTopHome
-streamcloud.eu#@#.adWidget
-cocktailsoftheworld.com,supersonicads.com#@#.adWrap
+cocktailsoftheworld.com#@#.adWrap
 sanmarcosrecord.com#@#.ad_1
 techreport.com#@#.ad_160
 courierpostonline.com#@#.ad_160x600
@@ -380,7 +377,7 @@ shopmos.net#@#.ads_top
 quebarato.com.br,search.conduit.com#@#.ads_wrapper
 alluc.org#@#.adsbottombox
 imagebam.com#@#.adsbox
-advancedrenamer.com,epicbundle.com,weightlosereally.com,willyoupressthebutton.com#@#.adsbygoogle
+advancedrenamer.com,epicbundle.com,willyoupressthebutton.com#@#.adsbygoogle
 copart.com#@#.adscontainer
 starbike.com#@#.adsense_wrapper
 live365.com#@#.adshome
@@ -438,7 +435,7 @@ diena.lt#@#.block-simpleads
 oliveoiltimes.com#@#.blog-ads
 hispanicbusiness.com#@#.bottom-ad
 newagestore.com#@#.bottom-ads
-nytimes.com#@#.bottom-left-ad
+nytimes.com,nytimes3xbfgragh.onion#@#.bottom-left-ad
 123poi.com#@#.bottomAds
 ixbtlabs.com#@#.bottom_ad_block
 queer.pl#@#.box-ads
@@ -533,6 +530,7 @@ climbingbusinessjournal.com,kunstpiste.com#@#.oio-banner-zone
 antronio.com,frogueros.com#@#.openx
 youtube.com#@#.overlay-ads
 adn.com#@#.page-ad
+amateri.com#@#.page-cover--ads
 daum.net,rottentomatoes.com#@#.page_ad
 bachofen.ch#@#.pfAd
 speedtest.net#@#.plainAd
@@ -576,7 +574,7 @@ timesofoman.com#@#.sideAd
 fool.com#@#.sidebar-ads
 cadlinecommunity.co.uk#@#.sidebar_advert
 adspot.lk,recycler.com#@#.single-ad
-myaccount.nytimes.com#@#.singleAd
+myaccount.nytimes.com,myaccount.nytimes3xbfgragh.onion#@#.singleAd
 cbsnews.com,gamespot.com#@#.skinAd
 radaronline.com#@#.sky_ad
 comicbookmovie.com#@#.skyscraperAd
@@ -595,7 +593,7 @@ ibtimes.co.in#@#.taboola-ad
 thoughtcatalog.com#@#.tc_ad_unit
 star.txstate.edu#@#.td-ad
 star.txstate.edu#@#.td-header-ad-wrap
-kanui.com.br,nytimes.com#@#.text-ad
+kanui.com.br,nytimes.com,nytimes3xbfgragh.onion#@#.text-ad
 kingsofchaos.com#@#.textad
 antronio.com,cdf.cl,frogueros.com#@#.textads
 uol.com.br#@#.tm-ads
@@ -617,7 +615,7 @@ express.de,focus.de#@#.trc_related_container div[data-item-syndicated="true"]
 yahoo.com#@#.type_ads_default
 wingsbirdpro.com#@#.vertical-ads
 vinden.se#@#.view_ad
-nytimes.com#@#.wideAd
+nytimes.com,nytimes3xbfgragh.onion#@#.wideAd
 britannica.com,cam4.com#@#.withAds
 statejournal.com#@#.wnad
 americannews.com,theuspatriot.com#@#.wpInsertInPostAd
@@ -652,7 +650,6 @@ fuckbookhookups.com#@#a[href^="http://www.yourfuckbook.com/?"]
 buzzfeed.com#@#a[href^="https://ad.doubleclick.net/"]
 badoinkvr.com#@#a[href^="https://badoinkvr.com/"]
 healthmeans.com#@#a[href^="https://servedbyadbutler.com/"]
-maaikeschrijftop.nl,moe-dig.nl,podrozezhubertem.pl#@#a[href^="https://tc.tradetracker.net/"]
 trust.zone#@#a[href^="https://trust.zone/"]
 financeads.de#@#a[href^="https://www.financeads.net/tc.php?"]
 mrskin.com#@#a[href^="https://www.mrskin.com/tour"]
@@ -680,7 +677,7 @@ zeez.tv#@##ad_overlay
 cnet.com#@##adboard
 olweb.tv#@##ads1
 gooprize.com,jsnetwork.fr#@##ads_bottom
-adlice.com,androiding.how,appwikia.com,bagas31.com,elchapuzasinformatico.com,noticiasautomotivas.com.br,oklivetv.com,sharefreeall.com,shufflespain.es,simply-debrid.com,unixmen.com,xsportnews.com,xup.to#@##adsense
+adlice.com,androiding.how,appwikia.com,bagas31.com,elchapuzasinformatico.com,noticiasautomotivas.com.br,oklivetv.com,sharefreeall.com,simply-debrid.com,unixmen.com,xsportnews.com,xup.to#@##adsense
 spoilertv.com#@##adsensewide
 8muses.com#@##adtop
 anisearch.com,lilfile.com#@##advertise
@@ -697,7 +694,7 @@ browsershots.org#@#.advert_area
 wtkplay.pl#@#.advertising_banner
 velasridaura.com#@#.advertising_block
 guitarforum.co.za,tf2r.com#@#.adverts
-africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramacafe.in,eveskunk.com,farsondigitalwatercams.com,file4go.com,freeccnaworkbook.com,gaybeeg.info,hack-sat.com,is-arquitectura.es,jornaisdesportivospdf.com,keygames.com,latesthackingnews.com,localeyes.dk,manga2u.co,mangasky.co,minecraftskins.com,online.dramacafe.tv,perrosycachorros.net,phoronix.com,ps3news.com,psicologiayautoayuda.com,recetasreceta.com,smplayer.sourceforge.net,thenewboston.com,tubitv.com,youtubecristiano.net#@#.afs_ads
+africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramacafe.in,eveskunk.com,farsondigitalwatercams.com,file4go.com,freeccnaworkbook.com,gaybeeg.info,hack-sat.com,is-arquitectura.es,keygames.com,latesthackingnews.com,localeyes.dk,manga2u.co,mangasky.co,minecraftskins.com,perrosycachorros.net,phoronix.com,ps3news.com,psicologiayautoayuda.com,recetasreceta.com,smplayer.sourceforge.net,thenewboston.com,tubitv.com,youtubecristiano.net#@#.afs_ads
 coindigger.biz#@#.banner160x600
 anisearch.com#@#.chitikaAdBlock
 theladbible.com#@#.content_tagsAdTech

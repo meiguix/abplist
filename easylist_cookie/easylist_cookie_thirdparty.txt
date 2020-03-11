@@ -2,6 +2,7 @@
 ||akamaihd.net/cpmt/
 ||alma-cmp.almamedia.io^
 ||app.livemarketshoppers.com^$script,third-party
+||assetlab.io/consent/
 ||axept.io^$third-party
 ||axeptio.eu^$third-party
 ||californiatimes.com/gdpr/
@@ -35,6 +36,7 @@
 ||cookies.innershed.co.uk^
 ||cookiescript.info^$third-party
 ||dmgmediaprivacy.co.uk^$third-party
+||gdpr-service.herokuapp.com^$third-party
 ||gdpr.studybreakmedia.com^
 ||global.mgr.consensu.org^$third-party
 ||intermarkets.net^$third-party
@@ -49,8 +51,11 @@
 ||onetrust.mgr.consensu.org^$third-party
 ||optanon.blob.core.windows.net^
 ||privacy-center.org^$third-party
+||privacy.clion.agency^$third-party
 ||privacy.purch.com^
 ||publy.net^$third-party
+||scrookie.nl^$third-party
+||sddan.mgr.consensu.org^$third-party
 ||sharethis.mgr.consensu.org^$third-party
 ||signatu.com^$third-party
 ||smartadserver.mgr.consensu.org^$third-party
@@ -59,6 +64,7 @@
 ||sourcepoint.mgr.consensu.org^$third-party
 ||tarteaucitron.ml^$third-party
 ||thirdfloor.it^$third-party
+||thisisdone.com/gdpr/$third-party
 ||trustarc.com^$third-party
 ||uniconsent.mgr.consensu.org^$third-party
 ||usercentrics.eu^$third-party

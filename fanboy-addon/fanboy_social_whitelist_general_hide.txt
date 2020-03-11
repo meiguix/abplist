@@ -17,6 +17,7 @@ facebook.com#@##fb_header
 163.com#@##layout-social
 facebook.com#@##likebtn
 recite.com#@##main-share
+mmo13.ru#@##menu-share
 iab.org.pl#@##menu-social
 satkurier.pl#@##menu_social
 digg.com#@##module_digg
@@ -25,6 +26,7 @@ linkedin.com#@##share-box
 code2flow.com#@##share-button
 competitor.com#@##share-links
 voicethread.com#@##share-menu
+app.sococo.com#@##share-more
 reddit.com#@##share-reddit
 lastampa.it,tomshardware.com#@##shareBar
 getpocket.com#@##shareMenu
@@ -75,7 +77,7 @@ disqus.com#@#.-facebook
 disqus.com#@#.-twitter
 instagram.com,pinterest.com,zhihu.com#@#.FollowButton
 epicgames.com#@#.SocialBar
-epicgames.com,tomshardware.com#@#.SocialButton
+adobe.com,epicgames.com,tomshardware.com#@#.SocialButton
 ctvnews.ca#@#.StoryShareBottom
 twitter.com#@#.Twitter-icon
 yachtingjournal.com#@#.addthis:not(body)
@@ -195,13 +197,14 @@ about.me#@#.follow_twitter
 expresstools.co.uk#@#.footer-social
 bysimple.co#@#.footer-socials
 gorod.mos.ru#@#.footer__social
-google.at,google.be,google.ca,google.ch,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.th,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.hk,google.com.mx,google.com.tr,google.com.ua,google.cz,google.dk,google.es,google.fi,google.fr,google.hu,google.it,google.nl,google.pl,google.ro,google.ru,google.se,google.sk#@#.g-plus
+google.at,google.be,google.ca,google.ch,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.th,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.hk,google.com.mx,google.com.tr,google.com.ua,google.cz,google.dk,google.es,google.fi,google.fr,google.hu,google.it,google.nl,google.pl,google.ro,google.ru,google.se,google.sk,yandex.by,yandex.kz,yandex.ru#@#.g-plus
 appspot.com,google.at,google.be,google.ca,google.ch,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.th,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.hk,google.com.mx,google.com.tr,google.com.ua,google.cz,google.dk,google.es,google.fi,google.fr,google.hu,google.it,google.nl,google.pl,google.ro,google.ru,google.se,google.sk#@#.g-plusone
 adme.ru#@#.gallery-social
 academia.edu,epicgames.com,martini.com,oneplus.net#@#.google-btn
 9gag.com,google.at,google.be,google.ca,google.ch,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.th,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.hk,google.com.mx,google.com.tr,google.com.ua,google.cz,google.dk,google.es,google.fi,google.fr,google.hu,google.it,google.nl,google.pl,google.ro,google.ru,google.se,google.sk,wpolityce.pl#@#.google-plus
 google.at,google.be,google.ca,google.ch,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.th,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.hk,google.com.mx,google.com.tr,google.com.ua,google.cz,google.dk,google.es,google.fi,google.fr,google.hu,google.it,google.nl,google.pl,google.ro,google.ru,google.se,google.sk,inoreader.com#@#.google_plus
 apertura.com,quotidiani.gelocal.it#@#.googleplus
+yandex.by,yandex.kz,yandex.ru#@#.gplus
 youtube.com#@#.gplus-icon
 vk.com#@#.group_share
 ulrichesch.de#@#.headersocial
@@ -221,6 +224,7 @@ flattr.com,gleam.io#@#.icon-instagram
 fora.ie,login.alibaba.com#@#.icon-linkedin
 rottentomatoes.com#@#.icon-rss
 football.fr,owncloud.org,theoldreader.com,trello.com#@#.icon-share
+techjunkie.com#@#.icon-social
 carsguide.com.au#@#.icon-social-facebook
 carsguide.com.au#@#.icon-social-linkedin
 flattr.com,gleam.io#@#.icon-soundcloud
@@ -245,7 +249,8 @@ cgtn.com,nbcnews.com,playosmo.com,trello.com,vimeo.com#@#.js-share
 twitter.com#@#.js-tweet-button
 alternativeto.net#@#.like-box
 facebook.com,forum.albiononline.com#@#.likeButton
-darudar.org,fimfiction.net,modworkshop.net#@#.like_button
+darudar.org,fimfiction.net,modworkshop.net,nasaspaceflight.com#@#.like_button
+deezer.com#@#.link-social
 busqueda.com.uy,linkedin.com,peerlyst.com#@#.linkedin.icon
 pan.baidu.com#@#.list-share
 theverge.com#@#.m-article__share-buttons
@@ -253,6 +258,7 @@ fider.io,jellyfin.org#@#.m-social
 epicdrama.pl,iab.org.pl#@#.menu-social
 arkansasmatters.com,kark.com#@#.meta-share
 adobe.com#@#.mod-facebook
+blmagazine.it#@#.mvp-post-soc-wrap
 moneycanbuylipstick.com#@#.nav-social
 atelierdeschefs.fr#@#.navbar-social
 disroot.org#@#.new-share
@@ -260,6 +266,7 @@ mouthshut.com#@#.openshare
 newsweek.com,vidcloud.co#@#.page-share
 atvmedia.ru#@#.page-social
 renren.com#@#.photo-share
+hotforfoodblog.com#@#.pin-it
 pinterest.com#@#.pin-it-button
 feedly.com#@#.pinButton
 pinterest.com#@#.pinit-btn
@@ -276,7 +283,7 @@ marieclaire.ru#@#.pinterestShare
 google.at,google.be,google.ca,google.ch,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.th,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.hk,google.com.mx,google.com.tr,google.com.ua,google.cz,google.dk,google.es,google.fi,google.fr,google.hu,google.it,google.nl,google.pl,google.ro,google.ru,google.se,google.sk#@#.plusone
 privatecore.com#@#.post-fb
 facebook.com#@#.post-fb-like
-23-59.com.ua,kliknijwzdrowie.pl,maze.fr,pokoleniesmart.pl,tidssonen.no,truepundit.com,velodaily.ru#@#.post-share-container
+23-59.com.ua,dietetycy.org.pl,kliknijwzdrowie.pl,maze.fr,pokoleniesmart.pl,tidssonen.no,truepundit.com,velodaily.ru#@#.post-share-container
 imgur.com#@#.post-share-panel
 reddit.com#@#.post-sharing
 guildwars2.com#@#.post-social
@@ -291,10 +298,10 @@ upi.com#@#.share-block
 speedtest.net#@#.share-body
 gala.fr#@#.share-bottom
 belgafiles.com,dakine.com,linkedin.com,way2sms.com#@#.share-box
-bitly.com,framestr.com#@#.share-btn
+bitly.com,framestr.com,nytimes.com#@#.share-btn
 kcrw.com,vimeo.com#@#.share-button
 bandcamp.com,bleacherreport.com,distractify.com,naekranie.pl,thedodo.com#@#.share-buttons
-analyticsindiamag.com,awarenessact.com,bbcccnn.com.ua,cbronline.com,chatsports.com,comicbook.com,dogs-magazin.de,foodtank.com,gamerisle.org,gen-pop.com,gfycat.com,invisioncommunity.co.uk,lcms.org,livetheorganicdream.com,player.it,popsugar.co.uk,popsugar.com,popsugar.com.au,professorshouse.com,reefbuilders.com,sensationrock.net,stocksbeat.com,tripzilla.ph,uploadvr.com,zagranie.com#@#.share-container
+aerospace-technology.com,airport-technology.com,analyticsindiamag.com,army-technology.com,awarenessact.com,bbcccnn.com.ua,cbronline.com,chatsports.com,chemicals-technology.com,clinicaltrialsarena.com,comicbook.com,cosmetics-technology.com,designbuild-network.com,dogs-magazin.de,drinks-insight-network.com,foodprocessing-technology.com,foodtank.com,gamerisle.org,gen-pop.com,gfycat.com,homelandsecurity-technology.com,hospitalmanagement.net,hotelmanagement-network.com,hydrocarbons-technology.com,invisioncommunity.co.uk,lcms.org,livetheorganicdream.com,medicaldevice-network.com,mining-technology.com,naval-technology.com,nursetimes.org,offshore-technology.com,packaging-gateway.com,pharmaceutical-technology.com,player.it,popsugar.co.uk,popsugar.com,popsugar.com.au,power-technology.com,professorshouse.com,railway-technology.com,reefbuilders.com,renewable-technology.com,retail-insight-network.com,roadtraffic-technology.com,sensationrock.net,ship-technology.com,stocksbeat.com,tripzilla.ph,uploadvr.com,verdict.co.uk,verdictfoodservice.com,water-technology.net,zagranie.com#@#.share-container
 podbean.com#@#.share-content
 mediafire.com#@#.share-facebook
 bild.de#@#.share-fb
@@ -303,7 +310,7 @@ sharesansar.com#@#.share-head
 greatbritishchefs.com#@#.share-header
 howtogeek.com#@#.share-heading
 ida2at.com#@#.share-holder
-iherb.com,vimeo.com#@#.share-icon
+app.sococo.com,iherb.com,vimeo.com#@#.share-icon
 golem.de,tumblr.com#@#.share-item
 vimeo.com#@#.share-label
 recite.com#@#.share-left
@@ -311,7 +318,7 @@ askubuntu.com,baidu.com,broadcast.app.net,imgur.com,kuechenstud.io,logbuch-netzp
 pornhub.com#@#.share-link-container
 autokult.pl,channelnewsasia.com,fotoblogia.pl,imgur.com,komorkomania.pl#@#.share-links
 channelnewsasia.com,recite.com#@#.share-list
-disqus.com,disroot.org,google.at,google.be,google.ca,google.ch,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.th,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.hk,google.com.mx,google.com.tr,google.com.ua,google.cz,google.dk,google.es,google.fi,google.fr,google.hu,google.it,google.nl,google.pl,google.ro,google.ru,google.se,google.sk,livelib.ru,tumblr.com#@#.share-menu
+app.sococo.com,disqus.com,disroot.org,google.at,google.be,google.ca,google.ch,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.th,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.hk,google.com.mx,google.com.tr,google.com.ua,google.cz,google.dk,google.es,google.fi,google.fr,google.hu,google.it,google.nl,google.pl,google.ro,google.ru,google.se,google.sk,livelib.ru,tumblr.com#@#.share-menu
 flickr.com,fxhome.com#@#.share-options
 dropbox.com,ge.tt,gfycat.com,recite.com#@#.share-page
 flickr.com,imgur.com,tobii.com,youtube.com#@#.share-panel
@@ -399,6 +406,7 @@ f-secure.com,howtogeek.com#@#.social-media-buttons
 chorus.co.nz#@#.social-media-links
 schuermann.eu#@#.social-media-list
 insideover.com#@#.social-menu
+e-gezondheid.be,e-sante.be,e-sante.fr#@#.social-networks
 nvidia.pl#@#.social-newsletter
 linkis.com#@#.social-panel
 techspot.com,tuba.pl#@#.social-popup
@@ -436,6 +444,7 @@ academia.edu,wsqn.pl#@#.social_container
 ourweigh.in#@#.social_facebook
 kuriertczewski.pl#@#.social_header
 maximumpc.com#@#.social_links_top
+popmech.ru#@#.social_list
 fitocracy.com#@#.social_row
 neoseeker.com#@#.social_share
 meilleurmobile.com#@#.social_tabs
@@ -576,7 +585,7 @@ authy.com,breakoutlist.com,eff.org,facebook.com,github.com,github.io,google.ad,g
 acceptableads.org,battleforthenet.com,breakoutlist.com,easyicon.net,github.com,github.io,massivelyop.com,microsoft.com,rantlifestyle.com#@#img[alt="Reddit"]
 a2zapk.com,authy.com,battleforthenet.com,breakoutlist.com,clubbingtv.com,disqus.com,eff.org,github.com,github.io,gitlab.com,google.ad,google.ae,google.al,google.am,google.as,google.at,google.az,google.ba,google.be,google.bf,google.bg,google.bi,google.bj,google.bs,google.bt,google.by,google.ca,google.cat,google.cd,google.cf,google.cg,google.ch,google.ci,google.cl,google.cm,google.cn,google.co.ao,google.co.bw,google.co.ck,google.co.cr,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.ls,google.co.ma,google.co.mz,google.co.nz,google.co.th,google.co.tz,google.co.ug,google.co.uk,google.co.uz,google.co.ve,google.co.vi,google.co.za,google.co.zm,google.co.zw,google.com,google.com.af,google.com.ag,google.com.ai,google.com.ar,google.com.au,google.com.bd,google.com.bh,google.com.bn,google.com.bo,google.com.br,google.com.bz,google.com.co,google.com.cu,google.com.cy,google.com.do,google.com.ec,google.com.eg,google.com.et,google.com.fj,google.com.gh,google.com.gi,google.com.gt,google.com.hk,google.com.jm,google.com.kh,google.com.kw,google.com.lb,google.com.ly,google.com.mm,google.com.mt,google.com.mx,google.com.my,google.com.na,google.com.nf,google.com.ng,google.com.ni,google.com.np,google.com.om,google.com.pa,google.com.pe,google.com.pg,google.com.ph,google.com.pk,google.com.pr,google.com.py,google.com.qa,google.com.sa,google.com.sb,google.com.sg,google.com.sl,google.com.sv,google.com.tj,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vc,google.com.vn,google.cv,google.cz,google.de,google.dj,google.dk,google.dm,google.dz,google.ee,google.es,google.fi,google.fm,google.fr,google.ga,google.ge,google.gg,google.gl,google.gm,google.gp,google.gr,google.gy,google.hn,google.hr,google.ht,google.hu,google.ie,google.im,google.iq,google.is,google.it,google.je,google.jo,google.kg,google.ki,google.kz,google.la,google.li,google.lk,google.lt,google.lu,google.lv,google.md,google.me,google.mg,google.mk,google.ml,google.mn,google.ms,google.mu,google.mv,google.mw,google.ne,google.nl,google.no,google.nr,google.nu,google.pl,google.pn,google.ps,google.pt,google.ro,google.rs,google.ru,google.rw,google.sc,google.se,google.sh,google.si,google.sk,google.sm,google.sn,google.so,google.sr,google.st,google.td,google.tg,google.tk,google.tl,google.tm,google.tn,google.to,google.tt,google.vg,google.vu,google.ws,hackerone.com,incgamers.com,massivelyop.com,maxthon.com,microsoft.com,opendatacity.de,thoughtcatalog.com,twitter.com,vvhp.net,whatculture.com,whatthetech.com#@#img[alt="Twitter"]
 github.com,mezzacotta.net,theverge.com,twitter.com#@#img[alt="Vine"]
-a2zapk.com,github.com,maxthon.com,opendatacity.de,whatculture.com#@#img[alt="Youtube"]
+a2zapk.com,github.com,ixbt.com,maxthon.com,opendatacity.de,whatculture.com#@#img[alt="Youtube"]
 avira.com,facebook.com,github.com,github.io,megabus.com,theguardian.com,uservoice.com#@#img[alt="facebook"]
 discourse.org,github.com,github.io,megabus.com#@#img[alt="twitter"]
 allestörungen.de,github.com,github.io,keepa.com,marketplace.firefox.com,vvhp.net#@#img[title="Facebook"]

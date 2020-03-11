@@ -4,6 +4,7 @@
 ||193.197.158.209^$third-party,domain=~statistik.lubw.baden-wuerttemberg.de.ip
 ||212.95.32.75^$third-party,domain=~ipcounter.de.ip
 ||24log.de^$third-party
+||3ng6p6m0.de^$third-party
 ||4stats.de^$third-party
 ||actionallocator.com^$third-party
 ||active-tracking.de^$third-party
@@ -40,6 +41,7 @@
 ||besucherzaehler.org^$third-party
 ||besucherzahlen.com^$third-party
 ||betarget.de^$third-party
+||bf-tools.net^$third-party
 ||blacktri.com^$third-party
 ||blog-o-rama.de^$third-party
 ||blog-webkatalog.de^$third-party
@@ -149,6 +151,7 @@
 ||leserservice-tracking.de^$third-party
 ||link-empfehlen24.de^$third-party
 ||losecounter.de^$third-party
+||lumitos.com^$third-party
 ||mairdumont.com^$third-party
 ||marketing-page.de^$third-party
 ||mateti.net^$third-party
@@ -188,7 +191,6 @@
 ||pc-agency24.de^$third-party
 ||pimpmypr.de^$third-party
 ||plexworks.de^$third-party
-||powerbar-pagerank.de^$third-party
 ||powercount.com^$third-party
 ||ppro.de^$third-party
 ||pr-chart.com^$third-party
@@ -243,18 +245,16 @@
 ||suchmaschinen-ranking-hits.de^$third-party
 ||sunios.de^$third-party
 ||t4ft.de^$third-party
+||tagtool.de^$third-party
 ||tamedia.ch^$third-party
-||tausch-link.de^$third-party
 ||tda.io^$third-party
 ||technical-service.net^$third-party
-||teriotracker.de^$third-party
 ||tisoomi-services.com^$third-party
 ||tophits4u.de^$third-party
 ||toplist100.org^$third-party
 ||topstat.com^$third-party
 ||tracdelight.com^$third-party
 ||tracdelight.io^$third-party
-||trackfreundlich.de^$third-party
 ||trafficmaxx.de^$third-party
 ||trbo.com^$third-party
 ||trendcounter.de^$third-party
@@ -264,6 +264,7 @@
 ||universaltrackingcontainer.com^$third-party
 ||up-rank.com^$third-party
 ||urstats.de^$third-party
+||usage.seibert-media.io^$third-party
 ||usemaxserver.de^$third-party
 ||verypopularwebsite.com^$third-party
 ||viewar.org^$third-party
@@ -271,7 +272,6 @@
 ||visitor-stats.de^$third-party
 ||vtracy.de^$third-party
 ||wcfbc.net^$third-party
-||web-controlling.org^$third-party
 ||webhits.de^$third-party
 ||webkatalog.li^$third-party
 ||weblist.de^$third-party
@@ -284,7 +284,6 @@
 ||wecount4u.com^$third-party
 ||welt-der-links.de^$third-party
 ||wipe.de^$~script,third-party
-||xa-counter.com^$third-party
 ||xcounter.ch^$third-party
 ||xhit.com^$third-party
 ||xl-counti.com^$third-party
@@ -303,6 +302,7 @@
 ||affilizr.com^$third-party
 ||air360tracker.net^$third-party
 ||alkemics.com^$third-party
+||allo-media.net^$third-party
 ||analytics-cdiscount.com^$third-party
 ||antvoice.com^$third-party
 ||atraxio.com^$third-party
@@ -347,7 +347,6 @@
 ||mb-srv.com^$third-party
 ||megast.at^$third-party
 ||mmtro.com^$third-party
-||ncdnprorogeraie.lol^$third-party
 ||netquattro.com/stats/
 ||netvigie.com^$third-party
 ||organicfruitapps.com^$third-party
@@ -362,13 +361,14 @@
 ||stats.fr^$third-party
 ||sync.tv^$third-party
 ||tget.me^$third-party
+||tinyclues.com^$third-party
 ||titag.com^$third-party
-||tnsinternet.be^$third-party
 ||toc.io^$third-party
 ||tracking.wlscripts.net^
 ||trafiz.net^$third-party
-||url-stats.net^$third-party
+||uzerly.net^$third-party
 ||webcompteur.com^$third-party
+||winitout.com^$third-party
 ||wysistat.com^$third-party
 ||x-traceur.com^$third-party
 ||ywywjrlbsuv.com^$third-party
@@ -445,12 +445,12 @@
 ||topsem.com^$third-party
 ||tovery.net^$third-party
 ||twcouponcenter.com^$third-party
-||users.51.la^$third-party
 ||vamaker.com^$third-party
 ||vdoing.com^$third-party
 ||vm5apis.com^$third-party
 ||webdissector.com^$third-party
 ||xtgreat.com^$third-party
+||yhjinm.cn^$third-party
 ||yigao.com^$third-party
 ||youle55.com^$third-party
 ||zampda.net^$third-party
@@ -487,7 +487,7 @@
 ||netstats.dk^$third-party
 ||parameter.dk^$third-party
 ||peakcounter.dk^$third-party
-||sitechart.dk^$third-party
+||telemetric.dk^$third-party
 ||tns-gallup.dk^$third-party
 ||zipstat.dk^$third-party
 ! Dutch
@@ -502,7 +502,6 @@
 ||traffic4u.nl^$third-party
 ! Estonian
 ||counter.ok.ee^$third-party
-||mediaindex.ee^$third-party
 ! Finnish
 ||frosmo.com^$third-party
 ||gallupnet.fi^$third-party
@@ -556,6 +555,7 @@
 ||freestats.tv^$third-party
 ||freestats.ws^$third-party
 ||geocontatore.com^$third-party
+||gm-it.consulting^$third-party
 ||hiperstat.com^$third-party
 ||hitcountersonline.com^$third-party
 ||imetrix.it^$third-party
@@ -564,39 +564,34 @@
 ||italianadirectory.com^$third-party
 ||keyxel.com^$third-party
 ||laserstat.com^$third-party
-||megastat.net^$third-party
 ||mwstats.net^$third-party
 ||mystat.it^$third-party
 ||ninestats.com^$third-party
 ||ntlab.org^$third-party
 ||pagerankfree.com^$third-party
-||prostats.it^$third-party
 ||shinystat.it^$third-party
 ||specialstat.com^$third-party
 ||statistiche-free.com^$third-party
 ||statistiche.it^$third-party
 ||statistiche.ws^$third-party
 ||statistichegratis.net^$third-party
-||statsadvance-01.net^$third-party
 ||statsforever.com^$third-party
-||statsview.it^$third-party
 ||superstat.info^$third-party
 ||tetigi.com^$third-party
 ||thestat.net^$third-party
 ||trackset.it^$third-party
 ||trick17.it^$third-party
-||ultrastats.it^$third-party
 ||vivistats.com^$third-party
 ||webads.eu^$third-party
 ||webmeter.ws^$third-party
 ||webmobile.ws^$third-party
-||webtraffstats.net^$third-party
 ||whoseesyou.com^$third-party
 ||wstatslive.com^$third-party
 ||zt-dst.com^$third-party
 ! Japanese
 ||accesstrade.net^$third-party
 ||admatrix.jp^$third-party
+||af-z.jp^$third-party
 ||aid-ad.jp^$third-party
 ||amoad.com^$third-party
 ||analyticsip.net^$third-party
@@ -616,6 +611,7 @@
 ||ec-concier.com^$third-party
 ||ec-optimizer.com^$third-party
 ||eco-tag.jp^$third-party
+||eltex.co.jp^$third-party
 ||f-counter.jp^$third-party
 ||f-counter.net^$third-party
 ||genieedmp.com^$third-party
@@ -630,6 +626,7 @@
 ||iogous.com^$third-party
 ||keyword-match.com^$third-party
 ||kir.jp^$third-party
+||letro.jp^$third-party
 ||macromill.com^$third-party
 ||marsflag.com^$third-party
 ||mobylog.jp^$third-party
@@ -676,7 +673,6 @@
 ||puls.lv^$third-party
 ||reitingi.lv^$third-party
 ||statistika.lv^$third-party
-||stats4u.lv^$third-party
 ||top.lv^$third-party
 ||topsite.lv^$third-party
 ||webstatistika.lv^$third-party
@@ -688,7 +684,6 @@
 ||reitingas.lt^$third-party
 ||stats.lt^$third-party
 ||visits.lt^$third-party
-||webstatistika.lt^$third-party
 ||www.hey.lt^$third-party
 ! Norwegian
 ||de17a.com^$third-party
@@ -697,7 +692,6 @@
 ||xtractor.no^$third-party
 ! Persian
 ||amarfa.ir^$third-party
-||melatstat.com^$third-party
 ||persianstat.com^$third-party
 ||persianstat.ir^$third-party
 ||tinystat.ir^$third-party
@@ -710,6 +704,7 @@
 ||caanalytics.com^$third-party
 ||clickmatic.pl^$third-party
 ||conversion.pl^$third-party
+||conversionlabs.net.pl^$third-party
 ||dmdi.pl^$third-party
 ||goprediction.com^$third-party
 ||gostats.pl^$third-party
@@ -742,7 +737,6 @@
 ||engageya.com^$third-party
 ||marktest.pt^$third-party
 ||percycle.com^$third-party
-||popstats.com.br^$third-party
 ||rdstation.com.br^$third-party
 ||sambaads.com^$third-party
 ||tailtarget.com^$third-party
@@ -830,7 +824,7 @@
 ||mokuz.ru^$third-party
 ||musiccounter.ru^$third-party
 ||mystat-in.net^$third-party
-||personage.name^$third-party
+||opentracking.ru^$third-party
 ||pladform.ru^$third-party
 ||pmbox.biz^$third-party
 ||proext.com^$third-party
@@ -840,8 +834,10 @@
 ||rnet.plus^$third-party
 ||ru.net^$third-party
 ||rutarget.ru^$third-party
+||sarimsol.com^$third-party
 ||sarov.ws^$third-party
 ||sas.com^$third-party
+||sblftg.com^$third-party
 ||semantiqo.com^$third-party
 ||sensor.org.ua^$third-party
 ||seo-master.net^$third-party
@@ -859,7 +855,6 @@
 ||toptracker.ru^$third-party
 ||tpm.pw^$third-party
 ||track.cooster.ru^
-||trbna.com^$third-party
 ||uarating.com^$third-party
 ||upravel.com^$third-party
 ||uptolike.com^$third-party
@@ -876,13 +871,10 @@
 ||webturn.ru^$third-party
 ||webvisor.com^$third-party
 ||webvisor.ru^$third-party
-||wunderdaten.com^$third-party
 ||wwgate.ru^$third-party
-||www.rt-ns.ru^$third-party
 ||zero.kz^$third-party
 ! Serbian
 ||midas-network.com^$third-party
-! Singaporean
 ! Slovak
 ||algopine.com^$third-party
 ||data.caroda.io^$third-party
@@ -909,14 +901,12 @@
 ||intrastats.com^$third-party
 ||mabaya.com^$third-party
 ||micodigo.com^$third-party
-||s3wfg.com^$third-party
 ||seedtag.com^$third-party
 ! Swedish
 ||adsettings.com^$third-party
 ||adten.eu^$third-party
 ||adtlgc.com^$third-party
 ||adtr.io^$third-party
-||adtraction.com^$third-party
 ||bonnieradnetwork.se^$third-party
 ||brandmetrics.com^$third-party
 ||citypaketet.se^$third-party

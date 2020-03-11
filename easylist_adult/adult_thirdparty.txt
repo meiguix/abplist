@@ -19,7 +19,6 @@
 ||88.85.77.94/rotation/$third-party
 ||91.83.237.41^*/banners/
 ||ad.duga.jp^
-||ad.favod.net^$third-party
 ||ad.iloveinterracial.com^
 ||ad.traffmonster.info^$third-party
 ||adb.fling.com^$third-party
@@ -60,6 +59,7 @@
 ||avatraffic.com/b/
 ||awempt.com/embed/
 ||awestat.com^*/banner/
+||b-cdn.net/media/cb/
 ||b.turbo.az^$third-party
 ||bangdom.com^$third-party
 ||banner.gasuki.com^$third-party
@@ -236,7 +236,6 @@
 ||ipornia.com/frends/$subdocument
 ||istripper.com^$third-party,domain=~istripper.eu
 ||ivitrine.buscape.com^$third-party
-||js.picsomania.info^$third-party
 ||just-nude.com/images/ban_$third-party
 ||justcutegirls.com/banners/$third-party
 ||kau.li/yad.js
@@ -246,9 +245,7 @@
 ||ladyboygoo.com/lbg/banners/
 ||latinasheat.online^$subdocument,third-party
 ||latinteencash.com/potd/$third-party
-||layers.spacash.com^$third-party
 ||lb-69.com/pics/
-||links.freeones.com^$third-party
 ||livejasmin.com^$third-party,domain=~awempire.com
 ||livesexasian.com^$subdocument,third-party
 ||llnwd.net^*/takeover_
@@ -265,7 +262,6 @@
 ||media.mykocam.com^$third-party
 ||media.mykodial.com^$third-party
 ||media.pussycash.com^$third-party
-||megacash.warpnet.com.br^$third-party
 ||metartmoney.com^$third-party
 ||metartmoney.met-art.com^$third-party
 ||mofomedia.nl/pop-*.js
@@ -273,7 +269,6 @@
 ||mrskin.com/affiliateframe/
 ||mrskincdn.com^*/flash/aff/$third-party
 ||mrvids.com/network/$third-party
-||ms.wsex.com^$third-party
 ||mtoon.com/banner/
 ||my-dirty-hobby.com/?sub=$third-party
 ||mycams.com/freechat.php?$third-party
@@ -409,14 +404,12 @@
 ||theporndude.com/img/planetsuzy.png
 ||thrixxx.com/affiliates/$image
 ||thrixxx.com/scripts/show_banner.php?
-||thumbs.sunporno.com^$third-party
 ||thumbs.vstreamcdn.com^*/slider.html
 ||tlavideo.com/affiliates/$third-party
 ||tm-offers.gamingadult.com^
 ||tool.acces-vod.com^
 ||tools.bongacams.com^$third-party
 ||tools.gfcash.com^$third-party
-||tour.cum-covered-gfs.com^$third-party
 ||tours.imlive.com^$third-party
 ||track.xtrasize.nl^$third-party
 ||trader.erosdlz.com^$third-party
@@ -430,7 +423,6 @@
 ||upsellit.com/custom/$third-party
 ||uramov.info/wav/wavideo.html
 ||uselessjunk.com^$domain=yoloselfie.com
-||vectorpastel.com^$third-party
 ||venuscamz.com/in/?track=$subdocument,third-party
 ||vidz.com/promo_banner/$third-party
 ||vigrax.pl/banner/

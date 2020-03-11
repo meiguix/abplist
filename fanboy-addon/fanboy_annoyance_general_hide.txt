@@ -212,6 +212,7 @@
 ##.block-nst-cxense
 ##.block-simplenews
 ##.bookmark_services
+##.bottom-nolink__social
 ##.button-feed
 ##.cactus-post-suggestion
 ##.cb_ads
@@ -618,6 +619,7 @@
 ###ascenseur_newsletter
 ###at-cv-toaster
 ###barNewsletter
+###bc-newsletter-cta
 ###bitsubscribe
 ###bloc-newsletter
 ###bloc_newsletter
@@ -912,6 +914,7 @@
 ###newsletterEPG
 ###newsletterFloorBanner
 ###newsletterFlyIn
+###newsletterFooter
 ###newsletterFooterDiv
 ###newsletterFormWrapper
 ###newsletterLBContainer
@@ -937,6 +940,8 @@
 ###newsletterSignupPromo
 ###newsletterSubContainer
 ###newsletterSubscribe
+###newsletterSubscriptionPopup
+###newsletterWidget
 ###newsletterWidgetFormHolder
 ###newsletterWrapper
 ###newsletter_articles
@@ -1020,6 +1025,7 @@
 ###optinform-container
 ###overlay-email-signup
 ###overlay-newsletter001
+###overlayPopinNewsletter
 ###pcm-subscribe
 ###pf-newsletter-form
 ###pnlFooterNewsletterSignup
@@ -1028,6 +1034,7 @@
 ###popup-newsletter-software
 ###popupNewsletter
 ###popup_newslettter
+###post-newsletter
 ###pp-subscribe
 ###pp.pp_container
 ###primary-nav-subscribe
@@ -1166,6 +1173,7 @@
 ###subsribe_right
 ###sw-noty-email
 ###tc_newsletter
+###teq-newsletter-footer-form
 ###theEmailBlastSignup
 ###thehill-blocks-signup-form
 ###titolo-newsletter
@@ -1282,6 +1290,7 @@
 ##.bk-subscribe-email
 ##.bk-subscribe-popup
 ##.bl_newsletter
+##.bloc-info-newsletter
 ##.bloc-newsletter
 ##.blocSubscribeRight
 ##.bloc_newsletter
@@ -1307,6 +1316,7 @@
 ##.block_valor_newsletter_front
 ##.blog-signup-container
 ##.blog_signup_box
+##.bottom_signup_newsletter
 ##.bottom_subscribe
 ##.box--newsletter
 ##.box-newsletter
@@ -1420,6 +1430,8 @@
 ##.email-ask-full-width
 ##.email-banner
 ##.email-bar
+##.email-capture-banner-pinterest
+##.email-collection-banner
 ##.email-content-container
 ##.email-cta
 ##.email-news-promo-panel
@@ -1600,6 +1612,7 @@
 ##.ione-widget-social_conversion
 ##.ipWidget-Newsletter
 ##.iscrizione-newsletter
+##.iscrizionenewsletter
 ##.item-list-newsletter-box
 ##.item-newsletter
 ##.item-subscribe
@@ -1998,6 +2011,7 @@
 ##.nwletters
 ##.o-Newsletter
 ##.o-email-only-signup
+##.o-footer__newsletter
 ##.o-footer__newsletter-signup
 ##.o-widget__newsletter
 ##.ob-Newsletter
@@ -2066,6 +2080,7 @@
 ##.rdstation-popup-newsletter
 ##.react-newsletter-overlay
 ##.reg_newsletter
+##.region-newsletter
 ##.register-newsletter
 ##.register-signup-promo
 ##.register_block_newsletter
@@ -2118,6 +2133,7 @@
 ##.sidebarNewsletterAd
 ##.sidebar__newsletter
 ##.sidebar__signup
+##.sidebar__widget_subscribe
 ##.sidebar_email_signup
 ##.sidebar_newsletter_sign_up
 ##.sidebar_subscribe
@@ -2311,6 +2327,7 @@
 ##.widget-subscribe_widget
 ##.widget-type-blog_subscribe
 ##.widget__subscribe
+##.widget_abonews
 ##.widget_bb_mailchimp_custom_signup_widget
 ##.widget_better_mailchimp
 ##.widget_bs-newsletter-mailchimp
@@ -2353,6 +2370,8 @@
 ##.wrapper-button-newsletter
 ##.wrapper_suscribe_home
 ##.wwd-subscribe-now-banner-background
+##.yel-email-popup
+##.yel-popup-main-wrapper
 ##.yt-mailchimp-subscription-form-widget
 ##GANNETT-ATOMS-COMPONENT-NEWSLETTER-CTA
 ##GET-SUBSCRIBERS
@@ -2361,7 +2380,7 @@
 ##[data-target="#newsletter-modal"]
 ##a[title="Daily Email Newsletter"]
 ##div[class*="NewsletterSubscribe_"]
-##div[class^="MuiSnackbar-"]
+##div[class*="newsletter-signup_"]
 ##div[class^="NewsletterForm_"]
 ##div[class^="NewsletterPopup_"]
 ##div[class^="mpp-container-position"]
@@ -2372,119 +2391,6 @@
 ##img[title="Subscribe to our daily email"]
 ! wix sites
 ###WIX_ADS
-! ---------- Push Notifications ----------
-###NotificationsAskMsg
-###SubscribePush
-###SubscribePushNotificationPanel
-###Znotify_Prompt
-###\5f __tdspushdiv
-###___ndtvpushdiv
-###bigpicture-webpush-widget
-###cont_webpush
-###desktop-notification-ask-dialog
-###desktop-notifications
-###dialog-push-notification
-###divPnot
-###edrone--push--alert--box
-###frizbit-prompter
-###hint-push-service
-###ilabspush-optin-container
-###jeapie-prompt-widget
-###js-gcm-notif
-###lwp-popover-container
-###my_web_push_app_box_confirm
-###noti_msg
-###noti_subscribe_dialog
-###notification-permission
-###onesignal-popover-container
-###pa-push-notification-subscription
-###popUpNotification
-###push-alert-block
-###push-container
-###push-notification
-###push-notification-box
-###push-notification-pop-up
-###push-prompt
-###pushAdUpBanner
-###pushNotification
-###pushOffer
-###pushSec
-###pushSubscribeModal
-###push_alert
-###push_notifications
-###push_subscribe
-###push_switcher
-###pushbanner
-###pushinstruments_popup
-###pushpushgo-container
-###pushwoosh-pop
-###qrzpush-prompt-widget
-###visilabs_web_push_perm_box
-###web-push-prompt
-###webPushPopup
-###webpush-info-div
-###webpushSelctorFormId
-###webpush_modal
-##.PushNotification--base
-##.PushNotification--top
-##.PushNotification-popover-dialog
-##.b-notification-push
-##.bs-push-noti
-##.bubble-push
-##.cleverpush-backdrop
-##.cleverpush-confirm
-##.cont_webpush
-##.contentwebpush
-##.desktop-notification-ask-dialog
-##.e-push-notification-popup
-##.et_push_notification
-##.frizbit-prompt
-##.hs-push
-##.htpush-chrome-style-notification
-##.insider-opt-in-notification
-##.item-newsletter-form
-##.j-push-notifications-feature
-##.js-custom-push-notifications
-##.js-notifications-button
-##.m-notifications-banner
-##.m-webpush-layer
-##.modal-push
-##.naf-web-notifications-popup
-##.notBar
-##.notf-overlay
-##.ntfc_overlay
-##.ntfc_popup
-##.oi-notify
-##.push-area-btn
-##.push-bx
-##.push-container
-##.push-message
-##.push-notice
-##.push-notification
-##.push-notification-box
-##.push-overlay
-##.push-popup
-##.push-wrap
-##.push-wrapper
-##.pushNotWrap
-##.pushNotification
-##.push_back
-##.push_notification
-##.push_subscribe
-##.push_warn
-##.pushinstruments
-##.pushly_popover
-##.pwa-modal-prompt
-##.showtvPushOverlay
-##.tsoft-push--in-notification
-##.ud_webpush_sticky
-##.web-notification
-##.web-push
-##.web-push-box
-##.window-push
-##.wordpress-fire-push-popup
-##.ys-push
-##amp-web-push-widget
 ! alextimes.com
 ##.cpcta-flyin
 ! gastongazette.com
@@ -2563,6 +2469,7 @@
 ##.bg-button-rss
 ##.bg-rss
 ##.bk-socialicons-rss
+##.bloc-rss
 ##.btRSS
 ##.btRss
 ##.btn-rss
@@ -2669,6 +2576,7 @@
 ##.rss-link
 ##.rss-subscribers
 ##.rss-widget
+##.rss.header
 ##.rss.icon
 ##.rssBox
 ##.rssConnect
@@ -2713,6 +2621,7 @@
 ##.sprite-share-rss
 ##.sprite-social-rss
 ##.spriteRss
+##.sprite_rss
 ##.sprites-rss
 ##.submenu-seccion-rss
 ##.svg-icon-rss
@@ -2726,6 +2635,7 @@
 ##.uk-icon-rss
 ##.uk-icon-rss-square
 ##.unian-rss
+##.widget_rss
 ##.widget_rss_links
 ##.widget_rssiconwidget
 ##.wpdev-social-rss
@@ -2763,6 +2673,7 @@
 ###BackToTop
 ###BtmToPageTopArea
 ###Imgback2top
+###J_returntop
 ###PAGE_TOP_LINK
 ###ReturnToTop
 ###ScrollToTopButton
@@ -2841,8 +2752,9 @@
 ###goto-top
 ###goto-top-page
 ###gotoTop
+###gotoTopWrapper
 ###gotop
-###gototop
+###gototop:not(body)
 ###gp-to-top
 ###img_goTop
 ###infinite-footer-back-to-top-button
@@ -2868,6 +2780,7 @@
 ###mkd-back-to-top
 ###move-to-top
 ###move_to_top
+###mt-scrollup
 ###navBackToTop
 ###neklo_scrolltotop_arrow
 ###nino-scrollToTop
@@ -2960,10 +2873,12 @@
 ##.NextCheatButton
 ##.PageHeaderWithMenu-backTop
 ##.ScrollTop
+##.SiteScrollToTopButton
 ##.TopGoTop
 ##.W_gotop
 ##.a-back-to-top
 ##.a-core-scroll-to-top
+##.arrow_scroll_up
 ##.arrow_up
 ##.artee-back-to-top
 ##.article-back-to-top
@@ -3009,6 +2924,7 @@
 ##.backtotop
 ##.backtotop-bubble
 ##.backtotopbutton
+##.backtotopx
 ##.bc_goto_top
 ##.bd-backtotop-1
 ##.bfc-scroll-to-top
@@ -3018,6 +2934,7 @@
 ##.body-btn-top
 ##.body-scrollToTop
 ##.bottom-scroll-top
+##.box-scrollToTop
 ##.bt-pagetop
 ##.btn--move-to-top
 ##.btn--toTop
@@ -3039,6 +2956,7 @@
 ##.btn_gototop
 ##.button--scroll-top
 ##.button-back-top
+##.button-go-up
 ##.button-to-top
 ##.c-back-to-top
 ##.c-back-to-top-cta
@@ -3048,6 +2966,7 @@
 ##.category-page__back-to-top--button
 ##.ccm_go_top
 ##.cmc-scroll-to-top
+##.cp-footer-scroll-top
 ##.crc-backToTop
 ##.ct-js-btnScrollUp
 ##.ct-scrollUpButton
@@ -3067,6 +2986,7 @@
 ##.fk-ui-goTop
 ##.fk_siteBackToTop
 ##.footer--scrolltop
+##.footer--totop
 ##.footer-back-to-top
 ##.footer-back-top
 ##.footer-backtotop
@@ -3111,6 +3031,7 @@
 ##.go_up
 ##.goto-top
 ##.goto-top-container
+##.gotop-wrapper
 ##.gotop_btn
 ##.gototop
 ##.goup-container
@@ -3159,6 +3080,7 @@
 ##.jsbd-Backtotop
 ##.jscroll-to-top_link
 ##.jump-to-top
+##.jupiterx-scroll-top
 ##.kleo-go-top
 ##.layout__scroll-to-top
 ##.layoutscrolltop
@@ -3180,6 +3102,7 @@
 ##.mypresta_scrollup
 ##.nav--back-to-top
 ##.news-back-to-top__top-link
+##.o-back-to-top
 ##.o-backtop
 ##.on--totop
 ##.os-back-to-top
@@ -3197,6 +3120,8 @@
 ##.remonter-la-page
 ##.retour_haut
 ##.return-to-top
+##.returnToTop
+##.return_top
 ##.rh-footer-back-to-top
 ##.rlx-back-top
 ##.rtp-back-to-top
@@ -3211,16 +3136,16 @@
 ##.scroll-to-top-button
 ##.scroll-to-top-square:not(body)
 ##.scroll-to-top:not(body)
-##.scroll-top
 ##.scroll-top-arrow
 ##.scroll-top-btn
 ##.scroll-top-button
 ##.scroll-top-inner
 ##.scroll-top-wrapper
-##.scroll-up
+##.scroll-top:not(body):not(html)
 ##.scroll-up-button
 ##.scroll-up-button-wrapper
 ##.scroll-up-cta
+##.scroll-up:not(body):not(html)
 ##.scroll2top
 ##.scrollToTop
 ##.scrollToTopButton
@@ -3232,17 +3157,17 @@
 ##.scroll__to__top
 ##.scroll_to_top
 ##.scroll_to_top_icon
-##.scroll_top
+##.scroll_top:not(body):not(html)
 ##.scroll_top_btn
 ##.scrollbtntop
 ##.scrollto_top
-##.scrolltop
 ##.scrolltop-btn
+##.scrolltop:not(body):not(html)
 ##.scrolltotop
 ##.scrolltotopbutton
-##.scrollup
 ##.scrollup-container
-##.scroolTop
+##.scrollup:not(body):not(html)
+##.scroolTop:not(body):not(html)
 ##.sf-back-to-top
 ##.sh-back-to-top
 ##.show-top-button
@@ -3296,6 +3221,7 @@
 ##.totop
 ##.totop_button
 ##.totopbuttom
+##.totopbutton
 ##.txt_back_top
 ##.u-scrollButtons
 ##.ui-backtotop
@@ -3382,6 +3308,7 @@
 ##div[aria-label="Scroll to top"]
 ##div[class^="BackToTop_"]
 ##div[class^="backToTop_"]
+##div[ng-click^="animateToTop"]
 ##div[onclick^="scrollToTop"]
 ##div[title="Scroll Back to Top"]
 ##div[title="Scroll To Top"]
