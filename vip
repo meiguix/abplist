@@ -78,6 +78,7 @@ news.sina.com.cn###tab_related
 ##[data-sudaclick="ad_right_sea_p"]
 sports.sina.com.cn##.footer
 sports.sina.com.cn###tab_related
+###ctlo
 ##.footer-cont
 ###j_wrap_55a07552_9f6c_12b3_4f25_921db3cc5584
 ###j_wrap_894980cb_ad47_ac8b_4b9e_a4f65e6b70fb
@@ -192,7 +193,7 @@ news.mydrivers.com##.footer_about
 iqiyi.com##.channel-footer-warp
 ##.qy-player-pca
 ###block-AP
-###block-I
+##.mod-horizon-one
 ###block-QY
 ###block-Q
 ###block-K
