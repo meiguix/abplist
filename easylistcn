@@ -16842,7 +16842,7 @@ finance.sina.com.cn###jj50r
 ###pl_band_index + .card-wrap
 ##.W_layer_tips
 ##.extendAd
-! QDK
+! QDZJ
 -info-580.
 ###a_showhotnews_list
 ###a_showhotnews_list_dia
@@ -16902,6 +16902,11 @@ news.znds.com##.adlr
 ##.listlcon + * + div
 ! QD
 ##.focus-img
+##.lbf-panel
+##.guide-box
+##.guide-mask.top
+##.guide-mask.bottom
+##.guide-btn-wrap
 ! 51ZJ
 ###topTxt
 ###loc
