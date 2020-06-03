@@ -124,6 +124,14 @@ finance.sina.com.cn###tab_related
 weibo.com##.WB_footer
 ##.PCD_mplayer
 ###Pl_Core_RecommendFeed__24
+! APP
+sina.cn##.cm_art_push
+sina.cn##.fix_bottom
+sina.cn##.j_article_relevent_news
+sina.cn##.j_wbrecommend_wrap
+sina.cn###j_card_hot_rank + .s_card
+sina.cn##.hd_nav.ft_nav
+sina.cn##.ft_cm
 !------------SINA OVER------------!
 ! YX
 ##.section3
