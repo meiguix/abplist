@@ -16844,6 +16844,8 @@ finance.sina.com.cn###jj50r
 ##.extendAd
 ! QDZJ
 -info-580.
+##.duilian_left
+##.duilian_right
 ###a_showhotnews_list
 ###a_showhotnews_list_dia
 ! YX
@@ -16966,6 +16968,8 @@ photopea.com###cap
 ##.u-panel_3C81k
 ##.information-tips
 ##[data-spm="anthology_shoujikan"]
+###ab_1001
+###ab_1003
 ||hudong.alicdn.com^
 ||irs01.com^
 ||localhost.iku.youku.com^
@@ -16976,6 +16980,7 @@ pptv.com##.sus-item-sub
 ###second-afp
 ! GZW
 ##.adboxs
+##.bgc + #readend
 ! BT
 ||anizedglittledisco.info^
 ||dc5k8fg5ioc8s.cloudfront.net^
