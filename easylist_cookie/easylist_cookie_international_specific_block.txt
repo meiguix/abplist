@@ -5,6 +5,7 @@
 ||cmp.pcwelt.de^
 ||consent.berliner-kurier.de^
 ||henryschein.at^*/CookieList.aspx
+||keltendorf-mitterkirchen.at/system/web/cookie.ashx
 ||strato.de^*/consent.js
 !
 ! ---------- French ----------
@@ -13,6 +14,7 @@
 ||consent.prismamedia.com^
 ||cookies.leadplace.fr^
 ||docteurclic.com/ajax/ajax_get_disc.aspx
+||googletagmanager.com/gtm.js$script,domain=stihl.fr
 ||jeu.video^*/partners.js
 ||thesiteoueb.net/js/cm-head.js
 !
@@ -103,6 +105,7 @@
 ||cookies.fakt.pl^
 ||cookies.forbes.pl^
 ||gry-online.pl/js/cookie2.js
+||interia.pl/rodo-iframe
 ||lubuskie.pl/themes/src/cookie.js
 ||niewygodne.info.pl/pierwsza.htm
 ||nowehoryzonty.pl/js/cookies.js

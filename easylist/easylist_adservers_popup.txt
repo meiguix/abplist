@@ -35,7 +35,6 @@
 ||abctrack.bid^$popup
 ||ablogica.com^$popup,third-party
 ||absoluteclickscom.com^$popup,third-party
-||accede.site^$popup,third-party
 ||actiondesk.com^$popup,third-party
 ||ad-apac.doubleclick.net^$popup,third-party
 ||ad-emea.doubleclick.net^$popup,third-party
@@ -46,6 +45,7 @@
 ||ad4game.com^$popup,third-party
 ||ad6media.fr^$popup,third-party
 ||adbetclickin.pink^$popup
+||adbetnet.com^$popup,third-party
 ||adbma.com^$popup,third-party
 ||adboost.it^$popup,third-party
 ||adbooth.com^$popup,third-party
@@ -262,6 +262,7 @@
 ||cm.g.doubleclick.net^$popup,third-party
 ||cml5egriskie.xyz^$popup
 ||cmllk2.info^$popup,third-party
+||codedexchange.com^$popup
 ||codeonclick.com^$popup
 ||colleable.info^$popup
 ||com-878979.info^$popup,third-party
@@ -278,7 +279,9 @@
 ||cpm30.com^$popup
 ||cpmterra.com^$popup,third-party
 ||cpvadvertise.com^$popup,third-party
+||cpxdeliv.com^$popup,third-party
 ||crazyad.net^$popup,third-party
+||curmaphow.club^$popup
 ||cutw.pro^$popup,third-party
 ||cyberlink.pro^$popup,third-party
 ||d0p21g2fep.com^$popup
@@ -323,11 +326,13 @@
 ||elephant-ads.com^$popup
 ||enlarget.com^$popup,third-party
 ||epicgameads.com^$popup,third-party
+||erdecisesgeorg.info^$popup
 ||ethfw0370q.com^$popup
 ||ewebse.com^$popup,third-party
 ||exdoller.com^$popup
 ||exdynsrv.com^$popup,third-party
 ||exosrv.com^$popup
+||expired-antiviruses.com^$popup
 ||explainidentifycoding.info^$popup,third-party
 ||explorads.com^$popup,third-party
 ||expmediadirect.com^$popup
@@ -531,6 +536,7 @@
 ||mtbgrgscjwcjc.com^$popup
 ||mutaticial.com^$popup
 ||muvflix.com^$popup,third-party
+||mvmbs.com^$popup
 ||mxsads.com^$popup,third-party
 ||myawesomecash.com^$popup,third-party
 ||mybestdc.com^$popup
@@ -709,6 +715,7 @@
 ||replainy.co^$popup
 ||reroplittrewheck.pro^$popup
 ||retainguaninefluorite.info^$popup,third-party
+||reviewedreads.com^$popup
 ||revimedia.com^$popup
 ||rgadvert.com^$popup,third-party
 ||riowrite.com^$popup,third-party
@@ -795,6 +802,7 @@
 ||tatami-solutions.com^$popup,third-party
 ||td563.com^$popup,third-party
 ||techcloudtrk.com^$popup,third-party
+||techsidea.website^$popup
 ||terraclicks.com^$popup,third-party
 ||textsrv.com^$popup,third-party
 ||thatsallfolks.link^$popup
@@ -818,6 +826,7 @@
 ||torpsol.com^$popup
 ||totaladperformance.com^$popup,third-party
 ||totrack.ru^$popup,third-party
+||track-safe.com^$popup
 ||tracker*.bingohall.ag^$popup,third-party
 ||tracker*.richcasino.com^$popup,third-party
 ||trackerislive.com^$popup

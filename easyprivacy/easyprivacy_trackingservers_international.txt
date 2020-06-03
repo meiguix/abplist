@@ -17,7 +17,6 @@
 ||adrank24.de^$third-party
 ||adtraxx.de^$third-party
 ||adtriba.com^$third-party
-||adzoe.de^$third-party
 ||amunx.de^$third-party
 ||analysis.fi^$third-party
 ||analytics.rechtslupe.org^
@@ -67,7 +66,6 @@
 ||counter-treff.de^$third-party
 ||counter.de^$third-party
 ||counter27.ch^$third-party
-||countercity.de^$third-party
 ||countercity.net^$third-party
 ||counterlevel.de^$third-party
 ||counteronline.de^$third-party
@@ -218,6 +216,7 @@
 ||rightstats.com^$third-party
 ||royalcount.de^$third-party
 ||scriptil.com^$third-party
+||scw.systems^$third-party
 ||sedotracker.de^$third-party
 ||seitwert.de^$third-party
 ||selfcampaign.com^$third-party
@@ -273,7 +272,6 @@
 ||vtracy.de^$third-party
 ||wcfbc.net^$third-party
 ||webhits.de^$third-party
-||webkatalog.li^$third-party
 ||weblist.de^$third-party
 ||webprospector.de^$third-party
 ||websitesampling.com^$third-party
@@ -333,7 +331,9 @@
 ||facil-iti.com^$third-party
 ||ferank.fr^$third-party
 ||fogl1onf.com^$third-party
+||galaxiemedia.fr^$third-party
 ||geocompteur.com^$third-party
+||geovisite.ovh^$third-party
 ||goutee.top^$third-party
 ||graphinsider.com^$third-party
 ||hunkal.com^$third-party
@@ -346,6 +346,7 @@
 ||mastertag.effiliation.com^$third-party
 ||mb-srv.com^$third-party
 ||megast.at^$third-party
+||megavisites.com^$third-party
 ||mmtro.com^$third-party
 ||netquattro.com/stats/
 ||netvigie.com^$third-party
@@ -354,6 +355,7 @@
 ||pingclock.net^$third-party
 ||potterpetrey.com^$third-party
 ||reseau-pub.com^$third-party
+||rossel.tech^$third-party
 ||semiocast.com^$third-party
 ||sitizy.network^$third-party
 ||sk1n.fr^$third-party
@@ -418,7 +420,6 @@
 ||ipinyou.com^$third-party
 ||irs01.$third-party
 ||irs09.com^$third-party
-||iteye.com^$third-party
 ||jiankongbao.com^$third-party
 ||lndata.com^$third-party
 ||logly.co.jp^$third-party
@@ -516,6 +517,7 @@
 ! Greek
 ||linkwi.se^$third-party
 ! Hebrew
+||analyti.io^$third-party
 ||enter-system.com^$third-party
 ||erate.co.il^$third-party
 ||fortvision.com^$third-party
@@ -570,6 +572,7 @@
 ||ntlab.org^$third-party
 ||pagerankfree.com^$third-party
 ||shinystat.it^$third-party
+||sibautomation.com^$third-party
 ||specialstat.com^$third-party
 ||statistiche-free.com^$third-party
 ||statistiche.it^$third-party
@@ -600,6 +603,7 @@
 ||blogranking.net^$third-party
 ||ca-mpr.jp^$third-party
 ||cetlog.jp^$third-party
+||cheqzone.com^$third-party
 ||cosmi.io^$third-party
 ||d-markets.net^$third-party
 ||d2-apps.net^$third-party
@@ -624,6 +628,7 @@
 ||iid-network.jp^$third-party
 ||im-apps.net^$third-party
 ||iogous.com^$third-party
+||kaizenplatform.net^$third-party
 ||keyword-match.com^$third-party
 ||kir.jp^$third-party
 ||letro.jp^$third-party
@@ -631,13 +636,13 @@
 ||marsflag.com^$third-party
 ||mobylog.jp^$third-party
 ||msgs.jp^$third-party
-||n8s.jp^$third-party
 ||nex8.net^$third-party
 ||omiki.com^$third-party
 ||owldata.com^$third-party
 ||pagoda56.com^$third-party
 ||pdmp.jp^$third-party
 ||polymorphicads.jp^$third-party
+||quant.jp^$third-party
 ||r-ad.ne.jp^$third-party
 ||rays-counter.com^$third-party
 ||rentracks.jp^$third-party
@@ -649,6 +654,8 @@
 ||smartnews-ads.com^$third-party
 ||socdm.com^$third-party
 ||speee-ad.jp^$third-party
+||taxel.jp^$third-party
+||team-rec.jp^$third-party
 ||tgknt.com^$third-party
 ||trackfeed.com^$third-party
 ||triver.jp^$third-party
@@ -666,7 +673,6 @@
 ||tenping.kr^$third-party
 ! Latvian
 ||cms.lv^$third-party
-||erotop.lv^$third-party
 ||mcloudglobal.com^$third-party
 ||on-line.lv^$third-party
 ||ppdb.pl^$third-party
@@ -694,6 +700,7 @@
 ||amarfa.ir^$third-party
 ||persianstat.com^$third-party
 ||persianstat.ir^$third-party
+||rvkcpqz.com^
 ||tinystat.ir^$third-party
 ||webgozar.com^$third-party
 ||webgozar.ir^$third-party
@@ -736,8 +743,10 @@
 ||denakop.com^$third-party
 ||engageya.com^$third-party
 ||marktest.pt^$third-party
+||orquideassp.com^$third-party
 ||percycle.com^$third-party
 ||rdstation.com.br^$third-party
+||retargeter.com.br^$third-party
 ||sambaads.com^$third-party
 ||tailtarget.com^$third-party
 ||trugaze.io^$third-party
@@ -759,6 +768,7 @@
 ||1dmp.io^$third-party
 ||24log.ru^$third-party
 ||24smi.info^$third-party
+||24smi.net^$third-party
 ||2ip.ua^$third-party
 ||3wnp9.ru^$third-party
 ||a-counter.com.ua^$third-party
@@ -808,7 +818,6 @@
 ||lentainform.com^$third-party
 ||listtop.ru^$third-party
 ||livetex.ru^$third-party
-||logger.su^$third-party
 ||logua.com^$third-party
 ||logxp.ru^$third-party
 ||logz.ru^$third-party
@@ -824,12 +833,15 @@
 ||mokuz.ru^$third-party
 ||musiccounter.ru^$third-party
 ||mystat-in.net^$third-party
+||mytopf.com^$third-party
 ||opentracking.ru^$third-party
+||otclick-adv.ru^$third-party
 ||pladform.ru^$third-party
 ||pmbox.biz^$third-party
 ||proext.com^$third-party
 ||quick-counter.net^$third-party
 ||r24-tech.com^$third-party
+||relap.io^$third-party
 ||retag.xyz^$third-party
 ||rnet.plus^$third-party
 ||ru.net^$third-party
@@ -948,6 +960,7 @@
 ||weblog.com.ua^$third-party
 ||zmctrack.net^$third-party
 ! Vietnamese
+||adtimaserver.vn^$third-party
 ||amcdn.vn^$third-party
 ||contineljs.com^$third-party
 ||gostats.vn^$third-party

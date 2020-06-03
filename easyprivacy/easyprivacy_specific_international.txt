@@ -41,7 +41,6 @@
 ||bluray-disc.de/user_check.php?
 ||boerse.de^*/log.jphp
 ||boersennews.de/js/lib/BnPageTracker.js
-||boss.berlinonline.de^
 ||braunschweiger-zeitung.de/stats/
 ||brigitte.de/pv?
 ||bt.mediaimpact.de^
@@ -69,7 +68,6 @@
 ||computerbild.de/images/pic.gif?
 ||count.merian.de^
 ||count.rtl.de^
-||count.spiegel.de^
 ||cpx.golem.de^
 ||cpxl.golem.de^
 ||cxt.deutsche-bank.de^
@@ -197,8 +195,6 @@
 ||playomat.de/sfye_noscript.php?
 ||pnn.de/counter/
 ||pooltrax.com/stats/
-||postbank.de^*/pb_tracking_js.js
-||postbank.de^*/pb_trackingclientstat_js.js
 ||powercount.jswelt.de^
 ||preisvergleich.de/setcookie/
 ||proactive.base.de^
@@ -216,6 +212,7 @@
 ||rtlradio.de/stats.php?
 ||rtlradio.lu/stats.php?
 ||s.edeka.de^
+||schnaeppchenfuchs.com/js/default-$script
 ||secreta.de/tinc?
 ||shortnews.de/iframes/view_news.cfm?
 ||spiegel.de^*/statistic/
@@ -225,6 +222,7 @@
 ||statistics.riskommunal.net^
 ||stats.autoscout24.ch^
 ||stats.bmw.de^
+||stats.t-online.de/include-ivw-agof-szmng-js/
 ||stats01.20min.ch^
 ||stylight.net/track/
 ||subpixel.4players.de^
@@ -321,7 +319,6 @@
 ||dm.journaldunet.com^
 ||dm.linternaute.com^
 ||editeurjavascript.com/hit-parade.php
-||edmi.nextinpact.com^
 ||elr.sfr.fr^
 ||eultech.fnac.com^
 ||events.guesttoguest.com^
@@ -331,6 +328,7 @@
 ||fsm.lapresse.ca^
 ||g.itespresso.fr^
 ||galerieslafayette.com/c/
+||geo.6play.fr^
 ||ianimes.org/img/tracker.gif
 ||iphdata.lequipe.fr^*/getInfapp.php?
 ||iphonesoft.fr/js/analytics-
@@ -339,11 +337,13 @@
 ||jscrambler.com^$script,domain=airfrance.fr
 ||k.rueducommerce.fr^
 ||kbn.korben.info^
+||lardennais.fr/sites/all/themes/enabootstrap/js/stat-callback.js
 ||lavenircdn.net^*/analytics.js?
 ||lecho.be/fb/?
 ||lem.nouvelobs.com^
 ||lemde.fr^*/metrics/
 ||lemde.fr^*/tracking/
+||leparking.fr/jsV038/tracker.js
 ||logs-qos.tf1.fr^
 ||ma-petite-recette.fr/visites
 ||neko-san.fr/stats
@@ -351,12 +351,11 @@
 ||nouvelobs.com/tools/csrum.php
 ||nouvelobs.com/trafiz-
 ||numerama.com/ajax-postviews.php
+||orange.fr/front/report/probe
 ||orange.fr/track?
 ||p.pagesjaunes.fr^
 ||pagesjaunes.fr/bva/track.js
 ||pagesjaunes.fr/crmmetrix/
-||pam.nextinpact.com^
-||poum.nextinpact.com^
 ||pwa.telephoneannuaire.fr^
 ||rdtdlv.laredoute.fr^
 ||rtbf.be/log
@@ -369,6 +368,7 @@
 ||shemsfm.net^*/setStats/
 ||stat.ouedkniss.com^
 ||stat.webevolutis.com^
+||static.actu.fr/assets/js/smarttag5182.js
 ||stats.grafikart.fr^
 ||stats.sexemodel.com^
 ||stats1x1.kapaza.be^
@@ -387,9 +387,17 @@
 ||unblog.fr/cu.js
 ||wawacity.*/bypass
 ||wbdds.allocine.fr^
-||zam.nextinpact.com^
+||yandex.fr/clck/click
 ||zonecss.fr/images/stat_robocop.gif?
 ||zonecss.fr/images/statscreen.gif?
+! nextinpact
+||edmi.nextinpact.com^
+||nextinpact.com/bundles/mtm
+||nextinpact.com/image/*=.jpg
+||pam.nextinpact.com^
+||rel.nextinpact.com^
+||rel2.nextinpact.com^
+||zam.nextinpact.com^
 ! Arabic
 ||cdn.mosoah.com/analytics.js
 ||ratteb.com/js.js
@@ -413,13 +421,13 @@
 ||analytics.shop.hisense.com^
 ||analytics.zhihu.com^
 ||anti-bot.baidu.com^
-||atm.youku.com^
 ||autohome.com.cn/count.js
 ||autohome.com.cn/deliver?
 ||autohome.com.cn/impress?
 ||autohome.com.cn/realdeliver?
 ||baidu.com/billboard/pushlog/
 ||baidu.com/dalog/
+||baidu.com/kan/api/ipLocation
 ||baidu.com/nocache/mp/b.jpg?cmd=
 ||baidu.com/push.js
 ||baidu.com/tb/pms/img/st.gif?
@@ -453,7 +461,6 @@
 ||dayoo.com/sta/da.js
 ||dc.letv.com^
 ||dj.renren.com^
-||dmtrack.xiu.com^
 ||dmtracking.1688.com^
 ||docin.com/app/playerLoadLog/
 ||douyucdn.cn/fish3/1.gif
@@ -479,6 +486,7 @@
 ||js.sohu.com/track/
 ||js.soufunimg.com/count/
 ||jscss.kdslife.com/club/html/count/PChome_Count.js
+||kn007.net/snmp.php
 ||ku6.com/ku6.gif?
 ||le.com/op/
 ||letv.com/op?
@@ -560,7 +568,6 @@
 ||stat.55bbs.com^
 ||stat.caijing.com.cn^
 ||stat.funshion.net^
-||stat.hudong.com^
 ||stat.iteye.com^
 ||stat.ppstream.com^
 ||stat.stheadline.com^
@@ -586,6 +593,7 @@
 ||tr.discuss.com.hk^
 ||tr.price.com.hk^
 ||track.sohu.com^
+||trackjay.cool3c.com^
 ||tv.sohu.com/upload/trace/
 ||uestat.video.qiyi.com^
 ||utrack.hexun.com^
@@ -613,7 +621,6 @@
 ! Croatian
 ||jutarnji.hr/template/js/eph_analytics.js
 ! Czech
-||kbmg.cz/tracker.js
 ||o2.cz^*-ga_o2cz_bundle.js?
 ||stat.novinky.cz^
 ! Dutch
@@ -673,7 +680,6 @@
 ||deagostinipassion.it/collezioni/analytics.js
 ||emng.libero.it^
 ||fanpage.it/views/
-||g.techweekeurope.it^
 ||gazzetta.it^*/stats.php?
 ||ilsole24ore.com/static/js/track.js?
 ||joka.it/inquiero/isapi/csf.dll?
@@ -722,17 +728,19 @@
 ||analyzer2.fc2.com^
 ||astat.nikkei.com^
 ||barks.jp/v1/stats
-||beacon.itmedia.jp^
 ||bookoffonline.co.jp/files/inc_js/ac/
 ||bookoffonline.co.jp/files/tracking/
+||bwbx.io^*/javelin/js/abba/abba-$script,domain=bloomberg.co.jp
 ||carview.co.jp/include_api/log/
 ||cgi.tbs.co.jp^
 ||count.upc.rakuten.co.jp^
 ||dmm.com/analytics/
+||event.notifier.rakuten.co.jp^
 ||goo.ne.jp^*/vltracedmd.js
 ||i2i.jp/bin/
 ||ln.ameba.jp^
 ||log.suumo.jp^
+||logql.yahoo.co.jp^
 ||measure.ameblo.jp^
 ||mmstat.com^$image
 ||mtc.nhk.or.jp^
@@ -741,6 +749,7 @@
 ||pvtag.yahoo.co.jp^
 ||pw.gigazine.net^
 ||rakuten.co.jp/gw.js
+||rat.rakuten.co.jp^
 ||rdsig.yahoo.co.jp^$image
 ||retty.me/gen204.php
 ||retty.me/javascripts/common/logging.js
@@ -750,7 +759,6 @@
 ||suumo.jp^*/tag/
 ||sy.amebame.com^
 ||sy.ameblo.jp^
-||tr.api.itmedia.jp^
 ||tsite.jp/static/analytics/
 ||wisteria-js.excite.co.jp^
 ||x.allabout.co.jp^
@@ -759,8 +767,11 @@
 ||yahoo.co.jp/s?s=
 ||yjtag.yahoo.co.jp^
 ! Korean
+||auction.co.kr/ad/log.js
+||auction.co.kr/montelena.js
 ||chosun.com/hitlog/
 ||count.munhwa.com^
+||gmarket.co.kr/js/common/uuid.js
 ||hits.zdnet.co.kr^
 ||l.m.naver.com^
 ||log.sv.pandora.tv^
@@ -774,6 +785,7 @@
 ||track.tiara.daum.net^
 ||track.tiara.kakao.com^
 ||tracker.cauly.co.kr^
+||uts.auction.co.kr^
 ||veta.naver.com^
 ||wcs.naver.com^
 ||weblog.eseoul.go.kr^
@@ -851,6 +863,7 @@
 ||consultant.ru/js/counter.js
 ||cosmo.ru/*/.js?i=*&r=
 ||counter.drom.ru^
+||counter.sibnet.ru^
 ||data.glamour.ru^
 ||dot-stat.radikal.ru^
 ||drom.ru/dummy.
@@ -904,6 +917,7 @@
 ||vesti.ru/counter/
 ||yandex.ru/clck/click
 ||yandex.ru/clck/jclck/
+||yandex.ru/log?
 ||yast.rutube.ru^
 ! Serbian
 ! Slovene
@@ -934,6 +948,7 @@
 ||terra.com/js/metrics/
 ||terra.com^*/td.asp?bstat
 ||trrsf.com/metrics/
+||uecdn.es/js/pbmu.js
 ||wssgmstats.vibbo.com^
 ||wsstats.coches.net^
 ! Swedish

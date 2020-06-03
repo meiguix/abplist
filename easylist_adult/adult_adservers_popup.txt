@@ -1,7 +1,6 @@
 ||1lzz.com^$popup
 ||3file.info^$popup,third-party
 ||3questionsgetthegirl.com^$popup
-||45i73jv6.com^$popup,third-party
 ||9content.com^$popup
 ||abbp1.com^$popup
 ||adtgs.com^$popup
@@ -38,6 +37,7 @@
 ||desklks.com^$popup
 ||dirty-tinder.com^$popup,third-party
 ||doublegear.com^$popup,third-party
+||dumbpop.com^$popup
 ||dynsrvazg.com^$popup
 ||dynsrvazh.com^$popup
 ||easysexdate.com^$popup
@@ -76,6 +76,7 @@
 ||jsmjmp.com^$popup
 ||juicyads.com^$popup,third-party
 ||kaizentraffic.com^$popup,third-party
+||lofv.xyz^$popup
 ||loltrk.com^$popup,third-party
 ||moradu.com^$popup,third-party
 ||mptentry.com^$popup

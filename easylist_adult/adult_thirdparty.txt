@@ -11,6 +11,7 @@
 ||213.174.140.76^*/ads/
 ||213.174.140.76^*/js/msn-$script
 ||213.174.140.76^*/js/msn.js
+||4fcams.com/affiliates/$third-party
 ||4tube.com/iframe/$third-party
 ||69games.xxx/ajax/skr?
 ||78.140.130.91^$domain=anysex.com
@@ -88,6 +89,7 @@
 ||blaaaa12.googlecode.com^
 ||blackbrazilianshemales.com/bbs/banners/
 ||blogspot.com^*/ad.jpg
+||bngpt.com/promo.php
 ||bongacams.com/promo.php
 ||bongacash.com/dynamic_banner/
 ||bongacash.com/promo.php
@@ -183,7 +185,6 @@
 ||fuckhub.net^*?pid=$third-party
 ||gagthebitch.com/track/$third-party
 ||galeriaseroticas.xpg.com.br^$third-party
-||galleries.videosz.com^$object,third-party
 ||gallery.deskbabes.com^*.php?dir=*&ids=$third-party
 ||gammasites.com/pornication/pc_browsable.php?
 ||gashot.yurivideos.com^
@@ -201,7 +202,6 @@
 ||girls-home-alone.com/dating/
 ||girlsfuck-tube.com/js/aobj.js
 ||go2cdn.org/brand/$third-party
-||graphics.pop6.com/javascript/$script,third-party,domain=~adultfriendfinder.co.uk|~adultfriendfinder.com
 ||graphics.streamray.com^*/cams_live.swf$third-party
 ||hardbritlads.com/banner/
 ||hdpornphotos.com/images/728x180_
@@ -255,7 +255,6 @@
 ||magazine-empire.com/images/pornstarad.jpg
 ||manager.koocash.fr^$third-party
 ||manhunt.net/?dm=$third-party
-||map.pop6.com^$third-party
 ||match.com/landing/$third-party
 ||media.eurolive.com^$third-party
 ||media.match.com^$third-party
@@ -302,9 +301,6 @@
 ||pod.manplay.com^$third-party
 ||pod.xpress.com^$third-party
 ||pokazuwka.com/popu/
-||pop6.adultfriendfinder.com^$third-party
-||pop6.com/banners/$third-party
-||pop6.com/javascript/im_box-*.js
 ||porn2blog.com/wp-content/banners/
 ||porncdns.com/popup/
 ||porndeals.com^$subdocument,third-party

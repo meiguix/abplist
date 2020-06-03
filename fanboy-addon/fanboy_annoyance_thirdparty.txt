@@ -1,6 +1,5 @@
 ||123cursors.com^$third-party
 ||1worldonline.com^$third-party
-||24smi.net^$third-party
 ||24smi.org^$third-party
 ||2kurl.com^$third-party
 ||37signals.com^$third-party
@@ -10,6 +9,7 @@
 ||accengage.net^$third-party
 ||actionbutton.co^$third-party
 ||addinto.com^$third-party
+||adobe-campaign.com^$third-party
 ||advantagemedia.com^$third-party
 ||adzuna-jobbox.fairfaxmedia.com.au/adzuna/$third-party
 ||affiliates.eblastengine.com^$third-party
@@ -22,13 +22,14 @@
 ||antenna.is^$third-party
 ||apester.com^$third-party
 ||api.branch.io^$third-party
-||api.flattr.com^$third-party
+||api.giphy.com^*/related?$third-party
 ||api.search.live.net^$third-party,domain=~bing.com
 ||api.traq.li^$third-party
 ||app.e2ma.net^$third-party
 ||appboy.eu^$third-party
 ||apture.com^$script,third-party
 ||assets.simplifydigital.co.uk^$third-party
+||asterilivestream.com^$third-party
 ||autolinkmaker.itunes.apple.com^$third-party
 ||ayc0zsm69431gfebd.xyz^$third-party
 ||badges.alltop.com^$third-party
@@ -259,6 +260,7 @@
 ||publisher.monster.com^$third-party
 ||punchtab.com^$third-party
 ||purch.com^$script,third-party
+||pushnotifications.click^$third-party
 ||qeryz.com^$third-party
 ||qrius.me^$third-party
 ||qualtrics.com^$third-party
@@ -278,6 +280,7 @@
 ||roost.me^$third-party
 ||royapp.com^$third-party
 ||rsspump.com^$third-party
+||s3.amazonaws.com/scripts.hellobar.com/$third-party
 ||saambaa.com^$third-party
 ||sail-horizon.com/horizon/$third-party
 ||sail-horizon.com/scout/$third-party

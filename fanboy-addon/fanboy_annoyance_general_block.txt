@@ -10,7 +10,6 @@
 /altClickToSearch.
 /amp-apester-
 /antirightclick.$script
-/app-banner/*$xmlhttprequest
 /arscode-ninja-popups/*$~stylesheet
 /block_topbg.
 /bloglines.gif
@@ -49,16 +48,13 @@
 /interstitial.js
 /interstitial_overlay*.js
 /iphoneapp-icon.
-/jquery.androidbanner.js
 /jquery.simplemodal.$script,domain=breakingdefense.com
 /jquery.snow.js
-/js-mobile-*/header_$script
 /let-it-snow.
 /let-it-snow/*
 /let-it-snow_$script
 /logo_eskup.
 /mailchimp-iframe/*
-/mobile-welcome-overlay/*$script
 /mobile_top_icon.
 /navicon_ap.gif
 /navigation_scroll_
@@ -150,6 +146,8 @@
 -email-newsletter-
 -footer-newsletter.
 -icon-newsletter.
+-iscrizione-newsletter-
+-iscrizione-newsletter.
 -newsletter-300x120.
 -newsletter-bg-
 -Newsletter-button.
@@ -161,6 +159,7 @@
 -newsletterwidget.
 -newssletter-V3.
 -Sidebar-newsletter-
+-square-newsletter.
 -subscription-popup/
 -subscription-widget/
 .newsletterForm-
@@ -187,6 +186,7 @@
 /content/newsletter/*
 /content/newsletter_
 /csSubscribeToNews.
+/Editorialnewsletterthumbnails/*
 /edjnewsletter.
 /email-newsletter/*
 /email/subscribe.
@@ -245,6 +245,7 @@
 /Newsletter-Bild.
 /newsletter-bkg.
 /newsletter-box-
+/newsletter-button.
 /newsletter-desktop.
 /newsletter-email.
 /newsletter-forms.
@@ -295,6 +296,7 @@
 /newsletter_banner.
 /newsletter_button.
 /newsletter_cta.
+/newsletter_form.
 /newsletter_form_
 /newsletter_icona.
 /newsletter_modal_
@@ -415,6 +417,7 @@ _subscribe_button
 /Feed_48x
 /feed_icon_
 /feed_rss.
+/feedrss.
 /feeds_36x
 /flux-rss-
 /flw-rss.
@@ -428,6 +431,7 @@ _subscribe_button
 /ft_rss.
 /gif/rss_
 /header-rss.
+/header/rss.
 /header_rss.
 /header_rss_
 /ic_rss.
@@ -604,7 +608,6 @@ _xmlrss.
 ! ---------- Scroll To Top Buttons ----------
 !
 -scroll-to-top/
-.ui.totop.
 /appBackToTop/
 /appBackToTop_
 /avada-to-top.

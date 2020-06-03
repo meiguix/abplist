@@ -6,6 +6,7 @@
 ||adserving.unibet.com^$popup,third-party
 ||affiliates.galapartners.co.uk^$popup,third-party
 ||affportal-lb.bevomedia.com^$popup,third-party
+||antiscoopwhoop.com^*=displayads&$popup
 ||babylon.com/redirects/$popup,third-party
 ||babylon.com/welcome/index.html?affID=$popup,third-party
 ||banner.galabingo.com^$popup,third-party
@@ -22,6 +23,7 @@
 ||cdnfarm18.com^$popup,third-party
 ||chatulfetelor.net/$popup
 ||chaturbate.com/affiliates/$popup,third-party
+||click.junmediadirect.com^$popup
 ||click.scour.com^$popup,third-party
 ||clickansave.net^$popup,third-party
 ||clicks.istripper.com^$popup,third-party
@@ -107,7 +109,6 @@
 ||static.akacdn.ru^$popup,third-party
 ||sunmaker.com^*^a_aid^$popup,third-party
 ||sunnyplayer.com^*^aff^$popup,third-party
-||thebestbookies.com^$popup,third-party
 ||thebestbookies.org/serve/$popup,third-party
 ||theseforums.com^*/?ref=$popup
 ||thesportstream.com^$popup,domain=sportcategory.org

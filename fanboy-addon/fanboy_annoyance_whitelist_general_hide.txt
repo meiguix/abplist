@@ -1,7 +1,7 @@
 nasa.gov#@##BackToTop
 billabong.com#@##NewsletterSignup
-autotrader.com,brydge.com#@##back-to-top
-engie.fr,nasa.gov#@##backToTop
+autotrader.com,brydge.com,liputan6.com#@##back-to-top
+engie.fr,gaz-tarif-reglemente.fr,nasa.gov#@##backToTop
 rmf24.pl#@##backTop
 nasa.gov#@##backtoTop
 megalight18.net,stp-shop.ru#@##backtop
@@ -23,7 +23,7 @@ aval.ua,finanzen100.de#@##scroll-top
 catchconnect.com.au#@##scrollTop
 thehunt.com#@##signup-popup
 wecollect.ch#@##subscribe_email
-vivoplay.net#@##subscriptionModal
+techopedia.com,vivoplay.net#@##subscriptionModal
 blaklader.se,blaklader.uk,chansluts.com#@##to-the-top
 57reshotel.it,radiogra.pl#@##to-top
 bezahlen.de,stern.de#@##toTop
@@ -43,7 +43,7 @@ ludopedia.com.br#@#.follow-text
 toutelanutrition.com#@#.footer-newsletter
 designdevostransports.fr#@#.gform_widget
 ixbt.com#@#.glyphicon-arrow-up
-novojornal.co.ao,upim.com#@#.newsletter-modal
+foreignaffairs.com,novojornal.co.ao,upim.com#@#.newsletter-modal
 billabong.com,strikerconcepts.com,tactxflashlights.com,urbanedcsupply.com#@#.newsletter-popup
 bidorbuy.co.za#@#.newsletterContainer
 thefork.it#@#.newsletterSignup
@@ -70,11 +70,14 @@ blackboat.com#@#.sqs-announcement-bar
 xhamster.com#@#.subscribe-block
 humblebundle.com#@#.subscribe-box
 oneplus.com,stackexchange.com#@#.subscribe-container
+rapidgrab.pl#@#.subscribe-form
 twit.tv#@#.subscribe-panel
+batenka.ru#@#.subscribe-popup
 wtfast.com#@#.subscribe_box
 mos.ru#@#.subscription-block
 reddit.com,yesplz.coffee#@#.subscription-box
 odoo.com#@#.subscription-widget
+techopedia.com#@#.subscriptionForm
 ctpost.com#@#.taboola-frame
 theonion.com#@#.taboola-inbetweener
 ctpost.com#@#.taboolaloader

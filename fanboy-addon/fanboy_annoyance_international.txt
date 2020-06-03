@@ -1,7 +1,6 @@
 !
 ! ---------- Non-english Annoyances ----------
 !
-||inn.co.il/push.js
 ||push.cnnindonesia.com^
 ||pusha.se^$third-party
 !
@@ -65,6 +64,7 @@ almasryalyoum.com##.news_SMSBox
 skynewsarabia.com##.news_letter
 nooun.net,syria.tv,thawrah2day.com,tunisna.tv##.newsletter
 aljadeed.tv##.nextPrevNews
+asiatv.cc##.pushmenu_modal
 iwaatch.com##.s-up
 fakartany.com##.sign-up
 alhurra.com##.subscribe
@@ -114,7 +114,9 @@ baguette.at###TopBtn
 valentins.de###arrow-up
 nzz.ch###articleMore
 testberichte.de###bck-t-tp
+unsertirol24.com###beginn-arrow
 androidnext.de###c4a_box
+hartziv.org###cr_embeded_form
 reifenpresse.de###custom_html-2
 handelsblatt.com###divStickyLayerWrapper
 focus.de###flying_mbox
@@ -162,6 +164,7 @@ diepresse.com,israelheute.com,kleinezeitung.at,manager-magazin.de,servus.com,sil
 therese-moelk.at##.pageup
 matratzen.info##.postNavigation
 rnd-news.de##.rss
+strato.de##.scrollBtn
 swz.it##.scroll__top
 woxikon.de##.secondary-footer
 weinkenner.de##.sib_signup_form
@@ -222,6 +225,7 @@ bhaskarhindi.com###subscribeForm
 sangbadpratidin.in##.cd-top
 gujaratsamachar.com##.email-subscriber
 newuthayan.com##.more-stories
+news13.in##.n13_foot_subscribe
 desh.co.in##.newsLetter
 sangbadpratidin.in,vtvgujarati.com##.newsletter
 !
@@ -400,8 +404,11 @@ avtoradio.ru##div[id^="unit_"]
 ! ---------- French Specific Annoyances ----------
 !
 ||avis-verifies.com^$third-party
+||boosterblog.com/ban/$third-party
+||free-debride.id.st^$third-party
 ||maison-travaux.fr/wp-content/themes/*/iframe-box-article.html
 ||out.be/widgets/$third-party
+||tout-sur-le-web.com^$third-party
 !
 ! ---------- French Site Specific Hiding Rules ----------
 !
@@ -443,7 +450,7 @@ savi-france.fr###notifybar
 aol.fr###ooCont
 smile.fr###popup
 lequipe.fr###rebonds
-###sf-minisite-toolbar
+fonepaw.fr###sendemail
 gentside.com###signup-holder
 boingtv.fr,coreight.com,editions-hatier.fr,igen.fr,macg.co,novaplanet.com###sliding-popup
 cnews.fr###smartbanner
@@ -460,6 +467,7 @@ cine974.com###up
 nouvelobs.com##.ObsBox-newsletter
 ankama.com##.ak-notification
 dofus.com##.ak-notification-list-footer
+journaldesfemmes.fr##.app_aside_nl
 rtl.fr##.article-mail-form
 carrelages4000.fr##.ays-front-message
 orange.be##.b2c-global-footer-container
@@ -484,6 +492,7 @@ vinted.fr##.js-notification
 lesechos.fr##.liennavigation
 minutebuzz.com##.likePopin
 lecho.be##.linkWithinBlock
+logitheque.com##.mailpoet_form
 ffr.fr##.modal
 fnacspectacles.com,largus.fr##.modal-backdrop
 futura-sciences.com##.module-propal-nl
@@ -501,6 +510,7 @@ lepoint.fr##.nl-block
 zepass.com##.notification
 large.be##.notification-box-bottom
 landrover.ch##.notificationBars
+france24.com,rfi.fr##.o-self-promo--nl
 nouvelobs.com##.obs-article-boutils
 nouvelobs.com##.obs-follow-nl
 minutebuzz.com##.popinNl
@@ -514,9 +524,11 @@ monalbumphoto.fr,radins.com##.reveal-modal-bg
 express.live##.rss
 rtbf.be##.rtbf-newsletter
 rtbf.be##.rtbf-newsletter-article
+loractu.fr##.sf-extensionfactory-link
 tourhebdo.com##.social
 vertbaudet.fr##.stickybar
 allocine.fr##.subscribe
+loractu.fr##.subscribe-nl
 francebleu.fr##.texte-top-page
 silicon.fr##.toaster
 publicsenat.fr##.top-message
@@ -576,6 +588,7 @@ jreast.co.jp,mobilenews.jp,nikkei-cnbc.co.jp,tokyo-np.co.jp,tv-asahi.co.jp##.pag
 hotpepper.jp##.scrollWrap
 okjapan.jp##.scroller
 harpersbazaar.jp##.subModuleMailMagazine
+sports.yahoo.co.jp##.topPage
 bloomberg.co.jp##BB-MINI-PLAYER
 ||gamespark.jp^*/pagetop.
 ||girlsheaven-job.net^*/pagetop.
@@ -667,6 +680,7 @@ debate.com.mx##.footer__suscribe
 rac1.cat##.go-top
 elcomercio.pe##.go-up
 mundodeportivo.com##.home-nav-balls
+paginasiete.bo##.inview-bottom-left
 notimex.gob.mx##.ir-arriba
 990espndeportes.com##.more-stories
 eldiariony.com,laopinion.com,laprensafl.com,laraza.com,paratimujer.us,silicon.es##.newsletter
@@ -731,6 +745,7 @@ clarin.com##a[href^="/newsletters/"]
 ||monovolume.cc^*/up_btn.
 ||nexilia.it^*/feed.bundle.js
 ||notifiche.secoloditalia.it^
+||pagamentidigitali.it^*/newsletter.jpg
 ||player.pulsemediatv.com^$third-party,domain=~bwin.tv
 ||player.streamshow.it^$third-party
 ||publy.com^$third-party
@@ -745,7 +760,7 @@ clarin.com##a[href^="/newsletters/"]
 ||videosynd.kataweb.it^$third-party
 ||vistosulweb.com^*/Newsletter.
 ||warnerbros.it^*/top.png
-||widgets.trustedshops.com^$third-party
+||wittgenstein.it/wp-content/themes/wittgenstein/images/ilpost.png
 ||wp.com/www.proiezionidiborsa.it/*/google-news-
 !
 ! ---------- Italian Site Specific Hiding Rules ----------
@@ -768,16 +783,18 @@ automoto.it,moto.it###arrow-back-top
 norbaonline.it###back
 ssangyong-auto.it###back_top
 telefonino.net###backbutton
-grandangoloagrigento.it,qds.it,tempostretto.it,vistosulweb.com###blogup
+grandangoloagrigento.it,itacanotizie.it,qds.it,tempostretto.it,vistosulweb.com###blogup
 erboristeriamagentina.it###blultpdfbanner
 virgilio.it###bottom_chat
 paginegialle.it###btt
+money.it###button
 starq8.it###button-top
 tods.com###container-overlay-fast-registration
 corriere.it###corriere-exit-page-container
 italiafruit.net###ctl00_imgIscrizione
 entertainmentillustrated.it,primaonline.it,stradeeautostrade.it,youtrend.it###custom_html-2
 entertainmentillustrated.it###custom_html-5
+digitaleterrestrefacile.it###custom_html-9
 rockit.it###fangate-container
 eprice.it###fastRegBottom
 bastabugie.it###feed
@@ -792,9 +809,12 @@ bimota.it,invicta.it,saintvincentresortcasino.it###go-top
 ilsole24ore.com###ias
 ilsole24ore.com###ias-footer
 ilquotidianodellazio.it###imgtop
+sentireascoltare.com###info_pub2
+cronacheancona.it###intestazione
 citywire.it###jsRegisterAlertBanner
 italiaoggi.it###lig_movingup2it_smartbox
-agenziaimpress.it,davidemaggio.it,ilfarosulmondo.it,meteonetwork.it,moked.it,money.it,techzilla.it,tvsvizzera.it,vvox.it###mc_embed_signup
+lavocedelnordest.eu###mb-scrollup
+agenziaimpress.it,davidemaggio.it,francescocosta.net,ilfarosulmondo.it,meteonetwork.it,moked.it,money.it,techzilla.it,tvsvizzera.it,vvox.it###mc_embed_signup
 decathlon.it###messagetop
 milanofinanza.it###milanofinanza_web_smartbox_article
 automoto.it,moto.it###mit-bottombar
@@ -802,7 +822,7 @@ eprice.it###moveUp
 gazzetta.it###multifunctionBar-container
 callipo.com###nav_up
 sacecomponents.com###neko-to-top
-lacnews24.it,lintellettualedissidente.it,radiospeaker.it,rivistastudio.com,silhouettedonna.it,termometropolitico.it,terranuova.it,valgardena.it###newsletter
+lacnews24.it,lintellettualedissidente.it,misya.info,radiospeaker.it,rivistastudio.com,silhouettedonna.it,termometropolitico.it,terranuova.it,valgardena.it###newsletter
 distribuzionemoderna.info###nsl
 lasicilia.it###overbox_ticker_newsstand
 it.hisamitsu###pageTop
@@ -829,6 +849,7 @@ amazon.it###smart-app-banner
 centrometeolombardo.com###spot_popup
 arch.bz.it###srollTop
 fm-world.it###subscribe-form
+lavocedeltrentino.it###subscription-form
 tp24.it###templatemo_container_barra
 emmepress.com###text-9
 isocellitalia.it###top
@@ -853,14 +874,15 @@ multiplayer.it##.article_nav
 tempi.it##.article_newls_box
 iltempo.it##.articoli_correlati
 agi.it##.banner-register
-agendadigitale.eu,corrierecomunicazioni.it,insuranceup.it##.bottom-bar__up
+agendadigitale.eu,corrierecomunicazioni.it,economyup.it,insuranceup.it##.bottom-bar__up
 guardaserie.watch##.bottom-button-top
 engage.it##.box-engage-mag
 infobuildenergia.it##.box_dem
 wuerth.it##.btn-scroll-top
 liquiriziacalabrese.it##.btn-top
+pagamentidigitali.it##.btn_iscriviti
 lastampa.it##.call-iscrizione
-calendario-365.it,cdt.ch,consumer.bz.it,dmail.it,epochtimes.it,kellergrigliati.it,maximitalia.it,mondoconv.it,paginesi.it,ridble.com,saras.it,vinusta.com,vog.it##.cd-top
+calendario-365.it,cdt.ch,consumer.bz.it,dmail.it,epochtimes.it,filmatipornohd.com,kellergrigliati.it,maximitalia.it,mondoconv.it,paginesi.it,ridble.com,saras.it,vinusta.com,vog.it##.cd-top
 primaonline.it##.col-nl
 lastampa.it##.conferma_reg_nl
 ilfarmacistaonline.it##.containerBannerBox
@@ -873,9 +895,11 @@ dday.it##.corriere-header
 sapere.it##.dbdslim
 donnamoderna.com##.donnam-footer-newsletter
 webnews.it##.email
+eprice.it##.ep_GoTop
 policymakermag.it,startmag.it##.essb-subscribe-form
 pambianconews.com,tecnoandroid.it##.essb_mailform
 corriere.it##.fancybox-overlay
+ilsicilia.it##.feed
 tomshw.it##.fixed_arrows
 laleggepertutti.it##.footer-top-feild
 repubblica.it##.footer_back-top
@@ -885,11 +909,12 @@ corriere.it##.glightbox-container
 monovolume.cc##.go-up
 comune.milano.it,meetingrimini.org,radionorba.it##.gotop
 mondovolantino.it##.goup
+radioplayeritalia.it##.grve-arrow-wrapper
 comuniciclabili.it##.hc_scrollup
 tempi.it##.header_sidebar
 radioitaliaannisessanta.it##.hm_go_top
 ilmetapontino.it##.icon-caret-up
-wittgenstein.it##.ilpost-header
+francescocosta.net,wittgenstein.it##.ilpost-header
 condominio.com,libero.it,mondomobileweb.it##.ir-arriba
 bastabugie.it##.iscrizione
 sky.it##.j-navTop
@@ -901,7 +926,7 @@ spaziogames.it##.nav-reveal
 everyeye.it##.nav_articoli
 ilsitodellozoo.com##.navbar-alt
 laleggepertutti.it##.news-letter
-01net.it,advisoronline.it,basketinside.com,carpicalcionews.it,chiesadimilano.it,cittaceleste.it,condominioweb.com,corsedimoto.com,fantamagazine.com,fcinter1908.it,focusardegna.com,forzaroma.info,gazzamercato.it,giornaledibrescia.it,gogedizioni.it,golssip.it,guidafisco.it,ilfoglio.it,ilgiorno.it,ilmilanista.it,ilposticipo.it,ilrestodelcarlino.it,ilsecoloxix.it,ilsussidiario.net,itasportpress.it,juvenews.eu,lanazione.it,leitgamhof.com,lescienze.it,linkiesta.it,lvh.it,mediagol.it,mondoudinese.it,motorionline.com,numericalcio.it,padovasport.tv,passioneinter.com,pianetagenoa1893.net,pianetamilan.it,quotidiano.net,rivistacontrasti.it,sassuolocalcionews.it,silicon.it,sportavellino.it,tenniscircus.com,toronews.net,tuttobolognaweb.it,valori.it,violanews.com##.newsletter
+01net.it,advisoronline.it,aeroporto.net,basketinside.com,carpicalcionews.it,chiesadimilano.it,cittaceleste.it,condominioweb.com,corsedimoto.com,fantamagazine.com,fcinter1908.it,focusardegna.com,forzaroma.info,gazzamercato.it,giornaledibrescia.it,gogedizioni.it,golssip.it,guidafisco.it,ilfoglio.it,ilgiorno.it,ilmilanista.it,ilposticipo.it,ilrestodelcarlino.it,ilsecoloxix.it,ilsussidiario.net,itasportpress.it,juvenews.eu,lanazione.it,leitgamhof.com,lescienze.it,linkiesta.it,lintellettualedissidente.it,lvh.it,mediagol.it,mondoudinese.it,motorionline.com,numericalcio.it,padovasport.tv,passioneinter.com,pianetagenoa1893.net,pianetamilan.it,quotidiano.net,rivistacontrasti.it,sassuolocalcionews.it,silicon.it,sportavellino.it,tenniscircus.com,theitaliantimes.it,toronews.net,tuttobolognaweb.it,valori.it,violanews.com##.newsletter
 ravennanotizie.it##.newsletter-section
 starbene.it##.nlslim
 systems.bz##.on-top
@@ -912,7 +937,7 @@ enzopennetta.it##.popmake
 tvprato.it##.quinews-header
 giornalettismo.com##.related-article
 bisceglielive.it##.reports
-ilfoglio.it,webnews.it##.rss
+diariodelweb.it,ilfoglio.it,webnews.it##.rss
 lasicilia.it##.sali
 tempoitalia.it##.scroll
 simplymarket.it##.scroll-top-footer
@@ -941,6 +966,7 @@ americantourister.it##.ui-widget-overlay
 lospecialista.tv##.widget_mailpoet_form
 lospecialista.tv##.widget_specialert
 secoloditalia.it##.widget_wpmailup_widget
+vitatrentina.it##.wpdiscuz-front-actions
 inpharmamag.it##.wptbbarheaddiv
 corriere.it##a[href*="/newsletter"]
 altarimini.it##a[href="#header"]
@@ -954,6 +980,7 @@ trend-online.com##div[style="display:flex;padding:10px;background:#efefef;border
 ! ---------- Korean Site Specific Hiding Rules ----------
 !
 sedaily.com###FooterTop
+auction.co.kr###btnSkipTop
 naver.com###btn_top
 atlantaradiokorea.com###top_up
 etnews.com###wingBanner
@@ -986,6 +1013,7 @@ morfix.co.il###morfixInstallTB_main
 auto.co.il###openButton
 gadgety.co.il###subscribefield
 globes.co.il##.article_Next_prev_title
+gov.il##.cd-top
 gadgety.co.il##.facelike
 mouse.co.il##.fbox_main
 globes.co.il##.footerN_box
@@ -997,6 +1025,7 @@ tapuz.co.il##.tapuzShareBar
 wheel.co.il##.xbFootNewsForm
 onlife.co.il##div[style="height:264px; background-color:white;width: 300px; float: left;margin-bottom:0px;"]
 walla.co.il##div[style="margin-top:10px;margin-bottom:10px;"]
+||inn.co.il/push.js
 !
 ! ---------- Romanian Site Specific Hiding Rules ----------
 !
@@ -1016,5 +1045,6 @@ dcnews.ro##.pushinstruments
 !
 ! ---------- Ukranian Site Specific Hiding Rules ----------
 !
+olx.ua###btn-top
 nbnews.com.ua###iosauth
 epochtimes.com.ua###scroll_house

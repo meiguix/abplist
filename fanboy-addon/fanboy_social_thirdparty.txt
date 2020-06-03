@@ -51,6 +51,7 @@
 ||conversionsbox.com^$third-party
 ||crowdynews.com^$third-party
 ||d5k6iufjynyu8.cloudfront.net^
+||dailymotion.com/badge/user/$third-party
 ||del.icio.us/feeds/js/$third-party,domain=~delicious.com
 ||delicious.com/static/img/delicious.$third-party
 ||digg.com/img/badges/$third-party
@@ -159,7 +160,7 @@
 ||platform.twitter.com*/widget/$third-party
 ||platform.twitter.com*/widgets/$third-party
 ||platform.twitter.com/anywhere.js$third-party
-||platform.twitter.com/embed/$~stylesheet,third-party
+||platform.twitter.com/embed/$~stylesheet,~subdocument,third-party
 ||platform.twitter.com/js/button.$third-party
 ||plista.com/like.php$third-party
 ||plus.google.com^*/js/widget/$third-party
@@ -226,6 +227,7 @@
 ||tweetgrid.com^$third-party
 ||tweetmeme.com^$third-party
 ||tweetriver.com^$third-party
+||twinesocial.com^$third-party
 ||twitbuttons.com^$third-party
 ||twitcker.com^$third-party
 ||twitcount.com^$third-party

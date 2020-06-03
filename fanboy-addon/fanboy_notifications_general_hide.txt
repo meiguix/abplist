@@ -23,6 +23,7 @@
 ###noti_subscribe_dialog
 ###notification-permission
 ###notificationPopUp
+###oiNotification
 ###onesignal-popover-container
 ###pa-push-notification-subscription
 ###popUpNotification
@@ -70,6 +71,7 @@
 ##.e-push-notification-popup
 ##.et_push_notification
 ##.frizbit-prompt
+##.grv-dialog-host
 ##.hs-push
 ##.htpush-chrome-style-notification
 ##.insider-opt-in-notification
@@ -84,6 +86,7 @@
 ##.naf-web-notifications-popup
 ##.notBar
 ##.notf-overlay
+##.notification-button
 ##.ntfc_overlay
 ##.ntfc_popup
 ##.oi-notify
@@ -123,3 +126,6 @@
 ##.ys-push
 ##amp-web-push-widget
 ##div[class^="container_NotificationsBanner_"]
+! Mobile Notifications
+##a[href^="http://www.mobi24.net/"]
+##a[href^="https://www.mobi24.net/"]

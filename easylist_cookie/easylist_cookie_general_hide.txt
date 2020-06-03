@@ -141,7 +141,6 @@
 ###CookieMessageContainer
 ###CookieMessageDiv
 ###CookieMessageInner
-###CookieMessage_cookieGlobal
 ###CookieMessaging
 ###CookieModal.is-active
 ###CookieModal_cookiemodal
@@ -395,6 +394,7 @@
 ###PrivacyWarning
 ###Product_cookies-wrap
 ###RB_React_Component_CookieBanner_4
+###RGPD
 ###RIEU-acceptCookies
 ###RodoNotificationWrapper
 ###Row1_Column1_Cell1_CookieSettings_CookieSettings
@@ -510,6 +510,7 @@
 ###acceptCookie
 ###acceptCookieBanner
 ###acceptCookieContainer
+###acceptCookieDiv
 ###acceptCookieMeg
 ###acceptCookiePG
 ###acceptCookiePolicy
@@ -585,6 +586,7 @@
 ###agree_cookies
 ###agree_privacy_policy
 ###agreecookies
+###agreementPrivacy
 ###agrio_cookie_notification
 ###ahhg-cookie-button
 ###ahhg-cookie-window
@@ -860,6 +862,7 @@
 ###better-cookie-bar
 ###bf-cookie-notice
 ###bfg-cookie-policy-banner
+###bgee_privacy_banner
 ###bgon-cookie-bar
 ###bib_CookieBox
 ###bigcookies
@@ -1051,6 +1054,7 @@
 ###ccgtm-banner
 ###ccgtm-wrapper
 ###cchinweis
+###cck-box
 ###cckBanner
 ###ccm-banner-wrap
 ###ccm-cookiesDisclosure
@@ -1058,6 +1062,7 @@
 ###cconsent
 ###ccookie_base_stile2
 ###ccp-bnr-ck
+###ccpa-banner
 ###ccpa-consent-banner
 ###ccpa-prompt-wrapper
 ###ccs-notification
@@ -1142,6 +1147,7 @@
 ###cm-cookies
 ###cm4all-cookie-policy-page
 ###cmFluxMessageCookies
+###cm_cookie_notification
 ###cmanager-container
 ###cmc-cookie-policy-banner
 ###cmc-tracking-consent-form-step1
@@ -1202,6 +1208,7 @@
 ###cntAlertCookie
 ###cnt_cookies
 ###cobo_cookie_law
+###cockieSlide
 ###codemasters_cookies
 ###coe-cookie-disclaimer
 ###coe_cookies_container
@@ -1237,6 +1244,8 @@
 ###consent-bar
 ###consent-block
 ###consent-bump
+###consent-cookie
+###consent-cookie-container
 ###consent-footer
 ###consent-manager
 ###consent-manager-backdrop
@@ -1490,6 +1499,7 @@
 ###cookie-disclaimer
 ###cookie-disclaimer-bar
 ###cookie-disclaimer-footer
+###cookie-disclaimer-modal
 ###cookie-disclaimer-overlay
 ###cookie-disclaimer-popup
 ###cookie-disclaimer-region
@@ -2252,6 +2262,7 @@
 ###cookieToaster
 ###cookieToolbar
 ###cookieTooltip
+###cookieTopCOntainer
 ###cookieUBar
 ###cookieUIContainer
 ###cookieUsage
@@ -2604,6 +2615,7 @@
 ###cookie_warning
 ###cookie_warning_area
 ###cookie_warning_container
+###cookie_warning_content
 ###cookie_warning_notification_NOTIFICATION
 ###cookie_warning_outer_wrapper
 ###cookie_warnung
@@ -2773,6 +2785,7 @@
 ###cookiemelding_popup
 ###cookiemenu
 ###cookiemessage
+###cookiemessage-root
 ###cookiemessage-wrapper
 ###cookiemessagebar
 ###cookiemex
@@ -3005,6 +3018,7 @@
 ###cookies-use
 ###cookies-use-alert
 ###cookies-use-page-padding
+###cookies-use-popup
 ###cookies-using-message
 ###cookies-val
 ###cookies-verify
@@ -3368,6 +3382,7 @@
 ###cookieswarning
 ###cookieswrap
 ###cookietable
+###cookietest
 ###cookietext
 ###cookietextdiv
 ###cookiething
@@ -3727,8 +3742,10 @@
 ###dsgvo-cookie-container
 ###dsgvo-cookie-dnt-layer
 ###dsgvo-panel
+###dsgvoCookieBanner
 ###dsgvo_cookie_hint
 ###dsgvo_cookie_note
+###dsgvo_info
 ###dsgvo_v2
 ###dspcookie
 ###dsvgo_cookie
@@ -3740,6 +3757,7 @@
 ###dvCookieChk
 ###dvCookieChoiceInfo
 ###dvCookieInfo
+###dvPrivacy
 ###dvRGPDcookie
 ###dvSiteCookies
 ###dv_cookies_alert
@@ -4175,6 +4193,7 @@
 ###gdpr_nav
 ###gdpr_notice
 ###gdpr_overlay
+###gdpr_panel
 ###gdpr_popin
 ###gdpr_popup_bg
 ###gdpr_popup_container
@@ -4189,6 +4208,7 @@
 ###gdprsticky
 ###gdprwarning
 ###gdrp-cookieoverlay
+###gdrp-wrapper
 ###gdrpNotification
 ###gel-cookie
 ###gel-cookie-banner
@@ -4542,6 +4562,7 @@
 ###js-policy-eucookie
 ###js-popup-cookies
 ###js-pullout-cookies
+###js-react-cookie-policy
 ###js-site-cookie
 ###js-stormcc-banner
 ###js-tar_cookiesBar
@@ -4986,6 +5007,7 @@
 ###oddcookie
 ###ode-cookie-popup
 ###oe-cookie-consent-dialogue
+###ogcc_barContainer
 ###oil-privacy-button
 ###oil-privacy-form
 ###okCookie
@@ -5208,6 +5230,7 @@
 ###popup-cookie-wall
 ###popup-cookies
 ###popup-cookies-police
+###popup-disclaimer
 ###popup-gdpr
 ###popup-privacypolicy
 ###popup-webpage-cookie
@@ -5432,6 +5455,7 @@
 ###ruban-cnil
 ###rvacookies
 ###rvdwCookiePolicy
+###rw_accept_cookie
 ###rw_alert_cookies
 ###rwd-cookie-message
 ###rwdcookiesinfo
@@ -5450,9 +5474,11 @@
 ###sanoma-consent-bar
 ###sanoma-consent-bar-mobile
 ###sap-disclaimer
+###sb-cookie-compliance-overlay
 ###sbEuCookieConsentBox
 ###sc-alert-box-wrapper
 ###sc-cookie-notification
+###sc-gdpr-box
 ###sc_thispolicy
 ###scc-consent
 ###scc-cookie-bar
@@ -5562,6 +5588,8 @@
 ###soi-global-privacy-info
 ###soopacookie
 ###sottocookie
+###soycontrolcookies
+###soycontrolcookies_container
 ###sp-cookie-consent
 ###spartooCookies
 ###spcookiegdpr
@@ -5598,6 +5626,7 @@
 ###strawberry-cookiebar
 ###stripe-cookie
 ###stripe_hammon
+###stt-cookie
 ###subserviceCookiesBar
 ###sun-cookieMessage
 ###sun-cookieMessageInner
@@ -5643,6 +5672,7 @@
 ###tenantAcceptText
 ###terminosCookies
 ###termly-code-snippet-support-banner
+###termsAndPrivacyFloater
 ###termsContainer
 ###termsNotice
 ###terms_cookie_container
@@ -5915,6 +5945,7 @@
 ###wimPrivacyBanner
 ###winCookieWarning
 ###winerist-cookie-info
+###wizjo-cookies
 ###wk_cookiebar
 ###wl-cookie-datenschutz-message
 ###wmh-cookie-eu-alert
@@ -5985,6 +6016,7 @@
 ###zaz-nb-plugin-cookie-message
 ###zc_cookie_notice
 ###zc_homepage_bara_cookies
+###zc_notice
 ###zeraxo-cookie-bar
 ###zezwolenieNaCookie
 ###zgoda_cookie
@@ -6117,6 +6149,7 @@
 ##.CookiesConsent_root
 ##.CookiesInfo
 ##.CookiesInfoMain
+##.CookiesLayer
 ##.CookiesMessageContainer
 ##.CookiesOK
 ##.CookiesOk
@@ -6216,6 +6249,7 @@
 ##.__gdprConfirmOverlay
 ##._cookie-banner
 ##._cookie-info
+##._cookies
 ##._cookies-cookies-bar
 ##._cookies_policy_popup
 ##._floating-banner[floating-banner-id="cookies"]
@@ -6459,6 +6493,7 @@
 ##.awe_cookie
 ##.awe_cookie_settings
 ##.awesome-eu-cookies
+##.awn-cookie-compliance
 ##.axa-cookies
 ##.axaCookie
 ##.axmcookie-notice-container
@@ -6630,6 +6665,7 @@
 ##.block-lsw-cookie
 ##.block-notification--cookies
 ##.block.cookies
+##.blockCookieNotice
 ##.blockCookieNotification
 ##.blockCookies
 ##.block__content-cookies
@@ -6842,6 +6878,7 @@
 ##.cccenter-show-banner
 ##.ccdiv
 ##.cck-consent-bar
+##.cck-msg
 ##.cckBannerInner
 ##.cclist.ccpane
 ##.ccm-banner-small
@@ -6867,6 +6904,7 @@
 ##.checkCookie
 ##.checkcookie
 ##.chefcookie--bottombar
+##.chr-cookie-banner
 ##.ci-privacy-hint
 ##.ci-rodo-footer
 ##.ciacho
@@ -6967,6 +7005,8 @@
 ##.confirm_cookies_box
 ##.connect-cookie-bar
 ##.consent-banner
+##.consent-bar
+##.consent-confirmation-banner
 ##.consent-container
 ##.consent-container--banner
 ##.consent-content
@@ -6987,6 +7027,7 @@
 ##.consent[ng-controller="cookieConsentCtrl"]
 ##.consent__alert
 ##.consent_box
+##.consent_cookies
 ##.consentbanner
 ##.consentbarcontainer
 ##.consentement_cookie
@@ -7118,6 +7159,7 @@
 ##.cookie-banner-wrapper
 ##.cookie-banner:not(body):not(html)
 ##.cookie-banner__cnt
+##.cookie-bar--active
 ##.cookie-bar--is-visible
 ##.cookie-bar-alert
 ##.cookie-bar-con
@@ -7140,6 +7182,7 @@
 ##.cookie-block-visible
 ##.cookie-body-overlay
 ##.cookie-box
+##.cookie-box-en
 ##.cookie-box-wrapper
 ##.cookie-btn
 ##.cookie-bubble
@@ -7159,6 +7202,7 @@
 ##.cookie-conditions
 ##.cookie-confirm
 ##.cookie-confirmation
+##.cookie-consent--normal
 ##.cookie-consent-acknowledgement-conatiner
 ##.cookie-consent-alert
 ##.cookie-consent-area
@@ -7192,6 +7236,7 @@
 ##.cookie-consent.show
 ##.cookie-consent.shown
 ##.cookie-consent:not(body)
+##.cookie-conset-bar
 ##.cookie-cont
 ##.cookie-contain
 ##.cookie-container
@@ -7863,6 +7908,7 @@
 ##.cookie__inner
 ##.cookie__message
 ##.cookie__message-container
+##.cookie__notice
 ##.cookie__policy
 ##.cookie__reveal
 ##.cookie__show
@@ -7888,6 +7934,7 @@
 ##.cookie_ban
 ##.cookie_banner
 ##.cookie_banner-handled
+##.cookie_banner_background
 ##.cookie_banner_container
 ##.cookie_banniere
 ##.cookie_bar
@@ -7954,6 +8001,7 @@
 ##.cookie_message_container
 ##.cookie_message_wrap
 ##.cookie_modal
+##.cookie_modal_outer
 ##.cookie_module
 ##.cookie_monster
 ##.cookie_monster_box
@@ -7985,6 +8033,7 @@
 ##.cookie_policy_message
 ##.cookie_policy_outer
 ##.cookie_policy_pop
+##.cookie_politics
 ##.cookie_popup
 ##.cookie_popup_wrapper
 ##.cookie_privacy_alert
@@ -8256,6 +8305,7 @@
 ##.cookies-info:not(html):not(body)
 ##.cookies-info_banner
 ##.cookies-information
+##.cookies-informer-section
 ##.cookies-infos
 ##.cookies-inner
 ##.cookies-label
@@ -8297,6 +8347,7 @@
 ##.cookies-panel
 ##.cookies-policy-alert
 ##.cookies-policy-banner
+##.cookies-policy-card
 ##.cookies-policy-container
 ##.cookies-policy-disclaimer
 ##.cookies-policy-message
@@ -8547,12 +8598,14 @@
 ##.cookieswrapper
 ##.cookiesy
 ##.cookieterms
+##.cookietest_bno
 ##.cookietext
 ##.cookietool-message
 ##.cookietop
 ##.cookietopbanner
 ##.cookietxt
 ##.cookieusage-confirm
+##.cookieusage__base
 ##.cookieuse-open
 ##.cookievarning-wrap
 ##.cookiewLawLayer
@@ -8751,6 +8804,7 @@
 ##.dt-cookie-consent
 ##.dt-cookie-dialog
 ##.dtcookie-overlay
+##.dtcookie__wrap
 ##.duc-base_cookie-consent
 ##.dv-cookies
 ##.dv-responsive div[data-bind*="CookiesInfo"]
@@ -8911,6 +8965,7 @@
 ##.fbPageBanner
 ##.fbar-cookie-policy
 ##.fc-cookies
+##.fcs-cookie-component
 ##.festival-cookie
 ##.fg-cookiesdirective
 ##.fhCookieLaw
@@ -9068,6 +9123,7 @@
 ##.gdpr-disclaimer
 ##.gdpr-disclaimer__overlay
 ##.gdpr-eu
+##.gdpr-headband
 ##.gdpr-header
 ##.gdpr-hellobar
 ##.gdpr-info
@@ -9118,6 +9174,7 @@
 ##.gdprBoxContainer
 ##.gdprCookieLaw
 ##.gdprLegalNotification
+##.gdprManagerMessage
 ##.gdprMessage
 ##.gdprPopup
 ##.gdpr[data-gdpr-popup]
@@ -9136,6 +9193,7 @@
 ##.gdpr_gdpr-composer-panel__toolbar
 ##.gdpr_hdr
 ##.gdpr_ip
+##.gdpr_main
 ##.gdpr_msg
 ##.gdpr_msgbox
 ##.gdpr_note
@@ -9150,6 +9208,7 @@
 ##.gdprpopup
 ##.gdprrhs
 ##.gdrp-popup-content
+##.gdrp__overlay
 ##.general-cookie-notification
 ##.general_data_protection_regulation
 ##.gfl-widget-gdpr-wrap
@@ -9193,6 +9252,7 @@
 ##.group-header-placeholder-cookie
 ##.grp-header__cookiedisclaimer
 ##.grsNotifyBar
+##.grve-privacy-wrapper
 ##.gsCookieDisclaimer
 ##.gsk-cookieconsent-outer
 ##.gt-ui-cookie-bar
@@ -9287,6 +9347,8 @@
 ##.imPolicycookiemessage
 ##.imc-cookie
 ##.important-banner--cookies
+##.in2-modal
+##.in2-modal__blackbox
 ##.index__cookie__body
 ##.index_cookies
 ##.inerCookie
@@ -9460,6 +9522,7 @@
 ##.js-footer-cookie-banner
 ##.js-ft-cookies
 ##.js-g-cookie
+##.js-gdpr
 ##.js-gdpr-banner
 ##.js-gdpr-cookie-box
 ##.js-gdpr-header
@@ -9541,6 +9604,7 @@
 ##.kraken-cookie-warning
 ##.kth-toast--bottom
 ##.kue-cookie-notification
+##.l-cookie
 ##.l-cookie-law
 ##.l-cookie-notice-container
 ##.l-cookieNotification
@@ -9551,6 +9615,7 @@
 ##.l-sticky-gf__accept
 ##.lag-cookie-policy-wrapper
 ##.lam-cookie-container
+##.lamium-cookie-consent
 ##.landing-cookies
 ##.lang-cookie
 ##.layer--fixed-bottom[cookiebar]
@@ -9813,6 +9878,7 @@
 ##.mycookies
 ##.myshp_cookies_warning
 ##.n--help_cookie-banner
+##.n040-cookie-alert
 ##.naf-cookies-popup
 ##.namespace-cookie-policy
 ##.narizeni-eu-cookies
@@ -9945,7 +10011,9 @@
 ##.nq-c-rgpdBar
 ##.nr-cookie-notification
 ##.nr-cookie-notification-component
+##.nr-cookie-notification__wall
 ##.nr-cookie-notification__wrapper
+##.nr-privacy-modal-box-v2
 ##.nrg-cookie-popup
 ##.ns-cookie-consent
 ##.ns-cookies-accept
@@ -10030,6 +10098,7 @@
 ##.p-max-width_cookie
 ##.p-notification-bar-cookieconsent
 ##.p_cookie
+##.page--cookie
 ##.page-banner__cookie
 ##.page-cookies
 ##.page-cookies-info
@@ -10044,6 +10113,7 @@
 ##.page__gdpr
 ##.pageinfo-cookie
 ##.pane-cookie-disclaimer
+##.panel--cookie
 ##.panel-cookie
 ##.panel-cookies
 ##.panel_cookie
@@ -10225,6 +10295,7 @@
 ##.privacyLawAlert
 ##.privacyNotification
 ##.privacyPolicyBanner
+##.privacyPolicyPopup
 ##.privacyPolicyWarn
 ##.privacyTop
 ##.privacy__popup
@@ -10351,6 +10422,7 @@
 ##.row--cookie-compliance
 ##.row-cookies
 ##.row[data-test-selector*="cookie-banner"]
+##.rp-CookiesConsent
 ##.rs-alert-cookie
 ##.rs-cookie-consent
 ##.rt-cookiepolicy-notice
@@ -10358,6 +10430,7 @@
 ##.rts-cookies-warning-pannel
 ##.rts-module-cookies-message
 ##.rvl-Banner-cookieBanner
+##.rw-cookie-consent
 ##.rw-cookie-notification
 ##.rxtcookiedisclaimer__container
 ##.ry-cookie-permission
@@ -10724,6 +10797,7 @@
 ##.visible-cookies:not(body)
 ##.visible.cookie
 ##.visible.cookies
+##.visitorcookie
 ##.vk-cookie-notification
 ##.vk_cookie_compliance
 ##.vm_cookieBarWrapper
@@ -10744,9 +10818,11 @@
 ##.w3_cnil
 ##.waGDPR_consentButton
 ##.waGDPR_modalFrameBackground
+##.waconcookiemanagement
 ##.wami_cookie_div
 ##.wander-cookie
 ##.warn-cookie
+##.warning--policy
 ##.warning-cookie
 ##.warning-cookie-law
 ##.warning-cookies
@@ -10766,6 +10842,7 @@
 ##.we-use-cookies
 ##.weCookie
 ##.weCookieBar
+##.weUseCookies
 ##.web-cookies-inline
 ##.webshop-cookie-warning
 ##.wecookiepop-container
@@ -10843,6 +10920,7 @@
 ##.wta-cookies-policy
 ##.wx-cookie-ppp
 ##.wz-cc-container
+##.x-cookie-acceptance
 ##.x-cookie-consent
 ##.x-cookie-disclaimer
 ##.x-cookies
@@ -10882,6 +10960,7 @@
 ##[aria-labelledby="ui-dialog-title-cookiebox"]
 ##[cnn-cookie-policy]
 ##[cookie-unique-name]
+##[data-at-selector="cookie-banner"]
 ##[data-bind="visible: showCookieWarning"]
 ##[data-cookie-id]
 ##[data-cookie-validity-days]
@@ -10986,6 +11065,7 @@
 ##div[class^="GDPR-module"]
 ##div[class^="GDPRBanner_"]
 ##div[class^="__alertCookie"]
+##div[class^="__cookie-banner"]
 ##div[class^="_cookieBanner-"]
 ##div[class^="app-components-CookieDisclaimer"]
 ##div[class^="app_cmpAppGdpr-"]
@@ -11004,6 +11084,7 @@
 ##div[class^="gdpr_banner_"]
 ##div[class^="index_cookieNotification"]
 ##div[class^="popupConsentBanner"]
+##div[class^="src-ui-Cookie"]
 ##div[class^="styles__Cookie"]
 ##div[class^="termly-consent-"]
 ##div[data-automation="cookies-banner"]
@@ -11052,6 +11133,7 @@
 ##div[id*="cookie_info_bar"]
 ##div[id*="nx_gdpr_modal"]
 ##div[id="cm:cookieWrapper"]
+##div[id^="CookieMessage_"]
 ##div[id^="ccpa-notification-banner"]
 ##div[id^="mod-privacy-policy"]
 ##div[id^="n-cookies"]
@@ -11064,6 +11146,7 @@
 ##ea-truste-consent-bar
 ##edn-cookie
 ##eo-cookie-bar
+##epaas-consent-drawer-shell
 ##form[name="FormLeggeCookies"]
 ##g-cookie-policy
 ##gdpr-cookies
@@ -11088,10 +11171,12 @@
 ##onl-cookie
 ##outer-wrapper-cookie
 ##policy-consent
+##pp-cookie-dialog
 ##privacy-policy-toast
 ##rtk-cookies-notice
 ##sd-cookies-widget
 ##section[class*="_CookieNotice"]
+##section[data-test-id="cookie-notice"]
 ##section[data-view="cookiePolicy"]
 ##shb-cookie-accept
 ##suchen-cookie-privacy-toast

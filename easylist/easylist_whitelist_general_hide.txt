@@ -96,6 +96,7 @@ videozed.net#@##adsdiv
 avhf.com,carryconcealed.net,haberler.com,instiz.net,promoce.cz,ps3scenefiles.com,sondakika.com#@##adsense
 remixshare.com#@##adsense_block
 jeeppatriot.com#@##adsense_inline
+tokyo-tube.com#@##adside
 autoweek.com,cooperhewitt.org,core77.com,metblogs.com,oreilly.com,thisisthehive.net#@##adspace
 e24.se#@##adspace_top
 smh.com.au,theage.com.au#@##adspot-300x250-pos-1
@@ -362,6 +363,7 @@ hellogiggles.com#@#.ads-bg
 queer.pl#@#.ads-col
 ads.nipr.ac.jp,burzahrane.hr#@#.ads-header
 members.portalbuzz.com#@#.ads-holder
+gratisaftehalen.nl#@#.ads-image
 t3.com#@#.ads-inline
 celogeek.com,checkrom.com#@#.ads-item
 circus-dev.com#@#.ads-list
@@ -377,7 +379,7 @@ shopmos.net#@#.ads_top
 quebarato.com.br,search.conduit.com#@#.ads_wrapper
 alluc.org#@#.adsbottombox
 imagebam.com#@#.adsbox
-advancedrenamer.com,epicbundle.com,willyoupressthebutton.com#@#.adsbygoogle
+advancedrenamer.com,epicbundle.com,phcorner.net,willyoupressthebutton.com#@#.adsbygoogle
 copart.com#@#.adscontainer
 starbike.com#@#.adsense_wrapper
 live365.com#@#.adshome
@@ -482,7 +484,7 @@ gumtree.co.za#@#.googleAdSense
 nicovideo.jp#@#.googleAds
 davidsilverspares.co.uk#@#.greyAd
 komando.com#@#.grid-item-ad
-forums.digitalspy.com,waer.org#@#.has-ad
+forums.digitalspy.com,marketwatch.com,waer.org#@#.has-ad
 minecraftforge.net#@#.hasads
 adexchanger.com,assetbar.com,burningangel.com,donthatethegeek.com,drunkenstepfather.com,intomobile.com,poderpda.com,politicususa.com,seattlepi.com,sfgate.com,startingstrongman.com,thenationonlineng.net,thinkcomputers.org,wccftech.com,wholelifestylenutrition.com#@#.header-ad
 greenbayphoenix.com,photobucket.com#@#.headerAd
@@ -504,6 +506,7 @@ lespac.com#@#.inner_ad
 classifiedads.com#@#.innerad
 gizbrain.com,szlifestyle.com#@#.insert-post-ads
 silveradoss.com#@#.ipsAd
+elektro.info.pl#@#.is-sponsored
 magazines-download.com#@#.item-ads
 amazinglytimedphotos.com#@#.item-container-ad
 rollingstone.com#@#.js-sticky-ad
@@ -520,6 +523,7 @@ history.com#@#.m-in-content-ad-row
 eagleboys.com.au#@#.marketing-ad
 driverscollection.com#@#.mid_ad
 donga.com#@#.middle_AD
+austurfrett.is#@#.middlead
 thenewamerican.com#@#.module-ad
 nationalpost.com,www.msn.com#@#.nativead
 eatthis.com#@#.nav-ad
@@ -571,7 +575,7 @@ almanacnews.com,danvillesanramon.com,mv-voice.com,paloaltoonline.com,pleasantonw
 audioholics.com,domainrural.com.au#@#.side-ad
 suntimes.com#@#.side-bar-ad-position1
 timesofoman.com#@#.sideAd
-fool.com#@#.sidebar-ads
+fool.com,independent.com#@#.sidebar-ads
 cadlinecommunity.co.uk#@#.sidebar_advert
 adspot.lk,recycler.com#@#.single-ad
 myaccount.nytimes.com,myaccount.nytimes3xbfgragh.onion#@#.singleAd
@@ -590,6 +594,7 @@ getprice.com.au#@#.sponsoredLinks
 giantlife.com,hellobeautiful.com,newsone.com,theurbandaily.com#@#.sticky-ad
 technical.ly#@#.story-ad
 ibtimes.co.in#@#.taboola-ad
+order-order.com,topclassactions.com#@#.tag-sponsored
 thoughtcatalog.com#@#.tc_ad_unit
 star.txstate.edu#@#.td-ad
 star.txstate.edu#@#.td-header-ad-wrap
@@ -614,6 +619,7 @@ express.de,focus.de#@#.trc_rbox_div .syndicatedItem
 express.de,focus.de#@#.trc_related_container div[data-item-syndicated="true"]
 yahoo.com#@#.type_ads_default
 wingsbirdpro.com#@#.vertical-ads
+youtube.com#@#.video-ads
 vinden.se#@#.view_ad
 nytimes.com,nytimes3xbfgragh.onion#@#.wideAd
 britannica.com,cam4.com#@#.withAds
@@ -695,7 +701,6 @@ wtkplay.pl#@#.advertising_banner
 velasridaura.com#@#.advertising_block
 guitarforum.co.za,tf2r.com#@#.adverts
 africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramacafe.in,eveskunk.com,farsondigitalwatercams.com,file4go.com,freeccnaworkbook.com,gaybeeg.info,hack-sat.com,is-arquitectura.es,keygames.com,latesthackingnews.com,localeyes.dk,manga2u.co,mangasky.co,minecraftskins.com,perrosycachorros.net,phoronix.com,ps3news.com,psicologiayautoayuda.com,recetasreceta.com,smplayer.sourceforge.net,thenewboston.com,tubitv.com,youtubecristiano.net#@#.afs_ads
-coindigger.biz#@#.banner160x600
 anisearch.com#@#.chitikaAdBlock
 theladbible.com#@#.content_tagsAdTech
 topzone.lt#@#.forumAd

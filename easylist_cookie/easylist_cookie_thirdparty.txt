@@ -39,6 +39,7 @@
 ||gdpr-service.herokuapp.com^$third-party
 ||gdpr.studybreakmedia.com^
 ||global.mgr.consensu.org^$third-party
+||hs-banner.com^$third-party
 ||intermarkets.net^$third-party
 ||iubenda.com^$third-party
 ||jimstatic.com/ckies.js
@@ -54,6 +55,8 @@
 ||privacy.clion.agency^$third-party
 ||privacy.purch.com^
 ||publy.net^$third-party
+||quantcast.mgr.consensu.org/choice/$script
+||quantcast.mgr.consensu.org^*/choice.js$third-party
 ||scrookie.nl^$third-party
 ||sddan.mgr.consensu.org^$third-party
 ||sharethis.mgr.consensu.org^$third-party
@@ -69,4 +72,5 @@
 ||uniconsent.mgr.consensu.org^$third-party
 ||usercentrics.eu^$third-party
 ||vendorlist.consensu.org^$third-party
+||volksbund-cookie.de^$third-party
 ||wpcc.io^$third-party

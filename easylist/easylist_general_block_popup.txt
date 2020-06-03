@@ -6,6 +6,7 @@
 &r=*&zoneid=$popup
 &rf=*&zoneid=$popup
 &zoneid=*&ad_$popup
+&zoneid=*&direct=$popup
 -ads-campaign/$popup
 .co/ads/$popup
 .com/?adv=$popup
@@ -90,6 +91,7 @@
 /Redirect.engine$popup
 /Redirect.rb?$popup
 /redirect.spark?$popup,third-party
+/redirect?tid=$popup
 /rotator.php?$popup
 /servlet/ajrotator/*$popup
 /show?*&refer=$popup
