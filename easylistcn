@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Version: 202002028805
 ! Title: EasyListCN
-! Last modified: 2020-02-02
+! Last modified: 2020-06-06
 ! Expires: 180 days
 !
 !------------General advert filters------------!
@@ -16958,6 +16958,7 @@ photopea.com###cap
 /api/v4/lot
 /uploads/javascript_core
 ! KO
+###NM_TOP_BANNER
 ###whale_promotion_banner
 ###veta_autoplay
 ###veta_top
