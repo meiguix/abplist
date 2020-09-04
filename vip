@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Version: 88888888
 ! Title: EasyListVIP
-! Last modified: 2020-06-06
+! Last modified: 2020-09-05
 ! Expires: 180 days
 !
 ! BaiDu
@@ -143,42 +143,7 @@ sina.cn##.ft_cm
 ##.section6
 ##.footer-con > .footer-list
 ##.footer-ali
-ali213.net###rmpl
-##.web_news_right
-##.t5c_r_xyxh
-###g1
-##.web_news_right + .t5c_r_tjh
-##.header-bg
-##.nzl_t6
-##.t5c_r_tjo + .t5c_r_tjh
-##.zt_center_con_body_left_gametj_con
-##.n_show_b
-##.n_show_s
-##.news_app
-##.n_xs + .n_xg
-##SCRIPT + * + .n_xg
-##.line10 + * + * + * + * + .n_xg
-##.n_xglist
-##.n_xgbbs + .n_xg
-##.tjyd.masonry
-ali213.net##.news_foot
-pic.ali213.net##.ALi_f
-gl.ali213.net##.glzjfoot
-down.ali213.net##.Ali_down_foot
-##.recommendContainer
-##.detail_body_left_xgxx
-##.detail_body_left_info_con_srgz
-###xwgl + .detail_body_left_xgxz
-###xwgl + * + * + .detail_body_left_xgxz
-patch.ali213.net##.bottom
-##.buyRentContainer
-##.downWayBottom
-##.basePluginContainer
-##.recommendGameContainer
-##.hotGameContainer
-##.otherGameContainer
-in.ali213.net###foot
-ali213.net##.ol_foot
+
 ! QDK
 news.mydrivers.com##.link
 news.mydrivers.com###footer
