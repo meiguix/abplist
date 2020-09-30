@@ -79,8 +79,6 @@ finance.sina.com.cn###jj50r
 ##.extendAd
 ! QDZJ
 -info-580.
-##.duilian_left
-##.duilian_right
 ###a_showhotnews_list
 ###a_showhotnews_list_dia
 ! YX
@@ -228,6 +226,7 @@ pptv.com##.sus-item-sub
 /dark-animated
 ###note[style="display: block;"]
 ##.becbdbcf
+###vpnModal
 ###at4-share
 ###close-fixedbanner
 /msk-close
