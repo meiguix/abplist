@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 88888888
+! Version: 888888888
 ! Title: EasyListVIP
 ! Last modified: 2020-10-01
 ! Expires: 180 days
@@ -174,11 +174,14 @@ down.ali213.net###xwgl
 news.mydrivers.com##.link
 news.mydrivers.com###footer
 news.mydrivers.com##.footer_about
+##.news_right1
+##.main_right_div + * + .main_b20
 ##.baidu
-###weixin
-###i_lastnext
-##.news_xg
-##.news_xg2
+/getacticlereward.
+/kkj_msi.
+##.xianguan
+##.kaixiang + * + * + * + *
+##.guanzhu
 ! JTTS
 ##.aside-bar
 ###view-view
