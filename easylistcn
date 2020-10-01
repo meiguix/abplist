@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Version: 202009098807
 ! Title: EasyListCN
-! Last modified: 2020-09-09
+! Last modified: 2020-10-01
 ! Expires: 180 days
 !
 !--------------------General advert blocking--------------------!
@@ -17184,8 +17184,6 @@ finance.sina.com.cn###jj50r
 ##.extendAd
 ! QDZJ
 -info-580.
-##.duilian_left
-##.duilian_right
 ###a_showhotnews_list
 ###a_showhotnews_list_dia
 ! YX
@@ -17333,6 +17331,7 @@ pptv.com##.sus-item-sub
 /dark-animated
 ###note[style="display: block;"]
 ##.becbdbcf
+###vpnModal
 ###at4-share
 ###close-fixedbanner
 /msk-close
