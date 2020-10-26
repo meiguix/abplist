@@ -198,6 +198,7 @@ news.mydrivers.com##.footer_about
 ##.module-video2018-newupload
 ##.grid + * + .g_copyright
 iqiyi.com##.channel-footer-warp
+##.qy-header-login-pop-v1
 ##.qy-player-pca
 ###block-AP
 ##.mod-horizon-one
