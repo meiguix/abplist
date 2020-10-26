@@ -174,9 +174,11 @@ photopea.com###cap
 ||ajax.googleapis.com^$third-party
 ||cnzz.com^$third-party
 ||connect.facebook.net^$third-party
+||contributor.google.com^$third-party
 ||cse.google.com^$third-party
 ||fonts.googleapis.com^$third-party
 ||fonts.gstatic.com^$third-party
+||fundingchoicesmessages.google.com^$third-party
 ||google.com/cse/*$third-party
 ||google-analytics.com^$third-party
 ||hm.baidu.com^$third-party
