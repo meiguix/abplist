@@ -112,7 +112,6 @@ fashion.sina.com.cn##.video-wrap
 finance.sina.com.cn###most_read
 finance.sina.com.cn###tab_related
 ##.fc_sidebar
-##IFRAME[height="320"]
 ##[style="margin-top:11px;"]
 ##IFRAME[height="305"]
 ##IFRAME[height="560"]
