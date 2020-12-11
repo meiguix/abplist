@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Version: 888888888
 ! Title: EasyListVIP
-! Last modified: 2020-10-01
+! Last modified: 2020-12-12
 ! Expires: 180 days
 !
 ! BaiDu
@@ -192,6 +192,7 @@ news.mydrivers.com##.footer_about
 ##.aside-bar
 ###view-view
 ###GLOBAL_FOOTER
+/tps/i4
 ##.tm-qrcode-icon
 ||gy.taobao.com^
 ###official-remind
