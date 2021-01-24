@@ -11,6 +11,7 @@
 ###aaheadtop
 ###aatop.top_box
 ###aatop[class^="top_box"]
+###ad > .pre-img
 ###ad-SNSSplashAd
 ###ad08
 ###ad6cn
@@ -31,9 +32,11 @@
 ###adv-2
 ###adv-3
 ###adx_cggp
+###app > .publicAllContentBg > .bigBannerBg
 ###body > #left-promotion
 ###body > #right-promotion
 ###bottomAD
+###bottomNavad
 ###bottombanner
 ###breadCrumb + .c + .t[style="margin-top:8px"]
 ###breadCrumb + .t[style="margin-top:8px"]
@@ -49,9 +52,11 @@
 ###eis_pad1
 ###eis_pad2
 ###everydayadv_mask
+###fixed-bottom-modal[style^="right:"][style$="px; display: block;"]
 ###fk_faiVisitStateAd
 ###floatAd
 ###floatad-winpop
+###fnbt
 ###footer_fix_ggw
 ###frameS8CyqB
 ###fuo_top_float
@@ -66,7 +71,10 @@
 ~jxedu.com###haoetv
 ###haoetv1
 ###haoxinqing_me_img
+###header > a[target="_blank"] > img[style="width:100%;height:60px;margin-bottom:2px;"]
+###hellobox > .mylist
 ###js-ad-map
+###js-ysjpp
 ###js_ads_banner_top
 ###js_ads_banner_top_slide
 ~houdask.com###kfivtwin
@@ -74,8 +82,10 @@
 ###ks > .DaKuang
 ###ldgindexbuttom
 ###leftCouple
+###leftCouple1
 ###leftCouplet
 ###leftFloat + #rightFloat
+###leftFloat1 + #rightFloat1
 ###leftFloat[style="z-index: 999; position: fixed; left: 0px; bottom: 0px;"]
 ###left_couple
 ###left_couplet.close_discor
@@ -92,6 +102,7 @@
 ###lovexin2
 ###lt-ad-radio
 ###magneturlpost + .movie + .movie[style="padding:12px; margin-top:15px"]
+###mainbody:nth-child(5) > .mylist
 ###menu + #topBox
 ###menu + script + #topBox
 ###miaov_float_layer
@@ -111,6 +122,7 @@
 ###overture_ads_top_td
 ###photo--content-title-bottomx--foot
 ###photo-header-title-content-text-dallor
+###photo-header-title-content-text-dallor11
 ###piao_div_0[style*="width:140px;"]
 ###piao_div_1[style*="width:140px;"]
 ###piao_div_2[style*="width:140px;"]
@@ -121,6 +133,7 @@
 ###player_banner[style*="fixed;"]
 ###popup.t
 ###pp-modal-id
+###propagandaInsert[style="display: flex;"]
 ###ptcmsad1
 ###qj960a
 ###qj960b
@@ -128,6 +141,8 @@
 ###results.content-main > .eLeft
 ###rightCouple
 ###rightCouple + #leftFloat
+###rightCouple1
+###rightCouple1 + #leftFloat1
 ###rightCouplet
 ###rightCouplet + #leftFloat
 ###right_couple
@@ -149,6 +164,7 @@
 ###tanx-fold-main
 ###textggs
 ###top-gg-container
+###topNavad
 ###top_ads0
 ###top_box > a[onclick^="javascript"]
 ###toperAd2
@@ -175,6 +191,7 @@
 ##._ggs
 ##._popIn_recommend_article_ad
 ##._popIn_recommend_article_ad_reserved
+##.a_2mu
 ##.a_cn
 ##.a_fl
 ##.a_fr
@@ -216,8 +233,8 @@
 ##.ad_right_1
 ##.ad_right_2
 ##.ad_thread
-##.ad_top_close + .bd
 ##.adbox-bg.adscounter
+##.add-gg
 ##.ads > a > img[src*=".sinaimg."]
 ##.ads_desktop
 ##.ads_mobile
@@ -240,8 +257,10 @@
 ##.bn728-100
 ##.bn728-93
 ##.bottomSponsor
+##.bottom_mengcheng_ad_wrap
+##.bottomads + .leftd
 ##.broadcastMe[style="width: 1200px;"]
-##.btn.btn-default.hotwords[target="_blank"]
+##.btn[href*=".papa9394.com"]
 ##.bus_adsbox
 ##.buyaoa-below
 ##.cari-ads
@@ -267,6 +286,8 @@
 ##.ctm_ad
 ##.d_banner_inner
 ##.dipiao
+##.div-search-box.col-lg-offset-2.col-lg-8 > a[href^="http"][target="_blank"]
+##.duilian > .leftd
 ##.edtj
 ##.eis_muad
 ##.error > #qqs
@@ -274,6 +295,8 @@
 ##.f-sign-cont[data-dysign-adid]
 ##.fed-part-case > .ads-img
 ##.ff-ads
+##.flex-row > #propagandaLeft
+##.flex-row > #propagandaRight
 ##.float-adv-left-bottom
 ##.float-adv-left-top
 ##.float-adv-right-bottom
@@ -291,6 +314,7 @@
 ##.gg_728
 ##.gg_950
 ##.gg_960
+##.gg_canvas
 ##.gg_full
 ##.gg_tp
 ##.ggad
@@ -305,7 +329,6 @@
 ##.google_adsense2
 ##.gpost-below
 ##.gpt_ads_box
-##.gsfha3
 ##.guangjiaodebupachuanxiede
 ##.guruin-ads
 ##.hao123-unionad-pic
@@ -315,6 +338,7 @@
 ##.his-sign-cont[data-dysign-adid]
 ##.hlol_ad
 ##.hongbao_hd
+##.hzxld
 ##.iHead960x90
 ##.ibtad
 ##.index-top-ad
@@ -332,6 +356,7 @@
 ##.jqrp_infoflow_ad
 ##.kf_qycn_com_cckf_welcomebox
 ##.leftadv
+##.leftd + .rightd
 ##.listok > a > img[src*=".alicdn.com"][width="980"][height="80"]
 ##.listok > a > img[style^="width:980px;height:"]
 ##.loc-home-top-adv-new
@@ -353,18 +378,22 @@
 ##.mlad
 ##.mod + #bottomBox
 ##.my-cat.my-cat-header
-##.mylist > a[target="_bank"] > img[src*=".alicdn.com/"]
-##.mylist > a[target="_bank"] > img[src*="kanjiantu."]
+##.mylist + #topthree
+##.mylist > a > img[width^="9"][height="80"]
 ##.newstyle > .container > a[target="_blank"]
 ##.overBanner.dowloadBtn
 ##.pagead_3
 ##.pagecon + .ad1
+##.partialViewSlider-outerwrapper
+##.pasuAD
 ##.pcd_ad
 ##.pcgg
+##.photo-two > a[onclick^="_czc."]
 ##.player + .sponsor
 ##.player-bottom-gg
 ##.pop[style="right: 10px;"]
 ##.privilege-promote
+##.propa_bottom
 ##.qq_nr_lad
 ##.qzhfaaa
 ##.readmidad
@@ -376,6 +405,7 @@
 ##.scupioadslot
 ##.self-gg
 ##.spon-img[src*=".alicdn."]
+##.static-a2d
 ##.subject_link[href$="/thread-index-fid-1-tid-12848.htm"]
 ##.sxAdBox
 ##.t5[style="border:1px solid #a6cbe7;"] + .t[style="margin-top:8px"]
@@ -384,8 +414,10 @@
 ##.theme_custom_slidebox-ad-below
 ##.tmall_ad_container
 ##.tooltip > #tp
+##.top-gg
 ##.top-read-ad
 ##.topSponsor
+##.top_ad_ban
 ##.top_box > #foot
 ##.top_box > #indextop
 ##.top_box > #news
@@ -402,6 +434,7 @@
 ##.widget-topadding
 ##.widget-xlxba
 ##.widget_adbox
+##.widget_image_ad
 ~hrtsea.com##.widget_ui_ads
 ##.widget_ui_asb
 ##.widget_ui_aub
@@ -414,21 +447,25 @@
 ##.wp.a_h
 ~aircn.org,~steamcn.com##.wp.a_t
 ##.wp_headline + .ad1
+##.wpcom_ad_wrap
 ##.wrap.mt10.clearfix > .box.top_box
 ##.wumii-bottom-popup
 ##.wumii-widget-ad
 ##.wzad
 ##.xzbox-gh
+##.y.mtw[style="padding: 0px 10px;"]
 ##.yd_ad
 ##.yd_ad1
 ##.yd_ad2
 ##.yd_ad3
 ##.yd_ad5
 ##.yd_ad6
+##.zhanzhang_tuijian_btn
 ##.zhedangceng_ggg
 ##.zone_wap_banner2
 ##A[href*=".com/?Agent="]
 ##A[href="http://t.cn/A6hQCVsv"]
+~taobao.com,~tmall.com##A[href="https://s.click.taobao.com/cTAwFvu"]
 ##A[href^="/e/public/ClickAd?adid="]
 ~sinaimg.cn##a > img[src*=".sinaimg."][src$=".gif"][style*="width:960"]
 ~alicdn.com##a > img[width="960"][src*=".alicdn.com/"]
@@ -441,9 +478,11 @@
 ##a[href*=".05cg.com/"]
 ##a[href*=".08an.com/"]
 ##a[href*=".123ch.cn"]
+##a[href*=".1317yb.com"]
 ##a[href*=".17yyba.com/"]
 ##a[href*=".222bz.com/"]
 ##a[href*=".41gw.com/"]
+##a[href*=".613639.com/"]
 ##a[href*=".726188.com"]
 ##a[href*=".7wkw.com"]
 ##a[href*=".9xiazaiqi.com"]
@@ -452,6 +491,7 @@
 ##a[href*=".bayiyy.com/download."]
 ##a[href*=".biwbmsyt.cn"]
 ##a[href*=".cangpie.com/"]
+##a[href*=".caohang.com.cn/"]
 ##a[href*=".chouchuai.com/"]
 ##a[href*=".chuairan.com/"]
 ##a[href*=".com/?Extend="]
@@ -468,6 +508,7 @@
 ##a[href*=".gsxzq.com/"]
 ##a[href*=".guzaosf.com/"]
 ##a[href*=".hbjimin.com/"]
+##a[href*=".hndazhan.com/"]
 ##a[href*=".iziyo.com/"]
 ##a[href*=".liaochuo.com/"]
 ##a[href*=".mieseng.com/"]
@@ -475,8 +516,11 @@
 ##a[href*=".qpzqxz.com/"]
 ##a[href*=".qtj5.com/"]
 ##a[href*=".quankan.tv"]
+##a[href*=".shssfyh.com/"]
+##a[href*=".tapdb.net/"]
 ##a[href*=".tbb168.com"]
 ##a[href*=".tduou.com/"]
+##a[href*=".tea123.me"]
 ##a[href*=".ttz5.cn"]
 ##a[href*=".tudown.com/"]
 ~umeng.com##a[href*=".umeng.com"]:not([href="http://www.umeng.com/"]) > img
@@ -485,17 +529,29 @@
 ##a[href*=".xlddz.net/"]
 ##a[href*=".xlgqy.com/"]
 ##a[href*=".xrzzk.com/"]
+##a[href*=".yabo414.com"]
+##a[href*=".yabo816.com"]
+##a[href*=".yabo824.com"]
 ##a[href*=".yabovip2027.com/"]
 ##a[href*=".yb2843.vip"]
 ##a[href*=".ybvip5741.vip"]
+##a[href*=".yuanmengbi.com/"]
 ##a[href*=".yyk2.com/"]
+##a[href*=".zhongguohao123.com/"]
 ##a[href*="/602034.com"]
 ##a[href*="/?INTR="]
 ##a[href*="/?Intr="]
 ##a[href*="/?intr="]
 ##a[href*="/Register?a="]
 ##a[href*="/du505.com"]
+##a[href*="/md0c.oss-cn-beijing.aliyuncs.com/"]
+##a[href*="/mda1.site/"]
+##a[href*="/mdapp03.com/"]
+##a[href*="/mdapp2.cc/"]
+##a[href*="/mdb1.site/"]
+##a[href*="/ppffj.me/"]
 ##a[href*="itoon.app"]
+##a[href*="mdapp01.com/"]
 ##a[href*="nnqp.vip"]
 ##a[href*="ywslxq.com"]
 ##a[href="/e/member/register/index.php?tobind=0&groupid=1"]
@@ -504,6 +560,7 @@
 ##a[href="http://t.cn/Ex0cCbt"]
 ##a[href="http://www.tw787.com/"]
 ##a[href="http://www.yabovip5.cc/"]
+##a[href="https://ayxbet846.vip"]
 ##a[href="https://www.ybvip1879.vip"]
 ##a[href^="http://172.247.157.176/"]
 ##a[href^="http://ad.moemoe."]
@@ -512,6 +569,7 @@
 ~upupoo.com##a[href^="http://www.upupoo.com"]
 ##a[href^="https://hi.potvpn.com/?from="]
 ##a[href^="https://luolidao.vip/"]
+##a[onclick^="_czc."] > .ads
 ##a[onclick^="javascript:pc_"] > img[src*=".alicdn.com"]
 ##a[style="display:inline-block;font-weight:bold;color:#f00;border:1px solid #f00;border-radius:15px;padding:2px 5px 2px 5px;margin:5px 5px 5px 0px;"]
 ##body .has-ad
@@ -523,7 +581,7 @@
 ##div#xinxi
 ~ix8.la##div[class^="ADTOPLB_"]
 ##div[id^="ad_thread"]
-##form + .div-search-box.col-lg-offset-2.col-lg-8 > a[target="_blank"]
+##img#adv1
 ##img[data-link][data-src*="/u/"]:not([data-link*="/i/"])
 ##img[data-src*=".alicdn.com/img/ibank/"][src="/static/images/loadingerror.gif"]
 ##img[src$="/img/tianbo.gif"]
@@ -533,5 +591,6 @@
 ##script + #coupletBox
 ##script + #rbbox
 ##script[src="/js/sy2.js"] + div[align="center"]
+##script[src="/templates/frontend/frontend-jiucao/js/jquery.lazyload.min.js"] + .footer_app_box
 ##span[title="neteasefooter"]
 ##table[style="border:#7D8C8E solid 1px;height: 30px;text-align: center;"]
