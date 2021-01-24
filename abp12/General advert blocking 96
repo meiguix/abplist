@@ -36,7 +36,6 @@
 .com/headlink.js
 .com/image/ll/$script
 .com/images/102.js
-.com/inc/poster.php$xmlhttprequest
 .com/java/shang1.js
 .com/java/xia1.js
 .com/java/youxia.js
@@ -57,6 +56,8 @@
 .com/myjs/mys_alljs.js
 .com/pc/ad/$domain=~yoogame.com
 .com/piaozi/*.js
+.com/Public/js/duileft.js
+.com/Public/js/duiright.js
 .com/qxads/
 .com/rmb/bofang*.js
 .com/rmb/daohang*.js
@@ -91,7 +92,6 @@
 .lu/ads/
 .men/ads/
 .net/js/ads/
-.one/ads/
 .org/js/ads/
 .org/topjs/
 .test15./
@@ -109,6 +109,7 @@
 .xyz/99x/
 .xyz/ad/
 .xyz/js/ads/
+.xyz/upload/ad/
 .zone/ads/
 /104_150/1360_1|
 /1982/java/static/js/*headad.js
@@ -127,6 +128,8 @@
 /91_banner/*
 /91ad.
 /91ad_
+/993dy_new//gg123/*
+/9CCMSPC/images/*.gif
 /a/p?adid=
 /ab_my/pc_pf.js
 /ab_res/m/common.js
@@ -165,7 +168,6 @@
 /api/apiFetchAdsData
 /api/autosda.php
 /app_ad/slade.js
-/Appapi/adlist.php
 /Appapi/jjlist.php
 /apps/misc.php?action=advert&
 /assets/banners/600x100/*
@@ -256,6 +258,7 @@
 /ggjs/*
 /ggpic/*
 /ggtp/*
+/ggvip/*.js
 /gigi/ad/*
 /guang/guang*.js
 /guangao/*
@@ -341,8 +344,9 @@
 /lapi/sign/web/getinfo
 /lenovo/pc/all.js
 /lenovo/pc/top.js
+/live173_*/46860.
 /lteee/ad/*
-/m_dilidili_main.js
+/m1938pc/static/js/dibu.js
 /macplus/ads/*
 /main.js?v=*&sp=*&ty=
 /main/s?
@@ -358,6 +362,7 @@
 /myzgg.
 /N-960x60.
 /newfengchao/asp
+/nfhry32_78.js
 /nForum/files/adv/*
 /ntes-ad-cloud.
 /partner/gg_sogou.html
@@ -381,6 +386,7 @@
 /qd/js/index/bannerTop.
 /QianFanAdPalyer.
 /qidian-ad
+/QidianAdClient.
 /qiuyi-gg-wrapper-
 /qpxl.js
 /qqlive/conf/playerlottery/*
@@ -426,7 +432,7 @@
 /static/js/fuo_3.js
 /static/js/gold_daddy.js
 /static/js/headad.js
-/stui_ads/*
+/stui_ads/xyz456e/*
 /sxgg/12.js
 /sxgg/13
 /tan.js
@@ -470,6 +476,7 @@
 /websales_push_*_big.php?id=
 /wp-content/themes/iMovies/js/tc_
 /wscdn/*$subdocument
+/xgrghru981_23.js
 /xiaoyi/360_
 /xiaoyi/960_
 /xnewssygg.
@@ -544,5 +551,5 @@ _xiuno_com_ad/
 |http://*/js/ad/
 |http://*/js/tc.js
 |http://*/s.js?sp=*&r=$third-party
-|http://ad.$domain=~jxnews.com.cn
+|http://ad.$domain=~ckckk.com|~jxnews.com.cn
 |http://gg.$third-party,domain=~guagua.cn
