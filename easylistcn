@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202009098807
+! Version: 202009098808
 ! Title: EasyListCN
-! Last modified: 2020-10-01
+! Last modified: 2021-01-25
 ! Expires: 180 days
 !
 !--------------------General advert blocking--------------------!
@@ -12413,6 +12413,7 @@ ent.sina.com.cn##.fbr-down
 ###wrap_wbHot
 ##.blk-wxfollow
 ###ad_44124
+##DIV[style="width: 60px; height: 22px; position: absolute; right: 0px; top: -18px; z-index: 11010; background: rgba(0, 0, 0, 0) url(\"//d2.sina.com.cn/litong/zhitou/sinaads/60x18_2_close.gif\") no-repeat scroll 0% 0%; margin: 0px; padding: 0px; cursor: pointer;"]
 sports.sina.com.cn##.tiyu__QR
 ###sinaadsbox
 ##.side-btns-2w
