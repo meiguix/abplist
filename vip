@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Version: 888888888
 ! Title: EasyListVIP
-! Last modified: 2020-12-31
+! Last modified: 2021-2-22
 ! Expires: 180 days
 !
 ! BaiDu
@@ -220,7 +220,7 @@ iqiyi.com##.channel-footer-warp
 ##.qy-mod-wrap-twin
 bilibili.com##.partner.b-footer-wrap
 bilibili.com##.lt-row
-##.unlogin-popover-avatar
+##[role="tooltip"] > .unlogin-popover-avatar
 ###reportFirst2
 ###reportFirst3
 ###bili_game
