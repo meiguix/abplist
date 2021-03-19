@@ -6,10 +6,11 @@
 !
 ! BaiDu
 ##.guide-info
-###s_side_wrapper
 ##.hotword-wrapper
 ##.rsresult-card
+##.s-top-loginbtn-bottom
 ##.JS-nativeupload-tip
+###s_side_wrapper
 zhidao.baidu.com##.wgt-footer-new
 jingyan.baidu.com##.footer
 ##.magzine-list
