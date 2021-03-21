@@ -187,11 +187,12 @@ news.mydrivers.com##.footer_about
 ##.news_right1
 ##.main_right_div + * + .main_b20
 ##.baidu
+##A[href="http://click.aliyun.com/m/1000253340/"]
 ##DIV[style="width:728px;height:90px; margin: auto; padding-top: 5px;"]
 /kkj_msi.
 /getacticlereward.
 ##.xianguan
-##[style="padding:0px 20px 10px 20px"] + *
+##DIV[style="padding:0px 20px 8px 20px"]
 ##.guanzhu
 ! JTTS
 ##.aside-bar
