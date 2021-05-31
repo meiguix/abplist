@@ -4,7 +4,6 @@ hubei.gov.cn#@##ad-side
 abbao.cn#@##adContent
 gohome.com.hk,idv.st#@##adFrame
 2014.qq.com#@##adIframe
-wangnba.com#@##adSet
 two.game.tw#@##ad_02
 fx678.com#@##ad_8
 dpp.org.tw,shuaijiao.com#@##ad_big
@@ -27,11 +26,9 @@ apk.tw#@##google_ad
 soft.macx.cn,tunesp.com#@##googlead
 soft.macx.cn#@##googlead1
 52vfx.com#@##head_ad
-29yyl.com#@##index_ad
 xxt.cn#@##mainAd
 numberempire.com#@##perm_ad
 www.zol.com.cn#@##search_ad
-wangnba.com#@##showAd
 u2mtv.com#@##slider-ad
 woego.cn#@##topAds
 buy.ccb.com#@##top_ad
@@ -67,6 +64,7 @@ icbc.com.cn#@#.adLeft
 icbc.com.cn#@#.adRight
 10jqka.com.cn,faxingw.cn,gdmm.com#@#.ad_1
 dnwx.com#@#.ad_250
+qqaiqin.com#@#.ad_468
 psahz.com#@#.ad_960
 eastday.com#@#.ad_center
 bfmusic.com.tw,workercn.cn#@#.ad_content
@@ -83,7 +81,6 @@ qqread.com#@#.adcont
 51cto.com#@#.addarea
 ggdoc.com.cn#@#.addiv
 189.cn#@#.adlink
-poba.com.tw,poba.hk#@#.adlist
 weather.com.cn,wed114.cn#@#.adpic
 ltn.com.tw#@#.adright
 money18.on.cc#@#.ads-bg
@@ -92,7 +89,7 @@ jd.com#@#.ads-item
 gsxt.gov.cn#@#.ads-right
 159i.com,techroomage.com,zhaopin.com#@#.adsBox
 4gtv.tv,80s.ai,ft.com,ftchinese.com,ftchinese.com.sz-dns.net,kartinfo.me,long7.qq.com,reh.tw,typecho.wiki#@#.adsbox
-alotof.software,android-doc.com,apk.tw,battlecats-db.com,chtoen.com,dizhishengcheng.com,doitwell.tw,epinv.com,ff14angler.com,fxpan.com,haoweichi.com,logi.im,moa.tw,numberempire.com,playok.com,shenfendaquan.com,tingfm.com,yabook.org#@#.adsbygoogle
+android-doc.com,apk.tw,battlecats-db.com,chtoen.com,dizhishengcheng.com,doitwell.tw,epinv.com,ff14angler.com,fxpan.com,haoweichi.com,logi.im,moa.tw,numberempire.com,playok.com,reh.tw,shenfendaquan.com,tingfm.com,yabook.org#@#.adsbygoogle
 qq.com#@#.adside
 ruten.com.tw#@#.adslot
 gdmm.com,gkstk.com,youquba.net#@#.adtop
@@ -102,7 +99,7 @@ htmlsucai.com,sucai8.cn,ui.cn#@#.adv_img
 zalora.com.hk#@#.advertisement-block
 lm-us.com#@#.advertisement_above_footer
 jd.com#@#.adwords
-8maple.ru,bilibili.to,gamer.com.tw,oldpig.org,pron777.com#@#.afs_ads
+8maple.ru,gamer.com.tw,pron777.com#@#.afs_ads
 epubit.com#@#.article_share
 dingdong.ganji.com#@#.banner
 10.10.5.12#@#.banner_ad
@@ -110,14 +107,12 @@ ishangman.com#@#.bottom_ad
 douban.com#@#.download-ad
 typecho.wiki#@#.downloadad
 petrochina.com.cn#@#.ggbox
-1090ys2.com,bbt.tv,btbt.tv,l32c.cn,nixingle.com#@#.google-ad
+1090ys2.com,bbt.tv,btbt.tv,nixingle.com#@#.google-ad
 apk.tw#@#.google_ad
 adbug.cn#@#.google_ads
 mobile01.com#@#.googlead
 #@#.has-ad
-wangzheli.com#@#.headad
 popo.tw#@#.header_ad
-hbee.edu.cn#@#.headerad
 i-pass.com.tw#@#.homead
 vmall.com#@#.iframeAd
 sohu.com#@#.label-ad
@@ -136,6 +131,6 @@ zdface.com#@#.top-ad
 andylain.com,bee.coupons,blogspot.com,blogspot.hk,blogspot.jp,blogspot.tw,comic.tw,jasonblog.tw#@#.vertical-ads
 i-cable.com#@#.video_ad
 bitauto.com,yinyuetai.com#@#a[href^="http://ad.doubleclick.net/"]
-1point3acres.com,alotof.software,android-doc.com,apk.tw,battlecats-db.com,chtoen.com,dizhishengcheng.com,doitwell.tw,epinv.com,ff14angler.com,fxpan.com,haoweichi.com,logi.im,moa.tw,numberempire.com,playok.com,shenfendaquan.com,tingfm.com,yabook.org#@#div > .adsbygoogle
+1point3acres.com,android-doc.com,apk.tw,battlecats-db.com,chtoen.com,dizhishengcheng.com,doitwell.tw,epinv.com,ff14angler.com,fxpan.com,haoweichi.com,logi.im,moa.tw,numberempire.com,playok.com,shenfendaquan.com,tingfm.com,yabook.org#@#div > .adsbygoogle
 brandsales.58.com#@#div[id^="ad_"]
 gohome.com.hk#@#div[id^="div-gpt-ad"]
