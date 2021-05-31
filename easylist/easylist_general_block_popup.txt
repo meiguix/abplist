@@ -113,6 +113,7 @@
 =popunder&$popup
 =popunders&$popup
 =redirect_adv&$popup
+?ad_c_ref=$popup
 ?ad_domain=$popup
 ?AdUrl=$popup
 ?bannerid=*&punder=$popup
@@ -129,6 +130,5 @@ _popunder+$popup
 |javascript:*setTimeout$popup
 |javascript:*window.location$popup
 ! Used with many websites to generate multiple popups
-|blob:$popup
 |data:text$popup,domain=~clker.com
 |dddata:text$popup
