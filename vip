@@ -184,6 +184,7 @@ down.ali213.net###xwgl
 news.mydrivers.com##.link
 news.mydrivers.com###footer
 news.mydrivers.com##.footer_about
+mydrivers.com##div[id$="_tab"] > ul > li[style]
 ##.news_right1
 ##.main_right_div + * + .main_b20
 ##.baidu
