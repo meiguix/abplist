@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202106018811
+! Version: 202106068812
 ! Title: EasyListCN
-! Last modified: 2021-06-01
+! Last modified: 2021-06-06
 ! Expires: 180 days
 !
 !---------------General advert blocking---------------!
@@ -8733,8 +8733,8 @@ _yad_jsonp_
 ||zzzyk.com/js/
 !---------------Specific element hiding---------------!
 szxx.com.cn###A0
-2345.com###leftPacketMain
-subaibai.com###note
+mydrivers.com##IMG[width="300"][height="250"]
+cjw123.com##A[href="http://tb.cjw123.com"]
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -8807,6 +8807,7 @@ zol.com.cn###J_alpha_link
 2345.com###J_bgSug1st
 gaokao.com###J_fixed_popbox
 2345.com###J_go_erweima
+2345.com###J_hot_event
 uc123.com###J_logoLeft
 huya.com###J_roomGg2 + a
 2345.com###J_s11_foot
@@ -9209,7 +9210,7 @@ ck101.com,pchome.com.tw###div_superbar_swf
 lanrentuku.com###divjdgg
 360doc.com###divunderZcommondAd
 360doc.com###divyoulikead
-0562.cc,114shouji.com,1x6666.com,2fzw.cn,528500.com,52jscn.com,5378cc.com,58cam.com,5imx.com,7sqq.com,99nets.com,99nets.me,bansha.com,bbs.52life.cc,bestcclm.com,chcj.com,cm868.com,cnyw.net,cqfishing.net,discuzlab.com,gebi1.com,hh010.com,i5qs.com,im286.net,kugz.com,ld0766.com,luanren.com,mahoupao.com,qinzhou8.com,sh419.net,suizhoushi.com,txahz.com,wishct.com,xsool.com,xydai.cn,ybvv.com,ytshe.com###diy1
+0562.cc,114shouji.com,1x6666.com,2fzw.cn,528500.com,52jscn.com,5378cc.com,58cam.com,5imx.com,7sqq.com,99nets.com,99nets.me,bansha.com,bbs.52life.cc,bestcclm.com,chcj.com,cm868.com,cnyw.net,cqfishing.net,discuzlab.com,gebi1.com,hh010.com,i5qs.com,im286.net,kugz.com,ld0766.com,luanren.com,mahoupao.com,qinzhou8.com,sh419.net,suizhoushi.com,susongbbs.com,txahz.com,wishct.com,xsool.com,xydai.cn,ybvv.com,ytshe.com###diy1
 im286.net###diy110
 cbber.com,you85.net###diy2
 chiphell.com###diy2 + div
@@ -9230,7 +9231,7 @@ cnpingpang.com###diycity1103
 mydigit.cn,storyren.top###diyfastposttop
 im286.net###diyflash
 qbaobei.com###diyforumdisplaybottom
-0517w.com,1x6666.com,365kl.net,3qled.com,52ch.net,bbs.qbaobei.com,chinafix.com,cnyw.net,cqsq.com,gz0668.com,i5qs.com,mahoupao.com,mcncc.com,qilindao.com,xsool.com###diynavtop
+0517w.com,1x6666.com,365kl.net,3qled.com,52ch.net,bbs.qbaobei.com,chinafix.com,cnyw.net,cqsq.com,gz0668.com,i5qs.com,mahoupao.com,mcncc.com,qilindao.com,susongbbs.com,xsool.com###diynavtop
 51nb.com###diynavtop + .t_rown[cellpadding="5"]
 bbs.pcbeta.com###diynavtop + style + div[class]
 yshw1.com###diynews_ad1
@@ -9587,6 +9588,7 @@ jiaodong.net###leftBanner
 cs.com.cn,qinbing.cn,sonimei.cn###leftDiv
 duba.com###leftHot
 51credit.com###leftLayerDown
+2345.com###leftPacketMain
 ccb.com.cn###leftSideAd
 2345.com###leftSideBar
 kuai8.com###left_Ad
@@ -9700,6 +9702,7 @@ fanqiangzhe.com###news-include + .text-center
 chinaqking.com###newsAD
 hexun.com###newsPopWin
 ilxdh.com###nice-banner0
+subaibai.com###note
 live.win007.com###notify > a[target="_blank"]
 05sun.com###nowDown1
 qq.com###nqsnqsad02
@@ -12881,6 +12884,7 @@ tzfile.com##.vad
 douyu.com##.vcode9-sign
 poxiaotv.net##.vdbto,.qptp + a,[onclick],.qpgdo
 ahuys.cc,taoziba.cc##.vddb + a
+suibiankan.cc##.vddb + a,.vddb,.vddb_qq,style + div[id],a > video
 6090ba.com##.vdgd + a
 vgtime.com##.vgart_top
 lenovo.com.cn##.video
@@ -13514,7 +13518,7 @@ hupu.com##div[class*="ad980-60"]
 zhibo8.cc##div[class*="advert"]
 52solution.com##div[class*="banner"]
 efu.com.cn##div[class*="banner-"]
-m.baidu.com##div[class*="fc-"][data-placeid]
+baidu.com##div[class*="fc-"][data-placeid]
 fx112.com##div[class*="floatap"]
 autohome.com.cn##div[class*="game"]
 qinbing.cn##div[class*="gg"]
@@ -13629,7 +13633,7 @@ mail.126.com,mail.163.com##div[id$="_FooterDiv"]
 anoneko.com,dmhy.org,ye1213.com##div[id$="_ad"] > a:first-child > img
 58.com##div[id$="_gdbg"]
 mail.126.com,mail.163.com##div[id$="_succAd"]
-mydrivers.com##div[id$="_tab"] > ul > li[style]
+mydrivers.com##DIV[id$="_tab"] > UL > LI:first-child
 my0511.com##div[id$="bdbc"]
 pixnet.net##div[id*="-AD-"]
 pixnet.net##div[id*="-Ad-"]
@@ -14028,7 +14032,6 @@ bilibili.com##span[style*="height:"][data-loc-id]
 typecho.wiki##span[style="height: 17px;margin-left: 10px;background: #000;border: 1px solid #000;"]
 yivian.com##span[style^="color: #ff0000;"]
 159i.com##style + div[align="center"]
-suibiankan.cc##style + div[id],.vdtp + a,a > video
 power.baidu.com,www.baidu.com,zhidao.baidu.com##style[id*="s-m"] + div[id^="m"]
 udn.com##table[bgcolor="#FFFFFF"][width="298"][height="375"]
 my0511.com##table[bordercolor="#C0C0C0"][border="1"]
