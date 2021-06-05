@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Version: 888888888
 ! Title: EasyListVIP
-! Last modified: 2021-2-22
+! Last modified: 2021-6-6
 ! Expires: 180 days
 !
 ! BaiDu
@@ -167,6 +167,7 @@ ali213.net###rmpl
 ###sjyx_r
 ali213.net##.news_foot
 pic.ali213.net##.ALi_f
+pic.ali213.net##.ali-kx
 ##.ol_detail_right_hot
 ##.ol_detail_right_test
 ali213.net##.ol_foot
