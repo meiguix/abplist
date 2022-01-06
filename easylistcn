@@ -20336,7 +20336,6 @@ photopea.com###cap
 ||google.com/cse/*$third-party
 ||google-analytics.com^$third-party
 ||hm.baidu.com^$third-party
-||netdna.bootstrapcdn.com^$third-party
 ||platform.twitter.com^$third-party
 ||skimresources.com^$third-party
 ||ssl.qhres.com^$third-party
