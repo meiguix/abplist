@@ -1,12 +1,13 @@
 ! uBO Sepecific fixes
-protocol.com,theconversation.com##body:style(overflow: auto !important;)
-protocol.com###form_out
-theconversation.com##.MuiDialog-root
 ! 9gag.com (mobile)
+9gag.com##.open-in-app
 9gag.com##.overlay-layer
-9gag.com##*:style(overflow: visible!important;)
+9gag.com##body:style(overflow: auto !important;)
+9gag.com##.shade
 ! reddit.com (mobile)
 reddit.com##.XPromoPopup
+reddit.com##.XPromoPill
+reddit.com##body:style(overflow: auto !important;)
 reddit.com##body.scroll-disabled:style(overflow: visible!important; position: static!important;)
 reddit.com##.XPromoInFeed
 amp.reddit.com##.AppSelectorModal__body
@@ -16,8 +17,27 @@ youtube.com##+js(json-prune, 2.playerResponse.adPlacements playerResponse.adPlac
 youtube.com##+js(json-prune, 2.playerResponse.adPlacements)
 youtube.com##+js(json-prune, playerResponse.adPlacements)
 youtube.com##+js(json-prune, playerResponse.playerAds) 
-youtube.com##+js(json-prune, *.playerResponse.adPlacements)
-youtube.com##+js(json-prune, *.playerResponse.playerAds)
 youtube.com##+js(set, ytInitialPlayerResponse.adPlacements, null)
-! Counter generichide
-metro.co.uk##.metro-email-signup
+! audioholics
+audioholics.com##.modal
+audioholics.com##.modal-backdrop
+! linuxbabe.com
+linuxbabe.com##.pum-active
+linuxbabe.com##html:style(overflow: auto !important)
+! rebelnews.com
+rebelnews.com##html:style(overflow: auto !important)
+rebelnews.com##.remodal-wrapper
+rebelnews.com##.remodal-overlay
+! huckberry.com
+huckberry.com##body,html:style(height: auto !important; overflow: auto !important)
+huckberry.com##.modal-content
+huckberry.com##.fade
+! bestrecipes.com.au (forced login)
+bestrecipes.com.au##+js(cookie-remover.js, br_mc)
+! revolver.news
+revolver.news##body:style(overflow: auto !important;)
+revolver.news##.blocker
+! 4399.com
+4399.com##+js(aopr, defaultbackgroundimg)
+! onegreenplanet.org (Fix page, when attempting to print)
+onegreenplanet.org##body:style(display: block !important)

@@ -6,6 +6,8 @@
 ###\5f __tdspushdiv
 ###___ndtvpushdiv
 ###app-promo-overlay
+###auplusflash
+###auwnotificationpopup
 ###bigpicture-webpush-widget
 ###browser-notifications-prompt
 ###cont_webpush
@@ -26,7 +28,9 @@
 ###noti_msg
 ###noti_subscribe_dialog
 ###notification-permission
+###notificationAllowPrompt
 ###notificationPopUp
+###og-banner
 ###oiNotification
 ###onesignal-popover-container
 ###pa-push-notification-subscription
@@ -68,8 +72,11 @@
 ##.PushNotification--base
 ##.PushNotification--top
 ##.PushNotification-popover-dialog
+##.PushSubscription-block
 ##.b-notification-push
+##.b-push-notification
 ##.bk-wonderpush
+##.branded-app-shortcode-inarticle
 ##.bs-push-noti
 ##.bubble-push
 ##.c-push-notification
@@ -81,10 +88,12 @@
 ##.dmgpush-popover-container
 ##.e-push-notification-popup
 ##.et_push_notification
+##.firebase-slidedown-container
 ##.frizbit-prompt
 ##.grv-dialog-host
 ##.hs-push
 ##.htpush-chrome-style-notification
+##.i-push-notification
 ##.insider-opt-in-notification
 ##.item-newsletter-form
 ##.j-push-notifications-feature
@@ -97,9 +106,12 @@
 ##.m-webpush-layer
 ##.modal-push
 ##.naf-web-notifications-popup
+##.nav-link--notification-handler
 ##.notBar
 ##.notf-overlay
+##.notification_popup
 ##.notify-optin-wrap
+##.ns-notification-popup
 ##.ntfc_overlay
 ##.ntfc_popup
 ##.oi-notify
@@ -134,25 +146,33 @@
 ##.pushowl-optin
 ##.pwa-modal-prompt
 ##.showtvPushOverlay
+##.simple-subscription-form
 ##.tsoft-push--in-notification
 ##.ud_webpush_sticky
 ##.web-notification
 ##.web-push
 ##.web-push-box
+##.webpush_wrap
 ##.window-push
 ##.wordpress-fire-push-popup
 ##.ys-push
 ##amp-web-push-widget
 ##div[class^="container_NotificationsBanner_"]
 ! Mobile Notifications
+###download_app_banner_btn
 ###mn-app-banner
 ###smartbanner-desktop
 ##.branch-banner
 ##.c-install-banner
+##.cept-banner-link
 ##.js-openAppBox
 ##.smartbanner-android
 ##.smartbanner-container
 ##.smartbanner-desktop
+##.smartbnr-android
+##.smartbnr-ios
 ##.z-bit-smartbanner
 ##a[href^="http://www.mobi24.net/"]
 ##a[href^="https://www.mobi24.net/"]
+! International
+###uutiskirje-nosto
