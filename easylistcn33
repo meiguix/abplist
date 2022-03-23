@@ -4,6 +4,7 @@
 ! Last modified: 2022-02-02
 ! Expires: 180 days
 !
+
 !-----------------------General advert blocking filters-----------------------!
 -*-*-*-*.panda^$script,third-party
 -1688-wp-media/ads/
