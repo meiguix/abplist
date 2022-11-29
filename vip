@@ -270,6 +270,7 @@ v.youku.com##.g-footer
 ###home_slide *
 ###history + * + [align="center"]
 ##[type="text/javascript"] + A
+##.myui-panel.myui-panel-bg.clearfix:last-child
 ! CC5
 ###SUBD1561600658148883
 ! JP
