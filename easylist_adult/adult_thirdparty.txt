@@ -12,6 +12,7 @@
 ||allanalpass.com/visitScript/
 ||amarotic.com/Banner/$third-party
 ||amateurporn.net^$third-party
+||asg.bhabhiporn.pro^
 ||asianbutterflies.com/potd/
 ||asktiava.com/promotion/
 ||assinclusive.com/cyonix.html
@@ -20,7 +21,7 @@
 ||avatraffic.com/b/
 ||awempt.com/embed/
 ||awestat.com^*/banner/
-||b-cdn.net/media/cb/
+||b.isbnrs.com^
 ||babes-mansion.s3.amazonaws.com^
 ||babesmansion.com/banner/$third-party
 ||bangdom.com^$third-party
@@ -46,6 +47,8 @@
 ||br.fling.com^
 ||br.realitykings.com^
 ||brazzers.com/ads/
+||byxxxporn.com/300x250.html
+||cam-content.com/banner/$third-party
 ||cams.com/go/$third-party
 ||cams.enjoy.be^
 ||camsaim.com/in/
@@ -55,6 +58,7 @@
 ||chaturbate.com/affiliates/
 ||chaturbate.com/creative/
 ||chaturbate.com/in/
+||cldup.com^$domain=androidadult.com
 ||cmix.org/teasers/
 ||creamgoodies.com/potd/
 ||creative.imagetwistcams.com^$subdocument
@@ -64,6 +68,8 @@
 ||deliver.ptgncdn.com^
 ||dnk2wr2ch6zxa.cloudfront.net^
 ||dq06u9lt5akr2.cloudfront.net^
+||drtladv.com^
+||elitepaysites.com/ae-banners/
 ||fansign.streamray.com^
 ||faphouse.com^$subdocument,third-party
 ||fbooksluts.com^$third-party
@@ -71,7 +77,7 @@
 ||fleshlight.com/images/banners/
 ||fpcplugs.com/do.cgi?widget=
 ||free.srcdn.xyz^
-||fuegodevida.com^$third-party
+||freesexcam365.com/in/
 ||gateway-banner.eravage.com^
 ||geobanner.adultfriendfinder.com^
 ||geobanner.alt.com^
@@ -94,6 +100,7 @@
 ||homoactive.tv/banner/
 ||hostave3.net/hvw/banners/
 ||hosted.x-art.com/potd$third-party
+||hostedmovieupdates.aebn.net^$domain=datingpornstar.com
 ||hosting24.com/images/banners/$third-party
 ||hotcaracum.com/banner/
 ||hotkinkyjo.xxx/resseler/banners/
@@ -103,6 +110,7 @@
 ||ifriends.net^$subdocument,third-party
 ||ihookup.com/configcreatives/
 ||images.elenasmodels.com/Upload/$third-party
+||imctransfer.com^*/promo/
 ||istripper.com^$third-party,domain=~istripper.eu
 ||kau.li/yad.js
 ||kenny-glenn.net^*/longbanner_$third-party
@@ -127,18 +135,23 @@
 ||naked.com/promos/
 ||nakedswordcashcontent.com/videobanners/
 ||naughtycdn.com/public/iframes/
+||nnteens.com/ad$subdocument
 ||nubiles.net/webmasters/promo/
 ||nude.hu/html/$third-party
 ||openadultdirectory.com/banner-
 ||otcash.com/images/
 ||partner.loveplanet.ru^
+||parts.akibablog.net^$subdocument
 ||pcash.imlive.com^
 ||pimpandhost.com/site/trending-banners
+||pinklabel.com/live-banners?
 ||pinkvisualgames.com/?revid=
+||pirogad.tophosting101.com^
 ||plugin-x.com/rotaban/
 ||pod.xpress.com^
 ||pokazuwka.com/popu/
 ||porndeals.com^$subdocument,third-party
+||porngamespass.com/iframes/
 ||pornravage.com/notification/
 ||potd.onlytease.com^
 ||prettyincash.com/premade/
@@ -182,6 +195,7 @@
 ||smartmovies.net/promo_$third-party
 ||smpop.icfcdn.com^$third-party
 ||smyw.org/smyw_anima_1.gif
+||snipersex.com/banners/
 ||snrcash.com/profilerotator/$third-party
 ||st.ipornia.com^$third-party
 ||static.twincdn.com/special/license.packed
@@ -195,6 +209,7 @@
 ||teenspirithentai.com^$third-party
 ||theporndude.com/graphics/tpd-$third-party
 ||tlavideo.com/affiliates/$third-party
+||tm-banners.gamingadult.com^
 ||tm-offers.gamingadult.com^
 ||tongabonga.com/nudegirls
 ||tool.acces-vod.com^
@@ -215,9 +230,9 @@
 ||vs4.com/req.php?z=
 ||webcams.com/js/im_popup.php?
 ||webcams.com/misc/iframes_new/
-||webmaster.erotik.com^
 ||widget.faphouse.com^$third-party
 ||widgets.comcontent.net^
+||widgets.guppy.live^$third-party
 ||wp-script.com/img/banners/
 ||xcabin.net/b/$third-party
 ||xlgirls.com/banner/$third-party

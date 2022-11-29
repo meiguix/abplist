@@ -16,6 +16,7 @@
 ||adsturn.com^$third-party
 ||adult3dcomics.com^$third-party
 ||adultforce.com^$third-party
+||adultnetworksc.com^$third-party
 ||adultsense.com^$third-party
 ||aemediatraffic.com^$third-party
 ||affiliaxe.com^$third-party
@@ -23,6 +24,7 @@
 ||aipmedia.com^$third-party
 ||all-about-tech.com^$third-party
 ||allosponsor.com^$third-party
+||amateurhub.cam^$third-party
 ||asiafriendfinder.com^$third-party
 ||avfay.com^$third-party
 ||bcash4you.com^$third-party
@@ -50,6 +52,7 @@
 ||citysex.com^$third-party
 ||clickadu.com^$third-party
 ||clickaine.com^$third-party
+||clipxn.com^$third-party
 ||cross-system.com^$third-party
 ||cybernetentertainment.com^$third-party
 ||daiporno.com^$third-party
@@ -63,7 +66,6 @@
 ||dblpmp.com^$third-party
 ||debitcrebit669.com^$third-party
 ||deecash.com^$third-party
-||dejionsite.pro^$third-party
 ||demanier.com^$third-party
 ||dematom.com^$third-party
 ||digiad.co^$third-party
@@ -76,8 +78,6 @@
 ||dphunters.com^$third-party
 ||dtiserv2.com^$third-party
 ||easyflirt.com^$third-party
-||ebdr2.com^$third-party
-||elekted.com^$third-party
 ||eroadvertising.com^$third-party
 ||erosadv.com^$third-party
 ||erotikdating.com^$third-party
@@ -129,8 +129,8 @@
 ||getiton.com^$third-party
 ||ggwcash.com^$third-party
 ||golderotica.com^$third-party
+||hentai369.com^$third-party
 ||hentaimotel.com^$third-party
-||home-soon.com^$third-party
 ||hookupbucks.com^$third-party
 ||hornymatches.com^$third-party
 ||hornyspots.com^$third-party
@@ -152,7 +152,7 @@
 ||imlive.com^$script,third-party,domain=~imnude.com
 ||impactslam.com^$third-party
 ||impressionmonster.com^$third-party
-||incrediblevideosvst.com^$third-party
+||in3x.net^$third-party
 ||inheart.ru^$third-party
 ||intelensafrete.stream^$third-party
 ||internebula.net^$third-party
@@ -166,7 +166,6 @@
 ||itsup.com^$third-party
 ||itw.me^$third-party
 ||iwanttodeliver.com^$third-party
-||iwlnzreu5vlx.com^$third-party
 ||ixspublic.com^$third-party
 ||javbucks.com^$third-party
 ||jaymancash.com^$third-party
@@ -177,7 +176,6 @@
 ||kcolbda.com^$third-party
 ||kingpinmedia.net^$third-party
 ||klapenlyidveln.stream^$third-party
-||kodicdn.com^$third-party
 ||kugo.cc^$third-party
 ||leche69.com^$third-party
 ||legendarylars.com^$third-party
@@ -191,11 +189,9 @@
 ||livestatisc.com^$third-party
 ||livexxx.me^$third-party
 ||lizads.com^$third-party
-||loa-traffic.com^$third-party
 ||loading-delivery1.com^$third-party
 ||lofv.xyz^$third-party
 ||lostun.com^$third-party
-||loveadverts.com^$third-party
 ||lovecam.com.br^$third-party
 ||lovercash.com^$third-party
 ||lsawards.com^$third-party
@@ -252,7 +248,6 @@
 ||naiadexports.com^$third-party
 ||nastydollars.com^$third-party
 ||nativexxx.com^$third-party
-||netosdesalim.info^$third-party
 ||newads.bangbros.com^$third-party
 ||newagerevenue.com^$third-party
 ||newnudecash.com^$third-party
@@ -288,7 +283,6 @@
 ||oxcluster.com^$third-party
 ||ozelmedikal.com^$third-party
 ||paid-to-promote.net^$third-party
-||panoll.com^$third-party
 ||parkingpremium.com^$third-party
 ||partnercash.com^$third-party
 ||partnercash.de^$third-party
@@ -325,6 +319,7 @@
 ||pornoow.com^$third-party
 ||porntagged.com^$third-party
 ||porntrack.com^$third-party
+||porntry.com^$third-party
 ||pourmajeurs.com^$third-party
 ||ppc-direct.com^$third-party
 ||premiumhdv.com^$third-party
@@ -366,11 +361,9 @@
 ||realitycash.com^$third-party
 ||realitytraffic.com^$third-party
 ||recreativ.ru^$third-party
-||redirectoptimizer.com^$third-party
 ||redlightcenter.com^$third-party
 ||redpineapplemedia.com^$third-party
 ||reliablebanners.com^$third-party
-||renewads.com^$third-party
 ||rivcash.com^$third-party
 ||royal-cash.com^$third-party
 ||rtbsystem.com^$third-party
@@ -379,9 +372,7 @@
 ||runetki.com^$third-party
 ||russianlovematch.com^$third-party
 ||safelinktracker.com^$third-party
-||sahishodilitt.info^$third-party
 ||sancdn.net^$third-party
-||sandroprabratm.info^$third-party
 ||sascentral.com^$third-party
 ||sbs-ad.com^$third-party
 ||scund.com^$third-party
@@ -446,7 +437,6 @@
 ||the-adult-company.com^$third-party
 ||thebunsenburner.com^$third-party
 ||thepayporn.com^$third-party
-||therses.com^$third-party
 ||thesocialsexnetwork.com^$third-party
 ||thrnt.com^$third-party
 ||thumbnail-galleries.net^$third-party
@@ -454,16 +444,14 @@
 ||tingrinter.com^$third-party
 ||tinyweene.com^$third-party
 ||tizernet.com^$third-party
-||tlafu.space^$third-party
 ||tm-core.net^$third-party
 ||tmserver-1.com^$third-party
 ||tmserver-2.net^$third-party
 ||toget.ru^$third-party
-||tonsterandhantan.info^$third-party
 ||topbucks.com^$third-party
+||tophosting101.com^$third-party
 ||topsexcams.club^$third-party
 ||tossoffads.com^$third-party
-||tradineseveni.club^$third-party
 ||traffbiz.ru^$third-party
 ||traffic-gate.com^$third-party
 ||traffic-in.com^$third-party
@@ -471,6 +459,7 @@
 ||trafficholder.com^$third-party
 ||traffichunt.com^$third-party
 ||trafficlearn.com^$third-party
+||trafficmagnates.com^$third-party
 ||trafficpimps.com^$third-party
 ||trafficstars.com^$third-party
 ||traffictraffickers.com^$third-party
@@ -486,7 +475,6 @@
 ||tube.ac^$third-party
 ||tubeadnetwork.com^$third-party
 ||tubeadv.com^$third-party
-||tubechat.eu^$third-party
 ||tubecorporate.com^$third-party
 ||tubepush.eu^$third-party
 ||tufosex.com.br^$third-party
@@ -495,12 +483,14 @@
 ||unaspajas.com^$third-party
 ||uuidksinc.net^$third-party
 ||uxernab.com^$third-party
+||valuepornmedia.com^$third-party
 ||ver-pelis.net^$third-party
 ||verticalaffiliation.com^$third-party
 ||vfgta.com^$third-party
 ||vghd.com^$third-party
 ||vid123.net^$third-party
 ||video-people.com^$third-party
+||vidsrev.com^$third-party
 ||viensvoircesite.com^$third-party
 ||virtuagirlhd.com^$third-party
 ||vivaclix.com^$third-party
@@ -525,9 +515,11 @@
 ||xgogi.com^$third-party
 ||xhamstercams.com^$third-party
 ||xlovecam.com^$third-party
+||xlviiirdr.com^$third-party
 ||xogogowebcams.com^$third-party
 ||xtrafficads.com^$third-party
 ||xxxblackbook.com^$third-party
 ||xxxmatch.com^$third-party
 ||yourdatelink.com^$third-party
 ||yurivideo.com^$third-party
+||zendplace.pro^$third-party

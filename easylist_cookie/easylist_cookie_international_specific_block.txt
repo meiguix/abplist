@@ -1,32 +1,46 @@
 !
 ! ---------- German ----------
 !
+||amazonaws.com/website/js/tagcommander/$domain=cosmosdirekt.de
 ||baustellenabsicherung24.de^*/koekje.
 ||byom.de/js/cookie.de.js
+||cc.labu24.de^
+||ccm1.dlr.de^
 ||cmp.pcwelt.de^
 ||cmp.tvspielfilm.de^
 ||consent-wrapper.jameda.de^
 ||consent.berliner-kurier.de^
+||consent.daa.net/app.js
 ||consent.faz.net^
 ||consent.gutefrage.net^
+||cookies.ptj.de^
 ||henryschein.at^*/CookieList.aspx
+||howatherm.de/frontend/media/cm/
+||saturn-klima.de/wp-content/a0a206f468204945563d799b8f319215.js
+||stefke-heilbronn.de/wp-content/1ae6d298321568877d478a611c6536f4.js
 ||strato.de^*/consent.js
 ||tauschticket.de/js/cnst.js
 ||up-cookiemon.wavecdn.net^
+||vag.de/typo3conf/ext/cookieman/
+||weddstyle.de/bilder/banner/$image
 !
 ! ---------- French ----------
 !
+||cmp.lavie.fr^
 ||cmp.lepoint.fr^
-||cnil.links-lab.fr^
 ||consent.prismamedia.com^
+||consentement.ouest-france.fr^
 ||cookies.leadplace.fr^
 ||docteurclic.com/ajax/ajax_get_disc.aspx
+||editions-eni.fr/dlg/cookies.aspx
 ||gmx.fr/uim/bidding/consent.js
 ||googletagmanager.com/gtm.js$script,domain=stihl.fr
 ||jeu.video^*/partners.js
 ||ratp.fr/modules/custom/ratp_tarteaucitron/
+||static.lefigaro.fr/figconsent/
 ||thesiteoueb.net/js/cm-head.js
 ||var.uicdn.net/shopsshort/privacy/v1/bundle.
+||veodys.fr/api/cmp/
 !
 ! ---------- Bulgarian ----------
 !
@@ -40,6 +54,8 @@
 !
 ! ---------- Czech ----------
 !
+||consent.t-mobile.cz^
+||h.seznam.cz/js/cmp2/scmp-int.js$domain=en.mapy.cz
 !
 ! ---------- Danish ----------
 !
@@ -59,16 +75,20 @@
 ! ---------- Finnish ----------
 !
 ||a-lehdet.fi^*/cmp.js
-||almamedia.fi/almacmp/$script
+||almamedia.fi/almacmp/$script,domain=~arvopaperi.fi|~iltalehti.fi|~mediuutiset.fi|~mikrobitti.fi|~talouselama.fi|~tekniikkatalous.fi|~tivi.fi|~www.kauppalehti.fi|~www.uusisuomi.fi
 ||browser-consent-front.coco.s-cloud.fi/js/$script
-||cdn.gravito.net/cmp/$script
-||hsy.fi^*/hsycookie.js
-||sanoma.fi^*/sccm-b.js
-||sanoma.fi^*/sccm-c.js
-||sanoma.fi^*/sccm.js
+||cdn.gravito.net^$script
+||cmp.tori.fi^
+||cookielaw.org/scripttemplates/*/assets/*.json$xmlhttprequest,domain=elisa.fi
+||cookielaw.org/scripttemplates/*/assets/otCommonStyles.css$xmlhttprequest,domain=elisa.fi
+||krookmedia.fi/wp-content/plugins/cookie-law-info/$script,domain=krookmedia.fi
+||tapionverkkokauppa.fi^*/js.cookie.min.js$script
+||vaikuttajamedia.fi^*/markuk_evastevaroitus.js
+||vpd.fi/datalayer/index/cookieContent/$xmlhttprequest,domain=vpd.fi
 !
 ! ---------- Greek ----------
 !
+||cmp.soundis.gr^
 !
 ! ---------- Hebrew ----------
 !
@@ -78,6 +98,7 @@
 !
 ! ---------- Icelandic ----------
 !
+||offen.resonate.is/vault$subdocument
 !
 ! ---------- Indian ----------
 !
@@ -93,6 +114,7 @@
 ||cookierulez.sqrt64.it^$third-party
 ||cookies.gardena.net^
 ||creaweb.it/cookie/
+||credit-agricole.it/cookies/cookies.min.js
 ||cure-naturali.it/cookies?
 ||effekt.it/analytics/
 ||fastweb.it/cookie-center/
@@ -111,6 +133,7 @@
 !
 ! ---------- Japanese ----------
 !
+||gdpr.laxd.com^
 !
 ! ---------- Korean ----------
 !
@@ -166,6 +189,7 @@
 !
 ! ---------- Spanish ----------
 !
+||advgo.net/borostcf/
 ||cookies.unidadeditorial.es^
 !
 ! ---------- Swedish ----------
@@ -180,6 +204,7 @@
 !
 ! ---------- Turkish ----------
 !
+||efilli.com/layouts/efilli.layouts.js
 ||tmgrup.com.tr^*/tmdconsent-
 !
 ! ---------- Ukrainian ----------
