@@ -12,6 +12,7 @@
 ##.s-top-loginbtn-bottom
 ##.JS-nativeupload-tip
 ###s_side_wrapper
+##.app-new-guide-outter
 zhidao.baidu.com##.wgt-footer-new
 jingyan.baidu.com##.footer
 ##.magzine-list
@@ -201,6 +202,7 @@ news.mydrivers.com##.footer_about
 ##.news_zc
 ##.xianguan
 ##.guanzhu
+###a_showhotnews_list_dia
 ! JTTS
 ##.aside-bar
 ###view-view
