@@ -6,16 +6,13 @@
 !
 ! BaiDu
 ##.guide-info
-##.hotword-wrapper
-##.rsresult-card
-##.graph-guide-info
-##.s-top-loginbtn-bottom
-##.JS-nativeupload-tip
 ###s_side_wrapper
 ##.app-new-guide-outter
+###footer-products-container
+###app-read
+###transOtherRight
 zhidao.baidu.com##.wgt-footer-new
 jingyan.baidu.com##.footer
-##.magzine-list
 ! TieBa
 ##.app_download_box
 ##.search_back_box
