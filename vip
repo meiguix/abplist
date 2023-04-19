@@ -57,6 +57,7 @@ gameapp.qq.com##.recommend-list
 ###J_slider_contanier
 ##[style="padding:0 10px 5px 80px;line-height:20px;"]
 !------------SINA------------!
+###sinaadsbox
 sina.com.cn###footer
 ##[data-sudaclick="blk_top1_house"]
 ##.nmod01
@@ -93,6 +94,10 @@ news.sina.com.cn###tab_related
 ##[data-sudaclick="ad_right_sea_p"]
 sports.sina.com.cn##.footer
 sports.sina.com.cn###tab_related
+##.side-btns-2w
+###ct-text-link-top
+###ct-text-link
+##.rc-20180203
 ###ctlo
 ##.footer-cont
 ###j_wrap_55a07552_9f6c_12b3_4f25_921db3cc5584
