@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Version: 888888888
 ! Title: EasyListVIP
-! Last modified: 2023-3-25
+! Last modified: 2024-9-17
 ! Expires: 180 days
 !
 ! BaiDu
@@ -275,6 +275,10 @@ v.youku.com##.g-footer
 ##.myui-panel.myui-panel-bg.clearfix:last-child
 ! CC5
 ###SUBD1561600658148883
+! XS
+dajiadu8.com###note
+##DIV[style="width:100%;height:100%;position:relative;"]
+##A[style="display:block;width:100%;height:100%;"]
 ! JP
 ###new_footer_box
 ##.bunner
